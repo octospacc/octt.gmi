@@ -34,6 +34,11 @@ Tieni a mente che le pubblicazioni più recenti vanno sempre in cima, facendo sc
 
 ## Leggi il PicoBlog
 Lista dei post
+[2022-07-01] L'octocapsula!
+
+E da oggi anche l'octocapsula, ossia la mia capsula Gemini, esiste sull'Internette. Per ora, lì ci trovate soltanto una conversione 1:1 del sitoctt, ma, se volete sapere oltre, vi rimando come al solito a Home#-Disponibilit-del-sito
+.
+
 [2022-06-30] Più di un generatore
 
 Ormai, questo è ciò che staticoso sta diventando, contrariamente alle mie stesse aspettative. Giusto adesso ho iniziato ad implementare 2 cose stravaganti: generazione di Gemtext (aspettatevi il sitoctt su Gemini..), e pubblicazione dei nuovi post su ActivityPub (Mastodon).
@@ -46,14 +51,14 @@ Ormai, questo è ciò che staticoso sta diventando, contrariamente alle mie stes
 
 [2022-06-27] Qui sempre novità
 
+=> ./index.gmi#-Disponibilit-del-sito  Home#-Disponibilit-del-sito
+=> https://github.com/cathugger/mkp224o  mkp224o
+=> ./index.gmi#-Disponibilit-del-sito  Home#-Disponibilit-del-sito
+
 Ora ho una pagina " Raccolta Siti Internet
 " dove linko ad altri siti carini, ho creato un PNG 88x31 che identifica il mio sito e che, chiunque vuole, può usare per linkarlo.. beh dai, pian piano si sta riempiendo anche meglio di un semplice blog :D
 
 [2022-06-26] Ancora un'altra piattaforma ActivityPub
-
-=> https://github.com/cathugger/mkp224o  mkp224o
-=> ./index.gmi#-Disponibilit-del-sito  Home#-Disponibilit-del-sito
-=> ./Raccolte/Internet/Raccolta-Siti-Internet.gmi  Raccolta Siti Internet
 
 Eh già, ce n'è già una nuova in beta da praticamente ieri. Che il suo archetipo sia Mastodon, lo si vede subito, ma Bonfire
 promette una filosofia diversa (?) e.. agli sviluppatori frega qualcosa del miglioramento progressivo, e gran parte della app già funziona senza JS! Già questo è abbastanza per farmi gioire.
@@ -70,13 +75,14 @@ Mi è venuta voglia di esagerare e implementare un contatore delle visite sul si
 
 [2022-06-21] Aggiornamenti tecnici
 
-Tra ieri e stamattina ho lavorato abbastanza al generatore, per sistemare problemini e aggiungere funzioni, e ho aggiunto qualche miglioramento al CSS del sito. Comunque questo PicoBlog è ormai solo un devlog, un po' un peccato, ma non so cos'altro scrivere di molto corto.. 😅
-
-[2022-06-20] Dominio epico
-
+=> ./Raccolte/Internet/Raccolta-Siti-Internet.gmi  Raccolta Siti Internet
 => https://bonfirenetworks.org  Bonfire
 => ./index.gmi#-Feed-e-notifiche  Home#-Feed-e-notifiche
 => https://contatoreaccessi.com  contatoreaccessi.com
+
+Tra ieri e stamattina ho lavorato abbastanza al generatore, per sistemare problemini e aggiungere funzioni, e ho aggiunto qualche miglioramento al CSS del sito. Comunque questo PicoBlog è ormai solo un devlog, un po' un peccato, ma non so cos'altro scrivere di molto corto.. 😅
+
+[2022-06-20] Dominio epico
 
 Dopo un mesetto, eu.org mi ha dato il dominio che ho chiesto.. a breve il sitocto sarà navigabile da sitoctt.octt.eu.org
 ! Tecnicamente già raggiungibile, ma devo sistemare dei problemi del generatore, se voglio il dominio attuale non si rompa..
@@ -91,11 +97,11 @@ Alla fine credo di aver realizzato qualcosa come lo volevo. Adesso nella barra d
 
 [2022-06-14] Vorrei un sistema di categorie..
 
+=> https://sitoctt.octt.eu.org  sitoctt.octt.eu.org
+
 ..che non so bene neanche io come lo voglio. A parte la categorizzazione dei post del Blogocto in temi, vorrei che nelle pagine di raccolta per temi uscissero anche pagine che non sono propriamente post, ma ho paura che si crei disordine. Ci penserò su a lungo..
 
 [2022-06-07] Robine Tor
-
-=> https://sitoctt.octt.eu.org  sitoctt.octt.eu.org
 
 Visto che Tor Browser all'impostazione di protezione massima, impostata da molta gente che lo usa, rompe alcune componenti CSS (non c'è JS) del mio sito.. ho aggiornato il generatore per supportare l'aggiunta di una sezione header su tutte le pagine, al momento di build del sito. Lì ho messo info riguardo al problema.
 
@@ -110,16 +116,17 @@ Sviluppare questo generatore di siti si sta rivelando un'esperienza mistica, in 
 
 [2022-05-29] Il sito su Tor
 
+=> ./Blog  qui
+
 Finalmente, ho messo in piedi anche un mirror Tor del sitocto! Lo trovate linkato su Home#-Disponibilit-del-sito
 . Ora è tutto più sicuro e privato.
 
 [2022-05-27] Prova
-
-=> ./Blog  qui
-=> ./index.gmi#-Disponibilit-del-sito  Home#-Disponibilit-del-sito
 
 Questo articolo è solo una prova, forse verrà cancellato.
 
 [2022-05-27] Il PicoBlog inizia!
 
 A cosa serve questo post? A farmi vedere l'effetto iniziale ed eventualmente sistemare del CSS..
+
+=> ./index.gmi#-Disponibilit-del-sito  Home#-Disponibilit-del-sito

@@ -30,9 +30,9 @@ Sei entrat a / o nel...
 Esatto, il ✨ sitoctt ✨. Letteralmente il mio sito, perchè io sono octt e quindi sito + octt = ✨ sitoctt ✨.
 Se preferisci, puoi chiamarlo sitocto. O anche postoctt! È pur sempre un posto questo, il mio posto, anche se virtuale!
 
-Come puoi vedere dalla vuotezza generale del sito, tutto questo ambaradan è ancora pesantemente in costruzione.
+Nonostante abbia già un po' più di sostanza, tutto questo ambaradan è ancora pesantemente in costruzione. E lo sarà per sempre, perché avrò sempre roba nuova da condividere. E, quando sarò morta, sarà comunque non finito perché nella mia vita non avrò scritto tutto lo scibile universale teoricamente possibile sul sitoctt.
 Gli aggiornamenti sono continui e avvengono senza preavviso, quindi dovresti rivisitare questo sito almeno qualche volta a settimana se ti interessano le novità sempre fresche.
-Ah, non so se hai notato, ma negli angoli in alto dello schermo ci sono dei tastini. Lo sto scrivendo perché ho paura non si capisca, che devo fare... Vabbe, se premi lì puoi accedere ai menu ad albero, rispettivamente delle pagine del sito a sinistra (📚), e delle sezioni della pagina a destra (📑). Quello di sinistra soprattutto è importante per navigare il sito.
+Ah, non so se hai notato, ma (da Web) negli angoli in alto dello schermo ci sono dei tastini. Lo sto scrivendo perché ho paura non si capisca, che devo fare... Vabbe, se premi lì puoi accedere ai menu ad albero, rispettivamente delle pagine del sito a sinistra (📚), e delle sezioni della pagina a destra (📑). Quello di sinistra soprattutto è importante per navigare il sito.
 
 A tal proposito, per la migliore esperienza DEVI usare un browser con supporto almeno a CSS3. Chissà se usando un browser antico si rompe roba in giro, eh...
 Preferibilmente non usare Chromium, che ha degli strani memory leak su pagine con animazioni complesse, oltre ad andare a scatti. Firefox non ha questo problema, ma usa molto di più la CPU. Ephiphany usa anche meno RAM di Firefox, ma al costo del doppio della CPU..
@@ -49,36 +49,43 @@ Di seguito, metto la mia classifica dei possibili modi per visualizzare questo s
 
 ## Ma di che si tratta?
 
-Su questo spazio web metterò di tutto. Spero.
+Su questo mio spazio di Internet metterò di tutto. Spero.
 
-Per ora, sicuramente metto articoli che per un blog normale (come quello che al momento ho su noblogo) sono troppo corti o poco caratterizzati, ma voglio mettere anche tante raccolte sulle cose che mi piacciono, in forma sia testuale che di media. Una specie di galleria sulle cose che per me valgono.
+Per ora, sicuramente metto paginine superficiali su argomenti specifici, ma anche articoli di blog lunghi e discorsivi. Voglio, inoltre, mettere anche tante raccolte sulle cose che mi piacciono, in forma sia testuale che di media. Una specie di galleria sulle cose che per me valgono.
 
-Oltre che degli effettivi contenuti, però, voglio che il sito sia galleria di sé stesso. Voglio creare qualcosa che abbia un suo carattere unico, come i siti web amatoriali degli anni 1995-2005, dove ogni luogo di Internet aveva sempre un'atmosfera diversa da tutto ciò visitato un attimo prima.
+Oltre che degli effettivi contenuti, però, voglio che il sito (la versione Web, ovviamente) sia galleria di sé stesso. Voglio creare qualcosa che abbia un suo carattere unico, come i siti Web amatoriali degli anni 1995-2005, dove ogni luogo di Internet aveva sempre un'atmosfera diversa da tutto ciò visitato un attimo prima.
 L'ascesa dei social come li abbiamo oggi ha purtroppo rovinato il web sotto questo punto di vista, portando alla standardizzazione completa e alla morte della creatività espressa con la forma.
 Voglio che questo mio spazio web sia diverso da tutti gli altri, caratterizzati da testo monocromatico e temi riciclati, perché è un peccato avere strumenti potentissimi e non sfruttarli davvero.
 
 Per questo, cercherò di inventarmi di continuo modi di abbellire le pagina con il CSS, non solo con layouting o effetti del testo fissi, ma soprattutto con le animazioni.
 Al resto della forma, come l'ordine ad albero delle pagine nel sito o dei paragrafi nelle pagine, non penserò molto, altrimenti mi distraggo dal creare contenuti e la voglia mi passa.
 
-Ricapitolando, le mie intenzioni attuali sono queste, poi non lo so cosa ci finirà qui sopra col tempo per davvero..
+Ricapitolando, le mie intenzioni attuali sono queste, poi non lo so cosa ci finirà qui sopra col tempo per davvero.. considerando anche che questa pagina può subire, ha subito, e subirà, lente modifiche.
 
 ## Disponibilità del sito
 
-Al momento, questo sito è disponibile per la navigazione a 2 indirizzi diversi (i contenuti sono identici).
+Al momento, questo sito è disponibile per la navigazione su vari indirizzi diversi (i contenuti sono sempre identici).
 
-Sul Web, sui server di GitLab : octtspacc.gitlab.io/sitoctt
+### Web
+Sul clearweb, sui server di GitLab : octtspacc.gitlab.io/sitoctt
 sitoctt.octt.eu.org
-(Nuovo dominio!). Sulla rete Tor, sui server di Replit: onmfrk2acl4xdeawfjg3nfepq7gcufolctmhiwwxpcknazus5bxzxhqd.onion
+(Nuovo dominio!). Sull'Onion Web (Tor), sui server di Replit: onmfrk2acl4xdeawfjg3nfepq7gcufolctmhiwwxpcknazus5bxzxhqd.onion
 sitoctt2fxjvx3lc2iqqef2aeulflprjaasv2xl4zi7sxxbmvjy5b5yd.onion
-(Nuovo dominio!). Alla fine non è più ospitato in casa mia, ma forse è meglio così, è un carico in meno per il povero serverino di fortuna che ho (al momento, una console Nintendo Switch con Ubuntu).. speriamo solo non vada offline, è un problema con Replit non immediato da arginare.
-
-Tralaltro, il nome è di recente cambiato in sitoctt da postoctt, perché il vecchio nome mi dava l'impressione di qualche servizio postale...
-Dovrei pensare anche a qualche altro mirror in cloud da diversi provider (ovviamente gratuiti), se voglio che il sitocto sopravviva ad octt stessa me medesima e superi la prova del tempo... Ma per ora il sito è vuoto, dovrei un po' riempirlo prima di pensare a sta roba.
+(Nuovo dominio!). Alla fine non è più ospitato in casa mia, ma forse è meglio così, è un carico in meno per il povero serverino di fortuna che ho (al momento, una console Nintendo Switch con Ubuntu).
 
 => https://octtspacc.gitlab.io/sitoctt  octtspacc.gitlab.io/sitoctt
 => https://sitoctt.octt.eu.org  sitoctt.octt.eu.org
 => http://onmfrk2acl4xdeawfjg3nfepq7gcufolctmhiwwxpcknazus5bxzxhqd.onion  onmfrk2acl4xdeawfjg3nfepq7gcufolctmhiwwxpcknazus5bxzxhqd.onion
 => http://sitoctt2fxjvx3lc2iqqef2aeulflprjaasv2xl4zi7sxxbmvjy5b5yd.onion  sitoctt2fxjvx3lc2iqqef2aeulflprjaasv2xl4zi7sxxbmvjy5b5yd.onion
+
+### Gemini
+
+Da ora, inoltre, il sitoctt è disponibile come capsula Gemini. Per andarci, si deve usare un browser Gemini.
+Ovviamente (per chi conosce Gemini), è tutto più castrato, e la forma non è esattamente la migliore perché tutte le pagine sono una diretta conversione dall'HTML del sito Web (e il programma su cui mi appoggio per farla è un po' rotto, per giunta).
+Vai alla octocapsula, gentilmente ospitata da koyu.space: href='gemini://koyu.space/octt' gemini://koyu.space/octt
+
+Per chi non sapesse, comunque, il nome è da un mesetto cambiato in sitoctt da postoctt, perché il vecchio nome mi dava l'impressione di qualche servizio postale...
+Dovrei pensare anche a molti altri mirror in cloud da diversi provider (ovviamente gratuiti), se voglio che il sitocto sopravviva ad octt stessa me medesima e superi la prova del tempo... Ma questa è una questione lunga.
 
 ### Feed e notifiche
 
