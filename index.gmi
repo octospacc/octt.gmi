@@ -1,10 +1,16 @@
-# Ciau
+# Ciao uwu
 
-Come hai fatto a finire sulla mia capsula Gemini?
-Poco importa, qui è ancora tutto vuoto, sto lavorando a riguardo.
+Complimenti per l'audacia di usare Gemini nel 2022.
 
-Per ora, l'unico posto con qualcosa da vedere è il sitoctt (sul Web).
+Cosa ti meriti per l'impresa?
+Una conversione creata in modo automatico e discutibile, da HTML a Gemtext, del mio sitoctt.
+
+Naviga pure tutto il sitocto, in versione ovviamente castrata, qui sulla mia capsula Gemini:
+=> sitoctt/index.gmi
+
+Non stupirti se alcune sezioni in molte pagine parlano di caratteristiche del sito stesso che sono possibili solo sul Web, e nel contesto di Gemini non hanno senso..
+..il contenuto è esattamente la copia 1:1 di cosa ho sul sito Web.
+
+Parlando di ciò, ma non è che forse preferisci navigare sulla versione Web del sitocto, più colorata e animata e meglio impaginata?
 => https://sitoctt.octt.eu.org
-
-Torna qui tra qualche giorno, o settimana.
-
+È un sito Web, si, ma non aver paura: è fatto in modo decente a livello tecnico, niente bloat, funziona benissimo senza una singola riga di JavaScript.
