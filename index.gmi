@@ -2,15 +2,18 @@
 
 Complimenti per l'audacia di usare Gemini nel 2022.
 
+## sitoctt
+
 Cosa ti meriti per l'impresa?
 Una conversione creata in modo automatico e discutibile, da HTML a Gemtext, del mio sitoctt.
 
-Naviga pure tutto il sitocto, in versione ovviamente castrata, qui sulla mia capsula Gemini:
-=> sitoctt/index.gmi
+Naviga pure tutto il sitocto, in versione purtroppo ma ovviamente castrata, qui sulla mia capsula Gemini:
+=> sitoctt/index.gmi sitoctt
+Ci sono alcuni evidenti problemi di conversione, il più grave è che mancano i link alle immagini.. cercherò di sistemare il prima possibile, ma mi ci vorrà tempo.
 
 Non stupirti se alcune sezioni in molte pagine parlano di caratteristiche del sito stesso che sono possibili solo sul Web, e nel contesto di Gemini non hanno senso..
 ..il contenuto è esattamente la copia 1:1 di cosa ho sul sito Web.
 
 Parlando di ciò, ma non è che forse preferisci navigare sulla versione Web del sitocto, più colorata e animata e meglio impaginata?
-=> https://sitoctt.octt.eu.org
-È un sito Web, si, ma non aver paura: è fatto in modo decente a livello tecnico, niente bloat, funziona benissimo senza una singola riga di JavaScript.
+=> https://sitoctt.octt.eu.org sitoctt.octt.eu.org
+È un sito Web, si, ma non aver paura: è fatto in modo decente a livello tecnico, niente bloat e assolutamente sicuro e scattante (non contiene una singola riga di JavaScript).
