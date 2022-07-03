@@ -21,7 +21,7 @@
 => ../Categories/Rasperino.gmi  
 => ../Categories/Tecnologia.gmi  
 
-# ♻️ Ecologia
-Posts [2022-06-23] ☀️ Rasperino Solare (ed altri esperimenti andati a male) - blogoctt
+# 🛠️ DIY
+Posts [2022-07-03] ⌨️ L'idea di una tastiera fisica per smartphone fatta in casa - blogoctt
 
-=> ../Posts/2022-06-23-0000-Rasperino-Solare-ed-Altri-Esperimenti-Andati-a-Male.gmi
+=> ../Posts/2022-07-03-0000-L-Idea-di-una-Tastiera-Fisica-per-Smartphone-Fatta-in-Casa.gmi

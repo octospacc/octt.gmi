@@ -3,8 +3,10 @@
 😺 Chi sono
 ✉️ PicoBlog
 🗂️ Raccolte 📓️ Blog
+🛠️ DIY
 ♻️ Ecologia
 🌐️ Internet
+📱️ Mobile
 💰 Rasperino
 📡 Tecnologia
 
@@ -12,8 +14,10 @@
 => ../../Chi-Sono.gmi  
 => ../../PicoBlog.gmi  
 => ../../Categories/Blog.gmi  
+=> ../../Categories/DIY.gmi  
 => ../../Categories/Ecologia.gmi  
 => ../../Categories/Internet.gmi  
+=> ../../Categories/Mobile.gmi  
 => ../../Categories/Rasperino.gmi  
 => ../../Categories/Tecnologia.gmi  
 

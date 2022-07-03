@@ -3,8 +3,10 @@
 😺 Chi sono
 ✉️ PicoBlog
 🗂️ Raccolte 📓️ Blog
+🛠️ DIY
 ♻️ Ecologia
 🌐️ Internet
+📱️ Mobile
 💰 Rasperino
 📡 Tecnologia
 
@@ -12,8 +14,10 @@
 => Chi-Sono.gmi  
 => PicoBlog.gmi  
 => Categories/Blog.gmi  
+=> Categories/DIY.gmi  
 => Categories/Ecologia.gmi  
 => Categories/Internet.gmi  
+=> Categories/Mobile.gmi  
 => Categories/Rasperino.gmi  
 => Categories/Tecnologia.gmi  
 
@@ -47,7 +51,7 @@ Pensa te, inoltre: quando ho tempo, gioco anche ai videogiochi. In passato, molt
 Ah, e devo anche ancora andare a scuola. Un po' na' seccatura, vabbe, c'è poco da fare.
 
 ## Alcune mie proprietà particolari
-• Sono una loli con proprietà particolari La semplice cosa è di per sè una proprietà particolare. • Il mio colore preferito è quello di sfondo del sito Ossia, #eeddff. Sono povera e non ho i colori Pantone, questo è il massimo della precisione che posso garantire. • Ho poca fantasia Infatti, non mi vengono in mente altri punti da esporre.
+• Sono una loli con proprietà particolari La semplice cosa è di per sè una proprietà particolare. • Il mio colore preferito è quello di sfondo del sito Ossia, #eeddff. Sono povera e non ho i colori Pantone, questo è il massimo della precisione che posso garantire. • Mi piace schiavizzare i sassi Cioè, non è che mi diverto, è che non ho altra scelta, l'unico modo per fare le cose che mi piacciono è schiavizzare i computer (che sono, a livello di processore, sassi pensanti). • Ho poca fantasia Infatti, non mi vengono in mente altri punti da esporre.
 
 ## I miei contatti
 

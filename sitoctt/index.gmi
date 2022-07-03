@@ -3,8 +3,10 @@
 😺 Chi sono
 ✉️ PicoBlog
 🗂️ Raccolte 📓️ Blog
+🛠️ DIY
 ♻️ Ecologia
 🌐️ Internet
+📱️ Mobile
 💰 Rasperino
 📡 Tecnologia
 
@@ -12,8 +14,10 @@
 => Chi-Sono.gmi  
 => PicoBlog.gmi  
 => Categories/Blog.gmi  
+=> Categories/DIY.gmi  
 => Categories/Ecologia.gmi  
 => Categories/Internet.gmi  
+=> Categories/Mobile.gmi  
 => Categories/Rasperino.gmi  
 => Categories/Tecnologia.gmi  
 
@@ -34,8 +38,9 @@ Nonostante abbia già un po' più di sostanza, tutto questo ambaradan è ancora 
 Gli aggiornamenti sono continui e avvengono senza preavviso, quindi dovresti rivisitare questo sito almeno qualche volta a settimana se ti interessano le novità sempre fresche.
 Ah, non so se hai notato, ma (da Web) negli angoli in alto dello schermo ci sono dei tastini. Lo sto scrivendo perché ho paura non si capisca, che devo fare... Vabbe, se premi lì puoi accedere ai menu ad albero, rispettivamente delle pagine del sito a sinistra (📚), e delle sezioni della pagina a destra (📑). Quello di sinistra soprattutto è importante per navigare il sito.
 
-A tal proposito, per la migliore esperienza DEVI usare un browser con supporto almeno a CSS3. Chissà se usando un browser antico si rompe roba in giro, eh...
-Preferibilmente non usare Chromium, che ha degli strani memory leak su pagine con animazioni complesse, oltre ad andare a scatti. Firefox non ha questo problema, ma usa molto di più la CPU. Ephiphany usa anche meno RAM di Firefox, ma al costo del doppio della CPU..
+A tal proposito, per la migliore esperienza DEVI usare un browser con supporto almeno a CSS3 e alle immagini in formato AVIF. Se usi un browser antico ti garantisco che troverai troppa roba rotta (ma comunque il sito sarà navigabile lo stesso).
+Essendo che questo sito contiene immagini AVIF, assicurati che il tuo browser sia aggiornato e decente. Safari di Apple, per esempio, mi dicono che non supporta AVIF, quindi buttalo via.
+Preferibilmente non usare Chromium, che ha degli strani memory leak su pagine con animazioni complesse, oltre ad andare a scatti. Firefox non ha questo problema, ma usa molto di più la CPU.
 Direi che la scelta non è tra il migliore ma tra il meno peggio..
 
 Codici JavaScript, al momento in cui sto scrivendo questa pagina, non ne uso neanche uno, perché non voglio costringere chi (per validi motivi di sicurezza e non solo) non vuole attivare JavaScript ad avere un'esperienza degradata. A proposito della questione spinosa, ho scritto anche un articolo: 📄 I documenti non devono diventare applicazioni
@@ -45,7 +50,7 @@ Codici JavaScript, al momento in cui sto scrivendo questa pagina, non ne uso nea
 
 Di seguito, metto la mia classifica dei possibili modi per visualizzare questo sito, dal migliore al peggiore. Per standardizzazione, tutti presuppongono supporto completo ai colori.
 
-• Browser, con supporto completo a CSS3 (Perfetto!) • Stampa su carta olografica, GIF e CSS3 completamente renderizzati nel possibile (Richiede muovere il foglio a mano ma ottimo!) • Browser, con supporto incompleto a CSS3 (Meh, OK..) • Stampa su carta normale, animazioni CSS3 e GIF non renderizzate (Buuu, mancano le animazioni..) • Browser / Stampa su carta normale, zero supporto CSS (Ma che è sto schifo?!?!)
+• Browser Web, con supporto completo a CSS3 (Perfetto!) • Stampa su carta olografica, GIF e CSS3 completamente renderizzati nel possibile (Richiede muovere il foglio a mano ma ottimo!) • Browser Web, con supporto incompleto a CSS3 (Meh, OK..) • Stampa su carta normale, animazioni CSS3 e GIF non renderizzate (Buuu, mancano le animazioni..) • Browser vecchio (Web vecchio, Web testuale, o Gemini) / Stampa su carta normale, zero supporto CSS (Ma che è sto schifo?!?!)
 
 ## Ma di che si tratta?
 
@@ -65,8 +70,13 @@ Ricapitolando, le mie intenzioni attuali sono queste, poi non lo so cosa ci fini
 ## Disponibilità del sito
 
 Al momento, questo sito è disponibile per la navigazione su vari indirizzi diversi (i contenuti sono sempre identici).
+Per chi non sapesse, comunque, il nome è da un mesetto cambiato in sitoctt da postoctt, perché il vecchio nome mi dava l'impressione di qualche servizio postale...
+Dovrei pensare anche a molti altri mirror in cloud da diversi provider (ovviamente gratuiti), se voglio che il sitocto sopravviva ad octt stessa me medesima e superi la prova del tempo... Ma questa è una questione lunga.
 
 ### Web
+
+Il sito Web è disponibile da diverse fonti.
+
 Sul clearweb, sui server di GitLab : octtspacc.gitlab.io/sitoctt
 sitoctt.octt.eu.org
 (Nuovo dominio!). Sull'Onion Web (Tor), sui server di Replit: onmfrk2acl4xdeawfjg3nfepq7gcufolctmhiwwxpcknazus5bxzxhqd.onion
@@ -82,10 +92,7 @@ sitoctt2fxjvx3lc2iqqef2aeulflprjaasv2xl4zi7sxxbmvjy5b5yd.onion
 
 Da ora, inoltre, il sitoctt è disponibile come capsula Gemini. Per andarci, si deve usare un browser Gemini.
 Ovviamente (per chi conosce Gemini), è tutto più castrato, e la forma non è esattamente la migliore perché tutte le pagine sono una diretta conversione dall'HTML del sito Web (e il programma su cui mi appoggio per farla è un po' rotto, per giunta).
-Vai alla octocapsula, gentilmente ospitata da koyu.space: href='gemini://koyu.space/octt' gemini://koyu.space/octt
-
-Per chi non sapesse, comunque, il nome è da un mesetto cambiato in sitoctt da postoctt, perché il vecchio nome mi dava l'impressione di qualche servizio postale...
-Dovrei pensare anche a molti altri mirror in cloud da diversi provider (ovviamente gratuiti), se voglio che il sitocto sopravviva ad octt stessa me medesima e superi la prova del tempo... Ma questa è una questione lunga.
+Vai alla octocapsula, gentilmente ospitata da koyu.space: gemini://koyu.space/octt
 
 ### Feed e notifiche
 
@@ -111,11 +118,10 @@ Consiglio: se usi Friendica, puoi copiare il link al feed e incollarlo nella bar
 => https://f-droid.org/packages/com.nononsenseapps.feeder  Feeder 
 => https://f-droid.org/packages/com.poloure.simplerss  Simple Rss
 
-In alternativa, se usi una qualunque piattaforma del Fediverso ActivityPub (Mastodon, Pleroma, Misskey, ...), puoi semplicemente seguire il mio profilo Friendica. Pubblico anche altre cose ogni tanto, ma ho soprattutto la pubblicazione automatica dei link ai miei articoli, quando ne creo di nuovi.
-Vai a Chi-Sono#-I-miei-contatti
-per scoprire di più.
+Inoltre, se usi una qualunque piattaforma del Fediverso ActivityPub (Mastodon, Pleroma, Misskey, ...) puoi seguire il bot del sitoctt, così da ricevere nel tuo feed Home i nuovi post: @sitoctt@botsin.space
+!
 
-=> ./Chi-Sono.gmi#-I-miei-contatti  Chi-Sono#-I-miei-contatti
+=> https://botsin.space/@sitoctt  @sitoctt@botsin.space
 
 ## Sorgenti e licenze
 
