@@ -27,7 +27,6 @@ In questi giorni ho sistemato i primi affari riguardanti il rendere disponibile 
 Se nulla è andato storto, il servizio Onion è ancora raggiungibile a questo indirizzo: onmfrk2acl4xdeawfjg3nfepq7gcufolctmhiwwxpcknazus5bxzxhqd.onion
 (Modifica del 2022-06-29: ho cambiato il dominio per motivi estetici con questo nuovo! Info aggiuntive (ma pur sempre scarne) al post del PicoBlog
 di oggi) sitoctt2fxjvx3lc2iqqef2aeulflprjaasv2xl4zi7sxxbmvjy5b5yd.onion
-.
 
 L'idea - apparentemente riuscita - è stata quella di utilizzare un servizio PaaS gratuito, Replit, per fare il tutto.
 In questo modo, non appesantisco ulteriormente il mio improprio server. Ormai da mesi, precisamente da inizio-metà di febbraio 2022, uso una console Switch come server per troppe cose: oltre lo storico server SpaccCraft, ho una mia istanza Matrix, qualche bot Telegram che forse è la roba che meno richiede risorse, e software minori assortiti. Si, Nintendo Switch su cui ho avviato Ubuntu..
@@ -72,11 +71,10 @@ Un dubbio che può sorgere ai non super-addetti ai lavori, però, è il perché 
 
 Non penso di dover spiegare i problemi derivanti dal passare dati in forma non cifrata via Internet: le informazioni possono essere non solo trafugate (che per un blog pubblico non è un grosso problema), ma persino modificate e presentate come se nulla fosse cambiato, con facilità disarmante, da una qualsiasi delle parti intermedie del collegamento, ad esempio l'ISP del client o del server.
 HTTPS per i siti web risolve questo problema.. Male. Non se ne parla tanto, ma tutto il corretto funzionamento di questi sistemi di protezione dipende da una complessa infrastruttura metafisica globale, che ha più falle di quanto si pensi.
-Cercando su Whoogle
-, ho trovato questo PDF, che più o meno da un rapido sguardo ai problemi di cui HTTPS è affetto: Weakest_Link_in_the_Chain.pdf
-. Ciò che c'è da dire di importante in sostanza è che, tutto il sistema attuale, basato sulle CA, consiste nella fiducia verso un'autorità a monte. Senza andare nei dettagli, per cui rimando al PDF, il sistema è fragile e può essere rotto, potendo risultare, in rari speciali casi, negli stessi problemi di connessioni non cifrate; anzi, forse anche peggio, perché la presenza di HTTPS può indurre a fidarsi sempre e comunque: i browser web moderni ci hanno condizionato a farci domande solo quando vediamo il lucchetto aperto o un triangolo di avvertimento, non quando vediamo il lucchetto verde luccicante chiuso.
+Cercando su Whoogle, ho trovato questo PDF, che più o meno da un rapido sguardo ai problemi di cui HTTPS è affetto: Weakest_Link_in_the_Chain.pdf
+.
+Ciò che c'è da dire di importante in sostanza è che, tutto il sistema attuale, basato sulle CA, consiste nella fiducia verso un'autorità a monte. Senza andare nei dettagli, per cui rimando al PDF, il sistema è fragile e può essere rotto, potendo risultare, in rari speciali casi, negli stessi problemi di connessioni non cifrate; anzi, forse anche peggio, perché la presenza di HTTPS può indurre a fidarsi sempre e comunque: i browser web moderni ci hanno condizionato a farci domande solo quando vediamo il lucchetto aperto o un triangolo di avvertimento, non quando vediamo il lucchetto verde luccicante chiuso.
 
-=> https://github.com/benbusby/whoogle-search  Whoogle
 => https://www.accessnow.org/cms/assets/uploads/archive/docs/Weakest_Link_in_the_Chain.pdf  Weakest_Link_in_the_Chain.pdf
 
 Quando si usa Tor per collegarsi a siti su Tor, la connessione non solo viene smistata tra ancora più nodi della rete, ma i dati vengono cifrati con un sistema di chiave pubblica e privata tra il client e il server del servizio Onion: l'unico punto debole della catena è il server stesso, che conserva la chiave privata, non ci sono altre autorità di cui fidarsi.
