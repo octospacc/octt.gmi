@@ -1,4 +1,7 @@
 # sitoctt
+Alcune informazioni importanti sono disponibili su:
+=> /octt/index.gmi octocapsula/index
+
 🏠 ~Home~
 😺 Chi sono
 ✉️ PicoBlog
