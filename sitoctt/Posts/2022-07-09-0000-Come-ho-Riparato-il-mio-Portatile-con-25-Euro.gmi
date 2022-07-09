@@ -64,7 +64,7 @@ Sulla mia scrivania non c'erano chissà che problemi, ho collegato una tastiera 
 Nelle altre situazioni, digitare la W (per scrivere in italiano non serve ad una mazza, ma per tante altre cose si) ha iniziato a richiedere l'uso della tastiera virtuale su schermo, con il mouse per premere la W, che poi avrebbe iniziato a fare il giro di CTRL+C e CTRL+V ogni volta che mi serviva.
 
 In ogni caso, da quel momento, l'uso della tastiera del notebook si è ridotto, sia perché usavo una tastiera esterna quando possibile, sia perché poco più avanti ho assemblato il PC nuovo e ho iniziato ad usare meno il portatile in generale (difficile fare altrimenti, quando sulla scrivania c'è spazio confortevole per una sola tastiera esterna, che per ovvi motivi deve essere collegata al PC fisso).
-Cosa molto strana è che, da circa 1 anno fa, nonostante l'uso scarso, molti altri tasti hanno iniziato velocemente a cedere, dal nulla. Non saprei dire se qualche altro tasto sia completamente morto, ma sicuramente il 60% almeno della tastiera ha iniziato a volere le botte per registrare le pressioni.
+Cosa molto strana è che, da circa 1 anno fa, nonostante l'uso scarso, molti altri tasti hanno iniziato velocemente a cedere, dal nulla. Non saprei dire se qualche altro tasto sia poi completamente morto, ma sicuramente il 60% almeno della tastiera ha iniziato a volere le botte per registrare le pressioni.
 È da qui che l'uso del mio laptop è calato a picco.
 
 ## I realized
@@ -105,7 +105,7 @@ Avrei dovuto onestamente comprarla subito, quando la W si ruppe, ma, banalmente,
 ## La tastiera sostitutiva arriva
 
 Senza perdere troppo ulteriore tempo, ho fatto in modo di ordinarla (3 giorni dopo, ma poteva andare molto peggio), e dopo 2 giorni era già a casa (in anticipo, rispetto a periodo di consegna riportato). 20+7€.. ben spesi? È da vedersi.
-Il prezzo della tastiera credo ci stia, quello della spedizione non mi è piaciuto.
+Il prezzo della tastiera credo ci stia, quello della spedizione non mi è piaciuto >:(.
 
 [‡ Particolare della scatola in cui mi è arrivata la tastiera. Lo sfondo è bianco e presenta il logo del distributore del prodotto (new NET)]
 
@@ -120,12 +120,12 @@ Dopo questa cosa, però, altre viti. Mannaggia! Tutte ste viti, e diventa un cas
 [‡ Tutte le viti esterne del portatile, estratte e raccolte]
 
 Ma bisogna continuare. Tolte le viti (mannaggia!!) che tengono insieme la tastiera, in mezzo al supporto esterno di plastica e quello interno di metallo, si può togliere la tastiera vecchia e mettere la nuova, per poi fare tutto il resto al contrario.
+O quasi.
 
 [‡ I frame di plastica (esterno) e metallo (interno), che servono a tenere insieme la tastiera, separati]
 
 ### Lavoretti "già che ci sono"
 
-O quasi.
 Visto che c'ero, ho voluto approfittarne anche per pulire un po' la ventola e il suo filtro, che negli anni hanno accumulato polvere, permettendo a meno aria di passare e facendo così che la CPU arrivasse a ben ~50°C in idle.
 Pensavo più polvere, onestamente, vabbè.
 
@@ -142,12 +142,12 @@ Si vede che continuerò ad usare la scheda audio USB (6€ su Amazon) per usare 
 
 ## Lavoro finito!
 
-Un po' a fatica, rimonto tutto, e ammiro il nuovo stato del PC.
+Un po' a fatica, rimonto tutto, e ammiro il nuovo stato del PC - il quale tra l'altro, in idle dopo l'avvio, ora che ho pulito la ventola, arriva a ~40°C, direi decisamente meglio di prima!
 
 [‡ Il portatile rimontato e acceso, con in vista sia la nuova tastiera, che quella vecchia (appoggiata sopra), oltre al mio desktop]
 
 Che dire, si vede proprio che uso GNU+Linux.
-Non solo ora il portatile ha un contrasto estetico bruttino (ma almeno funziona!), ma nella foto si vede com'era la vecchia tastiera bianca: lercia e ingiallita. Oh, almeno faceva pendant con il tema del mio emulatore terminale, solarizzato - faceva e non fa più, purtroppo, un po' mi dispiace.
+Non solo ora il portatile ha un contrasto estetico bruttino (ma almeno funziona!), ma nella foto si vede com'era la vecchia tastiera bianca: lercia e ingiallita. Oh, almeno faceva pendant con il tema del mio emulatore terminale, solarizzato chiaro - faceva e non fa più, purtroppo, un po' mi dispiace.
 
 Riguardo la vecchia tastiera, devo mettere in chiaro che la plastica del tasto W l'ho persa dopo che il tasto in sé si era già rotto, quindi che non si vada a dire che mi si rompono i tasti perché mi metto a staccarli: la verità sta nell'esatto opposto.
 Questo è anche il motivo per cui non tenterò di staccare i segnalettere neri dalla nuova tastiera per metterci i vecchi bianchi al loro posto.. non vale la pena rischiare di rompere qualche tasto.
