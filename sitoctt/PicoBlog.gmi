@@ -4,6 +4,7 @@ Alcune informazioni importanti sono disponibili su:
 
 🏠 ~Home~
 😺 Chi sono
+💰 Donazioni
 ✉️ PicoBlog
 🗂️ Raccolte 📓️ Blog
 🛠️ DIY
@@ -15,6 +16,7 @@ Alcune informazioni importanti sono disponibili su:
 
 => index.gmi  
 => Chi-Sono.gmi  
+=> Donazioni.gmi   💰 Donazioni
 => PicoBlog.gmi  
 => Categories/Blog.gmi  
 => Categories/DIY.gmi  
@@ -41,6 +43,11 @@ Tieni a mente che le pubblicazioni più recenti vanno sempre in cima, facendo sc
 
 ## Leggi il PicoBlog
 Lista dei post
+[2022-07-10] I forgor 💀
+
+Apparentemente, per una settimana sana ho dimenticato che il mio PicoBlog esiste! Shit happens. Vabbe, che fare quindi? Non molto, temo, MA, ora accetto donazioni: 💰 Donazioni
+. Mi sa che se inizio a riceverne qualcuna, inizierò a dimenticarmi meno di aggiornare il sito in generale, lmao xd
+
 [2022-07-03] Ma i commenti?
 
 Eh eh, ops. La repo
@@ -53,12 +60,13 @@ E da oggi anche l'octocapsula, ossia la mia capsula Gemini, esiste sull'Internet
 
 [2022-06-30] Più di un generatore
 
+=> ./Donazioni.gmi  💰 Donazioni
+=> https://gitlab.com/octtspacc/PlainDiscuss  repo
+=> ./index.gmi#-Disponibilit-del-sito  Home#-Disponibilit-del-sito
+
 Ormai, questo è ciò che staticoso sta diventando, contrariamente alle mie stesse aspettative. Giusto adesso ho iniziato ad implementare 2 cose stravaganti: generazione di Gemtext (aspettatevi il sitoctt su Gemini..), e pubblicazione dei nuovi post su ActivityPub (Mastodon).
 
 [2022-06-29] Minare domini Tor
-
-=> https://gitlab.com/octtspacc/PlainDiscuss  repo
-=> ./index.gmi#-Disponibilit-del-sito  Home#-Disponibilit-del-sito
 
 È esattamente quello che ho fatto! In che senso? È banalmente ciò che si fa con un programma come mkp224o
 , se si vuole ottenere un indirizzo contenente caratteri particolari. Il nuovo indirizzo, che inizia (questa la particolarità) con " sitoctt ", è linkato su Home#-Disponibilit-del-sito
@@ -76,16 +84,15 @@ promette una filosofia diversa (?) e.. agli sviluppatori frega qualcosa del migl
 
 [2022-06-24] Feed Atom/RSS
 
-Finalmente staticoso integra la generazione di feed Atom/RSS! Se funziona tutto, scriverò le informazioni su Home#-Feed-e-notifiche
-, ma i metadati sono già presenti nell'HTML, quindi usando un browser che ancora integra un aggregatore di feed, come SeaMonkey, dovrebbe apparire un'icona per iscriversi.
-
-[2022-06-22] L'esagerazione
-
 => https://github.com/cathugger/mkp224o  mkp224o
 => ./index.gmi#-Disponibilit-del-sito  Home#-Disponibilit-del-sito
 => ./Raccolte/Internet/Raccolta-Siti-Internet.gmi  Raccolta Siti Internet
 => https://bonfirenetworks.org  Bonfire
-=> ./index.gmi#-Feed-e-notifiche  Home#-Feed-e-notifiche
+
+Finalmente staticoso integra la generazione di feed Atom/RSS! Se funziona tutto, scriverò le informazioni su Home#-Feed-e-notifiche
+, ma i metadati sono già presenti nell'HTML, quindi usando un browser che ancora integra un aggregatore di feed, come SeaMonkey, dovrebbe apparire un'icona per iscriversi.
+
+[2022-06-22] L'esagerazione
 
 Mi è venuta voglia di esagerare e implementare un contatore delle visite sul sito. Per fortuna, ho trovato il servizio gratuito già pronto di contatoreaccessi.com
 , che funziona caricando assolutamente zero JavaScript, anche se conta anche i refresh, non le visite uniche.. vabbe.
@@ -101,12 +108,13 @@ Dopo un mesetto, eu.org mi ha dato il dominio che ho chiesto.. a breve il sitoct
 
 [2022-06-19] Divisione in categorie
 
+=> ./index.gmi#-Feed-e-notifiche  Home#-Feed-e-notifiche
+=> https://contatoreaccessi.com  contatoreaccessi.com
+=> https://sitoctt.octt.eu.org  sitoctt.octt.eu.org
+
 Alla fine credo di aver realizzato qualcosa come lo volevo. Adesso nella barra di navigazione del sito c'è una sezione "Raccolte", che altro non è che una lista di categorie semiautomatica.
 
 [2022-06-18] Commenti sul sitoctt
-
-=> https://contatoreaccessi.com  contatoreaccessi.com
-=> https://sitoctt.octt.eu.org  sitoctt.octt.eu.org
 
 È da qualche giorno che sto lavorando quasi ininterrottamente ad un mio sistema di commenti da abilitare per il sito. Non è ancora finito e non so quando lo finirò (e se lo finirò.. speriamo non butto via tutto per la noia).
 

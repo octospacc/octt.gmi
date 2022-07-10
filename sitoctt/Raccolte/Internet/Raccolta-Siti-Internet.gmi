@@ -4,6 +4,7 @@ Alcune informazioni importanti sono disponibili su:
 
 🏠 ~Home~
 😺 Chi sono
+💰 Donazioni
 ✉️ PicoBlog
 🗂️ Raccolte 📓️ Blog
 🛠️ DIY
@@ -15,6 +16,7 @@ Alcune informazioni importanti sono disponibili su:
 
 => ../../index.gmi  
 => ../../Chi-Sono.gmi  
+=> ../../Donazioni.gmi   💰 Donazioni
 => ../../PicoBlog.gmi  
 => ../../Categories/Blog.gmi  
 => ../../Categories/DIY.gmi  

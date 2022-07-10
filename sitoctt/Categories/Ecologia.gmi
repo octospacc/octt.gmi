@@ -4,6 +4,7 @@ Alcune informazioni importanti sono disponibili su:
 
 🏠 ~Home~
 😺 Chi sono
+💰 Donazioni
 ✉️ PicoBlog
 🗂️ Raccolte 📓️ Blog
 🛠️ DIY
@@ -15,6 +16,7 @@ Alcune informazioni importanti sono disponibili su:
 
 => ../index.gmi  
 => ../Chi-Sono.gmi  
+=> ../Donazioni.gmi   💰 Donazioni
 => ../PicoBlog.gmi  
 => ../Categories/Blog.gmi  
 => ../Categories/DIY.gmi  
@@ -28,5 +30,5 @@ Alcune informazioni importanti sono disponibili su:
 Posts [2022-07-09] 💻 Come ho riparato il mio portatile (con 25€) - blogoctt
 [2022-06-23] ☀️ Rasperino Solare (ed altri esperimenti andati a male) - blogoctt
 
-=> ../Posts/2022-07-09-0000-Come-ho-Riparato-il-mio-Portatile-con-25-Euro.gmi   💻 Come ho riparato il mio portatile (con 25€) - blogoctt
+=> ../Posts/2022-07-09-0000-Come-ho-Riparato-il-mio-Portatile-con-25-Euro.gmi  
 => ../Posts/2022-06-23-0000-Rasperino-Solare-ed-Altri-Esperimenti-Andati-a-Male.gmi
