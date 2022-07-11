@@ -188,3 +188,13 @@ Pacchetto emoji: Twemoji di Twitter
 Alcuni bottoni 88x31: 88x31 GIF Collection di cyber.dabamos.de
 
 => https://cyber.dabamos.de/88x31  88x31 GIF Collection di cyber.dabamos.de
+
+## Rings
+
+←
+Fediring
+→
+
+=> https://fediring.net/previous?host=sitoctt.octt.eu.org  ←
+=> https://fediring.net/  Fediring
+=> https://fediring.net/next?host=sitoctt.octt.eu.org  →
