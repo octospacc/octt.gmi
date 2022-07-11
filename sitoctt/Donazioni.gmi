@@ -16,7 +16,7 @@ Alcune informazioni importanti sono disponibili su:
 
 => index.gmi  
 => Chi-Sono.gmi  
-=> Donazioni.gmi   💰 Donazioni
+=> Donazioni.gmi  
 => PicoBlog.gmi  
 => Categories/Blog.gmi  
 => Categories/DIY.gmi  
@@ -37,9 +37,9 @@ Se il sitoctt ti piace, e vuoi aiutarmi a migliorarlo ed aggiornarlo più freque
 
 (Si, la roba dello scopo di lucro è uno scherzo, mi faceva ridere e ho voluto scriverla, ma il sito rimarrà sempre e comunque una robina che faccio perché semplicemente mi piace e non ho molto di meglio o più produttivo da fare.)
 
-## Dona tramite criptovalute
+## Dona tramite criptomonete
 
-Le criptovalute sono il modo ideale di effettuare transazioni finanziarie tramite Internet, forse ancor più per donazioni che per pagamenti.
+Le criptomonete sono il modo ideale di effettuare transazioni finanziarie tramite Internet, forse ancor più per donazioni che per pagamenti.
 
 Apri la mia pagina di Coindrop per vedere le criptovalute che accetto e i relativi indirizzi: coindrop.to/octt
 !

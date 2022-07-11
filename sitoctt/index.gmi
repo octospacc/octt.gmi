@@ -16,7 +16,7 @@ Alcune informazioni importanti sono disponibili su:
 
 => index.gmi  
 => Chi-Sono.gmi  
-=> Donazioni.gmi   💰 Donazioni
+=> Donazioni.gmi  
 => PicoBlog.gmi  
 => Categories/Blog.gmi  
 => Categories/DIY.gmi  
@@ -108,20 +108,23 @@ Feed Atom (moderno, consigliato, contiene post completi): feed/atom.xml
 Feed RSS (obsoleto, disponibile per compatibilità): feed/rss.xml
 
 Ti serve un aggregatore di feed compatibile per usarli.
-Su PC desktop consiglio Thunderbird
+- Su PC desktop consiglio Thunderbird
 o SeaMonkey Mail
 .
-Su Android consiglio Feeder
+- Su Android consiglio Feeder
 o Simple Rss
 .
-Consiglio: se usi Friendica, puoi copiare il link al feed e incollarlo nella barra di ricerca, per poterlo seguire come se fosse un profilo!
+- Se vuoi usare un dispositivo come un lettore di e-book e-ink, l'unico software universale che - tra le altre cose - include un aggregatore di feed, che conosco e posso consigliare, è KOReader
+.
+- Suggerimento: se usi Friendica, puoi copiare il link al feed e incollarlo nella barra di ricerca, per poterlo seguire come se fosse un profilo!
 
 => ./feed/atom.xml  feed/atom.xml
 => ./feed/rss.xml  feed/rss.xml
 => https://thunderbird.net  Thunderbird 
 => https://www.seamonkey-project.org  SeaMonkey Mail
-=> https://f-droid.org/packages/com.nononsenseapps.feeder  Feeder 
+=> https://f-droid.org/packages/com.nononsenseapps.feeder  Feeder
 => https://f-droid.org/packages/com.poloure.simplerss  Simple Rss
+=> https://github.com/koreader/koreader  KOReader
 
 Inoltre, se usi una qualunque piattaforma del Fediverso ActivityPub (Mastodon, Pleroma, Misskey, ...) puoi seguire il bot del sitoctt, così da ricevere nel tuo feed Home i nuovi post: @sitoctt@botsin.space
 !

@@ -16,7 +16,7 @@ Alcune informazioni importanti sono disponibili su:
 
 => ../index.gmi  
 => ../Chi-Sono.gmi  
-=> ../Donazioni.gmi   💰 Donazioni
+=> ../Donazioni.gmi  
 => ../PicoBlog.gmi  
 => ../Categories/Blog.gmi  
 => ../Categories/DIY.gmi  

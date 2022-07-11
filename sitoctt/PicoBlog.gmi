@@ -16,7 +16,7 @@ Alcune informazioni importanti sono disponibili su:
 
 => index.gmi  
 => Chi-Sono.gmi  
-=> Donazioni.gmi   💰 Donazioni
+=> Donazioni.gmi  
 => PicoBlog.gmi  
 => Categories/Blog.gmi  
 => Categories/DIY.gmi  
@@ -26,7 +26,7 @@ Alcune informazioni importanti sono disponibili su:
 => Categories/Rasperino.gmi  
 => Categories/Tecnologia.gmi  
 
-# Il mio PicoBlog
+# ✉️ Il mio PicoBlog
 
 Stai avventurandoti in una sezione forse effimera del sitocto, ma che comunque, se esiste, vuol dire che ho pensato che ci debba stare lo stesso.
 
@@ -43,6 +43,11 @@ Tieni a mente che le pubblicazioni più recenti vanno sempre in cima, facendo sc
 
 ## Leggi il PicoBlog
 Lista dei post
+[2022-07-11] Dispositivi improbabili
+
+Ho preso un Kindle da poco meno di una settimana. Ovviamente, l'ho hackerato seduta stante. L'ho detto su Mastodon
+, ma farò un post approfondito qui prima o poi. Comunque, questo tablettino si aggiunge alla lista di dispositivi strani su cui vorrei assicurarmi che il sitocto funge 😶‍🌫️️
+
 [2022-07-10] I forgor 💀
 
 Apparentemente, per una settimana sana ho dimenticato che il mio PicoBlog esiste! Shit happens. Vabbe, che fare quindi? Non molto, temo, MA, ora accetto donazioni: 💰 Donazioni
@@ -55,14 +60,14 @@ non ha nuovi commit da settimane, morta. Che palle. Però, con l'integrazione Ac
 
 [2022-07-01] L'octocapsula!
 
+=> https://mastodon.uno/@octo/108600089579737212  L'ho detto su Mastodon
+=> ./Donazioni.gmi  💰 Donazioni
+=> https://gitlab.com/octtspacc/PlainDiscuss  repo
+
 E da oggi anche l'octocapsula, ossia la mia capsula Gemini, esiste sull'Internette. Per ora, lì ci trovate soltanto una conversione 1:1 del sitoctt, ma, se volete sapere oltre, vi rimando come al solito a Home#-Disponibilit-del-sito
 .
 
 [2022-06-30] Più di un generatore
-
-=> ./Donazioni.gmi  💰 Donazioni
-=> https://gitlab.com/octtspacc/PlainDiscuss  repo
-=> ./index.gmi#-Disponibilit-del-sito  Home#-Disponibilit-del-sito
 
 Ormai, questo è ciò che staticoso sta diventando, contrariamente alle mie stesse aspettative. Giusto adesso ho iniziato ad implementare 2 cose stravaganti: generazione di Gemtext (aspettatevi il sitoctt su Gemini..), e pubblicazione dei nuovi post su ActivityPub (Mastodon).
 
@@ -79,15 +84,15 @@ Ora ho una pagina " Raccolta Siti Internet
 
 [2022-06-26] Ancora un'altra piattaforma ActivityPub
 
+=> ./index.gmi#-Disponibilit-del-sito  Home#-Disponibilit-del-sito
+=> https://github.com/cathugger/mkp224o  mkp224o
+=> ./index.gmi#-Disponibilit-del-sito  Home#-Disponibilit-del-sito
+=> ./Raccolte/Internet/Raccolta-Siti-Internet.gmi  Raccolta Siti Internet
+
 Eh già, ce n'è già una nuova in beta da praticamente ieri. Che il suo archetipo sia Mastodon, lo si vede subito, ma Bonfire
 promette una filosofia diversa (?) e.. agli sviluppatori frega qualcosa del miglioramento progressivo, e gran parte della app già funziona senza JS! Già questo è abbastanza per farmi gioire.
 
 [2022-06-24] Feed Atom/RSS
-
-=> https://github.com/cathugger/mkp224o  mkp224o
-=> ./index.gmi#-Disponibilit-del-sito  Home#-Disponibilit-del-sito
-=> ./Raccolte/Internet/Raccolta-Siti-Internet.gmi  Raccolta Siti Internet
-=> https://bonfirenetworks.org  Bonfire
 
 Finalmente staticoso integra la generazione di feed Atom/RSS! Se funziona tutto, scriverò le informazioni su Home#-Feed-e-notifiche
 , ma i metadati sono già presenti nell'HTML, quindi usando un browser che ancora integra un aggregatore di feed, come SeaMonkey, dovrebbe apparire un'icona per iscriversi.
@@ -103,14 +108,14 @@ Tra ieri e stamattina ho lavorato abbastanza al generatore, per sistemare proble
 
 [2022-06-20] Dominio epico
 
+=> https://bonfirenetworks.org  Bonfire
+=> ./index.gmi#-Feed-e-notifiche  Home#-Feed-e-notifiche
+=> https://contatoreaccessi.com  contatoreaccessi.com
+
 Dopo un mesetto, eu.org mi ha dato il dominio che ho chiesto.. a breve il sitocto sarà navigabile da sitoctt.octt.eu.org
 ! Tecnicamente già raggiungibile, ma devo sistemare dei problemi del generatore, se voglio il dominio attuale non si rompa..
 
 [2022-06-19] Divisione in categorie
-
-=> ./index.gmi#-Feed-e-notifiche  Home#-Feed-e-notifiche
-=> https://contatoreaccessi.com  contatoreaccessi.com
-=> https://sitoctt.octt.eu.org  sitoctt.octt.eu.org
 
 Alla fine credo di aver realizzato qualcosa come lo volevo. Adesso nella barra di navigazione del sito c'è una sezione "Raccolte", che altro non è che una lista di categorie semiautomatica.
 
@@ -124,6 +129,8 @@ Alla fine credo di aver realizzato qualcosa come lo volevo. Adesso nella barra d
 
 [2022-06-07] Robine Tor
 
+=> https://sitoctt.octt.eu.org  sitoctt.octt.eu.org
+
 Visto che Tor Browser all'impostazione di protezione massima, impostata da molta gente che lo usa, rompe alcune componenti CSS (non c'è JS) del mio sito.. ho aggiornato il generatore per supportare l'aggiunta di una sezione header su tutte le pagine, al momento di build del sito. Lì ho messo info riguardo al problema.
 
 [2022-06-03] Il primo post del Blogocto!
@@ -132,8 +139,6 @@ L'ho iniziato a scrivere 3 giorni fa, poi tra una cosa e l'altra ho avuto modo d
 !
 
 [2022-05-30] Maremma bona sto generatore
-
-=> ./Blog  qui
 
 Sviluppare questo generatore di siti si sta rivelando un'esperienza mistica, in positivo e in negativo. Non so neanche come descrivere il tutto, è assurdo.
 
@@ -144,10 +149,11 @@ Finalmente, ho messo in piedi anche un mirror Tor del sitocto! Lo trovate linkat
 
 [2022-05-27] Prova
 
+=> ./Blog  qui
+=> ./index.gmi#-Disponibilit-del-sito  Home#-Disponibilit-del-sito
+
 Questo articolo è solo una prova, forse verrà cancellato.
 
 [2022-05-27] Il PicoBlog inizia!
 
 A cosa serve questo post? A farmi vedere l'effetto iniziale ed eventualmente sistemare del CSS..
-
-=> ./index.gmi#-Disponibilit-del-sito  Home#-Disponibilit-del-sito
