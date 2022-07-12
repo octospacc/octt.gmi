@@ -27,6 +27,7 @@ Alcune informazioni importanti sono disponibili su:
 => ../Categories/Tecnologia.gmi  
 
 # 📱️ Mobile
-Posts [2022-07-03] ⌨️ L'idea di una tastiera fisica per smartphone fatta in casa - blogoctt
+Posts
+2022-07-03] ⌨️ L'idea di una tastiera fisica per smartphone fatta in casa - blogoctt
 
 => ../Posts/2022-07-03-0000-L-Idea-di-una-Tastiera-Fisica-per-Smartphone-Fatta-in-Casa.gmi

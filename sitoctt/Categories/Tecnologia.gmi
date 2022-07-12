@@ -28,11 +28,12 @@ Alcune informazioni importanti sono disponibili su:
 
 # 📡 Tecnologia
 Internet Raccolta Siti Internet
-Posts [2022-07-09] 💻 Come ho riparato il mio portatile (con 25€) - blogoctt
-[2022-07-03] ⌨️ L'idea di una tastiera fisica per smartphone fatta in casa - blogoctt
-[2022-06-23] ☀️ Rasperino Solare (ed altri esperimenti andati a male) - blogoctt
-[2022-06-14] 📄 I documenti non devono diventare applicazioni - blogoctt
-[2022-06-03] 🌐️ Come e perché il sitoctt su Tor? - blogoctt
+Posts
+2022-07-09] 💻 Come ho riparato il mio portatile (con 25€) - blogoctt
+2022-07-03] ⌨️ L'idea di una tastiera fisica per smartphone fatta in casa - blogoctt
+2022-06-23] ☀️ Rasperino Solare (ed altri esperimenti andati a male) - blogoctt
+2022-06-14] 📄 I documenti non devono diventare applicazioni - blogoctt
+2022-06-03] 🌐️ Come e perché il sitoctt su Tor? - blogoctt
 
 => ../Raccolte/Internet/Raccolta-Siti-Internet.gmi  Raccolta Siti Internet
 => ../Posts/2022-07-09-0000-Come-ho-Riparato-il-mio-Portatile-con-25-Euro.gmi  

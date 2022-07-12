@@ -28,8 +28,9 @@ Alcune informazioni importanti sono disponibili su:
 
 # 🌐️ Internet
 Internet Raccolta Siti Internet
-Posts [2022-06-14] 📄 I documenti non devono diventare applicazioni - blogoctt
-[2022-06-03] 🌐️ Come e perché il sitoctt su Tor? - blogoctt
+Posts
+2022-06-14] 📄 I documenti non devono diventare applicazioni - blogoctt
+2022-06-03] 🌐️ Come e perché il sitoctt su Tor? - blogoctt
 
 => ../Raccolte/Internet/Raccolta-Siti-Internet.gmi  Raccolta Siti Internet
 => ../Posts/2022-06-14-0000-I-Documenti-Non-Devono-Diventare-Applicazioni.gmi  
