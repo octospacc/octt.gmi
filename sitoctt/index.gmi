@@ -193,8 +193,17 @@ Alcuni bottoni 88x31: 88x31 GIF Collection di cyber.dabamos.de
 
 ←
 Fediring
+[🎲]
+→
+
+←
+Yesterweb (🎲)
 →
 
 => https://fediring.net/previous?host=sitoctt.octt.eu.org  ←
 => https://fediring.net/  Fediring
+=> https://fediring.net/random  [🎲]
 => https://fediring.net/next?host=sitoctt.octt.eu.org  →
+=> https://webring.yesterweb.org/noJS/index.php?d=prev&url=https://sitoctt.octt.eu.org/  ←
+=> https://webring.yesterweb.org/noJS/index.php?d=rand&url=https://sitoctt.octt.eu.org/  Yesterweb (🎲)
+=> https://webring.yesterweb.org/noJS/index.php?d=next&url=https://sitoctt.octt.eu.org/  →
