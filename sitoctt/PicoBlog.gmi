@@ -43,6 +43,10 @@ Tieni a mente che le pubblicazioni più recenti vanno sempre in cima, facendo sc
 
 ## Leggi il PicoBlog
 Lista dei post
+2022-07-14] Backup delle repo Git
+
+È una cosa che dovrei fare, ho tante repo di mesi fa che sono ospitate sui server di un solo provider, e la cosa non va bene. Su come affronto l'argomento backup io dovrei scrivere un articolo lungo prima o poi. Fortunatamente, tutto ciò che tocca il sitoctt è stato messo (pubblico) su 3 server diversi dall'inizio ✨️
+
 2022-07-12] Odio i motori di ricerca
 
 Ma quanto devo aspettare per vedermi il sitocto indicizzato? Cosa devo fare? Oggi ho aggiunto il mio dominio alla Google Search Console, e ho anche implementato un primo supporto alla generazione di sitemap in staticoso.. speriamo di risolvere subito 😵‍💫️
@@ -54,13 +58,12 @@ Ho preso un Kindle da poco meno di una settimana. Ovviamente, l'ho hackerato sed
 
 2022-07-10] I forgor 💀
 
+=> https://mastodon.uno/@octo/108600089579737212  L'ho detto su Mastodon
+
 Apparentemente, per una settimana sana ho dimenticato che il mio PicoBlog esiste! Shit happens. Vabbe, che fare quindi? Non molto, temo, MA, ora accetto donazioni: 💰 Donazioni
 . Mi sa che se inizio a riceverne qualcuna, inizierò a dimenticarmi meno di aggiornare il sito in generale, lmao xd
 
 2022-07-03] Ma i commenti?
-
-=> https://mastodon.uno/@octo/108600089579737212  L'ho detto su Mastodon
-=> ./Donazioni.gmi  💰 Donazioni
 
 Eh eh, ops. La repo
 non ha nuovi commit da settimane, morta. Che palle. Però, con l'integrazione ActivityPub che il sito ora ha da 2 giorni, c'è già una sorta di sistema di commenti per ogni singolo post del blogocto.. quindi il mio lavoro è finito?
@@ -76,16 +79,15 @@ Ormai, questo è ciò che staticoso sta diventando, contrariamente alle mie stes
 
 2022-06-29] Minare domini Tor
 
+=> ./Donazioni.gmi  💰 Donazioni
+=> https://gitlab.com/octtspacc/PlainDiscuss  repo
+=> ./index.gmi#-Disponibilit-del-sito  Home#-Disponibilit-del-sito
+
 È esattamente quello che ho fatto! In che senso? È banalmente ciò che si fa con un programma come mkp224o
 , se si vuole ottenere un indirizzo contenente caratteri particolari. Il nuovo indirizzo, che inizia (questa la particolarità) con " sitoctt ", è linkato su Home#-Disponibilit-del-sito
 .
 
 2022-06-27] Qui sempre novità
-
-=> https://gitlab.com/octtspacc/PlainDiscuss  repo
-=> ./index.gmi#-Disponibilit-del-sito  Home#-Disponibilit-del-sito
-=> https://github.com/cathugger/mkp224o  mkp224o
-=> ./index.gmi#-Disponibilit-del-sito  Home#-Disponibilit-del-sito
 
 Ora ho una pagina " Raccolta Siti Internet
 " dove linko ad altri siti carini, ho creato un PNG 88x31 che identifica il mio sito e che, chiunque vuole, può usare per linkarlo.. beh dai, pian piano si sta riempiendo anche meglio di un semplice blog :D
@@ -102,15 +104,16 @@ Finalmente staticoso integra la generazione di feed Atom/RSS! Se funziona tutto,
 
 2022-06-22] L'esagerazione
 
+=> https://github.com/cathugger/mkp224o  mkp224o
+=> ./index.gmi#-Disponibilit-del-sito  Home#-Disponibilit-del-sito
+=> ./Raccolte/Internet/Raccolta-Siti-Internet.gmi  Raccolta Siti Internet
+=> https://bonfirenetworks.org  Bonfire
+=> ./index.gmi#-Feed-e-notifiche  Home#-Feed-e-notifiche
+
 Mi è venuta voglia di esagerare e implementare un contatore delle visite sul sito. Per fortuna, ho trovato il servizio gratuito già pronto di contatoreaccessi.com
 , che funziona caricando assolutamente zero JavaScript, anche se conta anche i refresh, non le visite uniche.. vabbe.
 
 2022-06-21] Aggiornamenti tecnici
-
-=> ./Raccolte/Internet/Raccolta-Siti-Internet.gmi  Raccolta Siti Internet
-=> https://bonfirenetworks.org  Bonfire
-=> ./index.gmi#-Feed-e-notifiche  Home#-Feed-e-notifiche
-=> https://contatoreaccessi.com  contatoreaccessi.com
 
 Tra ieri e stamattina ho lavorato abbastanza al generatore, per sistemare problemini e aggiungere funzioni, e ho aggiunto qualche miglioramento al CSS del sito. Comunque questo PicoBlog è ormai solo un devlog, un po' un peccato, ma non so cos'altro scrivere di molto corto.. 😅
 
@@ -125,11 +128,12 @@ Alla fine credo di aver realizzato qualcosa come lo volevo. Adesso nella barra d
 
 2022-06-18] Commenti sul sitoctt
 
+=> https://contatoreaccessi.com  contatoreaccessi.com
+=> https://sitoctt.octt.eu.org  sitoctt.octt.eu.org
+
 È da qualche giorno che sto lavorando quasi ininterrottamente ad un mio sistema di commenti da abilitare per il sito. Non è ancora finito e non so quando lo finirò (e se lo finirò.. speriamo non butto via tutto per la noia).
 
 2022-06-14] Vorrei un sistema di categorie..
-
-=> https://sitoctt.octt.eu.org  sitoctt.octt.eu.org
 
 ..che non so bene neanche io come lo voglio. A parte la categorizzazione dei post del Blogocto in temi, vorrei che nelle pagine di raccolta per temi uscissero anche pagine che non sono propriamente post, ma ho paura che si crei disordine. Ci penserò su a lungo..
 
@@ -144,11 +148,11 @@ L'ho iniziato a scrivere 3 giorni fa, poi tra una cosa e l'altra ho avuto modo d
 
 2022-05-30] Maremma bona sto generatore
 
+=> ./Blog  qui
+
 Sviluppare questo generatore di siti si sta rivelando un'esperienza mistica, in positivo e in negativo. Non so neanche come descrivere il tutto, è assurdo.
 
 2022-05-29] Il sito su Tor
-
-=> ./Blog  qui
 
 Finalmente, ho messo in piedi anche un mirror Tor del sitocto! Lo trovate linkato su Home#-Disponibilit-del-sito
 . Ora è tutto più sicuro e privato.
