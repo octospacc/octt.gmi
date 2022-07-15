@@ -6,6 +6,8 @@ Alcune informazioni importanti sono disponibili su:
 😺 Chi sono
 💰 Donazioni
 ✉️ PicoBlog
+🔖️ Bacheca
+💾️ OctoSpacc Home
 🗂️ Raccolte 📓️ Blog
 🛠️ DIY
 ♻️ Ecologia
@@ -18,6 +20,8 @@ Alcune informazioni importanti sono disponibili su:
 => Chi-Sono.gmi  
 => Donazioni.gmi  
 => PicoBlog.gmi  
+=> https://octtspacc.gitlab.io/bachecoctt  🔖️ Bacheca
+=> https://octospacc.gitlab.io  💾️ OctoSpacc Home
 => Categories/Blog.gmi  
 => Categories/DIY.gmi  
 => Categories/Ecologia.gmi  
