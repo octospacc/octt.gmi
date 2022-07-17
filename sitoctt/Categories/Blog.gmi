@@ -32,12 +32,14 @@ Alcune informazioni importanti sono disponibili su:
 
 # 📓️ blogoctt
 Posts
+2022-07-17] Come la nostra impronta digitale sociale ci frega - blogoctt
 2022-07-09] 💻 Come ho riparato il mio portatile (con 25€) - blogoctt
 2022-07-03] ⌨️ L'idea di una tastiera fisica per smartphone fatta in casa - blogoctt
 2022-06-23] ☀️ Rasperino Solare (ed altri esperimenti andati a male) - blogoctt
 2022-06-14] 📄 I documenti non devono diventare applicazioni - blogoctt
 2022-06-03] 🌐️ Come e perché il sitoctt su Tor? - blogoctt
 
+=> ../Posts/2022-07-17-Come-la-nostra-Impronta-Digitale-Sociale-ci-Frega.gmi   Come la nostra impronta digitale sociale ci frega - blogoctt
 => ../Posts/2022-07-09-0000-Come-ho-Riparato-il-mio-Portatile-con-25-Euro.gmi  
 => ../Posts/2022-07-03-0000-L-Idea-di-una-Tastiera-Fisica-per-Smartphone-Fatta-in-Casa.gmi  
 => ../Posts/2022-06-23-0000-Rasperino-Solare-ed-Altri-Esperimenti-Andati-a-Male.gmi  
