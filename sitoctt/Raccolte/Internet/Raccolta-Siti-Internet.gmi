@@ -12,6 +12,7 @@ Alcune informazioni importanti sono disponibili su:
 🛠️ DIY
 ♻️ Ecologia
 🌐️ Internet
+📝️ MicroBlog
 📱️ Mobile
 💰 Rasperino
 📡 Tecnologia
@@ -26,6 +27,7 @@ Alcune informazioni importanti sono disponibili su:
 => ../../Categories/DIY.gmi  
 => ../../Categories/Ecologia.gmi  
 => ../../Categories/Internet.gmi  
+=> ../../Categories/MicroBlog.gmi  
 => ../../Categories/Mobile.gmi  
 => ../../Categories/Rasperino.gmi  
 => ../../Categories/Tecnologia.gmi  

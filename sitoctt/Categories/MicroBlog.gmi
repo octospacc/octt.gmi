@@ -32,4 +32,7 @@ Alcune informazioni importanti sono disponibili su:
 => ../Categories/Rasperino.gmi  
 => ../Categories/Tecnologia.gmi  
 
-# 🗂️ Raccolte
+# 📝️ MicroBlog
+[?] Archivi MicroBlog di Settembre 2019 - blogoctt
+
+=> ../Posts/MicroBlog-Archive/2019/09/index.gmi  Archivi MicroBlog di Settembre 2019 - blogoctt

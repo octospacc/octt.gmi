@@ -12,6 +12,7 @@ Alcune informazioni importanti sono disponibili su:
 🛠️ DIY
 ♻️ Ecologia
 🌐️ Internet
+📝️ MicroBlog
 📱️ Mobile
 💰 Rasperino
 📡 Tecnologia
@@ -26,6 +27,7 @@ Alcune informazioni importanti sono disponibili su:
 => Categories/DIY.gmi  
 => Categories/Ecologia.gmi  
 => Categories/Internet.gmi  
+=> Categories/MicroBlog.gmi  
 => Categories/Mobile.gmi  
 => Categories/Rasperino.gmi  
 => Categories/Tecnologia.gmi  
@@ -175,7 +177,7 @@ Quelli del mio generatore, anche questo rilasciato sotto una licenza libera, la 
 => https://gitlab.com/octtspacc/staticoso  gitlab.com/octtspacc/staticoso
 
 ### Crediti speciali
-Espandi la lista di crediti e ringraziamenti speciali a chi ho preso materiale in prestito
+Lista di crediti e ringraziamenti speciali a chi ho preso materiale in prestito (Espandi)
 
 Titolo animato ad onda: Waaaves di jh3y
 

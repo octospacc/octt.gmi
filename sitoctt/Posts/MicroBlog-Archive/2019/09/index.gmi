@@ -1,0 +1,42 @@
+# sitoctt
+Alcune informazioni importanti sono disponibili su:
+=> /octt/index.gmi octocapsula/index
+
+🏠 ~Home~
+😺 Chi sono
+💰 Donazioni
+✉️ PicoBlog
+🔖️ Bacheca
+💾️ OctoSpacc Home
+🗂️ Raccolte 📓️ Blog
+🛠️ DIY
+♻️ Ecologia
+🌐️ Internet
+📝️ MicroBlog
+📱️ Mobile
+💰 Rasperino
+📡 Tecnologia
+
+=> ../../../../index.gmi  
+=> ../../../../Chi-Sono.gmi  
+=> ../../../../Donazioni.gmi  
+=> ../../../../PicoBlog.gmi  
+=> https://octtspacc.gitlab.io/bachecoctt  🔖️ Bacheca
+=> https://octospacc.gitlab.io  💾️ OctoSpacc Home
+=> ../../../../Categories/Blog.gmi  
+=> ../../../../Categories/DIY.gmi  
+=> ../../../../Categories/Ecologia.gmi  
+=> ../../../../Categories/Internet.gmi  
+=> ../../../../Categories/MicroBlog.gmi  
+=> ../../../../Categories/Mobile.gmi  
+=> ../../../../Categories/Rasperino.gmi  
+=> ../../../../Categories/Tecnologia.gmi  
+
+## Archivi MicroBlog di Settembre 2019
+2019-09-16 18:14] L'inizio di OctoVoLTE
+
+: Allora su questo canale ci saranno cose del lagsung
+: E memewei ma forse anche xiaomeme
+: Ah e ovviamente metodi per avere 🅱olte sul telefono
+
+Da questi messaggi ebbe ufficialmente inizio la storia di OctoVoLTE. Di Memewei se n'è parlato lì in questi anni, forse anche troppo; Di metodi per avere VoLTE, non se n'è avuto nemmeno uno, tipo. Sad.
