@@ -33,4 +33,167 @@ Alcune informazioni importanti sono disponibili su:
 => ../../../../Categories/Tecnologia.gmi  
 
 ## Archivi MicroBlog di Settembre 2019
-2019-09-16 18:24] Brick e rinascita del Galaxy Player> : Allora come saprete oggi ho sbrickato il Lagsung e la memoria interna non si è formattata > : Ciò significa che ho trovato mondi [di Minecraft, ndr] risalenti al 2013 e oltre che non ricordavo esistessero > : A 10 iscritti vedrete i mondi [...] {: .Center } > : Ah la tastiera del vecchio Lagsung ha una cosa bella > : Non ha quelle emoji tossiche perché ha di meglio >   MOLTO MEGLIO ![](https://octtspacc.gitlab.io/sitoctt-assets/Media/Galaxy-Player-3.6/Galaxy-Player-3.6-Notepad-Emoticon-Keyboard.avif) [...] {: .Center } > : Ok ora vi dirò la storia dettagliata del Lagsung briccato e ora sistemato perché >   Ora scoprirete perché > : Allora >   Il lag in questione è il Galaxy Player 3.6 >   Aka un S1 più sottile e senza parte telefonica > : Cosa è accaduto > : Un anno fa visto che il mio cervello lagga mi passa in mente "ei ma perke non metto una custom rom??!1!1!" >   E quindi ho messo una custom ROM che era pure brutta >   Tre ore dopo volevo toglierla perché il WiFi era rotto > : Quindi che faccio >   Preparo Odin, cerco la ROM stock e flasho >   Non si capisce perché (cioè lo so perché, perché Odin è un programma stronzo che a tradimento se gli va ti bricca il telefono) e verso la fine del flash non va avanti >   Ho lasciato il coso lì attaccato quasi mezz'ora e non andava quindi stacco > : Lo riaccendo e ![Sticker](https://octtspacc.gitlab.io/sitoctt-assets/Media/Stickers/Lolis-Reading-Am-I-Retarded-Book.avif) > : Si perché c'era una bella schermata che diceva ![Firmware update encountered an issue. Please select recovery mode in Kies & try again.](https://octtspacc.gitlab.io/sitoctt-assets/Media/Galaxy-Player-3.6/Galaxy-Player-3.6-Softbrick-Bootloader.avif) > : E quindi niente io visto che ho la segatura nel cervello per letteralmente quasi un anno ho creduto fosse la mia ROM corrotta perché anche se flashavo dava sempre errore alla fine, e letteralmente per un anno ho perso tempo a cercare altre ROM inutilmente > : Ah e ovviamente ho provato a collegare a Kies semplicemente ma non riconosceva il telefono, stava continuamente a caricare, e se andavo nella recovery mode manuale di Kies mi chiedeva un codice (?) > : Poi proprio l'altro ieri il buon Ashflee mi ha detto che bastava il file PIT giusto e si fixava > : Io non lo sapevo perché sono laggante > : Quindi oggi trovo il file PIT della versione USA e me ne sbatto del fatto che io ho il Galaxy europeo, metto PIT e flasho rom USA e > : E > : Sta in bootloop perché boh in /data c'era la segatura e non si montava > : Formatto /data da recovery e il lag si accende e ora funziona ed è meglio del mio meme > : Però comunque l'archivio interno non si è cancellato e ci sono tutti i vecchi file >   Compresi i miei oldissimi mondi di Minecraft ![](https://octtspacc.gitlab.io/sitoctt-assets/Media/Galaxy-Player-3.6/Galaxy-Player-3.6-Astolfo-Lockscreen.avif) > : E niente sar questo è il Lagsoong di nuovo in vita dopo un anno di coma [2019-09-16 18:14] L'inizio di OctoVoLTE> : Allora su questo canale ci saranno cose del Lagsung > : E Memewei ma forse anche Xiaomeme > : Ah e ovviamente metodi per avere 🅱olte sul telefono Da questi messaggi ebbe ufficialmente inizio la storia di OctoVoLTE. Di Memewei se n'è parlato lì in questi anni, forse anche troppo; Di metodi per avere VoLTE, non se n'è avuto nemmeno uno, tipo. Sad.
+2019-09-16 18:24] Brick e rinascita del Galaxy Player
+
+> 
+> 
+> 
+> : Allora come saprete oggi ho sbrickato il Lagsung e la memoria interna
+> non si è formattata
+> 
+> 
+> 
+> : Ciò significa che ho trovato mondi [di Minecraft, ndr] risalenti al 2013
+> e oltre che non ricordavo esistessero
+> 
+> 
+> 
+> : A 10 iscritti vedrete i mondi
+> 
+> 
+
+[...]
+
+> 
+> 
+> 
+> : Ah la tastiera del vecchio Lagsung ha una cosa bella
+> 
+> 
+> 
+> : Non ha quelle emoji tossiche perché ha di meglio
+> MOLTO MEGLIO
+> 
+> 
+
+[‡ Galaxy Player 3.6 Notepad Emoticon Keyboard]
+
+[...]
+
+> 
+> 
+> 
+> : Ok ora vi dirò la storia dettagliata del Lagsung briccato e ora
+> sistemato perché
+> Ora scoprirete perché
+> 
+> 
+> 
+> : Allora
+> Il lag in questione è il Galaxy Player 3.6
+> Aka un S1 più sottile e senza parte telefonica
+> 
+> 
+> 
+> : Cosa è accaduto
+> 
+> 
+> 
+> : Un anno fa visto che il mio cervello lagga mi passa in mente "ei ma
+> perke non metto una custom rom??!1!1!"
+> E quindi ho messo una custom ROM che era pure brutta
+> Tre ore dopo volevo toglierla perché il WiFi era rotto
+> 
+> 
+> 
+> : Quindi che faccio
+> Preparo Odin, cerco la ROM stock e flasho
+> Non si capisce perché (cioè lo so perché, perché Odin è un programma
+> stronzo che a tradimento se gli va ti bricca il telefono) e verso la fine
+> del flash non va avanti
+> Ho lasciato il coso lì attaccato quasi mezz'ora e non andava quindi stacco
+> 
+> 
+> 
+> 
+> : Lo riaccendo e
+> 
+> 
+
+[‡ Sticker]
+
+> 
+> 
+> 
+> : Si perché c'era una bella schermata che diceva
+> 
+> 
+
+[‡ Firmware update encountered an issue. Please select recovery mode in Kies & try again.]
+
+> 
+> 
+> 
+> : E quindi niente io visto che ho la segatura nel cervello per
+> letteralmente quasi un anno ho creduto fosse la mia ROM corrotta perché
+> anche se flashavo dava sempre errore alla fine, e letteralmente per un
+> anno ho perso tempo a cercare altre ROM inutilmente
+> 
+> 
+> 
+> : Ah e ovviamente ho provato a collegare a Kies semplicemente ma non
+> riconosceva il telefono, stava continuamente a caricare, e se andavo nella
+> recovery mode manuale di Kies mi chiedeva un codice (?)
+> 
+> 
+> 
+> : Poi proprio l'altro ieri il buon Ashflee mi ha detto che bastava il file
+> PIT giusto e si fixava
+> 
+> 
+> 
+> : Io non lo sapevo perché sono laggante
+> 
+> 
+> 
+> : Quindi oggi trovo il file PIT della versione USA e me ne sbatto del
+> fatto che io ho il Galaxy europeo, metto PIT e flasho rom USA e
+> 
+> 
+> 
+> : E
+> 
+> 
+> 
+> : Sta in bootloop perché boh in /data c'era la segatura e non si montava
+> 
+> 
+> 
+> : Formatto /data da recovery e il lag si accende e ora funziona ed è
+> meglio del mio meme
+> 
+> 
+> 
+> : Però comunque l'archivio interno non si è cancellato e ci sono tutti i
+> vecchi file
+> Compresi i miei oldissimi mondi di Minecraft
+> 
+> 
+
+[‡ Galaxy Player 3.6 Astolfo Lockscreen]
+
+> 
+> 
+> 
+> : E niente sar questo è il Lagsoong di nuovo in vita dopo un anno di coma
+> 
+> 
+
+2019-09-16 18:14] L'inizio di OctoVoLTE
+
+> 
+> 
+> 
+> : Allora su questo canale ci saranno cose del Lagsung
+> 
+> 
+> 
+> : E Memewei ma forse anche Xiaomeme
+> 
+> 
+> 
+> : Ah e ovviamente metodi per avere 🅱olte sul telefono
+> 
+> 
+
+Da questi messaggi ebbe ufficialmente inizio la storia di OctoVoLTE. Di Memewei se n'è parlato lì in questi anni, forse anche troppo; Di metodi per avere VoLTE, non se n'è avuto nemmeno uno, tipo. Sad.
