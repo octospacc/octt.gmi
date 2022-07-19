@@ -33,6 +33,9 @@ Alcune informazioni importanti sono disponibili su:
 => ../Categories/Tecnologia.gmi  
 
 # 📝️ MicroBlog
+
+Nota: I contenuti negli archivi possono aver subito redazioni non segnalate.
+
 [?] Archivi MicroBlog di Settembre 2019 - blogoctt
 
-=> ../Posts/MicroBlog-Archive/2019/09/index.gmi  Archivi MicroBlog di Settembre 2019 - blogoctt
+=> ../Posts/MicroBlog-Archive/2019/09/index.gmi   Archivi MicroBlog di Settembre 2019 - blogoctt
