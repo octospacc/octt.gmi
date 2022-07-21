@@ -33,18 +33,163 @@ Alcune informazioni importanti sono disponibili su:
 => ../../../../Categories/Tecnologia.gmi  
 
 ## Archivi MicroBlog di Settembre 2019
+2019-09-17 15:16] Test più disparati con il Galaxy Player
+
+> 
+> 
+> 
+> : Good Lagsung
+> [‡ Galaxy Player 3.6 OctoVoLTE]
+> 
+> 
+> 
+> : 512 MB di RAM e gira meglio del Lagwei
+> [‡ Galaxy Player 3.6 Task Manager RAM]
+> 
+> 
+> 
+> : Ora proviamo l'emulatore del N64 e del DS, così esplode
+> 
+> 
+
+[...]
+
+> 
+> 
+> 
+> : Eeee i giochi del DS girano meglio su un Android di 8 anni fa che sul
+> mio PC [l'Android in questo caso è ARMv7, mentre il PC è x86_64, ndr],
+> perfetto
+> Pokemon Platino
+> 
+> 
+> 
+> [Sondaggio] Devo provare del DS come prossimo gioco
+> 
+> 
+> 
+> ⊞ table ⊞
+> 
+> 
+> 
+> 
+> Totale 3
+> Mario Kart DS 2
+> Pokemon B/W 2 0
+> Animal Crossing Wild World 0
+> Super Mario 64 DS 1
+> 
+> 
+> 
+> : OK mi hanno detto su gruppi di provare Mario 64, quindi provo sia Mario
+> Kart sia Mario 64
+> 
+> 
+
+[...]
+
+> 
+> 
+> 
+> : Ho trovato una cosa nella memoria del lag
+> [‡ CWM Backup 2017 12 09]
+> 
+> 
+> 
+> : Ecco un motivo per cui le nuove versioni di Android fanno schifo
+> [gestiscono il collegamento come memoria USB peggio di Android 2.3, ndr]
+> [‡ Galaxy Player 3.6 Archivio USB]
+> : In realtà ce ne sono tanti, poi ne parleremo
+> 
+> 
+> 
+> : E ora testiamo gli altri giochi
+> 
+> 
+
+[...]
+
+> 
+> 
+> 
+> : Super Mario 64 DS
+> Super Mario 64 DS
+> 
+> 
+> 
+> : Mario Kart DS
+> Mario Kart DS
+> 
+> 
+> 
+> : Allora, vorrei registrare altri giochi ma il Memewei è rotto e,
+> nonostante abbia cancellato i video di prima, dice che non ho memoria
+> 
+> 
+> 
+> : Ah si giusto, questo Huameme lo ho da solo un anno e mezzo, ma ci sono
+> MOOOLTE cose di cui parlare che lo riguardano
+> 
+> 
+> 
+> : Ora arrivano degli screen dell'emulatore del N64
+> : Non ho registrato ma il framerate dei giochi era sempre stabile e
+> giocabile.. purtroppo i giochi non sono tanto giocabili, ma soltanto
+> perchè ci sono gravi glitch grafici
+> : Credo sia colpa dell'emulatore che è vecchio (purtroppo su Android 2.3.6
+> non posso fare molto)
+> 
+> 
+
+[‡ GP3.6 MK64 0]
+[‡ GP3.6 MK64 1]
+[‡ GP3.6 MK64 2]
+[‡ GP3.6 MK64 3]
+
+[‡ GP3.6 SM64 0]
+[‡ GP3.6 SM64 1]
+[‡ GP3.6 SM64 2]
+
+[‡ GP3.6 WR64 0]
+[‡ GP3.6 WR64 1]
+[‡ GP3.6 WR64 2]
+[‡ GP3.6 WR64 3]
+
+> 
+> 
+> 
+> : Gli screen li ho fatti direttamente sul Lagsung con una app
+> 
+> 
+> 
+> : Adesso arriva anche il video di qualche gioco vah
+> 
+> 
+> 
+> : A parte Zelda che ho provato ora, gli altri giochi hanno un framerate
+> stabile se vedete, nice, un Lagsung di 8 anni fa si sta riscattando.
+> : Vi avverto che ci potrebbe essere un trigger epilettico quando avvio
+> quake 2 eh xd
+> N64
+> 
+> 
+> 
+> : Vabbè per ora basta test sul Lagsung
+> 
+> 
+
 2019-09-16 18:24] Brick e rinascita del Galaxy Player
 
 > 
 > 
 > 
-> : Allora come saprete oggi ho sbrickato il Lagsung e la memoria interna
+> : Allora, come saprete oggi ho sbrickato il Lagsung, e la memoria interna
 > non si è formattata
 > 
 > 
 > 
 > : Ciò significa che ho trovato mondi [di Minecraft, ndr] risalenti al 2013
-> e oltre che non ricordavo esistessero
+> e oltre, che non ricordavo esistessero
 > 
 > 
 > 
@@ -57,23 +202,22 @@ Alcune informazioni importanti sono disponibili su:
 > 
 > 
 > 
-> : Ah la tastiera del vecchio Lagsung ha una cosa bella
+> : Ah, la tastiera del vecchio Lagsung ha una cosa bella
 > 
 > 
 > 
 > : Non ha quelle emoji tossiche perché ha di meglio
 > MOLTO MEGLIO
+> [‡ Galaxy Player 3.6 Notepad Emoticon Keyboard]
 > 
 > 
-
-[‡ Galaxy Player 3.6 Notepad Emoticon Keyboard]
 
 [...]
 
 > 
 > 
 > 
-> : Ok ora vi dirò la storia dettagliata del Lagsung briccato e ora
+> : Ok, ora vi dirò la storia dettagliata del Lagsung briccato, e ora
 > sistemato perché
 > Ora scoprirete perché
 > 
@@ -89,49 +233,42 @@ Alcune informazioni importanti sono disponibili su:
 > 
 > 
 > 
-> : Un anno fa visto che il mio cervello lagga mi passa in mente "ei ma
+> : Un anno fa, visto che il mio cervello lagga, mi passa in mente "ei ma
 > perke non metto una custom rom??!1!1!"
-> E quindi ho messo una custom ROM che era pure brutta
-> Tre ore dopo volevo toglierla perché il WiFi era rotto
+> E quindi ho messo una custom ROM, che era pure brutta
+> Tre ore dopo volevo toglierla, perché il WiFi era rotto
 > 
 > 
 > 
 > : Quindi che faccio
 > Preparo Odin, cerco la ROM stock e flasho
-> Non si capisce perché (cioè lo so perché, perché Odin è un programma
-> stronzo che a tradimento se gli va ti bricca il telefono) e verso la fine
-> del flash non va avanti
-> Ho lasciato il coso lì attaccato quasi mezz'ora e non andava quindi stacco
-> 
+> Non si capisce perché (cioè, lo so perché, perché Odin è un programma
+> stronzo che a tradimento se gli va ti bricca il telefono) verso la fine
+> [del processo di flash, ndr] si blocca, non va avanti
+> Ho lasciato il coso lì attaccato quasi mezz'ora e non andava, quindi
+> stacco
 > 
 > 
 > 
 > : Lo riaccendo e
-> 
-> 
-
-[‡ Sticker]
-
+> [‡ Sticker]
 > 
 > 
 > 
-> : Si perché c'era una bella schermata che diceva
-> 
-> 
-
-[‡ Firmware update encountered an issue. Please select recovery mode in Kies & try again.]
-
+> : Si, perché c'era una bella schermata che diceva
+> [‡ Firmware update encountered an issue. Please select recovery mode in
+> Kies & try again.]
 > 
 > 
 > 
-> : E quindi niente io visto che ho la segatura nel cervello per
-> letteralmente quasi un anno ho creduto fosse la mia ROM corrotta perché
-> anche se flashavo dava sempre errore alla fine, e letteralmente per un
+> : E quindi, niente, io visto che ho la segatura nel cervello, per
+> letteralmente quasi un anno ho creduto fosse la mia ROM corrotta, perché
+> anche se riflashavo dava sempre errore alla fine, e letteralmente per un
 > anno ho perso tempo a cercare altre ROM inutilmente
 > 
 > 
 > 
-> : Ah e ovviamente ho provato a collegare a Kies semplicemente ma non
+> : Ah e, ovviamente ho provato a collegare a Kies semplicemente, ma non
 > riconosceva il telefono, stava continuamente a caricare, e se andavo nella
 > recovery mode manuale di Kies mi chiedeva un codice (?)
 > 
@@ -139,43 +276,31 @@ Alcune informazioni importanti sono disponibili su:
 > 
 > : Poi proprio l'altro ieri il buon Ashflee mi ha detto che bastava il file
 > PIT giusto e si fixava
-> 
-> 
-> 
 > : Io non lo sapevo perché sono laggante
 > 
 > 
 > 
 > : Quindi oggi trovo il file PIT della versione USA e me ne sbatto del
-> fatto che io ho il Galaxy europeo, metto PIT e flasho rom USA e
-> 
-> 
-> 
+> fatto che io ho il Galaxy europeo, metto PIT e flasho ROM USA e
 > : E
+> : Sta in bootloop perché boh, in /data c'era la segatura e non si montava
 > 
 > 
 > 
-> : Sta in bootloop perché boh in /data c'era la segatura e non si montava
-> 
-> 
-> 
-> : Formatto /data da recovery e il lag si accende e ora funziona ed è
+> : Formatto /data da recovery e il lag si accende, e ora funziona ed è
 > meglio del mio meme
 > 
 > 
 > 
-> : Però comunque l'archivio interno non si è cancellato e ci sono tutti i
+> : Però comunque l'archivio interno non si è cancellato, e ci sono tutti i
 > vecchi file
 > Compresi i miei oldissimi mondi di Minecraft
 > 
 > 
-
-[‡ Galaxy Player 3.6 Astolfo Lockscreen]
-
 > 
+> : E niente sar, questo è il Lagsoong di nuovo in vita dopo un anno di coma
 > 
-> 
-> : E niente sar questo è il Lagsoong di nuovo in vita dopo un anno di coma
+> [‡ Galaxy Player 3.6 Astolfo Lockscreen]
 > 
 > 
 
@@ -184,15 +309,15 @@ Alcune informazioni importanti sono disponibili su:
 > 
 > 
 > 
-> : Allora su questo canale ci saranno cose del Lagsung
+> : Allora, su questo canale ci saranno cose del Lagsung
 > 
 > 
 > 
-> : E Memewei ma forse anche Xiaomeme
+> : E Memewei, ma forse anche Xiaomeme
 > 
 > 
 > 
-> : Ah e ovviamente metodi per avere 🅱olte sul telefono
+> : Ah e, ovviamente, metodi per avere 🅱olte sul telefono
 > 
 > 
 
