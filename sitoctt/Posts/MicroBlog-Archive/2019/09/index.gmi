@@ -140,21 +140,24 @@ Alcune informazioni importanti sono disponibili su:
 > non posso fare molto)
 > 
 > 
-
-[‡ GP3.6 MK64 0]
-[‡ GP3.6 MK64 1]
-[‡ GP3.6 MK64 2]
-[‡ GP3.6 MK64 3]
-
-[‡ GP3.6 SM64 0]
-[‡ GP3.6 SM64 1]
-[‡ GP3.6 SM64 2]
-
-[‡ GP3.6 WR64 0]
-[‡ GP3.6 WR64 1]
-[‡ GP3.6 WR64 2]
-[‡ GP3.6 WR64 3]
-
+> 
+> [‡ GP3.6 MK64 0]
+> [‡ GP3.6 MK64 1]
+> [‡ GP3.6 MK64 2]
+> [‡ GP3.6 MK64 3]
+> 
+> 
+> 
+> [‡ GP3.6 SM64 0]
+> [‡ GP3.6 SM64 1]
+> [‡ GP3.6 SM64 2]
+> 
+> 
+> 
+> [‡ GP3.6 WR64 0]
+> [‡ GP3.6 WR64 1]
+> [‡ GP3.6 WR64 2]
+> [‡ GP3.6 WR64 3]
 > 
 > 
 > 
@@ -175,6 +178,33 @@ Alcune informazioni importanti sono disponibili su:
 > 
 > 
 > : Vabbè per ora basta test sul Lagsung
+> 
+> 
+
+2019-09-16 18:35] Memewei memoria piena
+
+> 
+> 
+> 
+> [‡ Memewei Memoria Piena]
+> 
+> 
+> 
+> : Il Memewei si dimostra valido kek
+> 
+> 
+> 
+> : Vaffanculo un giorno sto coso lo spacco
+> 
+> 
+> 
+> : A parte che è già tipo piegato, perché ha preso tante volte le botte
+> perché faceva il meme
+> 
+> 
+> 
+> : Ma il Lagsoong può avere anche solo 1 KB libero e non rompe con popup
+> cinesi
 > 
 > 
 
