@@ -88,15 +88,11 @@ Dovrei pensare anche a molti altri mirror in cloud da diversi provider (ovviamen
 
 Il sito Web è disponibile da diverse fonti.
 
-Sul clearweb, sui server di GitLab : octtspacc.gitlab.io/sitoctt
-sitoctt.octt.eu.org
-(Nuovo dominio!). Sull'Onion Web (Tor), sui server di Replit: onmfrk2acl4xdeawfjg3nfepq7gcufolctmhiwwxpcknazus5bxzxhqd.onion
-sitoctt2fxjvx3lc2iqqef2aeulflprjaasv2xl4zi7sxxbmvjy5b5yd.onion
-(Nuovo dominio!). Alla fine non è più ospitato in casa mia, ma forse è meglio così, è un carico in meno per il povero serverino di fortuna che ho (al momento, una console Nintendo Switch con Ubuntu).
+Sul clearweb, sui server di GitLab : sitoctt.octt.eu.org
+. Sull'Onion Web (Tor), sui server di Replit: sitoctt2fxjvx3lc2iqqef2aeulflprjaasv2xl4zi7sxxbmvjy5b5yd.onion
+. Alla fine non è più ospitato in casa mia, ma forse è meglio così, è un carico in meno per il povero serverino di fortuna che ho (al momento, una console Nintendo Switch con Ubuntu).
 
-=> https://octtspacc.gitlab.io/sitoctt  octtspacc.gitlab.io/sitoctt
 => https://sitoctt.octt.eu.org  sitoctt.octt.eu.org
-=> http://onmfrk2acl4xdeawfjg3nfepq7gcufolctmhiwwxpcknazus5bxzxhqd.onion  onmfrk2acl4xdeawfjg3nfepq7gcufolctmhiwwxpcknazus5bxzxhqd.onion
 => http://sitoctt2fxjvx3lc2iqqef2aeulflprjaasv2xl4zi7sxxbmvjy5b5yd.onion  sitoctt2fxjvx3lc2iqqef2aeulflprjaasv2xl4zi7sxxbmvjy5b5yd.onion
 
 ### Gemini
