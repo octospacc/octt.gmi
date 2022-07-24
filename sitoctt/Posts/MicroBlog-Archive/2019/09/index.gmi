@@ -39,12 +39,14 @@ Alcune informazioni importanti sono disponibili su:
 > 
 > 
 > : Good Lagsung
-> [‡ Galaxy Player 3.6 OctoVoLTE]
+> [‡ Foto del Galaxy Player, che mostra il canale Telegram in Plus
+> Messenger.]
 > 
 > 
 > 
 > : 512 MB di RAM e gira meglio del Lagwei
-> [‡ Galaxy Player 3.6 Task Manager RAM]
+> [‡ Schermata "RAM" in "Gestione Attività" del Galaxy Player. Sono indicati
+> 215 MB su 488 MB di RAM occupati.]
 > 
 > 
 > 
@@ -92,13 +94,14 @@ Alcune informazioni importanti sono disponibili su:
 > 
 > 
 > : Ho trovato una cosa nella memoria del lag
-> [‡ CWM Backup 2017 12 09]
+> [‡ Schermata di una cartella, con dentro i file di un NANDroid backup del
+> Galaxy Player risalente al 2017 12 09.]
 > 
 > 
 > 
 > : Ecco un motivo per cui le nuove versioni di Android fanno schifo
 > [gestiscono il collegamento come memoria USB peggio di Android 2.3, ndr]
-> [‡ Galaxy Player 3.6 Archivio USB]
+> [‡ Foto del Galaxy Player che mostra la schermata "Archivio USB in uso".]
 > : In realtà ce ne sono tanti, poi ne parleremo
 > 
 > 
@@ -141,23 +144,23 @@ Alcune informazioni importanti sono disponibili su:
 > 
 > 
 > 
-> [‡ GP3.6 MK64 0]
-> [‡ GP3.6 MK64 1]
-> [‡ GP3.6 MK64 2]
-> [‡ GP3.6 MK64 3]
+> [‡ Schermata di Mario Kart 64 emulato sul Galaxy Player.]
+> [‡ Schermata di Mario Kart 64 emulato sul Galaxy Player.]
+> [‡ Schermata di Mario Kart 64 emulato sul Galaxy Player.]
+> [‡ Schermata di Mario Kart 64 emulato sul Galaxy Player.]
 > 
 > 
 > 
-> [‡ GP3.6 SM64 0]
-> [‡ GP3.6 SM64 1]
-> [‡ GP3.6 SM64 2]
+> [‡ Schermata di Super Mario 64 emulato sul Galaxy Player.]
+> [‡ Schermata di Super Mario 64 emulato sul Galaxy Player.]
+> [‡ Schermata di Super Mario 64 emulato sul Galaxy Player.]
 > 
 > 
 > 
-> [‡ GP3.6 WR64 0]
-> [‡ GP3.6 WR64 1]
-> [‡ GP3.6 WR64 2]
-> [‡ GP3.6 WR64 3]
+> [‡ Schermata di Wave Race 64 emulato sul Galaxy Player.]
+> [‡ Schermata di Wave Race 64 emulato sul Galaxy Player.]
+> [‡ Schermata di Wave Race 64 emulato sul Galaxy Player.]
+> [‡ Schermata di Wave Race 64 emulato sul Galaxy Player.]
 > 
 > 
 > 
@@ -186,7 +189,8 @@ Alcune informazioni importanti sono disponibili su:
 > 
 > 
 > 
-> [‡ Memewei Memoria Piena]
+> [‡ "Schermata del P9 Lite Mini che dice che la memoria è quasi piena e ciò
+> rallenterebbe il dispositivo."]
 > 
 > 
 > 
@@ -207,6 +211,8 @@ Alcune informazioni importanti sono disponibili su:
 > cinesi
 > 
 > 
+
+Qui un po' di contesto è doveroso: questo schifo di smartphone, quando ha tipo solo ~100 MB liberi sulla memoria interna, fa uscire circa ogni 3 minuti questo popup, che fastidioso è dire poco. E credetemi, è facile riempire la memoria di uno smartphone con Android 7 che, tolto lo spazio occupato dai componenti di sistema, ha solo 7,5 GB di spazio disponibile all'utente.
 
 2019-09-16 18:24] Brick e rinascita del Galaxy Player
 
@@ -238,7 +244,9 @@ Alcune informazioni importanti sono disponibili su:
 > 
 > : Non ha quelle emoji tossiche perché ha di meglio
 > MOLTO MEGLIO
-> [‡ Galaxy Player 3.6 Notepad Emoticon Keyboard]
+> [‡ Foto del Galaxy Player che mostra la app di note, con aperta la
+> tastiera sulla scheda delle emoticon, che sono nel vecchio stile a
+> simboli, non emoji.]
 > 
 > 
 
@@ -281,13 +289,15 @@ Alcune informazioni importanti sono disponibili su:
 > 
 > 
 > : Lo riaccendo e
-> [‡ Sticker]
+> [‡ Sticker distorto di Kanna e Tohru (due loli drago) che leggono un libro
+> chiamato "Am I retarded?".]
 > 
 > 
 > 
 > : Si, perché c'era una bella schermata che diceva
-> [‡ Firmware update encountered an issue. Please select recovery mode in
-> Kies & try again.]
+> [‡ Foto del Galaxy Player che, sul bootloader, mostra un triangolo di
+> avvertimento e la scritta "Firmware update encountered an issue. Please
+> select recovery mode in Kies & try again.".]
 > 
 > 
 > 
@@ -330,7 +340,8 @@ Alcune informazioni importanti sono disponibili su:
 > 
 > : E niente sar, questo è il Lagsoong di nuovo in vita dopo un anno di coma
 > 
-> [‡ Galaxy Player 3.6 Astolfo Lockscreen]
+> [‡ Foto della schermata di blocco del Galaxy Player, con uno sfondo di
+> Astolfo non canon.]
 > 
 > 
 
