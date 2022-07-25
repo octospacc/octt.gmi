@@ -36,6 +36,6 @@ Alcune informazioni importanti sono disponibili su:
 
 Nota: I contenuti negli archivi possono aver subito redazioni non segnalate.
 
-[?] Archivi MicroBlog di Settembre 2019 - blogoctt
+[?] Archivi MicroBlog di Settembre 2019
 
-=> ../Posts/MicroBlog-Archive/2019/09/index.gmi   Archivi MicroBlog di Settembre 2019 - blogoctt
+=> ../Posts/MicroBlog-Archive/2019/09/index.gmi   Archivi MicroBlog di Settembre 2019
