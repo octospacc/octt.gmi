@@ -116,11 +116,11 @@ Come bonus, menziono anche questo altro emulatore che, cercando robe, ho scopert
 . Si fissa come obbiettivo quello di essere un emulatore veloce, ma al momento, da come ho potuto constatare e da cosa il README dice, ancora non ci siamo.
 Mi gira più o meno come l'APK di melonDS che fino ad ora ho menzionato. Spero che lo sviluppo continui e vada a buon fine, comunque, il progetto promette.
 
+Quindi, è la fine della storia? Mi devo accontentare di emulare il gioco rallentato di almeno un buon 7-10% su melonDS? Beh, in realtà, no.. forse.
+
 => https://github.com/Hydr8gon/NooDS  NooDS
 
 ## Una sola soluzione
-
-Quindi, è la fine della storia? Mi devo accontentare di emulare il gioco rallentato di almeno un buon 7-10% su melonDS? Beh, in realtà, no.. forse.
 
 Nella scena dell'emulazione NDS per Android, tutti gli emulatori di cui ho parlato fino ad ora sono in realtà i meno famosi (anche se, ultimamente, melonDS sta guadagnando terreno). Ne esiste uno molto più conosciuto, che chi almeno una volta ha provato ad emulare il DS su Android conoscerà almeno di nome.
 Insomma, parliamo un po' di Drastic
@@ -130,10 +130,10 @@ Drastic è l'emulatore del Nintendo DS più veloce esistente per Android. Non è
 Su dispositivi ancora più vecchi magari è un po' incerto, ma resta un vero miracolo. Ad esempio, guardate i video alla voce " [2019-09-17 15:16] Test più disparati con il Galaxy Player " sulla mia pagina Archivi MicroBlog di Settembre 2019
 . Assolutamente assurdo il fatto che quel dispositivo, che comprai a soli 90 euro 9 anni fa, riesca già solo in primo luogo ad emulare il DS; figuriamoci far girare in maniera ottima un gioco come Super Mario 64 DS.
 
+Dove sta l'inghippo? Eh eh, da dove iniziamo?
+
 => https://play.google.com/store/apps/details?id=com.dsemu.drastic  Drastic
 => ./MicroBlog-Archive/2019/09/index.gmi  Archivi MicroBlog di Settembre 2019
-
-Dove sta l'inghippo? Eh eh, da dove iniziamo?
 
 ### Casini in vista
 

@@ -1,0 +1,50 @@
+# sitoctt
+Alcune informazioni importanti sono disponibili su:
+=> /octt/index.gmi octocapsula/index
+
+🏠 ~Home~
+😺 Chi sono
+💰 Donazioni
+✉️ PicoBlog
+🔖️ Bacheca
+💾️ OctoSpacc Home
+🗂️ Raccolte 📓️ Blog
+🛠️ DIY
+♻️ Ecologia
+🌐️ Internet
+📝️ MicroBlog
+📱️ Mobile
+💰 Rasperino
+📡 Tecnologia
+
+=> ../index.gmi  
+=> ../Chi-Sono.gmi  
+=> ../Donazioni.gmi  
+=> ../PicoBlog.gmi  
+=> https://octtspacc.gitlab.io/bachecoctt  🔖️ Bacheca
+=> https://octospacc.gitlab.io  💾️ OctoSpacc Home
+=> ../Categories/Blog.gmi  
+=> ../Categories/DIY.gmi  
+=> ../Categories/Ecologia.gmi  
+=> ../Categories/Internet.gmi  
+=> ../Categories/MicroBlog.gmi  
+=> ../Categories/Mobile.gmi  
+=> ../Categories/Rasperino.gmi  
+=> ../Categories/Tecnologia.gmi  
+
+# Test
+
+Questo è un { Test } Testtt
+
+Link Link
+ProvaTestttProva
+
+{Test} 1 attaccato
+
+=> https://example.com  Link
+
+Testtt 2 attaccato
+
+{ Test } 1 staccato
+
+Testtt 2 staccato
