@@ -11,6 +11,7 @@ Alcune informazioni importanti sono disponibili su:
 🗂️ Raccolte 📓️ Blog
 🛠️ DIY
 ♻️ Ecologia
+🕹️ Gaming
 🌐️ Internet
 📝️ MicroBlog
 📱️ Mobile
@@ -26,6 +27,7 @@ Alcune informazioni importanti sono disponibili su:
 => Categories/Blog.gmi  
 => Categories/DIY.gmi  
 => Categories/Ecologia.gmi  
+=> Categories/Gaming.gmi  
 => Categories/Internet.gmi  
 => Categories/MicroBlog.gmi  
 => Categories/Mobile.gmi  
