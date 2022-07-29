@@ -38,8 +38,9 @@ Alcune informazioni importanti sono disponibili su:
 
 In questi giorni ho sistemato i primi affari riguardanti il rendere disponibile il sitocto sulla rete Tor. C'è chi mi definirà esagerata anche soltanto per aver avuto il pensiero di fare una cosa del genere, ma c'è poco da fare.
 Se nulla è andato storto, il servizio Onion è ancora raggiungibile a questo indirizzo: onmfrk2acl4xdeawfjg3nfepq7gcufolctmhiwwxpcknazus5bxzxhqd.onion
-(Modifica del 2022-06-29: ho cambiato il dominio per motivi estetici con questo nuovo! Info aggiuntive (ma pur sempre scarne) al post del PicoBlog
-di oggi) sitoctt2fxjvx3lc2iqqef2aeulflprjaasv2xl4zi7sxxbmvjy5b5yd.onion
+sitoctt2fxjvx3lc2iqqef2aeulflprjaasv2xl4zi7sxxbmvjy5b5yd.onion
+1
+]
 
 L'idea - apparentemente riuscita - è stata quella di utilizzare un servizio PaaS gratuito, Replit, per fare il tutto.
 In questo modo, non appesantisco ulteriormente il mio improprio server. Ormai da mesi, precisamente da inizio-metà di febbraio 2022, uso una console Switch come server per troppe cose: oltre lo storico server SpaccCraft, ho una mia istanza Matrix, qualche bot Telegram che forse è la roba che meno richiede risorse, e software minori assortiti. Si, Nintendo Switch su cui ho avviato Ubuntu..
@@ -48,7 +49,6 @@ Non vado nei dettagli, meglio farlo in un articolo a parte, ma in breve il motiv
 Questo qui è anche il primissimo post che scrivo sul blog del postocto, chissà come va e soprattutto chissà quando spunterà fuori, perché dovrei sistemare un attimo il mio generatore di siti statici per poter gestire le pagine come questa che, anziché comuni pagine, dovrebbero essere trattate come sottopagine della pagina "Blog" (autogenerata).
 
 => http://onmfrk2acl4xdeawfjg3nfepq7gcufolctmhiwwxpcknazus5bxzxhqd.onion  onmfrk2acl4xdeawfjg3nfepq7gcufolctmhiwwxpcknazus5bxzxhqd.onion
-=> ../PicoBlog.gmi  PicoBlog
 => http://sitoctt2fxjvx3lc2iqqef2aeulflprjaasv2xl4zi7sxxbmvjy5b5yd.onion  sitoctt2fxjvx3lc2iqqef2aeulflprjaasv2xl4zi7sxxbmvjy5b5yd.onion
 
 ## Come?
@@ -99,3 +99,10 @@ A dire il vero, io starei quindi sbagliando ad usare una macchina altrui per osp
 Tor non è assolutamente perfetto: ha delle falle di vario tipo, in genere basate sulla deanonimizzazione degli utenti perché è quello che interessa alle agenzie a 3 lettere, ma parliarmoci chiaramente: è un passo avanti per avere più protezione, e sicuramente è un enorme passo in avanti verso la sicurezza dei dati, in una maniera che fa si che la comunicazione tra client e server sia sicura soltanto quanto server e client, senza preoccuparsi delle minuzie introdotte da alcuna terza parte.
 
 Il fatto che Tor sia economicamente supportato almeno in parte dal governo statunitense comunque, senza scendere troppo nei dettagli, comporta forse alcune implicazioni profonde pericolose. Per questo voglio, più o meno a breve, dare una chance a servizi simili a Tor ma diversi da esso. Lokinet mi ispira, a dire la verità, penso sarà la prima rete alternativa che proverò.
+
+## 🏷️ Note/Riferimenti
+
+Aggiornamento del 2022-06-29 : ho cambiato il dominio per motivi estetici con questo nuovo! Info aggiuntive (ma pur sempre scarne) al post del PicoBlog
+di oggi). ↩
+
+=> ../PicoBlog.gmi  PicoBlog
