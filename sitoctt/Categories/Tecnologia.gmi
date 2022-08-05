@@ -13,8 +13,9 @@ Alcune informazioni importanti sono disponibili su:
 ♻️ Ecologia
 🕹️ Gaming
 🌐️ Internet
-📝️ MicroBlog
+📒 MicroBlog
 📱️ Mobile
+📝️ Note
 💰 Rasperino
 📡 Tecnologia
 
@@ -31,6 +32,7 @@ Alcune informazioni importanti sono disponibili su:
 => ../Categories/Internet.gmi  
 => ../Categories/MicroBlog.gmi  
 => ../Categories/Mobile.gmi  
+=> ../Categories/Note.gmi  
 => ../Categories/Rasperino.gmi  
 => ../Categories/Tecnologia.gmi  
 

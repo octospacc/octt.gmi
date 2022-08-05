@@ -36,8 +36,8 @@ Alcune informazioni importanti sono disponibili su:
 => ../Categories/Rasperino.gmi  
 => ../Categories/Tecnologia.gmi  
 
-# 📱️ Mobile
-Posts
-2022-07-03] ⌨️ L'idea di una tastiera fisica per smartphone fatta in casa - blogoctt
+# 📝️ Note
+Linux
+2022-08-05] Evitare di richiamare comandi per sbaglio nel terminale
 
-=> ../Posts/2022-07-03-0000-L-Idea-di-una-Tastiera-Fisica-per-Smartphone-Fatta-in-Casa.gmi
+=> ../Posts/Notes/Linux/2022-08-05-Evitare-Comandi-Richiamati-Per-Sbaglio.gmi   Evitare di richiamare comandi per sbaglio nel terminale
