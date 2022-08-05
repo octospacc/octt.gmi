@@ -11,6 +11,7 @@ Alcune informazioni importanti sono disponibili su:
 🗂️ Raccolte 📓️ Blog
 🛠️ DIY
 ♻️ Ecologia
+🦄 Fritto Misto
 🕹️ Gaming
 🌐️ Internet
 📒 MicroBlog
@@ -28,6 +29,7 @@ Alcune informazioni importanti sono disponibili su:
 => Categories/Blog.gmi  
 => Categories/DIY.gmi  
 => Categories/Ecologia.gmi  
+=> Categories/Fritto-Misto.gmi  
 => Categories/Gaming.gmi  
 => Categories/Internet.gmi  
 => Categories/MicroBlog.gmi  

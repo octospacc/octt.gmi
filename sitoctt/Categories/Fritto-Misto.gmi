@@ -38,10 +38,7 @@ Alcune informazioni importanti sono disponibili su:
 => ../Categories/Rasperino.gmi  
 => ../Categories/Tecnologia.gmi  
 
-# 📒 MicroBlog
+# 🦄 Fritto Misto
+Fritto-Misto Raccolta Cose a Caso
 
-Nota: I contenuti negli archivi possono aver subito redazioni non segnalate.
-
-[?] Archivi MicroBlog di Settembre 2019
-
-=> ../Posts/MicroBlog-Archive/2019/09/index.gmi   Archivi MicroBlog di Settembre 2019
+=> ../Raccolte/Fritto-Misto/Raccolta-Cose-A-Caso.gmi   Raccolta Cose a Caso
