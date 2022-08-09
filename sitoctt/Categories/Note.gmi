@@ -40,6 +40,8 @@ Alcune informazioni importanti sono disponibili su:
 
 # 📝️ Note
 Linux
+2022-08-09] Controllare statistiche interessanti e sulla salute di partizioni su Linux
 2022-08-05] Evitare di richiamare comandi per sbaglio nel terminale
 
+=> ../Posts/Notes/Linux/2022-08-09-Controllare-Statistiche-Interessanti-Partizioni-Linux.gmi   Controllare statistiche interessanti e sulla salute di partizioni su Linux
 => ../Posts/Notes/Linux/2022-08-05-Evitare-Comandi-Richiamati-Per-Sbaglio.gmi   Evitare di richiamare comandi per sbaglio nel terminale
