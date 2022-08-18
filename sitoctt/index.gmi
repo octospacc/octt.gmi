@@ -69,9 +69,9 @@ Il sito Web non usa alcuno script client-side per le funzioni di base, perché n
 Ad ogni modo, però.. per fornire alcune funzionalità extra, devo per forza avere del JS, c'è poco da fare. Qui sotto, la lista di cosa uso. Tutti i file sono caricati dai server del mio sito, quindi è difficile che enti malevoli possano nasconderci malware dentro.
 
 Lista di script client-side usati nel sito Web (Espandi)
-Script interni scritti da me: per gestire la notifica sulla privacy Polyfill per supportare le immagini AVIF su vecchi browser: avif.js di Kagami
+Script interni scritti da me: per gestire la notifica sulla privacy (Disattivato, non serve al momento) Polyfill per supportare le immagini AVIF su vecchi browser: avif.js di Kagami
 (Non ancora attivato, lo sarà a breve) Sistema di distribuzione P2P dei file del sito a carico dei visitatori: Planktos di xuset
-(Attivo per la fase di test)
+(Disattivato, si è dimostrato non funzionante)
 
 Di seguito, metto la mia classifica dei possibili modi per visualizzare questo sito, dal migliore al peggiore. Per standardizzazione, tutti presuppongono supporto completo ai colori.
 
