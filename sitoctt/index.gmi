@@ -54,7 +54,9 @@ Se preferisci, puoi chiamarlo sitocto. O anche postoctt! È pur sempre un posto 
 ## Stato del sito e come navigare
 
 Nonostante abbia già un po' più di sostanza, tutto questo ambaradan è ancora pesantemente in costruzione. E lo sarà per sempre, perché avrò sempre roba nuova da condividere. E, quando sarò morta, sarà comunque non finito perché nella mia vita non avrò scritto tutto lo scibile universale teoricamente possibile sul sitoctt.
-Gli aggiornamenti sono continui e avvengono senza preavviso, quindi dovresti rivisitare questo sito almeno qualche volta a settimana se ti interessano le novità sempre fresche.
+Gli aggiornamenti al sito sono di diverso tipo: la pubblicazione di nuovi articoli di blog succede, boh, 3 volte al mese, è una buona idea usare i feed
+che metto a disposizione; le modifiche per pagine normali sono continue e avvengono a caso, quindi dovresti controllare magari ogni settimana quelle che ti interessano, se ti aspetti novità.
+
 Ah, non so se hai notato, ma (da Web) negli angoli in alto dello schermo ci sono dei tastini. Lo sto scrivendo perché ho paura non si capisca, che devo fare... Vabbe, se premi lì puoi accedere ai menu ad albero, rispettivamente delle pagine del sito a sinistra (📚), e delle sezioni della pagina a destra (📑). Quello di sinistra soprattutto è importante per navigare il sito.
 
 A tal proposito, per la migliore esperienza DEVI usare un browser con supporto almeno a CSS3 e alle immagini in formato AVIF. Se usi un browser antico ti garantisco che troverai troppa roba rotta (ma comunque il sito sarà navigabile lo stesso).
@@ -69,9 +71,8 @@ Il sito Web non usa alcuno script client-side per le funzioni di base, perché n
 Ad ogni modo, però.. per fornire alcune funzionalità extra, devo per forza avere del JS, c'è poco da fare. Qui sotto, la lista di cosa uso. Tutti i file sono caricati dai server del mio sito, quindi è difficile che enti malevoli possano nasconderci malware dentro.
 
 Lista di script client-side usati nel sito Web (Espandi)
-Script interni scritti da me: per gestire la notifica sulla privacy (Disattivato, non serve al momento) Polyfill per supportare le immagini AVIF su vecchi browser: avif.js di Kagami
-(Non ancora attivato, lo sarà a breve) Sistema di distribuzione P2P dei file del sito a carico dei visitatori: Planktos di xuset
-(Disattivato, si è dimostrato non funzionante)
+Script interni scritti da me: Al momento, nessuno attivo! Polyfill per supportare le immagini AVIF su vecchi browser: avif.js di Kagami
+(Non ancora attivato, lo sarà a breve)
 
 Di seguito, metto la mia classifica dei possibili modi per visualizzare questo sito, dal migliore al peggiore. Per standardizzazione, tutti presuppongono supporto completo ai colori.
 
@@ -79,7 +80,6 @@ Di seguito, metto la mia classifica dei possibili modi per visualizzare questo s
 
 => Posts/2022-06-14-0000-I-Documenti-Non-Devono-Diventare-Applicazioni.gmi  
 => https://github.com/Kagami/avif.js  avif.js di Kagami
-=> https://github.com/xuset/planktos  Planktos di xuset
 
 ## Ma di che si tratta?
 
