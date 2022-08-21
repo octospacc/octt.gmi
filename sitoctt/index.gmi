@@ -155,7 +155,7 @@ Inoltre, se usi una qualunque piattaforma del Fediverso ActivityPub (Mastodon, P
 
 ### Licenze dei contenuti
 
-Tutto il contenuto presente su questo sito che ho creato io (i miei testi, media originali, e maggior parte del codice sorgente) è rilasciato sotto licenza CC BY-SA 4.0
+Tutto il contenuto presente su questo sito che ho creato io (i miei testi, media originali, e maggior parte del codice sorgente) è rilasciato sotto licenza "Creative Commons Attribuzione - Condividi allo stesso modo 4.0 Internazionale" (CC BY-SA 4.0)
 , una licenza libera che promuove la condivisione, e non intacca i legittimi diritti alla cultura e la collaborazione dell'umanità in generale.
 
 Sono presenti, però, anche contenuti non miei.
@@ -165,7 +165,7 @@ Occhio, che i crediti per le cosine HTML e CSS spesso li lascio soltanto nei sor
 Comunque, ho pensato di creare una sezione della pagina qui sotto
 , dedicata a crediti speciali (che compilo quando mi ricordo).
 
-=> https://creativecommons.org/licenses/by-sa/4.0/deed.it  CC BY-SA 4.0
+=> https://creativecommons.org/licenses/by-sa/4.0/deed.it  "Creative Commons Attribuzione - Condividi allo stesso modo 4.0 Internazionale" (CC BY-SA 4.0)
 
 ### Codice sorgente
 
@@ -193,7 +193,7 @@ Quelli del mio generatore, anche questo rilasciato sotto una licenza libera, la 
 ### Crediti speciali
 Lista di crediti e ringraziamenti speciali a chi ho preso materiale in prestito (Espandi)
 Lista di script client-side
-del sito Web Titolo animato ad onda: Waaaves di jh3y
+, tra cui alcuni di terzi Titolo animato ad onda: Waaaves di jh3y
 Famiglia caratteri: Space Mono di Colophon Foundry
 Pacchetto emoji CSS: Twemoji di Twitter
 , via Twemoji-Amazing di SebastianAigner
@@ -209,14 +209,10 @@ Alcuni bottoni 88x31: 88x31 GIF Collection di cyber.dabamos.de
 
 Se dei link tra questi sotto non funzionano, vuol dire che chi amministra i ring non ha ancora accettato il mio sito negli stessi.
 L'attesa sta uccidendo più me che te, fidati.
+O, magari, si tratta di un problema temporaneo.
 
 ←
 Fediring
-[🎲]
-→
-
-←
-Yesterweb
 [🎲]
 →
 
@@ -224,7 +220,3 @@ Yesterweb
 => https://fediring.net/  Fediring
 => https://fediring.net/random  [🎲]
 => https://fediring.net/next?host=sitoctt.octt.eu.org  →
-=> https://webring.yesterweb.org/noJS/index.php?d=prev&url=https://sitoctt.octt.eu.org/  ←
-=> https://yesterweb.org/webring/  Yesterweb
-=> https://webring.yesterweb.org/noJS/index.php?d=rand&url=https://sitoctt.octt.eu.org/  [🎲]
-=> https://webring.yesterweb.org/noJS/index.php?d=next&url=https://sitoctt.octt.eu.org/  →
