@@ -52,19 +52,20 @@ Seguono i codici HTML che puoi copiare e incollare.
 (Sono formattati in maniera particolare perché l'andare a capo può causare problemi di spaziatura nella visualizzazione; l'unica alternativa a ciò che ho fatto sarebbe di lasciare tutto su una sola riga.)
 
 Link testuale:
-✨ sitoctt ✨
+✨sitoctt✨
 
 ```
 
 <a
    href="https://sitoctt.octt.eu.org"
    target="_blank" rel="noopener nofollow"
->✨ sitoctt ✨</a>
+>✨sitoctt✨</a>
 
 ```
 
 Link con immagine (Nota: sarebbe meglio se scarichi l'immagine e la ricarichi sul tuo server, cambiando l'URL nel codice di conseguenza, anziché usare il mio URL) :
-[‡ ✨ sitoctt ✨]
+[‡ ✨sitoctt✨]
+L'immagine è in formato PNG e già compressa il più possibile.
 
 ```
 
@@ -73,8 +74,8 @@ Link con immagine (Nota: sarebbe meglio se scarichi l'immagine e la ricarichi su
    target="_blank" rel="noopener nofollow"
 ><img
    style="image-rendering:pixelated; -ms-interpolation-mode:nearest-neighbor;"
-   alt="✨ sitoctt ✨" title="✨ sitoctt ✨"
-   src="https://octtspacc.gitlab.io/sitoctt-assets/Buttons/Sites/Sitoctt-1.png"
+   alt="✨sitoctt✨" title="✨sitoctt✨"
+   src="https://octtspacc.gitlab.io/sitoctt-assets/Media/Buttons/Sites/sitoctt-1.png"
 ></a>
 
 ```
