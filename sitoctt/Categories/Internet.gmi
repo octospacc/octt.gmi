@@ -2,3 +2,48 @@
 Alcune informazioni importanti sono disponibili su:
 => /octt/index.gmi octocapsula/index
 
+🏠 ~Home~
+😺 Chi sono
+💰 Donazioni
+✉️ PicoBlog
+🔖️ Bacheca
+💾️ OctoSpacc Home
+🗂️ Raccolte 📓️ Blog
+🛠️ DIY
+♻️ Ecologia
+🦄 Fritto Misto
+🕹️ Gaming
+🌐️ Internet
+📒 MicroBlog
+📱️ Mobile
+📝️ Note
+💰 Rasperino
+📡 Tecnologia
+
+=> ../index.gmi  
+=> ../Chi-Sono.gmi  
+=> ../Donazioni.gmi  
+=> ../PicoBlog.gmi  
+=> https://octtspacc.gitlab.io/bachecoctt  🔖️ Bacheca
+=> https://octospacc.gitlab.io  💾️ OctoSpacc Home
+=> ../Categories/Blog.gmi  
+=> ../Categories/DIY.gmi  
+=> ../Categories/Ecologia.gmi  
+=> ../Categories/Fritto-Misto.gmi  
+=> ../Categories/Gaming.gmi  
+=> ../Categories/Internet.gmi  
+=> ../Categories/MicroBlog.gmi  
+=> ../Categories/Mobile.gmi  
+=> ../Categories/Note.gmi  
+=> ../Categories/Rasperino.gmi  
+=> ../Categories/Tecnologia.gmi  
+
+# 🌐️ Internet
+Internet Raccolta Siti Internet
+Posts
+2022-06-14] 📄 I documenti non devono diventare applicazioni - blogoctt
+2022-06-03] 🌐️ Come e perché il sitoctt su Tor? - blogoctt
+
+=> ../Raccolte/Internet/Raccolta-Siti-Internet.gmi  Raccolta Siti Internet
+=> ../Posts/2022-06-14-0000-I-Documenti-Non-Devono-Diventare-Applicazioni.gmi  
+=> ../Posts/2022-06-03-0000-Come-e-Perche-il-Sitoctt-su-Tor.gmi

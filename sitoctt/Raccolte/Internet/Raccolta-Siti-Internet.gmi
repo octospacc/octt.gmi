@@ -2,3 +2,143 @@
 Alcune informazioni importanti sono disponibili su:
 => /octt/index.gmi octocapsula/index
 
+🏠 ~Home~
+😺 Chi sono
+💰 Donazioni
+✉️ PicoBlog
+🔖️ Bacheca
+💾️ OctoSpacc Home
+🗂️ Raccolte 📓️ Blog
+🛠️ DIY
+♻️ Ecologia
+🦄 Fritto Misto
+🕹️ Gaming
+🌐️ Internet
+📒 MicroBlog
+📱️ Mobile
+📝️ Note
+💰 Rasperino
+📡 Tecnologia
+
+=> ../../index.gmi  
+=> ../../Chi-Sono.gmi  
+=> ../../Donazioni.gmi  
+=> ../../PicoBlog.gmi  
+=> https://octtspacc.gitlab.io/bachecoctt  🔖️ Bacheca
+=> https://octospacc.gitlab.io  💾️ OctoSpacc Home
+=> ../../Categories/Blog.gmi  
+=> ../../Categories/DIY.gmi  
+=> ../../Categories/Ecologia.gmi  
+=> ../../Categories/Fritto-Misto.gmi  
+=> ../../Categories/Gaming.gmi  
+=> ../../Categories/Internet.gmi  
+=> ../../Categories/MicroBlog.gmi  
+=> ../../Categories/Mobile.gmi  
+=> ../../Categories/Note.gmi  
+=> ../../Categories/Rasperino.gmi  
+=> ../../Categories/Tecnologia.gmi  
+
+# Raccolta Siti Internet
+
+Una raccolta dedicata ad alcuni siti Internet carini (non solo web!), di varie tipologie, che trovo in giro o appartengono a persone che conosco.
+
+A parte la divisione in categorie, non c'e alcun ordine particolare.
+Le bandiere di nazione (emoji, forse non visibili su browser antichi) accanto ai nomi indicano le lingue primarie dei contenuti del sito.
+
+### Attenzione
+
+Oh voi persone che fate i sitarelli, mannaggia, non mettete cose importanti nell'infernale tag <marquee>, che non si legge niente e fa il mal di testa!
+
+## Il mio..
+
+Se il mio sito ti piace, e ne hai anche tu uno con una pagina simile a questa lista dove vuoi consigliarlo, puoi linkarlo, come link testuale o anche come bottone 88x31!
+Seguono i codici HTML che puoi copiare e incollare.
+(Sono formattati in maniera particolare perché l'andare a capo può causare problemi di spaziatura nella visualizzazione; l'unica alternativa a ciò che ho fatto sarebbe di lasciare tutto su una sola riga.)
+
+Link testuale:
+✨sitoctt✨
+
+```
+
+<a
+   href="https://sitoctt.octt.eu.org"
+   target="_blank" rel="noopener nofollow"
+>✨sitoctt✨</a>
+
+```
+
+Link con immagine (Nota: sarebbe meglio se scarichi l'immagine e la ricarichi sul tuo server, cambiando l'URL nel codice di conseguenza, anziché usare il mio URL) :
+[‡ ✨sitoctt✨]
+L'immagine è in formato PNG e già compressa il più possibile.
+
+```
+
+<a
+   href="https://sitoctt.octt.eu.org"
+   target="_blank" rel="noopener nofollow"
+><img
+   style="image-rendering:pixelated; -ms-interpolation-mode:nearest-neighbor;"
+   alt="✨sitoctt✨" title="✨sitoctt✨"
+   src="https://octtspacc.gitlab.io/sitoctt-assets/Media/Buttons/Sites/sitoctt-1.png"
+></a>
+
+```
+
+## Personali
+
+🇬🇧 Ledomsoft
+Sito resuscitato da archivi dell'autore di più di un decennio fa, programmato come si faceva ai tempi. Bello colorato con GIF e tutto, ma moderato, non senza ritegno.
+Clearweb: ledomsoft.com
+
+🇮🇹 Il covo di Thushi
+Sito ultraminimale, nessuna grafica (:'c), ma bello schema di (3) colori e bei contenuti.
+Onion web: m4vojazxsxvaxfoeklmq6na546fd5hjyo3zrgeq45cixdfm6kodkhdid.onion
+
+🇮🇹 Arcisito
+Come si può leggere dal nome del sito e dal dominio, è il sito di Arci (o anche Aurora). Lo ha messo in piedi oggi (2022-06-30), dopo che ha detto di non sapere cosa fare con tutto il tempo libero estivo, e io le ho detto "fai l'Arcisito".
+Clearweb: arci.me
+
+=> https://ledomsoft.com  ledomsoft.com
+=> http://m4vojazxsxvaxfoeklmq6na546fd5hjyo3zrgeq45cixdfm6kodkhdid.onion  m4vojazxsxvaxfoeklmq6na546fd5hjyo3zrgeq45cixdfm6kodkhdid.onion
+=> https://arci.me  arci.me
+
+🇬🇧 🇮🇹 astral town
+[‡ serimemo]
+Sito colorato e accogliente, boh non c'è altro da dire.
+Clearweb: astral.town
+
+🇮🇹 Officina di Ribby
+Il tema di questo sito mi da davvero una sensazione di officina, per così dire. Pochi fronzoli ma ha un suo stile, e la sua divisione in categorie è stata di parziale ispirazione per ciò che ho sul mio sito ora.
+Clearweb: officinadiribby.altervista.org
+
+🇬🇧 daedalOS
+I visualizzatori di documenti (browser) Web moderni sono una piattaforma eccessiva, dove cose assurde possono essere realizzate. Come un vero sistema operativo (libero), creato da Dustin Brett, per portfolio. Pazzia.
+Clearweb: dustinbrett.com
+
+🇬🇧 Fra/Website
+Più che un sito, una demo JavaScript con una lista di link e cose così, ma è unica. Non dico altro, meglio vedere di persona!
+Clearweb: francescomasala.me
+
+=> https://astral.town  astral.town
+=> https://officinadiribby.altervista.org  officinadiribby.altervista.org
+=> https://dustinbrett.com  dustinbrett.com
+=> https://francescomasala.me  francescomasala.me
+
+## Miscellanea
+
+🇬🇧 The Yesterweb
+[‡ Yesterweb]
+Sito collettivo che rimanda, concettualmente e visivamente, al Web dei giorni passati e ai suoi lati migliori, verso cui promuove di tornare.
+Clearweb: yesterweb.org
+
+🇬🇧 XXIIVV
+Non ho ben capito cosa sia questo sito, a cosa serve, chi lo gestisce, e tutto il resto. Però ha delle belle grafiche e mi piace.
+Clearweb: xxiivv.com
+
+🇬🇧 OpenBooks
+Movimento, e libreria di siti e risorse, che promuove una rinascita in chiave moderna del Web personale. Il sito ha persino una bella grafica.
+Clearweb: openbooks.neocities.org
+
+=> https://yesterweb.org  yesterweb.org
+=> https://xxiivv.com  xxiivv.com
+=> https://openbooks.neocities.org  openbooks.neocities.org

@@ -2,3 +2,40 @@
 Alcune informazioni importanti sono disponibili su:
 => /octt/index.gmi octocapsula/index
 
+🏠 ~Home~
+😺 Chi sono
+💰 Donazioni
+✉️ PicoBlog
+🔖️ Bacheca
+💾️ OctoSpacc Home
+🗂️ Raccolte 📓️ Blog
+🛠️ DIY
+♻️ Ecologia
+🦄 Fritto Misto
+🕹️ Gaming
+🌐️ Internet
+📒 MicroBlog
+📱️ Mobile
+📝️ Note
+💰 Rasperino
+📡 Tecnologia
+
+=> ../index.gmi  
+=> ../Chi-Sono.gmi  
+=> ../Donazioni.gmi  
+=> ../PicoBlog.gmi  
+=> https://octtspacc.gitlab.io/bachecoctt  🔖️ Bacheca
+=> https://octospacc.gitlab.io  💾️ OctoSpacc Home
+=> ../Categories/Blog.gmi  
+=> ../Categories/DIY.gmi  
+=> ../Categories/Ecologia.gmi  
+=> ../Categories/Fritto-Misto.gmi  
+=> ../Categories/Gaming.gmi  
+=> ../Categories/Internet.gmi  
+=> ../Categories/MicroBlog.gmi  
+=> ../Categories/Mobile.gmi  
+=> ../Categories/Note.gmi  
+=> ../Categories/Rasperino.gmi  
+=> ../Categories/Tecnologia.gmi  
+
+# 🗂️ Raccolte
