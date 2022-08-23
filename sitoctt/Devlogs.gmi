@@ -5,6 +5,7 @@ Alcune informazioni importanti sono disponibili su:
 🏠 ~Home~
 😺 Chi sono
 💰 Donazioni
+💾 Devlogs
 ✉️ PicoBlog
 🔖️ Bacheca
 💾️ OctoSpacc Home
@@ -23,6 +24,7 @@ Alcune informazioni importanti sono disponibili su:
 => index.gmi  
 => Chi-Sono.gmi  
 => Donazioni.gmi  
+=> Devlogs.gmi  
 => PicoBlog.gmi  
 => https://octtspacc.gitlab.io/bachecoctt  🔖️ Bacheca
 => https://octospacc.gitlab.io  💾️ OctoSpacc Home
@@ -36,4 +38,13 @@ Alcune informazioni importanti sono disponibili su:
 => Categories/Mobile.gmi  
 => Categories/Note.gmi  
 => Categories/Rasperino.gmi  
-=> Categories/Tecnologia.gmi
+=> Categories/Tecnologia.gmi  
+
+# 💾 Devlogs
+
+Come brevemente raccontato sul mio PicoBlog il 2022-08-23
+, in questa pagina terrò una specie di diario riguardo tutte le cose che sviluppo.
+
+Si inizierà a riempire in poco tempo, non ti crucciare xd
+
+=> ./PicoBlog.gmi#-2022-08-23-Devlogs-summary  sul mio PicoBlog il 2022-08-23

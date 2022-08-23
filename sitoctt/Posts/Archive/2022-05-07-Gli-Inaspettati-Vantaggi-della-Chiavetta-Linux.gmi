@@ -5,6 +5,7 @@ Alcune informazioni importanti sono disponibili su:
 🏠 ~Home~
 😺 Chi sono
 💰 Donazioni
+💾 Devlogs
 ✉️ PicoBlog
 🔖️ Bacheca
 💾️ OctoSpacc Home
@@ -27,6 +28,7 @@ I motivi per cui ho voluto farlo inizialmente sono forse semplici e banali, ma l
 => ../../index.gmi  
 => ../../Chi-Sono.gmi  
 => ../../Donazioni.gmi  
+=> ../../Devlogs.gmi  
 => ../../PicoBlog.gmi  
 => https://octtspacc.gitlab.io/bachecoctt  🔖️ Bacheca
 => https://octospacc.gitlab.io  💾️ OctoSpacc Home
