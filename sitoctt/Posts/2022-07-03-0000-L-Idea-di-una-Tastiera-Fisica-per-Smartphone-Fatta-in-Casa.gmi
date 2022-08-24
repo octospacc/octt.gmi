@@ -40,7 +40,8 @@ Alcune informazioni importanti sono disponibili su:
 => ../Categories/Rasperino.gmi  
 => ../Categories/Tecnologia.gmi  
 
-# ⌨️ L'idea di una tastiera fisica per smartphone fatta in casa
+# >>
+⌨️ L'idea di una tastiera fisica per smartphone fatta in casa
 
 Forse un annetto fa, un po' per curiosità e un po' perché immaginavo già che potrebbe essere stato qualcosa di comodo, ho sviluppato un marginale interesse per gli smartphone dotati di tastiere fisiche complete.
 
@@ -50,7 +51,8 @@ Più gli smartphone hanno iniziato a diffondersi, e più le tastiere fisiche han
 
 Non ricordo se questo periodo dell'anno scorso era di poco prima o poco dopo aver comprato un nuovo smartphone, il mio corrente ad oggi; fatto sta che ho dovuto sceglierlo in base a criteri precisi e restrittivi, in primis il costo e, purtroppo, non c'era alcun basso di gamma con una tastiera fisica.
 
-## Un nuovo spunto
+## >>
+Un nuovo spunto
 
 Con il tempo che passava ho un po' dimenticato la questione, fino a che, qualche settimana fa, mi imbatto in un video su Invidious (YouTube/JXdLzinnqms
 ) che mostra una modifica fatta in casa ad uno smartphone.
@@ -66,7 +68,8 @@ Un affare, e quindi ho comprato.
 
 [‡ Il fronte della mini tastiera]
 
-## Dopo l'acquisto
+## >>
+Dopo l'acquisto
 
 A casa l'ho messa un po' a caricare e l'ho provata al volo. Che dire, funzionava e la sensazione di quando si digita non l'ho trovata male, nonostante parliamo di una tastiera a membrana.
 Tutto benissimo quindi.
@@ -75,7 +78,8 @@ O così sembrava.
 La mattina dopo, provo di nuovo ad accendere il bell'oggettino, per fare altre prove. Non si accende. Che? Come? Rimetto in carica la tastiera, e in effetti dopo due minuti funziona.
 Che strano, eppure l'ho tenuta in carica per ore il giorno prima. Magari non si è caricata bene dalla porta del mio PC, quindi anche questo giorno la tastiera resta in carica, stavolta dal blocco che uso per cellulare e altri dispositivi.
 
-### Investigare sulle stranezze
+### >>
+Investigare sulle stranezze
 
 La mattina dopo, stessa questione. Qualquadra non cosa, è evidente che la batteria subisce un drenaggio pesante, dal nulla, per qualche motivo. Per la cronaca, la tastiera ha un interruttore fisico, che non ho mai dimenticato di spegnere dopo aver riposto la tastiera.. tutto molto strano.
 Decido di farla caricare un po', per poi smontarla, e misurare con un multimetro la tensione della batteria al litio saldata alla scheda, che noto scendere di 0.01V ogni 10 secondi circa. Oh.
@@ -89,7 +93,8 @@ Giurerei che la tastiera stessa sia anche più vecchia, considerando i richiami 
 
 [‡ Scansioni di alcune parti del retro della scatola e delle istruzioni, contenenti rimandi a cose vecchie.]
 
-## Fine bruttina
+## >>
+Fine bruttina
 
 Che dire. Avrei forse dovuto aspettarmelo un problema del genere? Forse si. Sicuramente, però, dubito che altre persone al posto mio se lo sarebbero aspettato.
 Per finire, l'unica cosa che posso dire è che questo articolo non sarebbe dovuto uscire; o meglio, non con questa fine. Avrei dovuto parlare del Prototipo 0, già realizzato, del mio supporto per smartphone che aggiunge questa tastiera piccina, ma, purtroppo, sento di non aver avuto modo di testarlo abbastanza.

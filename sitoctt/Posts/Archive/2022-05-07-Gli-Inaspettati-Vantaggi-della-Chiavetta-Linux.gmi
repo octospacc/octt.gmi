@@ -44,7 +44,8 @@ I motivi per cui ho voluto farlo inizialmente sono forse semplici e banali, ma l
 => ../../Categories/Rasperino.gmi  
 => ../../Categories/Tecnologia.gmi  
 
-### Perché serviva la pennetta?
+### >>
+Perché serviva la pennetta?
 
 La necessità iniziale della chiavina scaturì mesi fa dal fatto che, in aula di informatica a scuola, dovevo, come tutti, accedere al mio account GSuite per accedere alla classe virtuale di informatica. Questa cosa, apparentemente semplice, celava nel mio caso due ostacoli:
 
@@ -54,7 +55,8 @@ Avrei potuto usare una pennetta qualunque, con su scaricato un browser per Windo
 Avrei potuto, ma non sarebbe stato divertente.
 Ed è qui che è saltata fuori l'idea della chiave con su un intero sistema operativo, avviabile su qualsiasi PC x86_64, in modo totalmente indipendente dal disco interno del PC in questione.
 
-### Scelta dell'hardware
+### >>
+Scelta dell'hardware
 
 Per prima cosa, ho pensato alla memoria che avrei utilizzato.
 
@@ -66,7 +68,8 @@ Insomma, prendo la fidata pennina USB 2.0 da 2 GB, color menta (sarebbe perfetta
 
 [‡ Foto della chiavina USB che ho dedicato a Linux.]
 
-### Scelta del software
+### >>
+Scelta del software
 
 Una volta scelta la chiavettina, rimane la scelta della distribuzione Linux, forse anche più importante.
 
@@ -108,7 +111,8 @@ e ZSTD
 => https://en.m.wikipedia.org/wiki/LZ4_(compression_algorithm)  LZ4
 => https://en.m.wikipedia.org/wiki/Zstd  ZSTD
 
-### Ad oggi
+### >>
+Ad oggi
 
 Puppy è la distribuzione che tutt’ora ho sulla chiavetta.
 Eccetto che per qualche problema minore (tipo: come cavolo faccio a collegare una tastiera Bluetooth??? e boh, tanto ora non mi serve più), funziona molto bene ed è veloce in tutto.
@@ -125,7 +129,8 @@ Crediti sfondo: pixelartmaker.com/art/becdd8955dc57eb
 => https://en.m.wikipedia.org/wiki/JWM  JWM
 => http://pixelartmaker.com/art/becdd8955dc57eb  pixelartmaker.com/art/becdd8955dc57eb
 
-### Vantaggi importanti
+### >>
+Vantaggi importanti
 
 Bene, con questa magica pennettina quindi ho risolto il problema dell’accesso a Google, ma continuerei ad usarla anche se non mi servisse più a ciò.
 I motivi, tutti vantaggi d'importanza, sono i seguenti; alcuni riguardano le live Linux in generale (anche quelle amnesiche), altri si applicano solo ai sistemi persistenti come il mio - tutti, comunque, sono rilevanti quando si usa un PC pubblico:
@@ -139,7 +144,8 @@ a livello di sistema, al contrario di Linux), dovrebbero funzionare sempre! Ho u
 => https://element.io  Element
 => https://en.m.wikipedia.org/wiki/Mesa_(computer_graphics)  Mesa
 
-### Alcuni approfondimenti
+### >>
+Alcuni approfondimenti
 
 Posso concludere dicendo: adottate anche voi una pennettina Linux persistente, se a volte utilizzate PC non vostri, non ve ne pentirete! In verità, vi dico, fatelo anche solo per lo sfizio, se avete qualche penna USB in disuso in un cassetto :)
 
@@ -159,7 +165,8 @@ Slax
 => https://antixlinux.com  antiX
 => https://slax.org  Slax
 
-### 🏷️ Note/Riferimenti
+### >>
+🏷️ Note/Riferimenti
 
 Aggiornamento del 2022-08-13 : Ho importato questo articolo dal mio vecchio blog (https://noblogo.org/loli-documentatrice/gli-inaspettati-vantaggi-della-chiavetta-linux
 ), per preservarlo meglio e per testare alcune cose. Ne ho approfittato per, oltre a migliorare la formattazione, cambiare in parte la forma di alcune frasi. Il contenuto resta praticamente uguale. ↩

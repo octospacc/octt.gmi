@@ -40,7 +40,9 @@ Alcune informazioni importanti sono disponibili su:
 => ../../../../Categories/Rasperino.gmi  
 => ../../../../Categories/Tecnologia.gmi  
 
-## Archivi MicroBlog di Settembre 2019
+## >>
+Archivi MicroBlog di Settembre 2019
+>>
 2019-09-18 20:58] Lagwei lazur
 
 > 
@@ -80,6 +82,7 @@ Alcune informazioni importanti sono disponibili su:
 > 
 > 
 
+>>
 2019-09-17 15:16] Test più disparati con il Galaxy Player
 
 > 
@@ -231,6 +234,7 @@ Alcune informazioni importanti sono disponibili su:
 > 
 > 
 
+>>
 2019-09-16 18:35] Memewei memoria piena
 
 > 
@@ -261,6 +265,7 @@ Alcune informazioni importanti sono disponibili su:
 
 Qui un po' di contesto è doveroso: questo schifo di smartphone, quando ha tipo solo ~100 MB liberi sulla memoria interna, fa uscire circa ogni 3 minuti questo popup, che fastidioso è dire poco. E credetemi, è facile riempire la memoria di uno smartphone con Android 7 che, tolto lo spazio occupato dai componenti di sistema, ha solo 7,5 GB di spazio disponibile all'utente.
 
+>>
 2019-09-16 18:24] Brick e rinascita del Galaxy Player
 
 > 
@@ -392,6 +397,7 @@ Qui un po' di contesto è doveroso: questo schifo di smartphone, quando ha tipo 
 > 
 > 
 
+>>
 2019-09-16 18:14] L'inizio di OctoVoLTE
 
 > 

@@ -40,7 +40,8 @@ Alcune informazioni importanti sono disponibili su:
 => Categories/Rasperino.gmi  
 => Categories/Tecnologia.gmi  
 
-# 💰 Donazioni
+# >>
+💰 Donazioni
 
 Mi hanno detto che dovrei rendere il sitoctt a scopo di lucro.
 
@@ -51,7 +52,8 @@ Se il sitoctt ti piace, e vuoi aiutarmi a migliorarlo ed aggiornarlo più freque
 
 (Si, la roba dello scopo di lucro è uno scherzo, mi faceva ridere e ho voluto scriverla, ma il sito rimarrà sempre e comunque una robina che faccio perché semplicemente mi piace e non ho molto di meglio o più produttivo da fare.)
 
-## Dona tramite criptomonete
+## >>
+Dona tramite criptomonete
 
 Le criptomonete sono il modo ideale di effettuare transazioni finanziarie tramite Internet, forse ancor più per donazioni che per pagamenti.
 
@@ -72,7 +74,8 @@ Tieni conto che non mi interesso di mining da un po', quindi non so quali progra
 
 => ./Posts/2022-06-23-0000-Rasperino-Solare-ed-Altri-Esperimenti-Andati-a-Male.gmi  Rasperino Solare
 
-## Dona tramite buoni regalo
+## >>
+Dona tramite buoni regalo
 
 Un altro buon modo per scambiare denaro via Internet, a mio parere, è quello dei buoni regalo.
 
@@ -84,7 +87,8 @@ Per inviarmi il codice di un buono regalo che hai e vorresti donarmi, consulta l
 
 => ./Chi-Sono.gmi#-I-miei-contatti  Chi-Sono.gmi#-I-miei-contatti
 
-## Dona tramite contanti
+## >>
+Dona tramite contanti
 
 Se mai ci dovessimo vedere di persona, puoi tranquillamente farmi una donazione in contanti!
 
@@ -95,7 +99,8 @@ Al momento, accetto sicuramente le seguenti valute fiscali:
 La lista qui rende note le valute che accetto sicuramente, perché ho modo di metterle a frutto.
 Se hai con te contanti di una qualsiasi altra valuta, e vuoi proprio donarmeli lo stesso, probabilmente li accetterò, ma sappi che è molto probabile che non riuscirò mai ad usarli, e la tua donazione sarà quindi stata a vuoto.
 
-## Storico delle donazioni
+## >>
+Storico delle donazioni
 
 In questa sezione della pagina terrò uno storico delle donazioni.
 Sarà privato di default, quindi non attribuirò mai l'identità della persona che ha donato alla sua donazione, tranne se mi viene espressamente chiesto di farlo.

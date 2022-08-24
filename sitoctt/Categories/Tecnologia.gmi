@@ -40,7 +40,8 @@ Alcune informazioni importanti sono disponibili su:
 => ../Categories/Rasperino.gmi  
 => ../Categories/Tecnologia.gmi  
 
-# 📡 Tecnologia
+# >>
+📡 Tecnologia
 💾 Devlogs
 Internet Raccolta Siti Internet
 Posts

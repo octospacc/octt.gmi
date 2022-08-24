@@ -40,7 +40,8 @@ Alcune informazioni importanti sono disponibili su:
 => ../../Categories/Rasperino.gmi  
 => ../../Categories/Tecnologia.gmi  
 
-# Raccolta Cose a Caso
+# >>
+Raccolta Cose a Caso
 
 Questa è letteralmente una raccolta di cose a caso, trovate in giro per Internet oppure in archivi strani nel mio PC. Non aspettarti che ci sia un contesto comprensibile in nessuna delle cose...
 

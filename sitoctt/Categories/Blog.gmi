@@ -40,7 +40,8 @@ Alcune informazioni importanti sono disponibili su:
 => ../Categories/Rasperino.gmi  
 => ../Categories/Tecnologia.gmi  
 
-# 📓️ blogoctt
+# >>
+📓️ blogoctt
 Posts
 2022-07-27] 👾 L'emulazione NDS, Google Play, e una storia oscura - blogoctt
 2022-07-17] 🥸️ Come la nostra impronta digitale sociale ci frega - blogoctt

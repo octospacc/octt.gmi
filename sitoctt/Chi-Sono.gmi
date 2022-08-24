@@ -40,20 +40,25 @@ Alcune informazioni importanti sono disponibili su:
 => Categories/Rasperino.gmi  
 => Categories/Tecnologia.gmi  
 
-# 😺 Chi sono?
+# >>
+😺 Chi sono?
 
 Giustamente, venendo qui, che tu abbia o meno letto le informazioni generali del sito sulla Home
 , ti starai chiedendo chi sono io.
 
-Io sono octt. Si, esatto, octt da cui sitoctt, il mio sito, prende il nome.
+Io sono Octt. Si, esatto, Octt da cui sitoctt, il mio sito, prende il nome.
+Octt si pronuncia "òctt" - come sitoctt, ma senza "sit"
+.
 Io sono la webmaster di questo posto. O, forse, webmistress
 sarebbe più corretto, peccato che le persone che anche soltanto conoscono dell'esistenza di questa parola si contano sulle dita di una mano mozzata.
 Vabbe, io ho capito che nel mondo c'era necessità di questo sito (ma quando mai??), ho immaginato il sito, ho iniziato a costruire il sito, ho messo in piedi strategie per semplificarmi la creazione del sito (eee, che paroloni, ho scritto un programmino in Pitone), ed ecco qui il risultato.
 
 => ./index.gmi  Home
+=> https://octtspacc.gitlab.io/sitoctt-assets/Media/sitoctt-pronuncia.flac  si pronuncia "òctt" - come sitoctt, ma senza "sit"
 => https://www.dictionary.com/browse/webmistress  webmistress
 
-## Cosa faccio?
+## >>
+Cosa faccio?
 
 Beh, innanzitutto faccio questo sito. Scrivo le cose, che siano inutili fiumi di parole in lingua umana, oppure paroline magiche che il tuo computer interpreta per visualizzare queste pagine nella loro forma più gloriosa.
 
@@ -78,10 +83,12 @@ Pensa te, inoltre: quando ho tempo, gioco anche ai videogiochi. In passato, molt
 
 Ah, e devo anche ancora andare a scuola. Un po' na' seccatura, vabbe, c'è poco da fare.
 
-## Alcune mie proprietà particolari
+## >>
+Alcune mie proprietà particolari
 • Sono una loli con proprietà particolari La semplice cosa è di per sè una proprietà particolare. • Il mio colore preferito è quello di sfondo del sito Ossia, #eeddff. Sono povera e non ho i colori Pantone, questo è il massimo della precisione che posso garantire. Spero il tuo display sia calibrato come il mio. • Mi piace schiavizzare i sassi Cioè, non è che mi diverto, è che non ho altra scelta, l'unico modo per fare le cose che mi piacciono è schiavizzare i computer (che sono, a livello di processore, sassi pensanti). • Ho poca fantasia Infatti, non mi vengono in mente altri punti da esporre.
 
-## I miei contatti
+## >>
+I miei contatti
 
 Mi puoi trovare sul Fediverso, ai contatti da me preferiti che lascio qui sotto.
 
@@ -94,7 +101,8 @@ Matrix : @octt:octt.ddns.net
 => https://mastodon.uno/@octo  @octo@mastodon.uno
 => https://matrix.to/#/@octt:octt.ddns.net  @octt:octt.ddns.net
 
-# Fine?
+# >>
+Fine?
 
 Per ora, mi dispiace, ma è tutto. Se vuoi sapere altro, dovrai prima aspettare che mi venga in mente nuova roba da scrivere. Non sperarci troppo, però, considerando che è da più di un mese che questa pagina non si espande 😬.
 

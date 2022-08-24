@@ -40,7 +40,8 @@ Alcune informazioni importanti sono disponibili su:
 => ../Categories/Rasperino.gmi  
 => ../Categories/Tecnologia.gmi  
 
-# 🦄 Fritto Misto
+# >>
+🦄 Fritto Misto
 Fritto-Misto Raccolta Cose a Caso
 
 => ../Raccolte/Fritto-Misto/Raccolta-Cose-A-Caso.gmi   Raccolta Cose a Caso

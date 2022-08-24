@@ -40,7 +40,8 @@ Alcune informazioni importanti sono disponibili su:
 => ../../../Categories/Rasperino.gmi  
 => ../../../Categories/Tecnologia.gmi  
 
-# Evitare di richiamare comandi per sbaglio nel terminale
+# >>
+Evitare di richiamare comandi per sbaglio nel terminale
 
 Lavorando nel terminale, magari allo sviluppo di programmi, mi capita spesso di richiamare per sbaglio un comando che non dovrei.
 
@@ -55,7 +56,8 @@ delle mie modifiche alla cartella di lavoro, e subito caricarle in cloud.
 Ora, questa cosa non va bene, perché significa che nella cronologia di Git avrò certi punti "sbagliati": con descrizioni dal testo duplicato, e il codice in uno stato inadatto, non funzionante, perché ero nel pieno di testare alcune modifiche.
 Avere una cronologia di Git così conciata intacca decisamente la sua qualità, perché è più difficile trovare un punto specifico passato del codice in futuro, cosa che nullifica una delle funzionalità utili di Git - e in generale è qualcosa che non mi piace, mi da fastidio, vedere la cronologia sporca.
 
-## Lo script
+## >>
+Lo script
 
 Per risolvere il problema, mi sono inventata questo scriptino (testato con sh e bash), l'idea è di avviare i comandi "pericolosi" attraverso di lui nelle situazioni in cui devo fare quelle mie mosse con il terminale (ma, volendo, lo si può impostare come alias per richiamarlo in maniera implicita sempre per un dato comando).
 
@@ -79,7 +81,8 @@ fi
 
 ```
 
-## Come si usa
+## >>
+Come si usa
 
 Ho salvato il codice all'interno di una funzione function comconf() { } nel mio file di profilo bash.
 Ora, quando devo eseguire un comando marso, mi basta fare comconf '<comando>'; il programma mi chiederà di scrivere il risultato di un'operazione aritmetica semplice generata casualmente, e solo se ciò che scrivo è giusto (quindi, solo se sto prestando attenzione) il mio comando verrà eseguito.

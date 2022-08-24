@@ -40,7 +40,8 @@ Alcune informazioni importanti sono disponibili su:
 => ../Categories/Rasperino.gmi  
 => ../Categories/Tecnologia.gmi  
 
-# 🌐️ Come e perché il sitoctt su Tor?
+# >>
+🌐️ Come e perché il sitoctt su Tor?
 
 In questi giorni ho sistemato i primi affari riguardanti il rendere disponibile il sitocto sulla rete Tor. C'è chi mi definirà esagerata anche soltanto per aver avuto il pensiero di fare una cosa del genere, ma c'è poco da fare.
 Se nulla è andato storto, il servizio Onion è ancora raggiungibile a questo indirizzo: onmfrk2acl4xdeawfjg3nfepq7gcufolctmhiwwxpcknazus5bxzxhqd.onion
@@ -57,7 +58,8 @@ Questo qui è anche il primissimo post che scrivo sul blog del postocto, chissà
 => http://onmfrk2acl4xdeawfjg3nfepq7gcufolctmhiwwxpcknazus5bxzxhqd.onion  onmfrk2acl4xdeawfjg3nfepq7gcufolctmhiwwxpcknazus5bxzxhqd.onion
 => http://sitoctt2fxjvx3lc2iqqef2aeulflprjaasv2xl4zi7sxxbmvjy5b5yd.onion  sitoctt2fxjvx3lc2iqqef2aeulflprjaasv2xl4zi7sxxbmvjy5b5yd.onion
 
-## Come?
+## >>
+Come?
 
 Torniamo al discorso del postoctt: con Replit, prendendo come base un Repl trovato in giro che dimostrava come ospitare un altro tipo di servizio su Tor, ho costruito il mio Repl che: ad ogni nuovo avvio, scarica in locale tutto ciò che serve a compilare e distribuire il mio sito statico (dalle mie repo Git), prepara tutto, ed avvia un server HTTP e il demone Tor, che fa da proxy esponendo il server HTTP sull'esterno tramite la rete Tor. Poi all'infinito, tutto tramite Git, scarica eventuali aggiornamenti a qualsiasi delle parti e, quando necessario, rigenera il sito.
 Lascio qui il link ad uno snippet GitLab con i miei file, per chiunque voglia fare il mio stesso servizio per un proprio sito web, magari costruito proprio con il mio generatore di siti statici di infima qualità (a livello di codice, se mi facesse schifo a livello concettuale o pratico non lo starei ancora a sviluppare pian piano): gitlab.com/-/snippets/2338457
@@ -73,7 +75,8 @@ O, forse, il merito è stato del mio aver creato un secondo progetto Replit, che
 
 => https://gitlab.com/-/snippets/2338457  gitlab.com/-/snippets/2338457
 
-## Perché?
+## >>
+Perché?
 
 Facciamo subito uscire l'elefante dalla stanza (che già è piccola): il voler mettere in piedi un sito che contiene materiale immorale a livelli gravi (che differenzio dal materiale illegale di per sé), che se ospitato sul web tradizionale sarebbe molto facile da tracciare indietro ai proprietari con tutte le conseguenze del caso, non è l'unico motivo sensato per voler usare Tor (o qualsiasi altra rete fondata sugli stessi principi tecnici, ma Tor è nel bene e nel male la più famosa e usata).
 Questo sito è anche sul clear web senza problemi, per dire, non ha problemi a stare lì.
@@ -100,13 +103,15 @@ Quando si usa Tor per collegarsi a siti su Tor, la connessione non solo viene sm
 Il sistema ha dei problemi, non lo negherò assolutamente, partendo dal fatto che se la chiave privata viene rubata, i ladri possono impersonare il sito e a quel punto l'unica cosa da fare per chi lo gestisce è cambiare chiave, cambiando così anche dominio, non si può andare dalla CA per revocare il certificato. È così che funziona un sistema basato al 100% sulla matematica e 0% sulla fiducia.
 A dire il vero, io starei quindi sbagliando ad usare una macchina altrui per ospitare il sito Tor... Greve. Vabbe.
 
-## In conclusione
+## >>
+In conclusione
 
 Tor non è assolutamente perfetto: ha delle falle di vario tipo, in genere basate sulla deanonimizzazione degli utenti perché è quello che interessa alle agenzie a 3 lettere, ma parliarmoci chiaramente: è un passo avanti per avere più protezione, e sicuramente è un enorme passo in avanti verso la sicurezza dei dati, in una maniera che fa si che la comunicazione tra client e server sia sicura soltanto quanto server e client, senza preoccuparsi delle minuzie introdotte da alcuna terza parte.
 
 Il fatto che Tor sia economicamente supportato almeno in parte dal governo statunitense comunque, senza scendere troppo nei dettagli, comporta forse alcune implicazioni profonde pericolose. Per questo voglio, più o meno a breve, dare una chance a servizi simili a Tor ma diversi da esso. Lokinet mi ispira, a dire la verità, penso sarà la prima rete alternativa che proverò.
 
-## 🏷️ Note/Riferimenti
+## >>
+🏷️ Note/Riferimenti
 
 Aggiornamento del 2022-06-29 : ho cambiato il dominio per motivi estetici con questo nuovo! Info aggiuntive (ma pur sempre scarne) al post del PicoBlog
 di oggi). ↩
