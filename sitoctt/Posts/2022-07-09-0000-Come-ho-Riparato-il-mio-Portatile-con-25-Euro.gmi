@@ -40,7 +40,7 @@ Alcune informazioni importanti sono disponibili su:
 => ../Categories/Rasperino.gmi  
 => ../Categories/Tecnologia.gmi  
 
-# >>
+# »
 💻 Come ho riparato il mio portatile (con 25€)
 
 Da quasi 7 anni ho un PC portatile Acer, Aspire V3-572G
@@ -49,7 +49,7 @@ Quando fu comprato, era in sostanza un notebook di fascia media come un altro, s
 
 => https://www.acer.com/ac/en/US/content/support-product/5389  Aspire V3-572G
 
-## >>
+## »
 Lo stato attuale
 
 Tutto sommato, con GNU+Linux come sistema operativo, le mitigazioni Intel
@@ -60,13 +60,13 @@ macina di per sé ancora bene, e i 4GB di RAM non sono un enorme problema se si 
 => https://linuxreviews.org/HOWTO_make_Linux_run_blazing_fast_(again)_on_Intel_CPUs  mitigazioni Intel
 => https://www.intel.com/content/www/us/en/products/sku/85212/intel-core-i55200u-processor-3m-cache-up-to-2-70-ghz/specifications.gmi  i5-5200U
 
-## >>
+## »
 Un problemino
 
 Dove stanno le infamie, ti sento pensare?
 Già da almeno un annetto, il mio uso del laptop è calato decisamente, perché un problema inizialmente piccolino è, tutto d'un tratto, diventato enorme.
 
-### >>
+### »
 Lo spacc
 
 Andando con ordine, - non ricordo con precisione, ma si parla di almeno 3 o 4 anni fa, quando questo era il mio solo PC personale - i problemini iniziarono quando il tasto W smise di funzionare, nel corso di qualche giorno. Azz.
@@ -77,7 +77,7 @@ La cosa divertente è che, come ho detto, il tasto si è rotto nell'arco di qual
 Acer merda? Direi, Acer merda.
 Ma, a quanto pare, tutti i produttori di PC portatili, anche quelli grossi e famosi, spesso erroneamente associati alla qualità solo per la loro fama, sfornano troppo spesso prodotti con terribili errori di progettazione o costruzione. Il portatile che malauguratamente è capitato a me, come abbiamo capito, non è stato da meno.
 
-### >>
+### »
 Le conseguenze
 
 A questo punto, il PC era diventato solo leggermente scomodo da usare in alcune situazioni.
@@ -88,7 +88,7 @@ In ogni caso, da quel momento, l'uso della tastiera del notebook si è ridotto, 
 Cosa molto strana è che, da circa 1 anno fa, nonostante l'uso scarso, molti altri tasti hanno iniziato velocemente a cedere, dal nulla. Non saprei dire se qualche altro tasto sia poi completamente morto, ma sicuramente il 60% almeno della tastiera ha iniziato a volere le botte per registrare le pressioni.
 È da qui che l'uso del mio laptop è calato a picco.
 
-## >>
+## »
 I realized
 
 Giusto qualche giorno fa, non so perché, forse perché con il PC fisso non ho neanche la comodità di spostarmi in un'altra stanza ad usare il computer, - cosa che vorrei fare per sfuggire al caldo tremendo che nella mia si sviluppa d'estate - mi viene in mente che vorrei usare il portatile.
@@ -124,7 +124,7 @@ Sto tipo 30 secondi a pensare perché l'idea abbia inconsciamente per me un retr
 Giustamente, nei commenti, una persona mi fa notare che su Amazon.it avrei dovuto trovare facilmente la tastiera sostitutiva che mi serve e.. non ha avuto torto.
 Avrei dovuto onestamente comprarla subito, quando la W si ruppe, ma, banalmente, non so perché non l'ho fatto. La mia memoria mi dice che su Amazon non la trovai ai tempi, ma onestamente non so quanto fidarmi. E in tutto quest'altro tempo non ci ho pensato.
 
-## >>
+## »
 La tastiera sostitutiva arriva
 
 Senza perdere troppo ulteriore tempo, ho fatto in modo di ordinarla (3 giorni dopo, ma poteva andare molto peggio), e dopo 2 giorni era già a casa (in anticipo, rispetto a periodo di consegna riportato). 20+7€.. ben spesi? È da vedersi.
@@ -135,7 +135,7 @@ Il prezzo della tastiera credo ci stia, quello della spedizione non mi è piaciu
 La tastiera era disponibile solo nera, e tutto il resto del mio PC, inclusa la tastiera di fabbrica, è invece bianco.
 Le possibilità che esca un qualcosa di orribilmente brutto sono alte, ma io sono un'utente Linux: è già tanto che io stia cercando di riparare il mio laptop mezzo scassato, anziché andare dicendo in giro che è il migliore computer che si possa usare; figurati se mi interessa che sia brutto o meno, se funziona va bene.
 
-## >>
+## »
 La sostituzione
 
 Non mi perdo d'animo, e vedo di iniziare a svitare le innumerevoli viti che tengono la scocca del portatile insieme, e separo le sezioni di plastica. Poi scollego i 3 cavi flex di tasto power, tastiera, e touchpad, e sollevo la parte superiore della scocca. Nulla di nuovo, comunque, dovetti già fare questa procedura quando installai l'SSD.
@@ -148,7 +148,7 @@ O quasi.
 
 [‡ I frame di plastica (esterno) e metallo (interno), che servono a tenere insieme la tastiera, separati]
 
-### >>
+### »
 Lavoretti "già che ci sono"
 
 Visto che c'ero, ho voluto approfittarne anche per pulire un po' la ventola e il suo filtro, che negli anni hanno accumulato polvere, permettendo a meno aria di passare e facendo così che la CPU arrivasse a ben ~50°C in idle.
@@ -165,7 +165,7 @@ Sempre tanti anni fa, la punta di un cavo audio difettoso si spezzò, incastrand
 Purtroppo, anche internamente, la porta è un pezzo di plastica quasi completamente chiuso, quindi anche la mia idea di infilare qualcosa nella parte bucata interna è fallita, perché banalmente non c'è alcun buco. Magari non succede nulla se con il giusto strumento creo io il buco, riesco a spingere fuori il pezzo incastrato e la porta torna a funzionare come dovrebbe.. ma, per adesso, lascio stare.
 Si vede che continuerò ad usare la scheda audio USB (6€ su Amazon) per usare gli auricolari, come ho fatto ormai per anni.
 
-## >>
+## »
 Lavoro finito!
 
 Un po' a fatica, rimonto tutto, e ammiro il nuovo stato del PC - il quale tra l'altro, in idle dopo l'avvio, ora che ho pulito la ventola, arriva a ~40°C, direi decisamente meglio di prima!
@@ -181,7 +181,7 @@ Piccolo bonus : una foto del fondo della vecchia tastiera.. il tasto W è effett
 
 [‡ Dettaglio del fondo/retro della vecchia tastiera, con un buco in corrispondenza del tasto W. La zona circostante ha un dislivello di pochi centimetri di diametro, di profondità appena percettibile ad occhio nudo. Si vedono anche segni di affondo nel metallo attorno al buco, circa del diametro di uno spillo]
 
-## >>
+## »
 La scelta giusta
 
 Per concludere: la tastiera, per quel poco che l'ho provata, funziona bene, eccetto qualche tasto (come lo SPACE), che sembra un po' duretto e poco elastico (ma che comunque si preme).

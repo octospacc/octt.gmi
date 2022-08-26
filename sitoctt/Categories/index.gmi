@@ -40,5 +40,5 @@ Alcune informazioni importanti sono disponibili su:
 => ../Categories/Rasperino.gmi  
 => ../Categories/Tecnologia.gmi  
 
-# >>
+# »
 🗂️ Raccolte

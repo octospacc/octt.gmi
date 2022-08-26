@@ -40,7 +40,7 @@ Alcune informazioni importanti sono disponibili su:
 => Categories/Rasperino.gmi  
 => Categories/Tecnologia.gmi  
 
-# >>
+# »
 💾 Devlogs
 
 Per mesi, in maniera occasionale, ho (ab)usato il PicoBlog come se fosse un devlog.
@@ -54,9 +54,9 @@ Ovviamente, scriverò soltanto la roba interessante, non tutto quello che faccio
 
 => ./PicoBlog.gmi#-2022-08-23-Devlogs  ho però pensato
 
-## >>
+## »
 Leggi i Devlogs
->>
+»
 2022-08-24] Titoli delle sezioni - ora ovunque
 
 -> #sitoctt
@@ -76,7 +76,7 @@ Eh già, perché l'injecting dell'attributo id da parte di staticoso va, giustam
 
 Un po' con il trova e sostituisci del mio editor di testo, e un po' a manina, ho fatto questa sistemazione nelle 2 pagine in cui dovevo. Ora, anche per quelle, ho la possibilità di creare dei link di rimando alle sezioni che voglio.
 
->>
+»
 2022-08-24] La data di compilazione
 
 -> #staticoso #sitoctt

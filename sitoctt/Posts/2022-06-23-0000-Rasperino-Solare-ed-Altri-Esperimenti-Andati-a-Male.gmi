@@ -40,7 +40,7 @@ Alcune informazioni importanti sono disponibili su:
 => ../Categories/Rasperino.gmi  
 => ../Categories/Tecnologia.gmi  
 
-# >>
+# »
 ☀️ Rasperino Solare (ed altri esperimenti andati a male)
 
 Qualche mese fa comprai un piccolo pannello solare monocristallino
@@ -51,7 +51,7 @@ online, dalle dimensioni simili a quelle di un foglio A4, per la cifra di circa 
 => https://www.amazon.it/Lixada-Pannello-Monocristallino-Caricabatterie-Cellulare/dp/B071Z1LGFV  pannello solare monocristallino
 => https://t.me/SpaccCraft/975  >>
 
-## >>
+## »
 Dubbi elettrici
 
 Il pannellino dichiarava, nel titolo dell'inserzione, una potenza di output massima di 7.8W.
@@ -60,18 +60,18 @@ Considerando che il pannello viene dichiarato a 7.8W, e celle fotovoltaiche da 5
 La tensione di output però, abbiamo detto, non va sopra i 5V, quindi c'è di mezzo o una conversione (impossibile, considerando che il pannellino in sé è una lastra spessa meno di 1mm, e la parte sporgente con la porta USB sarà appena 15x10x5mm.. non c'è spazio), o un banale troncamento di tensione, dove l'energia in eccesso non si traduce in una maggiore corrente di output, ma solo in poco calore..
 E quindi abbiamo un output teorico massimo di 1.3A a 5V.. ossia 6.5W.
 
-### >>
+### »
 Consiglio di vita..
 
 Questo preambolo, apparentemente inutile, è per ricordare come delle cinesate a basso costo con zero documentazione (non ha neanche un manuale o delle scritte sul retro questo affare!) ci si possa fidare solo fino a un certo punto, oltre il cui per risolvere i dubbi del caso è necessario affidarsi all'uso di altre cinesate.
 Nel mio caso, un multimetro USB, da mettere tra l'output del pannello e l'input di un dispositivo capace di assorbire abbastanza corrente. Questo oggettino io non lo ho, e mi rendo conto che farei bene a comprarlo (tanto, costa poco), perché al momento non riesco ad avere alcuna certezza sulle prestazioni della magica lastra di silicio.
 
-## >>
+## »
 Prove sul campo
 
 Complici sia la necessità di testare le piene possibilità del pannellino, che la voglia di mettere a frutto lo stesso per alleggerire dello 0.001% la bolletta elettrica dei miei genitori (e soddisfare una minuscola parte del mio individuale fabbisogno elettrico con energia totalmente pulita), ho quindi iniziato a fare semplici test pratici, sul campo (il balcone di casa mia).
 
-### >>
+### »
 La primissima prova
 
 A dire il vero, il primissimo test l'ho fatto fuori casa, il giorno subito successivo a quello di avvenuta consegna del prodotto perché, per motivi non correlati, quel giorno ero appunto fuori. In quell'occasione, l'unica in giro fuori per ora, ho provato soltanto a ricaricare la batteria del mio smartphone (6000mAh).
@@ -87,7 +87,7 @@ L'ultimo test l'ho fatto verso le 14, quando il cielo si era purtroppo scurito. 
 
 [‡ Schermata di una foto inviata in chat. La foto mostra il pannello appoggiato sul tettuccio di un'auto parcheggiata, con un cavo collegato che scende giù. La didascalia recita "La nostra macchina è parcheggiata e io ci appoggio il pannello solare sopra".]
 
-### >>
+### »
 Guardiamo oltre..
 
 Vabbe, diciamo che la primissima prova, fuori col telefono, è stata un pochino fallimentare.
@@ -105,7 +105,7 @@ Qualcosa su cui c'è poco da dire, ma che si tratta senza dubbio di una vittoria
 Ne ho provati 3 dei miei 4, chiaramente quelli a capacità minore si caricano prima, ma comunque tutti senza rogne si riempiono bene. Uno che non so di quanto sia, la memoria mi direbbe 4000mAh, si ricarica completamente in poco più di una giornata di sole. Uno da 5000mAh, in forse una giornata e mezza.
 Caricando queste piccole batterie si riesce poi tranquillamente a caricare o alimentare dispositivi che non hanno abbastanza corrente se collegati direttamente al pannello, come i miei smartphone o.. un Rasperino.
 
-### >>
+### »
 Rasperino Solare?
 
 Finalmente siamo alla fine di tutto questo ambaradan, con i miei test su un Raspberry Pi 3B.
@@ -128,7 +128,7 @@ Psssss.. se vuoi vedere altre foto del pannello (3) e in qualità un po' più de
 
 => https://pixelfed.uno/p/octo/426839557817260168  pixelfed.uno/p/octo/426839557817260168
 
-## >>
+## »
 La realtà dei fatti
 
 A parte questa cosa, che anche se non mi fa guadagnare nel pratico sarebbe utile in quanto benefica per la ricerca scientifica, non avrei in mente utilizzi pratici per il Rasperino Pi 3 Solare. Magari un Pi Zero andrebbe meglio: apparentemente, altra gente in preda alla pazzia (ma meglio attrezzata), ha pensato di usare quello per minare Bitcoin, con un pannellino simile al mio (YouTube/CbpfNU7oaws

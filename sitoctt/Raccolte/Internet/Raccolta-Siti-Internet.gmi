@@ -40,7 +40,7 @@ Alcune informazioni importanti sono disponibili su:
 => ../../Categories/Rasperino.gmi  
 => ../../Categories/Tecnologia.gmi  
 
-# >>
+# »
 Raccolta Siti Internet
 
 Una raccolta dedicata ad alcuni siti Internet carini (non solo web!), di varie tipologie, che trovo in giro o appartengono a persone che conosco.
@@ -48,12 +48,12 @@ Una raccolta dedicata ad alcuni siti Internet carini (non solo web!), di varie t
 A parte la divisione in categorie, non c'e alcun ordine particolare.
 Le bandiere di nazione (emoji, forse non visibili su browser antichi) accanto ai nomi indicano le lingue primarie dei contenuti del sito.
 
-### >>
+### »
 Attenzione
 
 Oh voi persone che fate i sitarelli, mannaggia, non mettete cose importanti nell'infernale tag <marquee>, che non si legge niente e fa il mal di testa!
 
-## >>
+## »
 Il mio..
 
 Se il mio sito ti piace, e ne hai anche tu uno con una pagina simile a questa lista dove vuoi consigliarlo, puoi linkarlo, come link testuale o anche come bottone 88x31!
@@ -89,7 +89,7 @@ L'immagine è in formato PNG e già compressa il più possibile.
 
 ```
 
-## >>
+## »
 Personali
 
 🇬🇧 Ledomsoft
@@ -130,7 +130,7 @@ Clearweb: francescomasala.me
 => https://dustinbrett.com  dustinbrett.com
 => https://francescomasala.me  francescomasala.me
 
-## >>
+## »
 Miscellanea
 
 🇬🇧 The Yesterweb

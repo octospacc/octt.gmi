@@ -40,7 +40,7 @@ Alcune informazioni importanti sono disponibili su:
 => Categories/Rasperino.gmi  
 => Categories/Tecnologia.gmi  
 
-# >>
+# »
 Ciao!! (UwU)
 
 Sei entrat a / o nel...
@@ -57,7 +57,7 @@ Se preferisci, puoi chiamarlo sitocto. O anche postoctt! È pur sempre un posto 
 
 => https://octtspacc.gitlab.io/sitoctt-assets/Media/sitoctt-pronuncia.flac  pronuncia: "sitòctt"
 
-## >>
+## »
 Stato del sito e come navigare
 
 Nonostante abbia già un po' più di sostanza, tutto questo ambaradan è ancora pesantemente in costruzione. E lo sarà per sempre, perché avrò sempre roba nuova da condividere. E, quando sarò morta, sarà comunque non finito perché nella mia vita non avrò scritto tutto lo scibile universale teoricamente possibile sul sitoctt.
@@ -71,7 +71,7 @@ Essendo che questo sito contiene immagini AVIF, assicurati che il tuo browser si
 Preferibilmente non usare Chromium, che ha degli strani memory leak su pagine con animazioni complesse, oltre ad andare a scatti. Firefox non ha questo problema, ma usa molto di più la CPU.
 Direi che la scelta non è tra il migliore ma tra il meno peggio..
 
-### >>
+### »
 Script client-side
 
 Il sito Web non usa alcuno script client-side per le funzioni di base, perché non voglio costringere chi (per validi motivi di sicurezza e non solo) non vuole attivare JavaScript ad avere un'esperienza degradata. A proposito della questione spinosa, ho scritto anche un articolo: 📄 I documenti non devono diventare applicazioni
@@ -89,7 +89,7 @@ Di seguito, metto la mia classifica dei possibili modi per visualizzare questo s
 => Posts/2022-06-14-0000-I-Documenti-Non-Devono-Diventare-Applicazioni.gmi  
 => https://github.com/Kagami/avif.js  avif.js di Kagami
 
-## >>
+## »
 Ma di che si tratta?
 
 Su questo mio spazio di Internet metterò di tutto. Spero.
@@ -105,14 +105,14 @@ Al resto della forma, come l'ordine ad albero delle pagine nel sito o dei paragr
 
 Ricapitolando, le mie intenzioni attuali sono queste, poi non lo so cosa ci finirà qui sopra col tempo per davvero.. considerando anche che questa pagina può subire, ha subito, e subirà, lente modifiche.
 
-## >>
+## »
 Disponibilità del sito
 
 Al momento, questo sito è disponibile per la navigazione su vari indirizzi diversi (i contenuti sono sempre identici).
 Per chi non sapesse, comunque, il nome è da un mesetto cambiato in sitoctt da postoctt, perché il vecchio nome mi dava l'impressione di qualche servizio postale...
 Dovrei pensare anche a molti altri mirror in cloud da diversi provider (ovviamente gratuiti), se voglio che il sitocto sopravviva ad octt stessa me medesima e superi la prova del tempo... Ma questa è una questione lunga.
 
-### >>
+### »
 Web
 
 Il sito Web è disponibile da diverse fonti.
@@ -124,14 +124,14 @@ Sul clearweb, sui server di GitLab : sitoctt.octt.eu.org
 => https://sitoctt.octt.eu.org  sitoctt.octt.eu.org
 => http://sitoctt2fxjvx3lc2iqqef2aeulflprjaasv2xl4zi7sxxbmvjy5b5yd.onion  sitoctt2fxjvx3lc2iqqef2aeulflprjaasv2xl4zi7sxxbmvjy5b5yd.onion
 
-### >>
+### »
 Gemini
 
 Da ora, inoltre, il sitoctt è disponibile come capsula Gemini. Per andarci, si deve usare un browser Gemini.
 Ovviamente (per chi conosce Gemini), è tutto più castrato, e la forma non è esattamente la migliore perché tutte le pagine sono una diretta conversione dall'HTML del sito Web (e il programma su cui mi appoggio per farla è un po' rotto, per giunta).
 Vai alla octocapsula, gentilmente ospitata da koyu.space: gemini://koyu.space/octt
 
-### >>
+### »
 Feed e notifiche
 
 Da ora il sitocto (il blogocto, nello specifico) ha dei feed integrati, che vengono automaticamente aggiornati quando pubblico un nuovo articolo!
@@ -164,10 +164,10 @@ Inoltre, se usi una qualunque piattaforma del Fediverso ActivityPub (Mastodon, P
 
 => https://botsin.space/@sitoctt  @sitoctt@botsin.space
 
-## >>
+## »
 Sorgenti e licenze
 
-### >>
+### »
 Licenze dei contenuti
 
 Tutto il contenuto presente su questo sito che ho creato io (i miei testi, media originali, e maggior parte del codice sorgente) è rilasciato sotto licenza "Creative Commons Attribuzione - Condividi allo stesso modo 4.0 Internazionale" (CC BY-SA 4.0) ([‡ CC] [‡ BY] [‡ SA])
@@ -182,7 +182,7 @@ Comunque, ho pensato di creare una sezione della pagina qui sotto
 
 => https://creativecommons.org/licenses/by-sa/4.0/deed.it  
 
-### >>
+### »
 Codice sorgente
 
 Parlando dei sorgenti del sito, quelli HTML dell'effettiva pagina caricata dal browser potrebbero essere difficili da leggere. Questo è perché in realtà non scrivo direttamente l'HTML completo per comporre le pagine.
@@ -206,7 +206,7 @@ Quelli del mio generatore, anche questo rilasciato sotto una licenza libera, la 
 => https://gitlab.com/octtspacc/sitoctt-assets  sitoctt-assets
 => https://gitlab.com/octtspacc/staticoso  gitlab.com/octtspacc/staticoso
 
-### >>
+### »
 Crediti speciali
 Lista di crediti e ringraziamenti speciali a chi ho preso materiale in prestito (Espandi)
 Lista di script client-side
@@ -222,7 +222,7 @@ Alcuni bottoni 88x31: 88x31 GIF Collection di cyber.dabamos.de
 => https://github.com/SebastianAigner/twemoji-amazing  Twemoji-Amazing di SebastianAigner
 => https://cyber.dabamos.de/88x31  88x31 GIF Collection di cyber.dabamos.de
 
-## >>
+## »
 Rings
 
 Se dei link tra questi sotto non funzionano, vuol dire che chi amministra i ring non ha ancora accettato il mio sito negli stessi.

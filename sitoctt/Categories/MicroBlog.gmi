@@ -40,7 +40,7 @@ Alcune informazioni importanti sono disponibili su:
 => ../Categories/Rasperino.gmi  
 => ../Categories/Tecnologia.gmi  
 
-# >>
+# »
 📒 MicroBlog
 
 Nota: I contenuti negli archivi possono aver subito redazioni non segnalate.

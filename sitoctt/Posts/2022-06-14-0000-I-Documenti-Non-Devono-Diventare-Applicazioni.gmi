@@ -40,13 +40,13 @@ Alcune informazioni importanti sono disponibili su:
 => ../Categories/Rasperino.gmi  
 => ../Categories/Tecnologia.gmi  
 
-# >>
+# »
 📄 I documenti non devono diventare applicazioni
 
 Il Web di oggi è indiscutibilmente molto diverso da quello di 20 anni fa, e cambia sempre di più ogni anno che passa.
 Guardare i lati positivi del progresso è sempre molto facile e rassicurante, e per questo poco spesso si pensa ai lati oscuri che, in tante tante cose, ci sono. Il Web, purtroppo, è una di queste.
 
-## >>
+## »
 Che sta succedendo?
 
 Il Web dei documenti sta prendendo una brutta piega, diventando piano piano sempre più, a tutti gli effetti, Web delle app.
@@ -62,7 +62,7 @@ Qui siamo ancora all'esclusiva esistenza del Web dei documenti, per il Web delle
 Con queste ultime frasi, chi ci vede lungo ha già capito dove devo andare a parare, ma ci arrivo con calma. In quest'epoca, sostanzialmente, non poteva succedere nulla di che al tuo computer o alle tue informazioni semplicemente caricando una data pagina Web, perché il browser aveva a che fare solo con file che dicevano come disporre del testo a schermo (HTML e CSS, linguaggi di marcatura), oppure come disporre pixel colorati arbitrari a schermo (immagini).
 L'unica cosa di cui bisognava fidarsi era il browser in sé (e che fosse aggiornato), non dei siti Web individuali.
 
-## >>
+## »
 Lo stato attuale delle cose
 
 Poi, è arrivato lo scripting. Se ne sono viste di tutti i colori, ma alla fine solo JavaScript è sopravvissuto alla grande fino ad oggi, ed è alla base del pionieristico (e tragico) Web 3.
@@ -92,7 +92,7 @@ Piccola digressione: un modo per identificare in un attimo se un servizio sul We
 Il contenuto di un forum ha senso se stampato su un libro, una rivista, o un semplice foglio volante (oggetti comunemente considerati documenti, anche se fisici)? Certamente, così come quello di un blog, un profilo social, una stanza di chat, oppure della pagina dei risultati di un motore di ricerca.
 Non ha senso, invece, la stampa di un'applicazione calcolatrice o di videoscrittura (al massimo, ha senso solo la stampa dei dati, inseriti in quella app o ottenuti da una sua elaborazione).
 
-## >>
+## »
 Il disastro dell'appizzazione
 
 Il vero problema sta nel fatto che i siti Web non direttamente interattivi, che prima abbiamo categorizzato in statici e dinamici, stanno sempre più diventando app, ma senza alcun valido motivo.
@@ -118,7 +118,7 @@ Il problema dell'autorità inverificabile del codice, chiaramente, diventa anche
 Sul Fediverso, dico che la questione mi colpisce particolarmente perché non me lo aspetterei. Onestamente, da Big Tech, che si regge sullo spiare gli utenti per guadagnare vendendo i loro dati, me lo aspetto un abbandono progressivo del Web dei documenti in favore di quello esclusivamente delle app anche solo per la lettura di qualche paragrafo di testo (cosa che sta avvenendo, ma lentamente), considerando le potenzialità ampissime di soggiogare gli utenti.
 Da chi, invece, sviluppa software per comunità che si preoccupano di alcuni dei nuovi problemi di privacy del Web, e che per questo usano software alternativi meno popolari, non me lo aspetto assolutamente.
 
-## >>
+## »
 Finirà tutto in tragedia
 
 La situazione, ho paura, può solo peggiorare. Per quanto sono più che sicura che le mie parole e azioni non cambieranno per nulla l'avvenire, visto che credo in quello che dico e, incidentalmente, allo stesso tempo creo anche io contenuti e servizi per il Web, faccio quello che posso per creare le mie cose come vorrei io vederle ovunque. Quindi, per i siti non interattivi, seguendo la tecnica del miglioramento progressivo

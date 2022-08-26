@@ -40,7 +40,7 @@ Alcune informazioni importanti sono disponibili su:
 => ../Categories/Rasperino.gmi  
 => ../Categories/Tecnologia.gmi  
 
-# >>
+# »
 👾 L'emulazione NDS, Google Play, e una storia oscura
 
 Il Nintendo DS. Basta, non serve dire altro; in fondo, tra nintenditori, ci si intende.
@@ -49,7 +49,7 @@ Una console che, 15 anni fa, ha saputo innovare il mercato con lo stesso spirito
 Per quanto mi piacerebbe stare a tessere interminabili lodi al DS, però, oggi sono qui a parlarvi di altro.
 Oggi vi parlo di emulazione, e di un'area specifica della scena dell' emulazione NDS: quella Android.
 
-## >>
+## »
 L'emulazione in generale
 
 Tante console, nei loro anni di vita e anche dopo, vengono reversate
@@ -62,7 +62,7 @@ Creare qualcosa di veloce, che funzioni, e permetta subito a più gente possibil
 
 => https://it.wikipedia.org/wiki/Reverse_engineering  reversate
 
-### >>
+### »
 Emulazione "qui ed ora"
 
 Per quanto la seconda filosofia sia senza dubbio la più nobile, anche quella del "qui ed ora" è molto importante: permette di giocare a chi non può permettersi la console originale o l'ha ridotta a spacc
@@ -73,7 +73,7 @@ Ho un Nintendo 3DS XL, che è si retrocompatibile con i giochi DS, ma male, al p
 
 => https://wikispacc.miraheze.org/wiki/Spacc  spacc
 
-## >>
+## »
 Lo stato dell'emulazione NDS
 
 L'emulazione DS su PC tradizionali è al momento in un'ottimo stato.
@@ -88,7 +88,7 @@ Un po' in generale su dispositivi embedded di gamma bassa (non solo gli smartpho
 => https://melonds.kuribo64.net  melonDS
 => https://desmume.org  DeSmuME
 
-### >>
+### »
 La mia esperienza su mobile
 
 Sul mio fonino attuale, con sistema operativo Android 10 (variante stock del produttore Xiaomi, MIUI 12) e SoC Snapdragon 662
@@ -108,7 +108,7 @@ Ad ogni modo, tutti questi emulatori li ho provati in passato diverse volte anch
 => https://www.retroarch.com  RetroArch
 => https://github.com/Swordfish90/Lemuroid  Lemuroid
 
-### >>
+### »
 Test variegati
 
 Tenendo in mente che questi test sono stati fatti guardando semplicemente le prestazioni della schermata del titolo di Animal Crossing Wild World (che richiede circa le stesse prestazioni richieste dal gioco avviato nell'overworld):
@@ -134,7 +134,7 @@ Quindi, è la fine della storia? Mi devo accontentare di emulare il gioco rallen
 
 => https://github.com/Hydr8gon/NooDS  NooDS
 
-## >>
+## »
 Una sola soluzione
 
 Nella scena dell'emulazione NDS per Android, tutti gli emulatori di cui ho parlato fino ad ora sono in realtà i meno famosi (anche se, ultimamente, melonDS sta guadagnando terreno). Ne esiste uno molto più conosciuto, che chi almeno una volta ha provato ad emulare il DS su Android conoscerà almeno di nome.
@@ -150,7 +150,7 @@ Dove sta l'inghippo? Eh eh, da dove iniziamo?
 => https://play.google.com/store/apps/details?id=com.dsemu.drastic  Drastic
 => ./MicroBlog-Archive/2019/09/index.gmi  Archivi MicroBlog di Settembre 2019
 
-### >>
+### »
 Casini in vista
 
 Innanzitutto, Drastic è software proprietario; già soltanto questo, per me, è male.
@@ -169,7 +169,7 @@ In questo caso specifico, il DRM di Drastic in cosa è problematico, oltre al fa
 => https://www.defectivebydesign.org/faq  FAQ di Defective by Design
 => https://f-droid.org/packages/com.aurora.store  Aurora Store
 
-### >>
+### »
 La tradizione appikapposa
 
 Insomma, in ogni caso, l'unica soluzione possibile per usare effettivamente il programmino resta avere una patch.
@@ -182,7 +182,7 @@ Ho cercato, l'altro giorno, e apparentemente ho scaricato una cosa funzionante. 
 
 A questo punto, la situazione appare davvero brutta. Che fare?
 
-## >>
+## »
 Cosa nasconde Google Play?
 
 Mi ricordo che sullo stesso Play Store - e sulle implicazioni di questo ci torno alla fine - si può trovare un'applicazione gratuita, Free DS Emulator - For Android
@@ -203,7 +203,7 @@ Nel programma non compare mai il famigerato nome, ma una decompilazione del file
 => https://adaway.org  Adaway
 => https://ibotpeaches.github.io/Apktool  apktool
 
-### >>
+### »
 Nuove ricerche
 
 Che dire? Questa app funziona, ed è comunque un'ottima soluzione, pur essendo leggermente peggio del Drastic originale.
@@ -228,7 +228,7 @@ Ad ogni modo, non è stata una scoperta utile: i regalini dati da queste app han
 => https://play.google.com/store/apps/details?id=com.nud.ndsemu  Green Emu NDS
 => https://play.google.com/store/apps/details?id=com.blackversion.citra_platinum  The FrieNDS Emu
 
-### >>
+### »
 Finalmente..
 
 Nel mio giro sullo store, finalmente, vedo ancora un'altra app che mi puzza di Drastic ribrandizzato, non so perché, forse per la disposizione dei tasti negli screenshot: vDS
@@ -243,7 +243,7 @@ Comunque, si, l'emulatore funziona, fa aprire i file e non fa il trolling del ch
 
 La storia quindi, almeno per me, è finita bene.. ma potrei aggiungere qualcosa.
 
-## >>
+## »
 Google, Mannaggia.
 
 Le norme per sviluppatori di Google Play
@@ -258,7 +258,7 @@ Ed è proprio così che, con questa storia, oggi riconfermiamo due importanti fa
 
 => https://play.google.com/about/developer-content-policy  norme per sviluppatori di Google Play
 
-## >>
+## »
 Cosa abbiamo imparato?
 
 I DRM si dimostrano, ancora una volta, non solo come inutili (eludibili, visto che io ora starei giocando con una versione modificata di Drastic con il DRM tolto), ma soprattutto come dannosi (visto che, anche comprando Drastic stando alle regole, non lo potrei usare comunque sui miei dispositivi);
@@ -279,7 +279,7 @@ In generale, bisognerebbe diffidare dai padri padroni, e preferire le pagine Web
 => https://support.google.com/googleplay/android-developer/answer/6112435?hl=it#zippy=%2Cstep-pay-registration-fee%2Cpassaggio-paga-la-quota-di-registrazione  25$ una tantum
 => https://f-droid.org  F-Droid
 
-## >>
+## »
 Ho un regalinocto..!
 
 E, finalmente, posso dire di aver finito. Vi lascio con un regalino : archive.org/details/Emulation-Archive
@@ -295,7 +295,7 @@ P.S. : Ma quanto sono bellini tutti i miei androidi che fanno girare ACWW insiem
 
 => https://archive.org/details/Emulation-Archive  archive.org/details/Emulation-Archive
 
-## >>
+## »
 🏷️ Note/Riferimenti
 
 Aggiornamento del 2022-07-29 : Ho corretto questa parte perché ricordavo che app del genere violassero le norme perché "conterebbero come app store alternativi", ma in realtà non riesco a verificare la cosa. Ho però trovato questa oscura pagina della guida per sviluppatori, che dice chiaramente a quali scopi le app possono richiamare l'installatore di pacchetti di sistema di Android: https://support.google.com/googleplay/android-developer/answer/12085295?hl=it#zippy=%2Cutilizzi-consentiti-dellautorizzazione-request-install-packages%2Cutilizzi-non-validi

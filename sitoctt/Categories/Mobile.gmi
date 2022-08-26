@@ -40,7 +40,7 @@ Alcune informazioni importanti sono disponibili su:
 => ../Categories/Rasperino.gmi  
 => ../Categories/Tecnologia.gmi  
 
-# >>
+# »
 📱️ Mobile
 Posts
 2022-07-27] 👾 L'emulazione NDS, Google Play, e una storia oscura - blogoctt

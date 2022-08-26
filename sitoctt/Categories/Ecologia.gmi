@@ -40,7 +40,7 @@ Alcune informazioni importanti sono disponibili su:
 => ../Categories/Rasperino.gmi  
 => ../Categories/Tecnologia.gmi  
 
-# >>
+# »
 ♻️ Ecologia
 Posts
 2022-07-09] 💻 Come ho riparato il mio portatile (con 25€) - blogoctt

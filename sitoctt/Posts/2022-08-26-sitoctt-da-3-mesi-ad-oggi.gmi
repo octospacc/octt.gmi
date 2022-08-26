@@ -40,7 +40,7 @@ Alcune informazioni importanti sono disponibili su:
 => ../Categories/Rasperino.gmi  
 => ../Categories/Tecnologia.gmi  
 
-# >>
+# »
 📈 sitoctt - Da 3 mesi fa ad oggi, l'inizio e i motivi
 
 Questo articolo si può probabilmente considerare come il primo di una serie sulla filosofia del sitoctt, se così vogliam dire.
@@ -48,7 +48,7 @@ Per iniziare, di cosa è meglio parlare, se non di tutto ciò che ha portato all
 
 Quando, ormai ben 3 mesi fa, avevo iniziato appena a concepire il sitoctt, una delle cose che sentivo era di non avere un posto in cui disporre la mia roba - quella da preservare e condividere pubblicamente, almeno - in un modo che la rendesse ordinata, disponibile, guardabile, utilizzabile, e a prova di perdita.
 
-## >>
+## »
 Torniamo a prima
 
 Per arrivare a dove il tutto è ora, però, ne è servito di tempo.
@@ -74,7 +74,7 @@ Se però, con un'immagine (ignorando che il mio font non si sia caricato, anche 
 Il mio discorsone sconclusionato figurava più o meno ancora come lo fa oggi sulla home page, ma il resto è appena riconoscibile.
 Sembra tutto più vuoto... essendo che mancano tutte le iconcine e i bottoni che ora ho ai bordi e nel menu globale. Si, quest'ultimo già c'era; la sua utilità in quei giorni era pressoché nulla, considerando che le pagine presenti erano di numero 2, ma diciamo che è stata buona cosa averlo creato da subito.
 
-### >>
+### »
 Il postoctt
 
 La scrittona al centro dello schermo, però, quella ha qualcosa che non va.
@@ -87,7 +87,7 @@ Alla fine, prevedibilmente, ho optato per un sito Web.
 Per qualche motivo però, il nome "postoctt" non mi è puzzato abbastanza presto. Ho impiegato una ingente quantità di giorni per realizzare che quel nome ricordasse, almeno in parte, qualcosa di relativo alle poste... Situazione, direi, non proprio ottimale.
 Quindi, ho pensato di cambiare il nome in " sitoctt ".
 
-## >>
+## »
 Il sito di Octt
 
 L'unica cosa davvero importante, ad ogni modo, non è mai cambiata: " octt ".
@@ -102,7 +102,7 @@ fa già di più, ma non si arriva assolutamente ai livelli di personalizzazione 
 
 => https://misskey-hub.net/en  Misskey
 
-### >>
+### »
 Grande espressività
 
 Ed ecco un altro dei miei desideri che inconsciamente si è condensato come scopo del sito: il creare qualcosa che sentivo mancasse non solo per ciò che tange me, ma tutta la comunità del Web artigianale in generale.
@@ -115,13 +115,13 @@ Davvero bello è il fatto che con il CSS scritto a mano, anche appena qualche de
 
 Tralasciando i mezzi: questa, l'idea di creare una galleria collaterale, era uno dei miei obiettivi iniziali. In questi mesi l'ho un po' lasciato da parte, nel senso che mi sono concentrata principalmente sul creare contenuti, pensando che ✨ i dettagli scintillanti ✨ avrei potuto metterli quando capita.. e dovrei iniziare a farlo, onestamente! Al momento solo la pagina home ha grandi particolarità, se escludiamo lo stile globale del sito a cui comunque ho lavorato con un minimo di regolarità.
 
-## >>
+## »
 L'importanza dei contenuti
 
 Non che sia un male l'aver messo al primo posto i contenuti, comunque; anzi, è una cosa buona. Un sito senza veri contenuti e non regolarmente aggiornato, può magari essere un pezzo d'arte se realizzato per essere bello o per avere un significato intrinseco - ma di per sé non è utile.
 È qualcosa che si trova, si ammira, magari lo si condivide.. e finisce tutto lì. Sono i contenuti che danno un vero senso, che garantiscono una lunga vita al sito, e fanno tornare di tanto in tanto il pubblico.
 
-### >>
+### »
 L'organizzazione
 
 Contenuti che, per carità, devono essere anche decentemente ordinati.
@@ -132,7 +132,7 @@ Di pagine in senso classico, per ora, ce ne sono forse un po' poche. Non le ripe
 Il vero grosso del sito sta negli articoli di blog.
 C'è per me una divisione concettuale da rispettare tra i due tipi di pagine. Le tradizionali possono essere qualcosa di incompleto, sempre in aggiornamento, work-in-progress di natura; le pagine degli articoli vanno invece create una volta, per bene, e poi idealmente non toccate più. Le normali posso crearle come bozza, ed aggiornarle un pochino ogni volta che mi va; quelle di blog, però, restano private nel mentre che le scrivo, e poi, quando sono finite, diventano pubbliche. Le ultime mi richiedono più lavoro sul momento, e quindi escono anche più raramente, ma sono più cariche di contenuto.
 
-### >>
+### »
 Disseppellire alcune cose
 
 Cosine nuove, fatte apposta per il sito, ne ho messe e ne metterò tante, ma l'idea è riempire il posto con anche roba passata.
