@@ -42,8 +42,7 @@ Alcune informazioni importanti sono disponibili su:
 
 # »
 📓️ blogoctt
-Posts
-2022-08-26] 📈 sitoctt - Da 3 mesi fa ad oggi, l'inizio e i motivi - blogoctt
+Posts[2022-08-26] 📈 sitoctt - Da 3 mesi fa ad oggi, l'inizio e i motivi - blogoctt
 2022-07-27] 👾 L'emulazione NDS, Google Play, e una storia oscura - blogoctt
 2022-07-17] 🥸️ Come la nostra impronta digitale sociale ci frega - blogoctt
 2022-07-09] 💻 Come ho riparato il mio portatile (con 25€) - blogoctt
@@ -51,8 +50,7 @@ Posts
 2022-06-23] ☀️ Rasperino Solare (ed altri esperimenti andati a male) - blogoctt
 2022-06-14] 📄 I documenti non devono diventare applicazioni - blogoctt
 2022-06-03] 🌐️ Come e perché il sitoctt su Tor? - blogoctt
-Archive
-2022-05-07] Gli inaspettati vantaggi della chiavetta Linux - blogoctt
+Archive[2022-05-07] Gli inaspettati vantaggi della chiavetta Linux - blogoctt
 
 => ../Posts/2022-08-26-sitoctt-da-3-mesi-ad-oggi.gmi  
 => ../Posts/2022-07-27-0000-Emulazione-NDS-Google-Play-e-una-Storia-Oscura.gmi  

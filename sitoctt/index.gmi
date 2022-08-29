@@ -120,7 +120,7 @@ Web
 Il sito Web è disponibile da diverse fonti.
 
 Sul clearweb, sui server di GitLab : sitoctt.octt.eu.org
-. Sull'Onion Web (Tor), sui server di Replit: sitoctt2fxjvx3lc2iqqef2aeulflprjaasv2xl4zi7sxxbmvjy5b5yd.onion
+.Sull'Onion Web (Tor), sui server di Replit: sitoctt2fxjvx3lc2iqqef2aeulflprjaasv2xl4zi7sxxbmvjy5b5yd.onion
 . Alla fine non è più ospitato in casa mia, ma forse è meglio così, è un carico in meno per il povero serverino di fortuna che ho (al momento, una console Nintendo Switch con Ubuntu).
 
 => https://sitoctt.octt.eu.org  sitoctt.octt.eu.org
@@ -212,7 +212,7 @@ Quelli del mio generatore, anche questo rilasciato sotto una licenza libera, la 
 Crediti speciali
 Lista di crediti e ringraziamenti speciali a chi ho preso materiale in prestito (Espandi)
 Lista di script client-side
-, tra cui alcuni di terzi Titolo animato ad onda: Waaaves di jh3y
+, tra cui alcuni di terziTitolo animato ad onda: Waaaves di jh3y
 Famiglia caratteri: Space Mono di Colophon Foundry
 Pacchetto emoji CSS: Twemoji di Twitter
 , via Twemoji-Amazing di SebastianAigner

@@ -91,7 +91,7 @@ Facendo un esempio pratico, questo è cosa esce fuori:
 Senza CSS, i titoli sulla pagina renderizzata si vedono come al solito, eccetto per il fatto che hanno un carattere » cliccabile alla loro sinistra. Andrebbe bene già così, ma ovviamente io avevo la personalizzazione in mente da subito.
 Sul tema principale del sitoctt, infatti, ho personalizzato la cosa in modo da avere:
 
-L'emoji della catena (🔗) come carattere per il link; Il posizionamento un po' a sinistra del tastino, per far rimanere i titoli in linea con il testo normale; Opacità del carattere molto ridotta, e un po' meno ridotta quando il mouse/dito ci passa sopra; Evidenziazione e sottolineatura di un heading attivato.
+L'emoji della catena (🔗) come carattere per il link;Il posizionamento un po' a sinistra del tastino, per far rimanere i titoli in linea con il testo normale;Opacità del carattere molto ridotta, e un po' meno ridotta quando il mouse/dito ci passa sopra;Evidenziazione e sottolineatura di un heading attivato.
 
 In codice CSS, la mia visione si è tradotta in queste righe:
 
