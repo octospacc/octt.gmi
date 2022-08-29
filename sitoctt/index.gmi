@@ -64,12 +64,14 @@ Nonostante abbia già un po' più di sostanza, tutto questo ambaradan è ancora 
 Gli aggiornamenti al sito sono di diverso tipo: la pubblicazione di nuovi articoli di blog succede, boh, 3 volte al mese, è una buona idea usare i feed
 che metto a disposizione; le modifiche per pagine normali sono continue e avvengono a caso, quindi dovresti controllare magari ogni settimana quelle che ti interessano, se ti aspetti novità.
 
-Ah, non so se hai notato, ma (da Web) negli angoli in alto dello schermo ci sono dei tastini. Lo sto scrivendo perché ho paura non si capisca, che devo fare... Vabbe, se premi lì puoi accedere ai menu ad albero, rispettivamente delle pagine del sito a sinistra (📚), e delle sezioni della pagina a destra (📑). Quello di sinistra soprattutto è importante per navigare il sito.
+Da tenere a mente (da Web): quando ci sono per lo schermo i seguenti tastini, è perché possono nascondere menu collassabili. Possono stare in posizioni diverse su pagine diverse, perché mi piace sperimentare con diversi temi; però cerco di mantenere il loro significato coerente ovunque.
+Un'icona con l'emoji di una pila di libri (📚) segnala il menu principale del sito, fondamentale per poterlo navigare saltando tra pagine completamente diverse e non collegate. Invece, l'icona con l'emoji di un foglio con un segnalibro (📑) indica l'elenco delle sezioni della pagina corrente - non è essenziale, ma può tornare utile per saltare tra parti diverse di un lungo testo.
 
-A tal proposito, per la migliore esperienza DEVI usare un browser con supporto almeno a CSS3 e alle immagini in formato AVIF. Se usi un browser antico ti garantisco che troverai troppa roba rotta (ma comunque il sito sarà navigabile lo stesso).
+A tal proposito, per la migliore esperienza DEVI usare un browser con supporto almeno a CSS3 e alle immagini in formato AVIF (quest'ultima cosina, almeno finché non riesco a far funzionare il polyfill). Se usi un browser antico ti garantisco che troverai tanta, tanta roba rotta (ma comunque il sito dovrebbe essere navigabile lo stesso).
 Essendo che questo sito contiene immagini AVIF, assicurati che il tuo browser sia aggiornato e decente. Safari di Apple, per esempio, mi dicono che non supporta AVIF, quindi buttalo via.
-Preferibilmente non usare Chromium, che ha degli strani memory leak su pagine con animazioni complesse, oltre ad andare a scatti. Firefox non ha questo problema, ma usa molto di più la CPU.
+Preferibilmente non usare Chromium, che ha degli strani memory leak su pagine con animazioni complesse, e ha qualche glitch particolare. Firefox non ha questo problema, ma usa molto di più la CPU.
 Direi che la scelta non è tra il migliore ma tra il meno peggio..
+Nota: se scegli Firefox, non usare la versione ESR! È per sua natura vecchia, fossilizzata, e manca sempre di funzionalità moderne - per esempio, al giorno d'oggi ancora non supporta AVIF.
 
 ### »
 Script client-side
