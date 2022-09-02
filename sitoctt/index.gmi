@@ -238,5 +238,5 @@ O, magari, si tratta di un problema temporaneo.
 
 => https://fediring.net/previous?host=sitoctt.octt.eu.org  
 => https://fediring.net/  
-=> https://fediring.net/random  [🎲]
+=> https://fediring.net/random  
 => https://fediring.net/next?host=sitoctt.octt.eu.org
