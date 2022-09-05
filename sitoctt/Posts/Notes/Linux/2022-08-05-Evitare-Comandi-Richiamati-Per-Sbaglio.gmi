@@ -8,7 +8,7 @@ Alcune informazioni importanti sono disponibili su:
 💾 Devlogs
 ✉️ PicoBlog
 🔖️ Bacheca
-💾️ OctoSpacc Home
+💾️ OctoSpacc Hub
 🗂️ Raccolte 📓️ Blog
 🛠️ DIY
 ♻️ Ecologia
@@ -27,7 +27,7 @@ Alcune informazioni importanti sono disponibili su:
 => ../../../Devlogs.gmi  
 => ../../../PicoBlog.gmi  
 => https://octtspacc.gitlab.io/bachecoctt  🔖️ Bacheca
-=> https://octospacc.gitlab.io  💾️ OctoSpacc Home
+=> https://hub.octt.eu.org  💾️ OctoSpacc Hub
 => ../../../Categories/Blog.gmi  
 => ../../../Categories/DIY.gmi  
 => ../../../Categories/Ecologia.gmi  
@@ -62,7 +62,6 @@ Lo script
 Per risolvere il problema, mi sono inventata questo scriptino (testato con sh e bash), l'idea è di avviare i comandi "pericolosi" attraverso di lui nelle situazioni in cui devo fare quelle mie mosse con il terminale (ma, volendo, lo si può impostare come alias per richiamarlo in maniera implicita sempre per un dato comando).
 
 ```
-
 Profile="~/.bashrc"
 
 a=${RANDOM: -1}
@@ -88,7 +87,6 @@ Ho salvato il codice all'interno di una funzione function comconf() { } nel mio 
 Ora, quando devo eseguire un comando marso, mi basta fare comconf '<comando>'; il programma mi chiederà di scrivere il risultato di un'operazione aritmetica semplice generata casualmente, e solo se ciò che scrivo è giusto (quindi, solo se sto prestando attenzione) il mio comando verrà eseguito.
 
 ```
-
 $ # Esempio
 $ comconf 'echo "Prova"; echo "Provina"'
 [!] Confirm your command

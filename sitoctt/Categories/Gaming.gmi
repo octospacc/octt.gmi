@@ -8,7 +8,7 @@ Alcune informazioni importanti sono disponibili su:
 💾 Devlogs
 ✉️ PicoBlog
 🔖️ Bacheca
-💾️ OctoSpacc Home
+💾️ OctoSpacc Hub
 🗂️ Raccolte 📓️ Blog
 🛠️ DIY
 ♻️ Ecologia
@@ -27,7 +27,7 @@ Alcune informazioni importanti sono disponibili su:
 => ../Devlogs.gmi  
 => ../PicoBlog.gmi  
 => https://octtspacc.gitlab.io/bachecoctt  🔖️ Bacheca
-=> https://octospacc.gitlab.io  💾️ OctoSpacc Home
+=> https://hub.octt.eu.org  💾️ OctoSpacc Hub
 => ../Categories/Blog.gmi  
 => ../Categories/DIY.gmi  
 => ../Categories/Ecologia.gmi  
@@ -42,6 +42,8 @@ Alcune informazioni importanti sono disponibili su:
 
 # »
 🕹️ Gaming
+Gaming Raccolta Videogiochi
 Posts[2022-07-27] 👾 L'emulazione NDS, Google Play, e una storia oscura - blogoctt
 
+=> ../Raccolte/Gaming/Raccolta-Videogiochi.gmi   Raccolta Videogiochi
 => ../Posts/2022-07-27-0000-Emulazione-NDS-Google-Play-e-una-Storia-Oscura.gmi

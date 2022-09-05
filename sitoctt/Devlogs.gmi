@@ -8,7 +8,7 @@ Alcune informazioni importanti sono disponibili su:
 💾 Devlogs
 ✉️ PicoBlog
 🔖️ Bacheca
-💾️ OctoSpacc Home
+💾️ OctoSpacc Hub
 🗂️ Raccolte 📓️ Blog
 🛠️ DIY
 ♻️ Ecologia
@@ -27,7 +27,7 @@ Alcune informazioni importanti sono disponibili su:
 => Devlogs.gmi  
 => PicoBlog.gmi  
 => https://octtspacc.gitlab.io/bachecoctt  🔖️ Bacheca
-=> https://octospacc.gitlab.io  💾️ OctoSpacc Home
+=> https://hub.octt.eu.org  💾️ OctoSpacc Hub
 => Categories/Blog.gmi  
 => Categories/DIY.gmi  
 => Categories/Ecologia.gmi  
@@ -56,6 +56,50 @@ Ovviamente, scriverò soltanto la roba interessante, non tutto quello che faccio
 
 ## »
 Leggi i Devlogs
+
+### Filtri:
+#sitoctt #staticoso
+»
+2022-09-05] Filtri intelligenti
+
+-> #sitoctt
+
+Le soluzioni semplici sono spesso le migliori.
+Con questa filosofia, come in altri casi, ho preso e ho implementato questa piccola cosa che mi serviva sul sitoctt.
+
+Al momento i Devlogs sono ancora un po' vuoti, ma, per quando inizieranno a riempirsi di più, sarebbe carino poter efficacemente filtrare le mie scritture per categoria.
+Problema risolto in appena qualche riga di HTML e CSS!
+
+```
+<input type="checkbox" id="CheckBox-CATEGORIA" checked>
+<label for="CheckBox-CATEGORIA">#CATEGORIA</label>
+...
+
+```
+
+```
+.Box-CATEGORIA,
+...
+{
+   Display: None;
+}
+
+/*
+*/ #CheckBox-CATEGORIA:Checked ~ Div > .Box-CATEGORIA,
+...
+{
+   Display: Inherit;
+}
+
+```
+
+Mi basta questo codice di base - che devo però duplicare per ogni singola categoria - per definire degli elementi (che dovranno avere una o più classi di categoria, e io uso <details>) che possono essere fatti sparire quando si toglie la spunta alle eventuali caselle.
+Diversi elementi possono inoltre appartenere a multiple categorie, cosa che per me è utile.
+
+La cosa è molto più complicata a spiegarsi, di quanto non lo sia a farsi e ad essere usata.. quindi... 😳!
+
+Nota: I simboli hash (#) nei nomi visibili delle categorie non centrano nulla con l'id HTML degli elementi, li uso come prefisso semplicemente per simboleggiare un hashtag.
+
 »
 2022-09-01] Ottimizzazioni necessarie
 
@@ -101,7 +145,6 @@ A livello di HTML, allora, staticoso genera per ogni titolo la seguente struttur
 Facendo un esempio pratico, questo è cosa esce fuori:
 
 ```
-
 <h1 class="SectionHeading">
    <span class="SectionLink">
        <a href="#-Titolo-di-esempio">
@@ -123,7 +166,6 @@ L'emoji della catena (🔗) come carattere per il link;Il posizionamento un po' 
 In codice CSS, la mia visione si è tradotta in queste righe:
 
 ```
-
 .SectionTitle:Target {
    Color: #EEDDFF !Important;
    Background: #700070 !Important;

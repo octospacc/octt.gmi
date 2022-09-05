@@ -8,7 +8,7 @@ Alcune informazioni importanti sono disponibili su:
 💾 Devlogs
 ✉️ PicoBlog
 🔖️ Bacheca
-💾️ OctoSpacc Home
+💾️ OctoSpacc Hub
 🗂️ Raccolte 📓️ Blog
 🛠️ DIY
 ♻️ Ecologia
@@ -27,7 +27,7 @@ Alcune informazioni importanti sono disponibili su:
 => Devlogs.gmi  
 => PicoBlog.gmi  
 => https://octtspacc.gitlab.io/bachecoctt  🔖️ Bacheca
-=> https://octospacc.gitlab.io  💾️ OctoSpacc Home
+=> https://hub.octt.eu.org  💾️ OctoSpacc Hub
 => Categories/Blog.gmi  
 => Categories/DIY.gmi  
 => Categories/Ecologia.gmi  
@@ -94,12 +94,11 @@ Mi puoi trovare sul Fediverso, ai contatti da me preferiti che lascio qui sotto.
 
 Friendica : @octt@poliverso.org
 Mastodon : @octo@mastodon.uno
-Matrix : @octt:octt.ddns.net
-(Temporaneamente offline)
+Matrix : @octt:matrix.org
 
 => https://poliverso.org/profile/octt  @octt@poliverso.org
 => https://mastodon.uno/@octo  @octo@mastodon.uno
-=> https://matrix.to/#/@octt:octt.ddns.net  @octt:octt.ddns.net
+=> https://matrix.to/#/@octt:matrix.org  @octt:matrix.org
 
 # »
 Fine?

@@ -8,7 +8,7 @@ Alcune informazioni importanti sono disponibili su:
 💾 Devlogs
 ✉️ PicoBlog
 🔖️ Bacheca
-💾️ OctoSpacc Home
+💾️ OctoSpacc Hub
 🗂️ Raccolte 📓️ Blog
 🛠️ DIY
 ♻️ Ecologia
@@ -27,7 +27,7 @@ Alcune informazioni importanti sono disponibili su:
 => ../../../../Devlogs.gmi  
 => ../../../../PicoBlog.gmi  
 => https://octtspacc.gitlab.io/bachecoctt  🔖️ Bacheca
-=> https://octospacc.gitlab.io  💾️ OctoSpacc Home
+=> https://hub.octt.eu.org  💾️ OctoSpacc Hub
 => ../../../../Categories/Blog.gmi  
 => ../../../../Categories/DIY.gmi  
 => ../../../../Categories/Ecologia.gmi  
