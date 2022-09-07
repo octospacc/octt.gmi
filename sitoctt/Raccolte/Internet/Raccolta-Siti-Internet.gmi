@@ -128,6 +128,12 @@ Clearweb: francescomasala.me
 => https://dustinbrett.com  dustinbrett.com
 => https://francescomasala.me  francescomasala.me
 
+🇬🇧 🇮🇹 Tassoman's homepage
+Solo una pagina principale e poca altra roba, ma solo l'idea del sito è un'esperienza.. interessante. L'unico sito visto fino ad ora che usa una precisa configurazione di Apache, con l'esatto scopo di rallentare il sito alle velocità del 14.4 kbps!
+Clearweb: tassoman.com
+
+=> https://tassoman.com  tassoman.com
+
 ## »
 Miscellanea
 
