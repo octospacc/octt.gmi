@@ -5,10 +5,11 @@ Alcune informazioni importanti sono disponibili su:
 🏠 ~Home~
 😺 Chi sono
 💰 Donazioni
+📅 Diarylog
 💾 Devlogs
-✉️ PicoBlog
 🔖️ Bacheca
 💾️ OctoSpacc Hub
+✉️ PicoBlog
 🗂️ Raccolte 📓️ Blog
 🛠️ DIY
 ♻️ Ecologia
@@ -24,10 +25,11 @@ Alcune informazioni importanti sono disponibili su:
 => ../index.gmi  
 => ../Chi-Sono.gmi  
 => ../Donazioni.gmi  
+=> ../Diarylog.gmi  
 => ../Devlogs.gmi  
-=> ../PicoBlog.gmi  
 => https://octtspacc.gitlab.io/bachecoctt  🔖️ Bacheca
 => https://hub.octt.eu.org  💾️ OctoSpacc Hub
+=> ../PicoBlog.gmi  
 => ../Categories/Blog.gmi  
 => ../Categories/DIY.gmi  
 => ../Categories/Ecologia.gmi  
