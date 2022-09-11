@@ -63,3 +63,6 @@ In sintesi, ecco il mio Diarylog - perché "diario" e basta mi da un'impressione
 => ./Devlogs.gmi  Devlogs
 
 In costruzione...
+
+## »
+Leggi il Diarylog
