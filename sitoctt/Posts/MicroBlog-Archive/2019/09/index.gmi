@@ -7,8 +7,9 @@ Alcune informazioni importanti sono disponibili su:
 💰 Donazioni
 📅 Diarylog
 💾 Devlogs
-🔖️ Bacheca
-💾️ OctoSpacc Hub
+💎 OctoSpacc Hub
+🔖️ Bacheca (Old)
+📦 OcttKB
 ✉️ PicoBlog
 🗂️ Raccolte 📓️ Blog
 🛠️ DIY
@@ -27,8 +28,9 @@ Alcune informazioni importanti sono disponibili su:
 => ../../../../Donazioni.gmi  
 => ../../../../Diarylog.gmi  
 => ../../../../Devlogs.gmi  
-=> https://octtspacc.gitlab.io/bachecoctt  🔖️ Bacheca
-=> https://hub.octt.eu.org  💾️ OctoSpacc Hub
+=> https://hub.octt.eu.org  💎 OctoSpacc Hub
+=> https://octtspacc.gitlab.io/bachecoctt  🔖️ Bacheca (Old)
+=> https://kb.octt.eu.org  📦 OcttKB
 => ../../../../PicoBlog.gmi  
 => ../../../../Categories/Blog.gmi  
 => ../../../../Categories/DIY.gmi  
