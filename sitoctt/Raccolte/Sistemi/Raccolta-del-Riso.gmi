@@ -62,3 +62,18 @@ Su PC uso soltanto Linux (non necessariamente con GNU 😏);Su smartphone ho And
 Quindi, posso già dire che la maggior parte dei miei contenuti riguarderà il desktop Linux.
 
 In costruzione...
+
+### Filtri:
+#Linux #Desktop #XFCE
+
+-> #Linux #Desktop #XFCE
+
+[‡ Screenshot 2022 10 10 20 21 47]
+
+OS : Void Linux
+Desktop : xfce4 Pannello : xfce4-panel Dock : plank Menu Globale : AppMenu Plugin (appmenu-gtk-module appmenu-gtk3-module appmenu-registrar vala-panel-appmenu vala-panel-appmenu-data xfce4-panel-appmenu) Tema (GTK2) : Fluent-compact
+Decorazioni : Fluent-Dark Icone : Fluent
+
+=> https://voidlinux.org  Void Linux
+=> https://github.com/vinceliuice/Fluent-gtk-theme  Fluent-compact
+=> https://github.com/vinceliuice/Fluent-icon-theme  Fluent
