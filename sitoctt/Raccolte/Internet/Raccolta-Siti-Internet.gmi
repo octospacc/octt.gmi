@@ -158,3 +158,16 @@ Clearweb: openbooks.neocities.org
 => https://yesterweb.org  yesterweb.org
 => https://xxiivv.com  xxiivv.com
 => https://openbooks.neocities.org  openbooks.neocities.org
+
+🇬🇧 FEMICOM Museum
+Un museo virtuale dedicato ad illustrare quei rari contenuti informatici e videoludici che fanno del loro punto chiave estetiche ed esperienze femminili, colorate, e kawaii. Purtroppo, non tutte le pagine sono riempite, ma quel poco che c'è è carino!
+Clearweb: femicom.org
+
+🇷🇺 🇬🇧 Encyclopedia Game Boy Advance
+È un bel sito che ho trovato per caso, che raccoglie diverse informazioni sul Game Boy Advance da diversi punti di vista. È ben organizzato ed ha tante foto di supporto al materiale testuale. È disponibile in Inglese, ma la versione principale in Russo ha molti più contenuti.
+Clearweb: 🇷🇺 v. Russa
+, 🇬🇧 v. Inglese
+
+=> http://femicom.org  femicom.org
+=> https://gbasp.ru  🇷🇺 v. Russa
+=> https://en.gbasp.ru  🇬🇧 v. Inglese
