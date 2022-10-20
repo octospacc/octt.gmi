@@ -5,19 +5,18 @@ Alcune informazioni importanti sono disponibili su:
 🏠 ~Home~
 😺 Chi sono
 💰 Donazioni
-📅 Diarylog
 💾 Devlogs
+✉️ PicoBlog
 💎 OctoSpacc Hub
 🔖️ Bacheca (Old)
 📦 OcttKB
-✉️ PicoBlog
 🗂️ Raccolte 📓️ Blog
+📒 MicroBlog
 🛠️ DIY
 ♻️ Ecologia
 🦄 Fritto Misto
 🕹️ Gaming
 🌐️ Internet
-📒 MicroBlog
 📱️ Mobile
 📝️ Note
 💰 Rasperino
@@ -26,19 +25,18 @@ Alcune informazioni importanti sono disponibili su:
 => ../index.gmi  
 => ../Chi-Sono.gmi  
 => ../Donazioni.gmi  
-=> ../Diarylog.gmi  
 => ../Devlogs.gmi  
+=> ../PicoBlog.gmi  
 => https://hub.octt.eu.org  💎 OctoSpacc Hub
 => https://octtspacc.gitlab.io/bachecoctt  🔖️ Bacheca (Old)
 => https://kb.octt.eu.org  📦 OcttKB
-=> ../PicoBlog.gmi  
 => ../Categories/Blog.gmi  
+=> ../Categories/MicroBlog.gmi  
 => ../Categories/DIY.gmi  
 => ../Categories/Ecologia.gmi  
 => ../Categories/Fritto-Misto.gmi  
 => ../Categories/Gaming.gmi  
 => ../Categories/Internet.gmi  
-=> ../Categories/MicroBlog.gmi  
 => ../Categories/Mobile.gmi  
 => ../Categories/Note.gmi  
 => ../Categories/Rasperino.gmi  
@@ -49,6 +47,14 @@ Alcune informazioni importanti sono disponibili su:
 
 Nota: I contenuti negli archivi possono aver subito redazioni non segnalate.
 
+MicroBlog[2022-10-16] Aggiornamenti DSpacc - Tastino maledetto
+2022-09-23] Nuove frontiere
+2022-09-18] Quando metto mano io spacc
+2022-09-11] Che accade
 [?] Archivi MicroBlog di Settembre 2019
 
-=> ../Posts/MicroBlog-Archive/2019/09/index.gmi   Archivi MicroBlog di Settembre 2019
+=> ../Posts/MicroBlog/2022-10-16-Aggiornamenti-DSpacc-Tastino-Maledetto.gmi   Aggiornamenti DSpacc - Tastino maledetto
+=> ../Posts/MicroBlog/2022-09-23-Nuove-Frontiere.gmi   Nuove frontiere
+=> ../Posts/MicroBlog/2022-09-18-Quando-Metto-Mano-Io-Spacc.gmi   Quando metto mano io spacc
+=> ../Posts/MicroBlog/2022-09-11-Che-Accade.gmi   Che accade
+=> ../Posts/MicroBlog/Archive/2019/09/index.gmi   Archivi MicroBlog di Settembre 2019

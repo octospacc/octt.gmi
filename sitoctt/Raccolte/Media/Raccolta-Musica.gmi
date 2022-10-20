@@ -5,19 +5,18 @@ Alcune informazioni importanti sono disponibili su:
 🏠 ~Home~
 😺 Chi sono
 💰 Donazioni
-📅 Diarylog
 💾 Devlogs
+✉️ PicoBlog
 💎 OctoSpacc Hub
 🔖️ Bacheca (Old)
 📦 OcttKB
-✉️ PicoBlog
 🗂️ Raccolte 📓️ Blog
+📒 MicroBlog
 🛠️ DIY
 ♻️ Ecologia
 🦄 Fritto Misto
 🕹️ Gaming
 🌐️ Internet
-📒 MicroBlog
 📱️ Mobile
 📝️ Note
 💰 Rasperino
@@ -26,44 +25,32 @@ Alcune informazioni importanti sono disponibili su:
 => ../../index.gmi  
 => ../../Chi-Sono.gmi  
 => ../../Donazioni.gmi  
-=> ../../Diarylog.gmi  
 => ../../Devlogs.gmi  
+=> ../../PicoBlog.gmi  
 => https://hub.octt.eu.org  💎 OctoSpacc Hub
 => https://octtspacc.gitlab.io/bachecoctt  🔖️ Bacheca (Old)
 => https://kb.octt.eu.org  📦 OcttKB
-=> ../../PicoBlog.gmi  
 => ../../Categories/Blog.gmi  
+=> ../../Categories/MicroBlog.gmi  
 => ../../Categories/DIY.gmi  
 => ../../Categories/Ecologia.gmi  
 => ../../Categories/Fritto-Misto.gmi  
 => ../../Categories/Gaming.gmi  
 => ../../Categories/Internet.gmi  
-=> ../../Categories/MicroBlog.gmi  
 => ../../Categories/Mobile.gmi  
 => ../../Categories/Note.gmi  
 => ../../Categories/Rasperino.gmi  
 => ../../Categories/Tecnologia.gmi  
 
 # »
-Raccolta Musica
+🎶 Raccolta Musica
 
 In costruzione...
 
-Macross 82-99
-Principalmente musica del filone future-funk, sottogenere della vaporwave con un timbro più ritmato e carino. Ogni album ha dei temi sonori diversi, con rimandi alla cultura pop giapponese degli anni '80 e '90. Bene o male tutte le sue canzoni riescono ad essere molto calme e rilassanti. SoundCloud
-, YouTube
-, Bandcamp
-, Archive.org
+### Macross 82-99
 
-Moe Shop
-Canzoni per la maggiore vivaci, con un'atmosfera, per così dire, anime. Le copertine degli album penso si sposino parecchio bene con la sua musica. Alcuni suoi pezzi presentano delle sonorità meno giocose e con caratteri più vicini a tipi più comuni di musica elettronica, ma riesco ad apprezzarli molto comunque. SoundCloud
-, YouTube
-, Bandcamp
-, Archive.org
-
-Ujico / Snail's House
-Sapevo fossero la stessa persona, ma non sapevo che "Ujico" e "Snail's House" fossero effettivamente dei personaggi con identità diverse [?
-] per quanto riguarda la composizione musicale. Ho conosciuto inizialmente la sua musica, almeno in parte future-bass, fatta sotto il nome di Snail's House. Lì si vede il suo stile attuale, i cui suoni kawaii elettronici mi sono sempre piaciuti. Più tardi, ho scoperto i suoi album precedenti, che a livello di espressività si orientano più sul complesso della musica in sé, e non sui piccoli dettagli. Due modi molto diversi di creare un genere di musica, con diverse ambientazioni, ma entrambi con lo stesso timbro personale magnifico. SoundCloud
+Principalmente musica del filone future-funk, sottogenere della vaporwave con un timbro più ritmato e carino. Ogni album ha dei temi sonori diversi, con rimandi alla cultura pop giapponese degli anni '80 e '90. Bene o male tutte le sue canzoni riescono ad essere molto calme e rilassanti.
+• SoundCloud
 , YouTube
 , Bandcamp
 , Archive.org
@@ -72,10 +59,29 @@ Sapevo fossero la stessa persona, ma non sapevo che "Ujico" e "Snail's House" fo
 => https://www.youtube.com/channel/UCYIQZpv7Jv9GImzgknNZNPA  YouTube
 => https://macross82-99.bandcamp.com/music  Bandcamp
 => https://archive.org/details/macross-82-99-01-meeting-point  Archive.org
+
+### Moe Shop
+
+Canzoni per la maggiore vivaci, con un'atmosfera, per così dire, anime. Le copertine degli album penso si sposino parecchio bene con la sua musica. Alcuni suoi pezzi presentano delle sonorità meno giocose e con caratteri più vicini a tipi più comuni di musica elettronica, ma riesco ad apprezzarli molto comunque.
+• SoundCloud
+, YouTube
+, Bandcamp
+, Archive.org
+
 => https://soundcloud.com/moeshop  SoundCloud
 => https://invidious.nerdvpn.de/channel/UCcKTRoHPP2hPaom63QGaiBw  YouTube
 => https://moeshop.bandcamp.com/music  Bandcamp
 => https://archive.org/details/Moe-Shop-Full-Discography  Archive.org
+
+### Ujico / Snail's House
+
+Sapevo fossero la stessa persona, ma non sapevo che "Ujico" e "Snail's House" fossero effettivamente dei personaggi con identità diverse [?
+] per quanto riguarda la composizione musicale. Ho conosciuto inizialmente la sua musica, almeno in parte future-bass, fatta sotto il nome di Snail's House. Lì si vede il suo stile attuale, i cui suoni kawaii elettronici mi sono sempre piaciuti. Più tardi, ho scoperto i suoi album precedenti, che a livello di espressività si orientano più sul complesso della musica in sé, e non sui piccoli dettagli. Due modi molto diversi di creare un genere di musica, con diverse ambientazioni, ma entrambi con lo stesso timbro personale magnifico.
+• SoundCloud
+, YouTube
+, Bandcamp
+, Archive.org
+
 => https://en.m.wikipedia.org/wiki/Snail's_House#History  ?
 => https://soundcloud.com/ujico  SoundCloud
 => https://www.youtube.com/channel/UCYxBY8mhJ7R2rMIcQ28H_Zw  YouTube

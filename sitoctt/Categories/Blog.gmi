@@ -5,19 +5,18 @@ Alcune informazioni importanti sono disponibili su:
 🏠 ~Home~
 😺 Chi sono
 💰 Donazioni
-📅 Diarylog
 💾 Devlogs
+✉️ PicoBlog
 💎 OctoSpacc Hub
 🔖️ Bacheca (Old)
 📦 OcttKB
-✉️ PicoBlog
 🗂️ Raccolte 📓️ Blog
+📒 MicroBlog
 🛠️ DIY
 ♻️ Ecologia
 🦄 Fritto Misto
 🕹️ Gaming
 🌐️ Internet
-📒 MicroBlog
 📱️ Mobile
 📝️ Note
 💰 Rasperino
@@ -26,26 +25,25 @@ Alcune informazioni importanti sono disponibili su:
 => ../index.gmi  
 => ../Chi-Sono.gmi  
 => ../Donazioni.gmi  
-=> ../Diarylog.gmi  
 => ../Devlogs.gmi  
+=> ../PicoBlog.gmi  
 => https://hub.octt.eu.org  💎 OctoSpacc Hub
 => https://octtspacc.gitlab.io/bachecoctt  🔖️ Bacheca (Old)
 => https://kb.octt.eu.org  📦 OcttKB
-=> ../PicoBlog.gmi  
 => ../Categories/Blog.gmi  
+=> ../Categories/MicroBlog.gmi  
 => ../Categories/DIY.gmi  
 => ../Categories/Ecologia.gmi  
 => ../Categories/Fritto-Misto.gmi  
 => ../Categories/Gaming.gmi  
 => ../Categories/Internet.gmi  
-=> ../Categories/MicroBlog.gmi  
 => ../Categories/Mobile.gmi  
 => ../Categories/Note.gmi  
 => ../Categories/Rasperino.gmi  
 => ../Categories/Tecnologia.gmi  
 
 # »
-📓️ blogoctt
+📓️ Il blogoctt
 Posts[2022-08-26] 📈 sitoctt - Da 3 mesi fa ad oggi, l'inizio e i motivi - blogoctt
 2022-07-27] 👾 L'emulazione NDS, Google Play, e una storia oscura - blogoctt
 2022-07-17] 🥸️ Come la nostra impronta digitale sociale ci frega - blogoctt

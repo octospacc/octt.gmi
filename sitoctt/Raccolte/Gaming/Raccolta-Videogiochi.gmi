@@ -5,19 +5,18 @@ Alcune informazioni importanti sono disponibili su:
 🏠 ~Home~
 😺 Chi sono
 💰 Donazioni
-📅 Diarylog
 💾 Devlogs
+✉️ PicoBlog
 💎 OctoSpacc Hub
 🔖️ Bacheca (Old)
 📦 OcttKB
-✉️ PicoBlog
 🗂️ Raccolte 📓️ Blog
+📒 MicroBlog
 🛠️ DIY
 ♻️ Ecologia
 🦄 Fritto Misto
 🕹️ Gaming
 🌐️ Internet
-📒 MicroBlog
 📱️ Mobile
 📝️ Note
 💰 Rasperino
@@ -26,19 +25,18 @@ Alcune informazioni importanti sono disponibili su:
 => ../../index.gmi  
 => ../../Chi-Sono.gmi  
 => ../../Donazioni.gmi  
-=> ../../Diarylog.gmi  
 => ../../Devlogs.gmi  
+=> ../../PicoBlog.gmi  
 => https://hub.octt.eu.org  💎 OctoSpacc Hub
 => https://octtspacc.gitlab.io/bachecoctt  🔖️ Bacheca (Old)
 => https://kb.octt.eu.org  📦 OcttKB
-=> ../../PicoBlog.gmi  
 => ../../Categories/Blog.gmi  
+=> ../../Categories/MicroBlog.gmi  
 => ../../Categories/DIY.gmi  
 => ../../Categories/Ecologia.gmi  
 => ../../Categories/Fritto-Misto.gmi  
 => ../../Categories/Gaming.gmi  
 => ../../Categories/Internet.gmi  
-=> ../../Categories/MicroBlog.gmi  
 => ../../Categories/Mobile.gmi  
 => ../../Categories/Note.gmi  
 => ../../Categories/Rasperino.gmi  
@@ -74,7 +72,7 @@ Ma, insomma, già soltanto il carisma del personaggio protagonista fa venire vog
 
 Le premesse erano si creative, ma noiose: sei un essere umano che, per qualche motivo, va in viaggio a stabilirsi in un villaggio dove vivono animali umanoidi con cui puoi interagire. Nel frattempo, devi indebitarti con un procione che ti vende la nuova casa a carissimo prezzo, e fare quello che puoi per ripagare, con tempi che possono diventare infiniti. Ah, se vuoi puoi scegliere il tuo abbigliamento, arredare la tua casa, piazzare fiori in giardino... e?
 Animal Crossing è uno di quei giochi che va banalmente provato per essere capito: la permanenza in quel mondo riesce ad indurre calma ed allegria per motivi che, apparentemente, vanno al di là della logica.
-- Animal Crossing: New Horizons: Ottieni: https://go.octt.eu.org/$afa0200c237a
+• Animal Crossing: New Horizons: Ottieni: https://go.octt.eu.org/$afa0200c237a
 
 ### »
 ⛏️ Minecraft
@@ -99,7 +97,7 @@ Da YouTube/2N1TJP1cxmo
 
 Sparatutto in terza persona che dire diverso dagli altri è poco. Splatoon rompe le aspettative di realismo di guerra del genere, e presenta un gameplay simpatico, fatto di colori accecanti, che non si ferma mai. Non ci sono umani a sparare proiettili con il ferro, ma calamari che spargono inchiostro.
 Giocare in Mischie Mollusche (questo il nome delle battaglie online 4-contro-4) è divertente, ma profondità del gioco e inventiva del team di sviluppo si vedono in modalità storia.
-- Splatoon 3: Ottieni: https://go.octt.eu.org/$8e62cec12c93
+• Splatoon 3: Ottieni: https://go.octt.eu.org/$8e62cec12c93
 
 ### »
 🧱 Tetris ↩️
@@ -150,7 +148,7 @@ Se proprio vuoi provare qualcosa da questa pagina, e non sai davvero cosa, io di
 🏎️ SuperTuxKart
 
 Un gioco di corse in kart con ambienti carini e originali, e tante mascotte del mondo del software libero come personaggi. Ha diverse modalità di gioco, dalle corse classiche a missioni con obiettivi specifici, in solitaria o in multigiocatore. Per certi versi ha più di Mario Kart!
-- Sito Ufficiale: https://supertuxkart.net/Main_Page
+• Sito Ufficiale: https://supertuxkart.net/Main_Page
 
 ## »
 Il resto
@@ -163,7 +161,7 @@ I titoli che hanno soltanto una di queste due caratteristiche possono tranquilla
 
 Celeste è un bel giochino platformer, con meccaniche originali e uno stile grafico unico. Però è troppo difficile.
 Ho provato a giocarci tante volte, ma ad un certo punto della storia la difficoltà diventa per me troppo alta. Dovrei forse provare a finirlo in modalità guidata, visto che l'opzione c'è. Fino a quando non l'ho fatto, però, non vado a cercare video del finale e spoilerarmi roba, visto che dicono che il valore di Celeste sta proprio nel suo significato.
-- Ottieni: https://go.octt.eu.org/$ce7941cddd5e
+• Ottieni: https://go.octt.eu.org/$ce7941cddd5e
 
 Da YouTube/_bM0uEAis14
 .

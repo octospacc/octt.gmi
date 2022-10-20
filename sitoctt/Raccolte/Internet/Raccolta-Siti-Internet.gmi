@@ -5,19 +5,18 @@ Alcune informazioni importanti sono disponibili su:
 🏠 ~Home~
 😺 Chi sono
 💰 Donazioni
-📅 Diarylog
 💾 Devlogs
+✉️ PicoBlog
 💎 OctoSpacc Hub
 🔖️ Bacheca (Old)
 📦 OcttKB
-✉️ PicoBlog
 🗂️ Raccolte 📓️ Blog
+📒 MicroBlog
 🛠️ DIY
 ♻️ Ecologia
 🦄 Fritto Misto
 🕹️ Gaming
 🌐️ Internet
-📒 MicroBlog
 📱️ Mobile
 📝️ Note
 💰 Rasperino
@@ -26,19 +25,18 @@ Alcune informazioni importanti sono disponibili su:
 => ../../index.gmi  
 => ../../Chi-Sono.gmi  
 => ../../Donazioni.gmi  
-=> ../../Diarylog.gmi  
 => ../../Devlogs.gmi  
+=> ../../PicoBlog.gmi  
 => https://hub.octt.eu.org  💎 OctoSpacc Hub
 => https://octtspacc.gitlab.io/bachecoctt  🔖️ Bacheca (Old)
 => https://kb.octt.eu.org  📦 OcttKB
-=> ../../PicoBlog.gmi  
 => ../../Categories/Blog.gmi  
+=> ../../Categories/MicroBlog.gmi  
 => ../../Categories/DIY.gmi  
 => ../../Categories/Ecologia.gmi  
 => ../../Categories/Fritto-Misto.gmi  
 => ../../Categories/Gaming.gmi  
 => ../../Categories/Internet.gmi  
-=> ../../Categories/MicroBlog.gmi  
 => ../../Categories/Mobile.gmi  
 => ../../Categories/Note.gmi  
 => ../../Categories/Rasperino.gmi  
@@ -96,15 +94,15 @@ Personali
 
 🇬🇧 Ledomsoft
 Sito resuscitato da archivi dell'autore di più di un decennio fa, programmato come si faceva ai tempi. Bello colorato con GIF e tutto, ma moderato, non senza ritegno.
-Clearweb: ledomsoft.com
+• Clearweb: ledomsoft.com
 
 🇮🇹 Il covo di Thushi
 Sito ultraminimale, nessuna grafica (:'c), ma bello schema di (3) colori e bei contenuti.
-Onion web: m4vojazxsxvaxfoeklmq6na546fd5hjyo3zrgeq45cixdfm6kodkhdid.onion
+• Onion web: m4vojazxsxvaxfoeklmq6na546fd5hjyo3zrgeq45cixdfm6kodkhdid.onion
 
 🇮🇹 Arcisito
 Come si può leggere dal nome del sito e dal dominio, è il sito di Arci (o anche Aurora). Lo ha messo in piedi oggi (2022-06-30), dopo che ha detto di non sapere cosa fare con tutto il tempo libero estivo, e io le ho detto "fai l'Arcisito".
-Clearweb: arci.me
+• Clearweb: arci.me
 
 => https://ledomsoft.com  ledomsoft.com
 => http://m4vojazxsxvaxfoeklmq6na546fd5hjyo3zrgeq45cixdfm6kodkhdid.onion  m4vojazxsxvaxfoeklmq6na546fd5hjyo3zrgeq45cixdfm6kodkhdid.onion
@@ -113,19 +111,19 @@ Clearweb: arci.me
 🇬🇧 🇮🇹 astral town
 [‡ serimemo]
 Sito colorato e accogliente, boh non c'è altro da dire.
-Clearweb: astral.town
+• Clearweb: astral.town
 
 🇮🇹 Officina di Ribby
 Il tema di questo sito mi da davvero una sensazione di officina, per così dire. Pochi fronzoli ma ha un suo stile, e la sua divisione in categorie è stata di parziale ispirazione per ciò che ho sul mio sito ora.
-Clearweb: officinadiribby.altervista.org
+• Clearweb: officinadiribby.altervista.org
 
 🇬🇧 daedalOS
 I visualizzatori di documenti (browser) Web moderni sono una piattaforma eccessiva, dove cose assurde possono essere realizzate. Come un vero sistema operativo (libero), creato da Dustin Brett, per portfolio. Pazzia.
-Clearweb: dustinbrett.com
+• Clearweb: dustinbrett.com
 
 🇬🇧 Fra/Website
 Più che un sito, una demo JavaScript con una lista di link e cose così, ma è unica. Non dico altro, meglio vedere di persona!
-Clearweb: francescomasala.me
+• Clearweb: francescomasala.me
 
 => https://astral.town  astral.town
 => https://officinadiribby.altervista.org  officinadiribby.altervista.org
@@ -134,7 +132,7 @@ Clearweb: francescomasala.me
 
 🇬🇧 🇮🇹 Tassoman's homepage
 Solo una pagina principale e poca altra roba, ma solo l'idea del sito è un'esperienza.. interessante. L'unico sito visto fino ad ora che usa una precisa configurazione di Apache, con l'esatto scopo di rallentare il sito alle velocità del 14.4 kbps!
-Clearweb: tassoman.com
+• Clearweb: tassoman.com
 
 => https://tassoman.com  tassoman.com
 
@@ -144,30 +142,48 @@ Miscellanea
 🇬🇧 The Yesterweb
 [‡ Yesterweb]
 Sito collettivo che rimanda, concettualmente e visivamente, al Web dei giorni passati e ai suoi lati migliori, verso cui promuove di tornare.
-Clearweb: yesterweb.org
+• Clearweb: yesterweb.org
 
 🇬🇧 XXIIVV
 Non ho ben capito cosa sia questo sito, a cosa serve, chi lo gestisce, e tutto il resto. Però ha delle belle grafiche e mi piace.
-Clearweb: xxiivv.com
+• Clearweb: xxiivv.com
 
 🇬🇧 OpenBooks
 [‡ OpenBooks]
 Movimento, e libreria di siti e risorse, che promuove una rinascita in chiave moderna del Web personale. Il sito ha persino una bella grafica.
-Clearweb: openbooks.neocities.org
+• Clearweb: openbooks.neocities.org
 
 => https://yesterweb.org  yesterweb.org
 => https://xxiivv.com  xxiivv.com
 => https://openbooks.neocities.org  openbooks.neocities.org
 
+🇬🇧 LOW-TECH MAGAZINE
+Questo sito pubblica periodicamente articoli riguardo il mondo della tecnologia di bassa scala, per esplorare come tecnologie del passato dimenticate possono rivelarsi non solo utili al giorno d'oggi, ma anche più adatte delle soluzioni moderne ad alcune situazioni.
+• Clearweb: lowtechmagazine.com
+
+Oltre alla versione principale, che appare come un comunissimo blog, c'è anche una versione più low-tech. Questa, risiedendo su un serverino alimentato ad enegia solare, mira a ridurre drasticamente il consumo di energia necessario ad accedere ai contenuti; e a livello tecnico, le ottimizzazioni attuate sono decisamente interessanti!
+• Clearweb: solar.lowtechmagazine.com
+
+=> https://lowtechmagazine.com  lowtechmagazine.com
+=> https://solar.lowtechmagazine.com  solar.lowtechmagazine.com
+
+## »
+Cultura
+
+🏳️‍🌈 EverybodyWiki
+Una wiki aperta a chiunque voglia creare articoli su qualunque argomento, e senza gli standard stringenti di enciclopedie collaborative più serie come Wikipedia: non ci sono standard di qualità, né di utilità, mi pare di capire. Proprio per via delle regole molto lisce, non so quanto possa essere un punto di riferimento per qualsiasi cosa, però è un concetto interessante. È divisa in sottowiki per diverse lingue, e tenta anche di conservare gli articoli contrassegnati per cancellazione da Wikipedia.
+• Clearweb: 🇬🇧 en.everybodywiki.com
+
 🇬🇧 FEMICOM Museum
 Un museo virtuale dedicato ad illustrare quei rari contenuti informatici e videoludici che fanno del loro punto chiave estetiche ed esperienze femminili, colorate, e kawaii. Purtroppo, non tutte le pagine sono riempite, ma quel poco che c'è è carino!
-Clearweb: femicom.org
+• Clearweb: femicom.org
 
 🇷🇺 🇬🇧 Encyclopedia Game Boy Advance
 È un bel sito che ho trovato per caso, che raccoglie diverse informazioni sul Game Boy Advance da diversi punti di vista. È ben organizzato ed ha tante foto di supporto al materiale testuale. È disponibile in Inglese, ma la versione principale in Russo ha molti più contenuti.
-Clearweb: 🇷🇺 v. Russa
-, 🇬🇧 v. Inglese
+• Clearweb: 🇷🇺 gbasp.ru
+, 🇬🇧 en.gbasp.ru
 
+=> https://en.everybodywiki.com/Everybodywiki:Welcome  🇬🇧 en.everybodywiki.com
 => http://femicom.org  femicom.org
-=> https://gbasp.ru  🇷🇺 v. Russa
-=> https://en.gbasp.ru  🇬🇧 v. Inglese
+=> https://gbasp.ru  🇷🇺 gbasp.ru
+=> https://en.gbasp.ru  🇬🇧 en.gbasp.ru
