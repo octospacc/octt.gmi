@@ -60,6 +60,29 @@ Se preferisci, puoi chiamarlo sitocto. O anche postoctt! È pur sempre un posto 
 => https://octtspacc.gitlab.io/sitoctt-assets/Media/sitoctt-pronuncia.flac  pronuncia: "sitòctt"
 
 ## »
+Collegamenti rapidi
+
+Sul sito, ormai, un po' di roba c'è. Dovresti navigare il menu principale per poter accedere a tutto (leggi il seguito) ma, se proprio non sai dove partire, allora perché non dare un'occhiata a qualcosa tra..
+
+### 📓️ Blog
+
+,
+
+=> ./Categories/Blog.gmi  
+
+### 📒 MicroBlog
+
+o
+
+=> ./Categories/MicroBlog.gmi  
+
+### ✉️ PicoBlog
+
+?
+
+=> ./PicoBlog.gmi  
+
+## »
 Stato del sito e come navigare
 
 Nonostante abbia già un po' più di sostanza, tutto questo ambaradan è ancora pesantemente in costruzione. E lo sarà per sempre, perché avrò sempre roba nuova da condividere. E, quando sarò morta, sarà comunque non finito perché nella mia vita non avrò scritto tutto lo scibile universale teoricamente possibile sul sitoctt.
