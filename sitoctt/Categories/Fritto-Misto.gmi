@@ -12,9 +12,9 @@ Alcune informazioni importanti sono disponibili su:
 📦 OcttKB
 🗂️ Raccolte 📓️ Blog
 📒 MicroBlog
+🦄 Fritto Misto
 🛠️ DIY
 ♻️ Ecologia
-🦄 Fritto Misto
 🕹️ Gaming
 🌐️ Internet
 📱️ Mobile
@@ -32,9 +32,9 @@ Alcune informazioni importanti sono disponibili su:
 => https://kb.octt.eu.org  📦 OcttKB
 => ../Categories/Blog.gmi  
 => ../Categories/MicroBlog.gmi  
+=> ../Categories/Fritto-Misto.gmi  
 => ../Categories/DIY.gmi  
 => ../Categories/Ecologia.gmi  
-=> ../Categories/Fritto-Misto.gmi  
 => ../Categories/Gaming.gmi  
 => ../Categories/Internet.gmi  
 => ../Categories/Mobile.gmi  
@@ -46,6 +46,8 @@ Alcune informazioni importanti sono disponibili su:
 🦄 Fritto Misto
 Fritto-Misto Raccolta Cose a Caso
 Media 🎶 Raccolta Musica
+Lista di Tutti i Post
 
 => ../Raccolte/Fritto-Misto/Raccolta-Cose-A-Caso.gmi   Raccolta Cose a Caso
-=> ../Raccolte/Media/Raccolta-Musica.gmi
+=> ../Raccolte/Media/Raccolta-Musica.gmi  
+=> ../Posts/index.gmi   Lista di Tutti i Post

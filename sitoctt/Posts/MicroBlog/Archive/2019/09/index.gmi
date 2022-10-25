@@ -12,9 +12,9 @@ Alcune informazioni importanti sono disponibili su:
 📦 OcttKB
 🗂️ Raccolte 📓️ Blog
 📒 MicroBlog
+🦄 Fritto Misto
 🛠️ DIY
 ♻️ Ecologia
-🦄 Fritto Misto
 🕹️ Gaming
 🌐️ Internet
 📱️ Mobile
@@ -32,9 +32,9 @@ Alcune informazioni importanti sono disponibili su:
 => https://kb.octt.eu.org  📦 OcttKB
 => ../../../../../Categories/Blog.gmi  
 => ../../../../../Categories/MicroBlog.gmi  
+=> ../../../../../Categories/Fritto-Misto.gmi  
 => ../../../../../Categories/DIY.gmi  
 => ../../../../../Categories/Ecologia.gmi  
-=> ../../../../../Categories/Fritto-Misto.gmi  
 => ../../../../../Categories/Gaming.gmi  
 => ../../../../../Categories/Internet.gmi  
 => ../../../../../Categories/Mobile.gmi  
