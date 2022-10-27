@@ -55,7 +55,7 @@ Posts[2022-07-27] 👾 L'emulazione NDS, Google Play, e una storia oscura - blog
 Archive[2022-05-07] Gli inaspettati vantaggi della chiavetta Linux - blogoctt
 
 => ../Devlogs.gmi  
-=> ../Raccolte/Sistemi/Raccolta-del-Riso.gmi   Raccolta del Riso
+=> ../Raccolte/Sistemi/Raccolta-del-Riso.gmi  Raccolta del Riso
 => ../Posts/2022-07-27-0000-Emulazione-NDS-Google-Play-e-una-Storia-Oscura.gmi  
 => ../Posts/2022-07-09-0000-Come-ho-Riparato-il-mio-Portatile-con-25-Euro.gmi  
 => ../Posts/2022-07-03-0000-L-Idea-di-una-Tastiera-Fisica-per-Smartphone-Fatta-in-Casa.gmi  

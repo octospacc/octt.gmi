@@ -56,7 +56,7 @@ sarebbe più corretto, peccato che le persone che anche soltanto conoscono dell'
 Vabbe, io ho capito che nel mondo c'era necessità di questo sito (ma quando mai??), ho immaginato il sito, ho iniziato a costruire il sito, ho messo in piedi strategie per semplificarmi la creazione del sito (eee, che paroloni, ho scritto un programmino in Pitone), ed ecco qui il risultato.
 
 => ./index.gmi  Home
-=> https://octtspacc.gitlab.io/sitoctt-assets/Media/sitoctt-pronuncia.flac  si pronuncia "òctt" - come sitoctt, ma senza "sit"
+=> https://octtspacc.gitlab.io/sitoctt-assets/Media/sitoctt-pronuncia.flac  come sitoctt, ma senza "sit"
 => https://www.dictionary.com/browse/webmistress  webmistress
 
 ## »
@@ -66,7 +66,7 @@ Beh, innanzitutto faccio questo sito. Scrivo le cose, che siano inutili fiumi di
 
 Sono la Dea e loli dello Spacc
 , nonché CEO di Spacc Inc
-. In tal riguardo, sulle mie spalle gravano responsabilità distruttive.. ma seguite i collegamenti per capire, non parlo dello Spacc qui.
+. In tal riguardo, sulle mie spalle gravano responsabilità distruttive.. ma lascio i collegamenti da seguire per capire, non parlo dello Spacc qui.
 
 Poi, per quanto io tenti di passarci meno tempo possibile appresso, ho il mio server da amministrare quando la roba si spacca o c'è da aggiornare la qualsiasi, altrimenti tutta la baracca chi la porta avanti? Tra server Matrix, bot vari per diverse piattaforme, il server SpaccCraft
 , e qualche altra robina che adesso mi scoccio di ricordare, è una roba bestiale, resa solo più difficile dal mio usare hardware di fortuna.
@@ -108,6 +108,5 @@ Fine?
 Per ora, mi dispiace, ma è tutto. Se vuoi sapere altro, dovrai prima aspettare che mi venga in mente nuova roba da scrivere. Non sperarci troppo, però, considerando che è da più di un mese che questa pagina non si espande 😬.
 
 [‡ Me su Animal Crossing Wild World.]
-
 Io? Cute. Assolutamente indiscutibile.
-Voi? Meh, forse, penso???
+Voi? Meh, forse.. penso???

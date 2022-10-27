@@ -55,14 +55,14 @@ Sei entrat a / o nel...
 
 Esatto, il ✨ sitoctt ✨. Letteralmente il mio sito, perchè io sono octt e quindi sito + octt = ✨ sitoctt ✨ (pronuncia: "sitòctt"
 ).
-Se preferisci, puoi chiamarlo sitocto. O anche postoctt! È pur sempre un posto questo, il mio posto, anche se virtuale!
+Se preferisci, puoi chiamarlo sitocto. O anche postoctt! È pur sempre un posto questo - il mio posto - anche se virtuale!
 
 => https://octtspacc.gitlab.io/sitoctt-assets/Media/sitoctt-pronuncia.flac  pronuncia: "sitòctt"
 
 ## »
 Collegamenti rapidi
 
-Sul sito, ormai, un po' di roba c'è. Dovresti navigare il menu principale per poter accedere a tutto (leggi il seguito) ma, se proprio non sai dove partire, allora perché non dare un'occhiata a qualcosa tra..
+Sul sito, ormai, un po' di roba c'è. Dovresti navigare il menu principale per poter accedere a tutto (leggi il seguito) ma, se proprio non sai da dove partire, allora perché non dare un'occhiata ai miei post più recenti, dalla finestrella in alto a sinistra? Altrimenti, magari vai a qualcosa tra..
 
 ### 📓️ Blog
 
@@ -78,7 +78,7 @@ o
 
 ### ✉️ PicoBlog
 
-?
+.
 
 => ./PicoBlog.gmi  
 
@@ -92,7 +92,9 @@ che metto a disposizione; le modifiche per pagine normali sono continue e avveng
 Da tenere a mente (da Web): quando ci sono per lo schermo i seguenti tastini, è perché possono nascondere menu collassabili. Possono stare in posizioni diverse su pagine diverse, perché mi piace sperimentare con diversi temi; però cerco di mantenere il loro significato coerente ovunque.
 Un'icona con l'emoji di una pila di libri (📚) segnala il menu principale del sito, fondamentale per poterlo navigare saltando tra pagine completamente diverse e non collegate. Invece, l'icona con l'emoji di un foglio con un segnalibro (📑) indica l'elenco delle sezioni della pagina corrente - non è essenziale, ma può tornare utile per saltare tra parti diverse di un lungo testo.
 
-A tal proposito, per la migliore esperienza DEVI usare un browser con supporto almeno a CSS3 e alle immagini in formato AVIF (quest'ultima cosina, almeno finché non riesco a far funzionare il polyfill). Se usi un browser antico ti garantisco che troverai tanta, tanta roba rotta (ma comunque il sito dovrebbe essere navigabile lo stesso).
+Note sulla compatibilità dei browser (Espandi)
+
+Per la migliore esperienza DEVI usare un browser con supporto almeno a CSS3 e alle immagini in formato AVIF (quest'ultima cosina, almeno finché non riesco a far funzionare il polyfill). Se usi un browser antico ti garantisco che troverai tanta, tanta roba rotta (ma comunque il sito dovrebbe essere navigabile lo stesso).
 Essendo che questo sito contiene immagini AVIF, assicurati che il tuo browser sia aggiornato e decente. Safari di Apple, per esempio, mi dicono che non supporta AVIF, quindi buttalo via.
 Preferibilmente non usare Chromium, che ha degli strani memory leak su pagine con animazioni complesse, e ha qualche glitch particolare. Firefox non ha questo problema, ma usa molto di più la CPU.
 Direi che la scelta non è tra il migliore ma tra il meno peggio..
@@ -109,8 +111,9 @@ Lista di script client-side usati nel sito Web (Espandi)
 Script interni scritti da me: Al momento, nessuno attivo! Polyfill per supportare le immagini AVIF su vecchi browser: avif.js di Kagami
 (Non ancora attivato, lo sarà a breve)
 
-Di seguito, metto la mia classifica dei possibili modi per visualizzare questo sito, dal migliore al peggiore. Per standardizzazione, tutti presuppongono supporto completo ai colori.
+Di seguito, metto la mia classifica dei possibili modi per visualizzare questo sito, dal migliore al peggiore. Per standardizzazione, tutti presuppongono supporto completo ai colori (nel possibile).
 
+Mie inutili digressioni su modi assolutamente assurdi di consultare il sitoctt (Espandi)
 • Browser Web, con supporto completo a CSS3 (Perfetto!) • Stampa su carta olografica, GIF e CSS3 completamente renderizzati nel possibile (Richiede muovere il foglio a mano ma ottimo!) • Browser Web, con supporto incompleto a CSS3 (Meh, OK..) • Stampa su carta normale, animazioni CSS3 e GIF non renderizzate (Buuu, mancano le animazioni..) • Browser vecchio (Web vecchio, Web testuale, o Gemini) / Stampa su carta normale, zero supporto CSS (Ma che è sto schifo?!?!)
 
 => Posts/2022-06-14-0000-I-Documenti-Non-Devono-Diventare-Applicazioni.gmi  
@@ -161,7 +164,7 @@ Vai alla octocapsula, gentilmente ospitata da koyu.space: gemini://koyu.space/oc
 ### »
 Feed e notifiche
 
-Da ora il sitocto (il blogocto, nello specifico) ha dei feed integrati, che vengono automaticamente aggiornati quando pubblico un nuovo articolo!
+Da ora il sitocto (il blogoctt e il MicroBlog, nello specifico) ha dei feed integrati, che vengono automaticamente aggiornati quando pubblico un nuovo articolo!
 
 Feed Atom (moderno, consigliato, contiene post completi): feed/atom.xml
 
@@ -223,7 +226,7 @@ H e h .
 ```
 
 Per terminare, trovate tutti i miei sorgenti sulle rispettive repo Git.
-Quelli del mio sito (divisi in repo multiple), alle condizioni descritte sopra: gitlab.com/octtspacc/sitoctt
+Quelli del mio sito (divisi in repo multiple per tenere la cronologia pulita), alle condizioni descritte sopra: gitlab.com/octtspacc/sitoctt
 ; sitoctt-assets
 .
 Quelli del mio generatore, anche questo rilasciato sotto una licenza libera, la AGPL: gitlab.com/octtspacc/staticoso

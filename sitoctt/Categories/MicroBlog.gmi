@@ -53,8 +53,8 @@ MicroBlog[2022-10-16] Aggiornamenti DSpacc - Tastino maledetto
 2022-09-11] Che accade
 [?] Archivi MicroBlog di Settembre 2019
 
-=> ../Posts/MicroBlog/2022-10-16-Aggiornamenti-DSpacc-Tastino-Maledetto.gmi   Aggiornamenti DSpacc - Tastino maledetto
-=> ../Posts/MicroBlog/2022-09-23-Nuove-Frontiere.gmi   Nuove frontiere
-=> ../Posts/MicroBlog/2022-09-18-Quando-Metto-Mano-Io-Spacc.gmi   Quando metto mano io spacc
-=> ../Posts/MicroBlog/2022-09-11-Che-Accade.gmi   Che accade
-=> ../Posts/MicroBlog/Archive/2019/09/index.gmi   Archivi MicroBlog di Settembre 2019
+=> ../Posts/MicroBlog/2022-10-16-Aggiornamenti-DSpacc-Tastino-Maledetto.gmi  Aggiornamenti DSpacc - Tastino maledetto
+=> ../Posts/MicroBlog/2022-09-23-Nuove-Frontiere.gmi  Nuove frontiere
+=> ../Posts/MicroBlog/2022-09-18-Quando-Metto-Mano-Io-Spacc.gmi  Quando metto mano io spacc
+=> ../Posts/MicroBlog/2022-09-11-Che-Accade.gmi  Che accade
+=> ../Posts/MicroBlog/Archive/2019/09/index.gmi  Archivi MicroBlog di Settembre 2019

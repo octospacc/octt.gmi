@@ -64,6 +64,12 @@ Tieni a mente che le pubblicazioni più recenti vanno sempre in cima, facendo sc
 ## »
 Leggi il PicoBlog
 »
+2022-10-27] Libro particolare
+
+L'altro giorno ho scoperto il Codex Seraphinianus, una roba stranissima che forse mi sta per ispirare. A questo thread su Mastodon
+ho linkato un video ed il PDF del libro.. ma basta vedere le immagini che ogni tanto aggiungo per (non) capire di cosa si tratta.. 😁
+
+»
 2022-10-21] Diarylog - Non più, circa
 
 Un mesetto fa creai una sezione "Diarylog" qui, come il PicoBlog ma per ospitare scritture più lunghe di queste; non quanto post di Blog, ma più lunghe. Perché? Non lo so, ma ho realizzato solo l'altro giorno che non ha senso ed è difficile da mantenere, e quindi da ora creo normali post nella sezione MicroBlog
@@ -78,17 +84,16 @@ Sul Diarylog
 »
 2022-10-14] Che dire
 
+=> https://mastodon.uno/@octo/109225347482444777  questo thread su Mastodon
+=> ./Categories/MicroBlog.gmi  MicroBlog
+=> ./Diarylog.gmi  Diarylog
+
 Di nuovo inattività qui, eh? Purtroppo un po' non avevo voglia, un po' non sapevo cosa mettere di nuovo, in queste settimane passate.. Ma ora è in lavorazione un nuovo articolo di Blog
 , e forse avrei anche un po' di cose da scrivere sui Devlogs
 .
 
 »
 2022-09-19] Luigi ambience
-
-=> ./Categories/MicroBlog.gmi  MicroBlog
-=> ./Diarylog.gmi  Diarylog
-=> ./Categories/Blog.gmi  Blog
-=> ./Devlogs.gmi  Devlogs
 
 La musichetta del casinò di Luigi, nonostante lui sia bastardo, è molto raffinata e ci sta benissimo come ambience per l'appartamento. Cliccando sulla foto sotto la si può ascoltare da YouTube.
 
@@ -104,14 +109,16 @@ ha perso un tasto laterale, e che cavolo, e mannaggia!!… Oggi oggi non si è s
 »
 2022-09-11] La fiera
 
+=> ./Categories/Blog.gmi  Blog
+=> ./Devlogs.gmi  Devlogs
+=> https://invidious.weblibre.org//QoydhH3xODU  >>
+=> https://t.me/SpaccInc/882  La mia Nintendo Switch
+=> https://t.me/SpaccInc/888  il mio mouse pezzottissimo
+
 Questi 4 giorni sono potuta andare, nonostante casini successi ultimamente, al FantaExpo di Salerno. Magari scriverò un po' di più di ciò nei giorni a venire. Tra questo, Splatoon 3, e programmare e creare nuove sezioni del sitoctt in alcuni tempi morti, ecco spiegato perché il PicoBlog ha dormito sti giorni.
 
 »
 2022-09-07] Gioco del Calamaro
-
-=> https://invidious.weblibre.org//QoydhH3xODU  >>
-=> https://t.me/SpaccInc/882  La mia Nintendo Switch
-=> https://t.me/SpaccInc/888  il mio mouse pezzottissimo
 
 Ieri sera si è diffusa in Internet, con 3 giorni di anticipo rispetto al giorno di uscita del gioco, la ROM di Splatoon 3. Fino ad ora ho giocato solo il tutorial, con calma lo proverò bene poi. Vi lascio l'hash del torrent comunque... 🎈🚢👪🐉🎩🤣👝🌭🎥🥅🌟🐅🎦📨🎦🐁🎡🚿🏦🚵🎛🤰🏛🚯👦🔙🐞🤒🎈🚒👞🌩 :)
 
@@ -130,15 +137,14 @@ GitJournal
 »
 2022-08-28] Kindolante
 
+=> https://github.com/keith-turner/ecoji  Ecoji
+=> https://github.com/GitJournal/GitJournal  GitJournal
+
 Solo oggi ho scoperto che, installando questo pacchetto
 , posso avere un client SSH aggiornato sul mio Kindle. Non potevo saperlo, non stava scritto da nessuna parte.. meglio tardi che mai però, ora dal Kindle posso fare cosine su altre macchine.
 
 »
 2022-08-26] 1 mese senza blogocto
-
-=> https://github.com/keith-turner/ecoji  Ecoji
-=> https://github.com/GitJournal/GitJournal  GitJournal
-=> https://storage.gra.cloud.ovh.net/v1/AUTH_2ac4bfee353948ec8ea7fd1710574097/mr-public/Touch/kindle-usbnet-0.22.N-r18897.tar.xz  questo pacchetto
 
 Mamma mia agosto! Ha fatto andare un po' a rotoli i miei piani di scrittura, non ho mai avuto abbastanza tempo calmo e adatto per la scrittura ben fatta. Vabbè, dichiariamo finito questo ciclo lunare, è uscito 📈 il nuovo articoloctt
 .
@@ -157,12 +163,12 @@ Per mesi sto, occasionalmente, abusando del PicoBlog come devlog per la roba che
 »
 2022-08-22] Risolvere.
 
-Il sitoctt è dalla sua creazione no-bloat ed efficiente. Eccetto per una (1) risorsa caricata: il CSS per le emoji
-. Spreca 400KB di traffico, non va bene, ma ho già qualche idea per risolvere.
-
+=> https://storage.gra.cloud.ovh.net/v1/AUTH_2ac4bfee353948ec8ea7fd1710574097/mr-public/Touch/kindle-usbnet-0.22.N-r18897.tar.xz  questo pacchetto
 => ./Posts/2022-08-26-sitoctt-da-3-mesi-ad-oggi.gmi  📈 il nuovo articoloctt
 => ./Devlogs.gmi  Devlogs
-=> https://octtspacc.gitlab.io/sitoctt-assets/twemoji-amazing.min.css  CSS per le emoji
+
+Il sitoctt è dalla sua creazione no-bloat ed efficiente. Eccetto per una (1) risorsa caricata: il CSS per le emoji
+. Spreca 400KB di traffico, non va bene, ma ho già qualche idea per risolvere.
 
 [‡ Schermata "Rete" degli strumenti sviluppatore di Firefox, che mostra i file più grossi caricati dalla home.]
 
@@ -179,13 +185,13 @@ Solo oggi ci ho fatto caso: 3 mesi fa (meno 3 giorni) nasceva il sitocto - anzi,
 »
 2022-08-18] Fallimento P2P
 
+=> https://octtspacc.gitlab.io/sitoctt-assets/twemoji-amazing.min.css  CSS per le emoji
+
 Chi sul sitocto naviga con attenzione avrà forse notato che, circa una settimana fa, avevo incluso una libreria JS non aggiornata da 4 anni
 , che avrebbe dovuto rendere il sito automaticamente distribuito via BitTorrent. Ecco, non c'è più: non solo non funzionava, ma non faceva più caricare il sito se attivata..
 
 »
 2022-08-17] Lavoro poco ottimale
-
-=> https://github.com/xuset/planktos  libreria JS non aggiornata da 4 anni
 
 È il mio stato corrente, dove vorrei avere tutta la mia roba di codice sempre perfettamente sincronizzata tra tutti i dispositivi, incluso lo Ximi. Ho chiesto consigli qui
 e qualcosa di buono ho già preso, vedremo in cosa andrò a finire.
@@ -204,17 +210,16 @@ Da ormai 2 giorni sono fuori casa, per una vacanza che non è tipo una vacanza. 
 »
 2022-08-07] Troppe cose
 
+=> https://github.com/xuset/planktos  libreria JS non aggiornata da 4 anni
+=> https://feddit.it/post/44715  qui
+=> ./Posts/Archive/2022-05-07-Gli-Inaspettati-Vantaggi-della-Chiavetta-Linux.gmi  Gli inaspettati vantaggi della chiavetta Linux
+
 Che ho fatto tra ieri e oggi? R su Miiverse, poi ho iniziato a programmare una libreria C
 , e poi ho fallito a tentare di ospitare un server
 prima Misskey, poi Pleroma (piè aroma), e poi Mastodon.
 
 »
 2022-08-05] Il Miiverso
-
-=> https://feddit.it/post/44715  qui
-=> ./Posts/Archive/2022-05-07-Gli-Inaspettati-Vantaggi-della-Chiavetta-Linux.gmi  Gli inaspettati vantaggi della chiavetta Linux
-=> https://gitlab.com/octospacc/LibMultiSpacc  libreria C
-=> https://mastodon.uno/@octo/108783055408081922  ospitare un server
 
 Un video YT
 ha fatto tornare Miiverse alla mia memoria, social network di Nintendo che fu chiuso. Poi mi viene in mente che la community tentò di ricrearlo e.. scopro che il progetto rverse
@@ -235,15 +240,17 @@ posso vivere l'intenso ovunque, anche quando ho solo il telefono con me.
 »
 2022-07-26] Vodafone lota
 
-Oggi, a casaccio, è saltata la linea Internet di casa per tipo 40 minuti buoni, Vodafone lota,.,.,
-
-»
-2022-07-25] L'emulazione NDS su Android
-
+=> https://gitlab.com/octospacc/LibMultiSpacc  libreria C
+=> https://mastodon.uno/@octo/108783055408081922  ospitare un server
 => https://yewtu.be/watch?v=JjQDik3yNhA  video YT
 => https://libredd.it/r/3dshacks/comments/l4klae/miiverse_patch_to_make_it_work_again_rverse/gmyx2e4/?context=3  rverse
 => https://gitlab.com/octospacc/BloccSpacc  questo giochino
 => ./Posts/2022-07-27-0000-Emulazione-NDS-Google-Play-e-una-Storia-Oscura.gmi  emulatori
+
+Oggi, a casaccio, è saltata la linea Internet di casa per tipo 40 minuti buoni, Vodafone lota,.,.,
+
+»
+2022-07-25] L'emulazione NDS su Android
 
 Nel 2022, è ancora un vero casino. E ci sono dei lati oscuri. Approfondirò bene nel prossimo post del blogoctt, che è già in scrittura.
 
@@ -263,14 +270,14 @@ Avevo detto l'altro ieri del Decretocto, ieri l'ho finito e rilasciato. Purtropp
 »
 2022-07-19] Decreto Octo del (non lo so che giorno esce)
 
+=> https://wikispacc.miraheze.org/wiki/Spacc  WikiSpacc.miraheze.org/wiki/Spacc
+=> https://octtspacc.gitlab.io/sitoctt-assets/Files/Decreto-20-luglio-2022.pdf  qui
+=> ./Categories/MicroBlog.gmi  Archivi MicroBlog
+
 Oggi ho iniziato a scrivere il nuovo Decreto Octo, che uscirà quando lo finisco, eeeeh ohh, è il primo DPCM che scrivo in vita mia, è difficile. Il decreto farà chiarezza su alcuni dubbi riguardanti la nuova raccolta "MicroBlog" del sito - e non posso dire altro, c'è il Segreto di Stato.
 
 »
 2022-07-18] Merging di tutto
-
-=> https://wikispacc.miraheze.org/wiki/Spacc  WikiSpacc.miraheze.org/wiki/Spacc
-=> https://octtspacc.gitlab.io/sitoctt-assets/Files/Decreto-20-luglio-2022.pdf  qui
-=> ./Categories/MicroBlog.gmi  Archivi MicroBlog
 
 Ora che ho (credo) sistemato tutto a dovere, e la funzione di posting su Mastodon di staticoso non dovrebbe fare spam inutile per roba vecchia, posso pensare a copincollare diversi miei vecchi contenuti, dalle più disparate fonti, qui al sitocto.
 
@@ -288,12 +295,12 @@ Quando il JS è usato bene, ossia quando è usato per fare vere app interattive 
 »
 2022-07-14] Backup delle repo Git
 
+=> https://github.com/DustinBrett/daedalOS  daedalOS
+
 È una cosa che dovrei fare, ho tante repo di mesi fa che sono ospitate sui server di un solo provider, e la cosa non va bene. Su come affronto l'argomento backup io dovrei scrivere un articolo lungo prima o poi. Fortunatamente, tutto ciò che tocca il sitoctt è stato messo (pubblico) su 3 server diversi dall'inizio ✨️
 
 »
 2022-07-12] Odio i motori di ricerca
-
-=> https://github.com/DustinBrett/daedalOS  daedalOS
 
 Ma quanto devo aspettare per vedermi il sitocto indicizzato? Cosa devo fare? Oggi ho aggiunto il mio dominio alla Google Search Console, e ho anche implementato un primo supporto alla generazione di sitemap in staticoso.. speriamo di risolvere subito 😵‍💫️
 
@@ -312,15 +319,14 @@ Apparentemente, per una settimana sana ho dimenticato che il mio PicoBlog esiste
 »
 2022-07-03] Ma i commenti?
 
+=> https://mastodon.uno/@octo/108600089579737212  L'ho detto su Mastodon
+=> ./Donazioni.gmi  💰 Donazioni
+
 Eh eh, ops. La repo
 non ha nuovi commit da settimane, morta. Che palle. Però, con l'integrazione ActivityPub che il sito ora ha da 2 giorni, c'è già una sorta di sistema di commenti per ogni singolo post del blogocto.. quindi il mio lavoro è finito?
 
 »
 2022-07-01] L'octocapsula!
-
-=> https://mastodon.uno/@octo/108600089579737212  L'ho detto su Mastodon
-=> ./Donazioni.gmi  💰 Donazioni
-=> https://gitlab.com/octtspacc/PlainDiscuss  repo
 
 E da oggi anche l'octocapsula, ossia la mia capsula Gemini, esiste sull'Internette. Per ora, lì ci trovate soltanto una conversione 1:1 del sitoctt, ma, se volete sapere oltre, vi rimando come al solito a Home # Disponibilità del sito
 .
@@ -340,16 +346,16 @@ Ormai, questo è ciò che staticoso sta diventando, contrariamente alle mie stes
 »
 2022-06-27] Qui sempre novità
 
+=> https://gitlab.com/octtspacc/PlainDiscuss  repo
+=> ./index.gmi#-Disponibilit-del-sito  Home # Disponibilità del sito
+=> https://github.com/cathugger/mkp224o  mkp224o
+=> ./index.gmi#-Disponibilit-del-sito  Home # Disponibilità del sito
+
 Ora ho una pagina Raccolta Siti Internet
 dove linko ad altri siti carini, ho creato un PNG 88x31 che identifica il mio sito e che, chiunque vuole, può usare per linkarlo.. beh dai, pian piano si sta riempiendo anche meglio di un semplice blog :D
 
 »
 2022-06-26] Ancora un'altra piattaforma ActivityPub
-
-=> ./index.gmi#-Disponibilit-del-sito  Home # Disponibilità del sito
-=> https://github.com/cathugger/mkp224o  mkp224o
-=> ./index.gmi#-Disponibilit-del-sito  Home # Disponibilità del sito
-=> ./Raccolte/Internet/Raccolta-Siti-Internet.gmi  Raccolta Siti Internet
 
 Eh già, ce n'è già una nuova in beta da praticamente ieri. Che il suo archetipo sia Mastodon, lo si vede subito, ma Bonfire
 promette una filosofia diversa (?) e.. agli sviluppatori frega qualcosa del miglioramento progressivo, e gran parte della app già funziona senza JS! Già questo è abbastanza per farmi gioire.
@@ -369,14 +375,15 @@ Mi è venuta voglia di esagerare e implementare un contatore delle visite sul si
 »
 2022-06-21] Aggiornamenti tecnici
 
+=> ./Raccolte/Internet/Raccolta-Siti-Internet.gmi  Raccolta Siti Internet
+=> https://bonfirenetworks.org  Bonfire
+=> ./index.gmi#-Feed-e-notifiche  Home # Feed e notifiche
+=> https://contatoreaccessi.com  contatoreaccessi.com
+
 Tra ieri e stamattina ho lavorato abbastanza al generatore, per sistemare problemini e aggiungere funzioni, e ho aggiunto qualche miglioramento al CSS del sito. Comunque questo PicoBlog è ormai solo un devlog, un po' un peccato, ma non so cos'altro scrivere di molto corto.. 😅
 
 »
 2022-06-20] Dominio epico
-
-=> https://bonfirenetworks.org  Bonfire
-=> ./index.gmi#-Feed-e-notifiche  Home # Feed e notifiche
-=> https://contatoreaccessi.com  contatoreaccessi.com
 
 Dopo un mesetto, eu.org mi ha dato il dominio che ho chiesto.. a breve il sitocto sarà navigabile da sitoctt.octt.eu.org
 ! Tecnicamente già raggiungibile, ma devo sistemare dei problemi del generatore, se voglio il dominio attuale non si rompa..
@@ -394,12 +401,12 @@ Alla fine credo di aver realizzato qualcosa come lo volevo. Adesso nella barra d
 »
 2022-06-14] Vorrei un sistema di categorie..
 
+=> https://sitoctt.octt.eu.org  sitoctt.octt.eu.org
+
 ..che non so bene neanche io come lo voglio. A parte la categorizzazione dei post del Blogocto in temi, vorrei che nelle pagine di raccolta per temi uscissero anche pagine che non sono propriamente post, ma ho paura che si crei disordine. Ci penserò su a lungo..
 
 »
 2022-06-07] Robine Tor
-
-=> https://sitoctt.octt.eu.org  sitoctt.octt.eu.org
 
 Visto che Tor Browser all'impostazione di protezione massima, impostata da molta gente che lo usa, rompe alcune componenti CSS (non c'è JS) del mio sito.. ho aggiornato il generatore per supportare l'aggiunta di una sezione header su tutte le pagine, al momento di build del sito. Lì ho messo info riguardo al problema.
 
@@ -417,14 +424,13 @@ Sviluppare questo generatore di siti si sta rivelando un'esperienza mistica, in 
 »
 2022-05-29] Il sito su Tor
 
+=> ./Categories/Blog.gmi  qui
+
 Finalmente, ho messo in piedi anche un mirror Tor del sitocto! Lo trovate linkato su Home # Disponibilità del sito
 . Ora è tutto più sicuro e privato.
 
 »
 2022-05-27] Prova
-
-=> ./Categories/Blog.gmi  qui
-=> ./index.gmi#-Disponibilit-del-sito  Home # Disponibilità del sito
 
 Questo articolo è solo una prova, forse verrà cancellato.
 
@@ -432,3 +438,5 @@ Questo articolo è solo una prova, forse verrà cancellato.
 2022-05-27] Il PicoBlog inizia!
 
 A cosa serve questo post? A farmi vedere l'effetto iniziale ed eventualmente sistemare del CSS..
+
+=> ./index.gmi#-Disponibilit-del-sito  Home # Disponibilità del sito
