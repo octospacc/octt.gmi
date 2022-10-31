@@ -47,5 +47,5 @@ Alcune informazioni importanti sono disponibili su:
 Posts[2022-07-27] 👾 L'emulazione NDS, Google Play, e una storia oscura - blogoctt
 2022-07-03] ⌨️ L'idea di una tastiera fisica per smartphone fatta in casa - blogoctt
 
-=> ../Posts/2022-07-27-0000-Emulazione-NDS-Google-Play-e-una-Storia-Oscura.gmi  
-=> ../Posts/2022-07-03-0000-L-Idea-di-una-Tastiera-Fisica-per-Smartphone-Fatta-in-Casa.gmi
+=> ../Posts/2022-07-27-Emulazione-NDS-Google-Play-e-una-Storia-Oscura.gmi  
+=> ../Posts/2022-07-03-L-Idea-di-una-Tastiera-Fisica-per-Smartphone-Fatta-in-Casa.gmi

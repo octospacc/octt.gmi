@@ -51,5 +51,5 @@ Posts[2022-08-26] 📈 sitoctt - Da 3 mesi fa ad oggi, l'inizio e i motivi - blo
 
 => ../Raccolte/Internet/Raccolta-Siti-Internet.gmi  Raccolta Siti Internet
 => ../Posts/2022-08-26-sitoctt-da-3-mesi-ad-oggi.gmi  
-=> ../Posts/2022-06-14-0000-I-Documenti-Non-Devono-Diventare-Applicazioni.gmi  
-=> ../Posts/2022-06-03-0000-Come-e-Perche-il-Sitoctt-su-Tor.gmi
+=> ../Posts/2022-06-14-I-Documenti-Non-Devono-Diventare-Applicazioni.gmi  
+=> ../Posts/2022-06-03-Come-e-Perche-il-Sitoctt-su-Tor.gmi

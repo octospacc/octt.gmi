@@ -45,7 +45,9 @@ Alcune informazioni importanti sono disponibili su:
 # »
 🕹️ Gaming
 Gaming Raccolta Videogiochi
-Posts[2022-07-27] 👾 L'emulazione NDS, Google Play, e una storia oscura - blogoctt
+Posts[2022-10-31] 🎮 Storia antica del DSpacc - blogoctt
+2022-07-27] 👾 L'emulazione NDS, Google Play, e una storia oscura - blogoctt
 
 => ../Raccolte/Gaming/Raccolta-Videogiochi.gmi  Raccolta Videogiochi
-=> ../Posts/2022-07-27-0000-Emulazione-NDS-Google-Play-e-una-Storia-Oscura.gmi
+=> ../Posts/2022-10-31-Storia-Antica-del-DSpacc.gmi  
+=> ../Posts/2022-07-27-Emulazione-NDS-Google-Play-e-una-Storia-Oscura.gmi
