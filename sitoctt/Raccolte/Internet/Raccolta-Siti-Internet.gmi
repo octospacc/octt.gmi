@@ -75,7 +75,8 @@ Link testuale:
 
 Link con immagine (Nota: sarebbe meglio se scarichi l'immagine e la ricarichi sul tuo server, cambiando l'URL nel codice di conseguenza, anziché usare il mio URL) :
 [‡ ✨sitoctt✨]
-L'immagine è in formato PNG e già compressa il più possibile.
+L'immagine è in formato PNG e già compressa il più possibile. [1
+]
 
 ```
 <a
@@ -134,7 +135,25 @@ Più che un sito, una demo JavaScript con una lista di link e cose così, ma è 
 Solo una pagina principale e poca altra roba, ma solo l'idea del sito è un'esperienza.. interessante. L'unico sito visto fino ad ora che usa una precisa configurazione di Apache, con l'esatto scopo di rallentare il sito alle velocità del 14.4 kbps!
 • Clearweb: tassoman.com
 
+🇬🇧 Dante Scanline
+[‡ Dante Scanline]
+Sito di un artista che pare faccia roba nello stile dei giochi PC anni '90-2000, tipo Quake ma non solo. Le immagini di ambienti 3D pixellosi sono molto belle.
+• Clearweb: dantescanline.com
+
+🇬🇧 2Bit
+[‡ 2Bit]
+Credo sia l'unico sito web non-testuale che su Kindle si naviga (quasi) esattamente come su PC.. Come lo stesso nome dice, tutto su questo spazio web è un elogio all'era del 2 bit, ed arriva a ciò con i contenuti, ma inizia con la forma: tutta la grafica (e ce n'è molta) è rigorosamente in 4 colori!
+• Clearweb: 2bit.neocities.org
+
+🇬🇧 neonaut
+[‡ neonaut]
+Sito personale con grafica flat colorata, che però sembra anche essere un metasito riguardo Neocities e una parte della sua cultura, contenente alcune informazioni su quell'universo.
+• Clearweb: neonaut.neocities.org
+
 => https://tassoman.com  tassoman.com
+=> https://dantescanline.com  dantescanline.com
+=> https://2bit.neocities.org  2bit.neocities.org
+=> https://neonaut.neocities.org  neonaut.neocities.org
 
 ## »
 Miscellanea
@@ -187,3 +206,13 @@ Un museo virtuale dedicato ad illustrare quei rari contenuti informatici e video
 => http://femicom.org  femicom.org
 => https://gbasp.ru  🇷🇺 gbasp.ru
 => https://en.gbasp.ru  🇬🇧 en.gbasp.ru
+
+## »
+🏷️ Note e Riferimenti
+
+Il modo migliore di ridurre immagini PNG alla più piccola dimensione possibile, senza perdere neanche un pixel di qualità, è usare questi due comandi concatenati (tenendo a mente di valutare caso per caso, in quanto immagini già molto piccole possono in realtà essere in certi casi gonfiate dall'uno o l'altro comando): pngcrush
+-brute -reduce IN.PNG OUT.PNG; pngquant
+-v --strip --speed=1 --quality=100-100 -o OUT.PNG IN.PNG ↩
+
+=> https://pmt.sourceforge.io/pngcrush  pngcrush
+=> https://pngquant.org  pngquant

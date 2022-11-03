@@ -64,23 +64,23 @@ Collegamenti rapidi
 
 Sul sito, ormai, un po' di roba c'è. Dovresti navigare il menu principale per poter accedere a tutto (leggi il seguito) ma, se proprio non sai da dove partire, allora perché non dare un'occhiata ai miei post più recenti, dalla finestrella in alto a sinistra? Altrimenti, magari vai a qualcosa tra..
 
-### 📓️ Blog
+### ✉️ PicoBlog
 
 ,
+
+=> ./PicoBlog.gmi  
+
+### 📓️ Blog
+
+, o
 
 => ./Categories/Blog.gmi  
 
 ### 📒 MicroBlog
 
-o
-
-=> ./Categories/MicroBlog.gmi  
-
-### ✉️ PicoBlog
-
 .
 
-=> ./PicoBlog.gmi  
+=> ./Categories/MicroBlog.gmi  
 
 ## »
 Stato del sito e come navigare
@@ -243,13 +243,13 @@ Lista di script client-side
 , tra cui alcuni di terziTitolo animato ad onda: Waaaves di jh3y
 Famiglia caratteri: Space Mono di Colophon Foundry
 Pacchetto emoji CSS: Twemoji di Twitter
-, via Twemoji-Amazing di SebastianAigner
-Alcuni bottoni 88x31: 88x31 GIF Collection di cyber.dabamos.de
+, via Twemoji Astonishing
+Alcuni bottoni 88x31 non identitari: 88x31 GIF Collection di cyber.dabamos.de
 
 => https://codepen.io/jh3y/pen/WNrXqYz  Waaaves di jh3y
 => https://fonts.google.com/specimen/Space+Mono  Space Mono di Colophon Foundry
 => https://twemoji.twitter.com  Twemoji di Twitter
-=> https://github.com/SebastianAigner/twemoji-amazing  Twemoji-Amazing di SebastianAigner
+=> https://gitlab.com/octtspacc/twemoji-astonishing  Twemoji Astonishing
 => https://cyber.dabamos.de/88x31  88x31 GIF Collection di cyber.dabamos.de
 
 ## »
