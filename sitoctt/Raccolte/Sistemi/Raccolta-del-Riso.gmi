@@ -63,14 +63,30 @@ In costruzione...
 
 ### Filtri:
 #Linux #Desktop #XFCE
+»
+W5 Novembre 2022
 
 -> #Linux #Desktop #XFCE
+
+[‡ Screenshot 2022 10 30 00 14 14]
+
+OS : Void Linux
+Desktop : xfce4 Pannello : xfce4-panel Taskbar : xfce4-docklike-plugin Menu Globale : AppMenu Plugin (appmenu-gtk-module appmenu-gtk3-module appmenu-registrar vala-panel-appmenu vala-panel-appmenu-data xfce4-panel-appmenu) Tema GTK : BlueSky-Light
+Tema xfwm : BlueSky-Light Icone : Colloid
+»
+W2 Novembre 2022
+
+-> #Linux #Desktop #XFCE
+
+=> https://voidlinux.org  Void Linux
+=> https://github.com/i-mint/bluesky  BlueSky-Light
+=> https://github.com/vinceliuice/Colloid-icon-theme  Colloid
 
 [‡ Screenshot 2022 10 10 20 21 47]
 
 OS : Void Linux
-Desktop : xfce4 Pannello : xfce4-panel Dock : plank Menu Globale : AppMenu Plugin (appmenu-gtk-module appmenu-gtk3-module appmenu-registrar vala-panel-appmenu vala-panel-appmenu-data xfce4-panel-appmenu) Tema (GTK2) : Fluent-compact
-Decorazioni : Fluent-Dark Icone : Fluent
+Desktop : xfce4 Pannello : xfce4-panel Dock : plank Menu Globale : AppMenu Plugin (appmenu-gtk-module appmenu-gtk3-module appmenu-registrar vala-panel-appmenu vala-panel-appmenu-data xfce4-panel-appmenu) Tema GTK : Fluent-compact
+Tema xfwm : Fluent-Dark Icone : Fluent
 
 => https://voidlinux.org  Void Linux
 => https://github.com/vinceliuice/Fluent-gtk-theme  Fluent-compact
