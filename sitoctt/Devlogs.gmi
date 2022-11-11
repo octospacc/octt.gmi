@@ -62,9 +62,160 @@ Leggi i Devlogs
 ### Filtri:
 #sitoctt #staticoso
 »
+2022-11-11] Novità estetiche incollate con lo sputo
+
+-> #sitoctt #staticoso
+
+Da quanto che non scrivevo un devlog! Qualcosina però, per sitoctt e staticoso, l'ho fatta nel frattempo.
+
+Il primo cambiamento notevole che ho apportato al sito in questi giorni è l'applicazione del nuovo tema (esclusivamente) alla pagina home
+. Lascio una foto, cosicché questo post sia comprensibile anche a distanza di tempo senza che serva controllare la Wayback Machine.
+La cosa bella? Avevo iniziato a progettarlo diversi mesi fa, pian piano, giorno per giorno, fino a che ad un certo punto.. ho dimenticato di continuare! 😵 Alla fine, però, ho finito tutte le rifiniture e aggiunto nuovi dettagli.
+
+=> ./index.gmi  pagina home
+
+[‡ Schermata ritagliata della home page corrente.]
+
+Non so cosa stavo pensando mentre costruivo il template, e quindi è venuto un miscuglio di roba : stile ambiente desktop.. ma con lo sfondo Bubbles di Windows 95 ricolorato di viola, tema quasi-metro per taskbar (dove a sinistra si trova il tasto menu) e decorazioni di finestra, con la barra del titolo che ha il titolo al centro, ma un'icona rappresentante la finestra a destra, e un tasto per collassare/riaprire le stesse. Quest'ultima roba, assieme al poter portare una finestra mezza nascosta in primo piano cliccandola (su PC basta passarci sopra il cursore del mouse), l'ho fatta ovviamente funzionare senza alcuno script!
+
+Il riposizionamento in primo piano è molto facile : con la pseudo-classe CSS Hover, applicato alla classe delle finestre, si imposta un valore Z superiore al default di tutte le altre finestre. In questo modo, la finestra verrà rialzata quando ci si passa il puntatore virtuale sopra.
+
+```
+.Window:Hover {
+   /* Non ci sono al momento finestre con Z-Index maggiore di questo, quindi va bene */
+   Z-Index: 128;
+}
+
+```
+
+La storia dello shading delle finestre, invece, è più complicata e mi ha richiesto l'uso di qualche hack, e ora spiego il tutto. Segue l'HTML rappresentante un'ipotetica finestra, e del relativo CSS.
+
+```
+<div class="Window" id="ExampleWindow">
+   <div class="TitleBar">
+       <input type="checkbox" class="CheckToggle" id="ExampleWindowCheck">
+       <div class="TitleBarContent">
+           <span> <label class="CheckLabel" for="MainWindowCheck"></label> </span> &nbsp;&nbsp; <span> <b>Finestra Esempio</b> </span>
+       </div>
+       <div class="WindowContent ToggleBox">
+           <p>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit...
+           </p>
+       </div>
+   </div>
+</div>
+
+```
+
+```
+/* Input checkbox della classe specifica per i bottoni no-JS */
+
+/* Impostato come invisibile per motivi estetici */
+.CheckToggle {
+   Position: Fixed;
+   Opacity: 0;
+   Visibility: Hidden;
+}
+
+/* Di default, sui label dedicati alle checkbox, figura un simbolo rappresentante lo stato di unshaded */
+.CheckLabel:Before {
+   Content: '🔼';
+}
+
+/* A checkbox spuntata, sul label nidificato adiacente figura un simbolo rappresentante lo stato di shaded */
+:Checked ~ .TitleBarContent > Span > .CheckLabel:Before {
+   Content: '🔽';
+}
+
+/* A checkbox spuntata, sparisce il div del contenuto */
+:Checked ~ .ToggleBox {
+   Display: None;
+   Visibility: Hidden;
+}
+
+```
+
+Insomma, se questa robaccia si può fare è grazie all' abuso del selettore CSS ~ (tilde), che permette di applicare una proprietà ad un elemento adiacente ad un altro, in questo caso verificando prima una condizione con una pseudo-classe (la proprietà Checked della casella).
+
+Il problema è che, non esistendo alcun selettore per raggiungere elementi genitori del DOM, ho dovuto piazzare il div del contenuto in quello della barra del titolo : una schifezza, pure abbastanza grossa considerando cosa ho dovuto fare poi per rendere le finestre esteticamente a posto nonostante il loro scheletro affetto dalle devianze.
+
+Continuando con il vedere le classi CSS delle finestre in sé.. i commenti bastano.
+
+```
+.Window {
+   Position: Absolute;
+   Margin: Var(--WindowMargin);
+   /* Bordo per estetica, 4px nel mio caso */
+   Border: Solid Var(--WindowBorderSize) Var(--TitleBarBackground);
+}
+.WindowContent {
+   /* Minima larghezza del div contenuto della finestra pari alla totale finestra */
+   Min-Width: Calc(100% + Var(--WindowMargin)*2 + Var(--WindowBorderSize)*2);
+   /* Padding per estetica */
+   Padding: Calc(Var(--WindowPadding)*2);
+   Padding-Top: Var(--WindowPadding);
+   /* Overflow Y permesso nel solo div contenuto 
+   Overflow-Y: Auto;
+   /* Allineamento del contenuto nella finestra tenendo conto dei margini */
+   Margin-Left: Calc(0px - Var(--WindowMargin) - Var(--WindowBorderSize));
+   Margin-Top: Var(--WindowBorderSize);
+}
+
+```
+
+Questo, infine, è il CSS applicato alle singole finestre, che differisce sempre in valori.. e, a parte i commenti, anche qui non so proprio cosa dire! 🤐 La soluzione funziona? E allora va bene così.
+
+```
+/*
+*/ #ExampleWindow {
+   /* Dimensioni massime della finestra */
+   Max-Width: 80vw;
+   Max-Height: 75vh;
+   /* Posizione assoluta a schermo */
+   Top: 8px;
+   Left: 16px;
+   Z-Index: 8;
+}
+/*
+*/ #FeedWindow .WindowContent {
+   /* Impostazione della massima altezza del div contenuto della finestra;
+    * Per qualche motivo, se non esplicito la cosa, il contenuto sborda sempre.
+    * All'altezza massima dell'intera finestra devo sottrarre, oltre al margine,
+    * ben 2 volte l'altezza della barra del titolo (ma forse basterebbe una costante arbitraria),
+    * altrimenti il contenuto può andare comunque troppo giù.
+    */
+   Max-Height: Calc(75vh - (Var(--TitleBarHeight) * 2) - Var(--WindowMargin));
+}
+
+```
+
+Questa complessa soluzione funziona perfettamente su Firefox e su Chromium desktop, ma su Chromium per Android questi posizionamenti pixel-perfect fanno imbizzarrire il motore CSS, che non si vergogna affatto di mostrare dello spazio vuoto tra i bordi decorativi e lo sfondo degli altri div che compongono la finestra.
+
+[‡ Schermata ritagliata e zoomata della home page renderizzata da Chromium su Android.]
+
+Vabbè, lo diciamo che fa schifo? Ma sì: FA SCHIFO! Se hai una soluzione migliore senza JavaScript, io sto aspettando la tua pull request
+. Forza, sto aspettando, aiutami a togliere lo schifo.
+
+=> https://gitlab.com/octtspacc/sitoctt  sto aspettando la tua pull request
+
+Grazie a questo nuovo tema posso permettermi di aggiungere, in modo un minimo sensato, alcuni meta-contenuti ripetuti tra le pagine del sito che lo usano - anche se per il momento l'ho applicato solo alla home, perchè ho paura che causi un po' troppa confusione visiva sulle pagine dove il contenuto deve stare al primo posto. Una cosa che ho messo, per dire, è la lista di post recenti in una finestrella dedicata.
+
+Per quest'ultima cosa, ho chiaramente dovuto aggiornare staticoso, che genera la lista quando nel codice di una pagina trova la stringa <staticoso:Feed>.
+Ne ho approfittato per fare anche altri piccoli miglioramenti, ad esempio ho aggiunto la generazione automatica di pagine di redirect per una serie di URL alternativi specificati nei metadati di una pagina; con questa funzione ho potuto facilmente rinominare i file di alcune pagine nel sito senza rompere gli URL vecchi, ed ho aggiunto alias di convenienza per certe pagine: ad esempio, /Blog.gmi
+che rimanda a /Categories/Blog.gmi
+.
+
+Come ultime cose: al generatore ho aggiunto anche la creazione di liste di tutte le pagine contenute in una cartella e relative sottocartelle del sito, che richiamo con <staticoso:DirectoryList:{DIRECTORY}> e forse, credo, mi servirà più tardi, anche se ho già creato una pagina che ne fa uso
+.
+
+»
 2022-09-05] Filtri intelligenti
 
 -> #sitoctt
+
+=> ./Blog.gmi  /Blog.gmi
+=> ./Categories/Blog.gmi  /Categories/Blog.gmi
+=> ./Posts/index.gmi  una pagina che ne fa uso
 
 Le soluzioni semplici sono spesso le migliori.
 Con questa filosofia, come in altri casi, ho preso e ho implementato questa piccola cosa che mi serviva sul sitoctt.
@@ -147,7 +298,8 @@ A livello di HTML, allora, staticoso genera per ogni titolo la seguente struttur
 Facendo un esempio pratico, questo è cosa esce fuori:
 
 ```
-<h1 class="SectionHeading">
+<!--
+--> <h1 class="SectionHeading">
    <span class="SectionLink">
        <a href="#-Titolo-di-esempio">
            <span>»</span>
