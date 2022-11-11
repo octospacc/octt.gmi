@@ -4,12 +4,12 @@ Alcune informazioni importanti sono disponibili su:
 
 🏠 ~Home~
 😺 Chi sono
-💰 Donazioni
 💾 Devlogs
 ✉️ PicoBlog
 💎 OctoSpacc Hub
-🔖️ Bacheca (Old)
 📦 OcttKB
+🔖️ Bacheca (Old)
+💰 Donazioni
 🗂️ Raccolte 📓️ Blog
 📒 MicroBlog
 🦄 Fritto Misto
@@ -24,12 +24,12 @@ Alcune informazioni importanti sono disponibili su:
 
 => ../../../index.gmi  
 => ../../../Chi-Sono.gmi  
-=> ../../../Donazioni.gmi  
 => ../../../Devlogs.gmi  
 => ../../../PicoBlog.gmi  
 => https://hub.octt.eu.org  💎 OctoSpacc Hub
-=> https://octtspacc.gitlab.io/bachecoctt  🔖️ Bacheca (Old)
 => https://kb.octt.eu.org  📦 OcttKB
+=> https://octtspacc.gitlab.io/bachecoctt  🔖️ Bacheca (Old)
+=> ../../../Donazioni.gmi  
 => ../../../Categories/Blog.gmi  
 => ../../../Categories/MicroBlog.gmi  
 => ../../../Categories/Fritto-Misto.gmi  
