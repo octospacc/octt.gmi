@@ -50,10 +50,15 @@ Una raccolta dedicata ad alcuni siti Internet carini (non solo web!), di varie t
 A parte la divisione in categorie, non c'e alcun ordine particolare.
 Le bandiere di nazione (emoji, forse non visibili su browser antichi) accanto ai nomi indicano le lingue primarie dei contenuti del sito.
 
-### »
-Attenzione
+[‡ ✨sitoctt✨] >>
+[‡ serimemo] >>
+[‡ Dante Scanline] >>
+[‡ 2Bit] >>
+[‡ neonaut] >>
+[‡ Yesterweb] >>
+[‡ OpenBooks] >>
 
-Oh voi persone che fate i sitarelli, mannaggia, non mettete cose importanti nell'infernale tag <marquee>, che non si legge niente e fa il mal di testa!
+Questi sopra sono i siti della lista che hanno un bottone 88x31. Vuoi anche tu il privilegio di stare anche in cima? Allora muoviti a disegnare st'immaginetta, su!
 
 ## »
 Il mio..
@@ -206,6 +211,11 @@ Un museo virtuale dedicato ad illustrare quei rari contenuti informatici e video
 => http://femicom.org  femicom.org
 => https://gbasp.ru  🇷🇺 gbasp.ru
 => https://en.gbasp.ru  🇬🇧 en.gbasp.ru
+
+## »
+Attenzione
+
+Però, oh voi persone che fate i sitarelli, mannaggia, non mettete testo importante nell'infernale tag <marquee>, che non si legge niente e fa il mal di testa!
 
 ## »
 🏷️ Note e Riferimenti

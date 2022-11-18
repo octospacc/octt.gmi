@@ -64,7 +64,7 @@ In costruzione...
 ### Filtri:
 #Linux #Desktop #XFCE
 »
-W5 Novembre 2022
+W5 Ottobre 2022
 
 -> #Linux #Desktop #XFCE
 
@@ -74,7 +74,7 @@ OS : Void Linux
 Desktop : xfce4 Pannello : xfce4-panel Taskbar : xfce4-docklike-plugin Menu Globale : AppMenu Plugin (appmenu-gtk-module appmenu-gtk3-module appmenu-registrar vala-panel-appmenu vala-panel-appmenu-data xfce4-panel-appmenu) Tema GTK : BlueSky-Light
 Tema xfwm : BlueSky-Light Icone : Colloid
 »
-W2 Novembre 2022
+W2 Ottobre 2022
 
 -> #Linux #Desktop #XFCE
 
