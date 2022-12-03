@@ -44,10 +44,8 @@ Alcune informazioni importanti sono disponibili su:
 
 # »
 📝️ Note
-Notes[2022-09-18] Aggirare i DRM dei libri di scuola
 Linux[2022-08-09] Controllare statistiche interessanti e sulla salute di partizioni su Linux
 2022-08-05] Evitare di richiamare comandi per sbaglio nel terminale
 
-=> ../Posts/Notes/2022-09-18-Aggirare-i-DRM-dei-Libri-di-Scuola.gmi  Aggirare i DRM dei libri di scuola
 => ../Posts/Notes/Linux/2022-08-09-Controllare-Statistiche-Interessanti-Partizioni-Linux.gmi  Controllare statistiche interessanti e sulla salute di partizioni su Linux
 => ../Posts/Notes/Linux/2022-08-05-Evitare-Comandi-Richiamati-Per-Sbaglio.gmi  Evitare di richiamare comandi per sbaglio nel terminale

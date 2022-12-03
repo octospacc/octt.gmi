@@ -229,6 +229,9 @@ Ah, si, sto dicendo " altre cosette " perché si tratta di roba che al momento d
 H e h .
 ```
 
+»
+Prendi tutto!
+
 Per terminare, trovate tutti i miei sorgenti sulle rispettive repo Git.
 Quelli del mio sito (divisi in repo multiple per tenere la cronologia pulita), alle condizioni descritte sopra: gitlab.com/octtspacc/sitoctt
 ; sitoctt-assets
@@ -268,7 +271,8 @@ O, magari, si tratta di un problema temporaneo.
 [🎲]
 →
 
-❤️ Copying is an act of love. Please copy and share.
+❤️ Copying is an act of love. Please copy and share
+.
 
 => https://fediring.net/previous?host=sitoctt.octt.eu.org  
 => https://fediring.net/  
