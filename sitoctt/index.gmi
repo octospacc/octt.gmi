@@ -149,7 +149,7 @@ Il sito Web è disponibile da diverse fonti.
 
 Sul clearweb HTTPS, sui server di GitLab : sitoctt.octt.eu.org
 .Sull' Onion Web (Tor), sui server di Replit: sitoctt2fxjvx3lc2iqqef2aeulflprjaasv2xl4zi7sxxbmvjy5b5yd.onion
-. Alla fine non è più ospitato in casa mia, ma forse è meglio così, è un carico in meno per il povero serverino di fortuna che ho (al momento, una console Nintendo Switch con Ubuntu il Raspberry Pi 3). Opzioni di compatibilità per sistemi obsoleti o esotici (Espandi)
+. Alla fine non è più ospitato in casa mia, ma forse è meglio così, è un carico in meno per il povero serverino di fortuna che ho (al momento, una console Nintendo Switch con Ubuntu il Raspberry Pi 3). 💾 Opzioni di compatibilità per sistemi obsoleti o esotici (Espandi)
 • Versione HTTP di base Il sito include funzioni CSS complesse e relativamente moderne, per poter fornire effetti grafici (e funzionali) epici. Ironia della sorte, per quanto visualizzando le pagine su browser veramente vecchi, che mancano di supporto CSS totale o quasi, il tutto si vede brutto ma è leggibile.. su browser che sono sia troppo vecchi e sia troppo nuovi si presentano bug parecchio gravi, che rendono impossibile usare alcuni menù o addirittura leggere il testo!
 Oltre al fatto che (nel possibile) voglio supportare sistemi vecchi, 'ste maledette rogne si presentano anche su dispositivi meno popolari ma attuali, tipo il Kindle! Insomma, per i troppi browser che non includono un'impostazione per disattivare completamente il CSS, era d'obbligo fare quello che ho fatto: al percorso /Plain
 sui miei domini del clearweb c'è una root parallela, e pagine con uguale contenuto ma CSS ridotto all'osso. • HTTP non cifrato Per evitare problemi ci ho dedicato un sottodominio dedicato, tenendo HTTPS forzato sul principale; ma, visto che non mi richiede manutenzione, ho fatto si che dal dominio di quinto (!) livello " http " si acceda al sito tramite HTTP non cifrato (ospitato da GitHub, stavolta): in poche parole, l'indirizzo è http://http.sitoctt.octt.eu.org. I contenuti sono identici, ovviamente, ma finalmente si può navigare il sitoctt su roba come Internet Explorer 4 direttamente contattando il server.
@@ -242,6 +242,11 @@ Quelli del mio generatore, anche questo rilasciato sotto una licenza libera, la 
 => https://gitlab.com/octtspacc/sitoctt  gitlab.com/octtspacc/sitoctt
 => https://gitlab.com/octtspacc/sitoctt-assets  sitoctt-assets
 => https://gitlab.com/octtspacc/staticoso  gitlab.com/octtspacc/staticoso
+
+Altra cosa: in caso possa interessare, per conservare e/o condividere in modo immediato (esclusi i file che sono sulle repo a parte, perché linkati in modo assoluto) copie offline del sito, si può scaricare uno zip contenente tutte le pagine compilate qui
+!
+
+=> https://gitlab.com/octtspacc/sitoctt/-/jobs/artifacts/main/download?job=pages  qui
 
 ### »
 Crediti speciali
