@@ -50,7 +50,8 @@ Categories 🕹️ Gaming
 📱️ Mobile
 💰 Rasperino
 Sistemi Raccolta del Riso
-Posts[2022-10-31] 🎮 Storia antica del DSpacc - blogoctt
+Posts[2022-12-13] ⚡️ Il blogging rapido con Standard Notes - blogoctt
+2022-10-31] 🎮 Storia antica del DSpacc - blogoctt
 2022-07-27] 👾 L'emulazione NDS, Google Play, e una storia oscura - blogoctt
 2022-07-09] 💻 Come ho riparato il mio portatile (con 25€) - blogoctt
 2022-07-03] ⌨️ L'idea di una tastiera fisica per smartphone fatta in casa - blogoctt
@@ -63,6 +64,7 @@ Archive[2022-05-07] Gli inaspettati vantaggi della chiavetta Linux - blogoctt
 => ../Categories/Mobile.gmi  
 => ../Categories/Rasperino.gmi  
 => ../Raccolte/Sistemi/Raccolta-del-Riso.gmi  Raccolta del Riso
+=> ../Posts/2022-12-13-Blogging-Rapido-con-Standard-Notes.gmi  ⚡️ Il blogging rapido con Standard Notes - blogoctt
 => ../Posts/2022-10-31-Storia-Antica-del-DSpacc.gmi  
 => ../Posts/2022-07-27-Emulazione-NDS-Google-Play-e-una-Storia-Oscura.gmi  
 => ../Posts/2022-07-09-Come-ho-Riparato-il-mio-Portatile-con-25-Euro.gmi  
