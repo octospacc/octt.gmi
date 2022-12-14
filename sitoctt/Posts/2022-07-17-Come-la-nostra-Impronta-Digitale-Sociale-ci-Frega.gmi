@@ -4,14 +4,14 @@ Alcune informazioni importanti sono disponibili su:
 
 🏠 ~Home~
 😺 Chi sono
-💾 Devlogs
-✉️ PicoBlog
+💾 Devlogs - blogoctt
+✉️ PicoBlog - blogoctt
 💎 OctoSpacc Hub
 📦 OcttKB
 🔖️ Bacheca (Old)
 💰 Donazioni
 🗂️ Raccolte 📓️ Blog
-📒 MicroBlog
+📒 MicroBlog - blogoctt
 🦄 Fritto Misto
 🛠️ DIY
 ♻️ Ecologia
