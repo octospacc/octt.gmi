@@ -56,7 +56,7 @@ Posts[2022-12-13] ⚡️ Il blogging rapido con Standard Notes - blogoctt
 2022-06-03] 🌐️ Come e perché il sitoctt su Tor? - blogoctt
 Archive[2022-05-07] Gli inaspettati vantaggi della chiavetta Linux - blogoctt
 
-=> ../Posts/2022-12-13-Blogging-Rapido-con-Standard-Notes.gmi  ⚡️ Il blogging rapido con Standard Notes - blogoctt
+=> ../Posts/2022-12-13-Blogging-Rapido-con-Standard-Notes.gmi  
 => ../Posts/2022-10-31-Storia-Antica-del-DSpacc.gmi  
 => ../Posts/2022-08-26-sitoctt-da-3-mesi-ad-oggi.gmi  
 => ../Posts/2022-07-27-Emulazione-NDS-Google-Play-e-una-Storia-Oscura.gmi  
