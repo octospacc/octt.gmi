@@ -4,14 +4,14 @@ Alcune informazioni importanti sono disponibili su:
 
 🏠 ~Home~
 😺 Chi sono
-💾 Devlogs - blogoctt
-✉️ PicoBlog - blogoctt
+💾 Devlogs
+✉️ PicoBlog
 💎 OctoSpacc Hub
 📦 OcttKB
 🔖️ Bacheca (Old)
 💰 Donazioni
 🗂️ Raccolte 📓️ Blog
-📒 MicroBlog - blogoctt
+📒 MicroBlog
 🦄 Fritto Misto
 🛠️ DIY
 ♻️ Ecologia
@@ -44,10 +44,11 @@ Alcune informazioni importanti sono disponibili su:
 
 # »
 📓️ Il blogoctt
-💾 Devlogs - blogoctt
-✉️ PicoBlog - blogoctt
-Categories 📒 MicroBlog - blogoctt
-Posts[2022-12-13] ⚡️ Il blogging rapido con Standard Notes - blogoctt
+💾 Devlogs
+✉️ PicoBlog
+Categories 📒 MicroBlog
+Posts[2022-12-17] 🎄 Distrazioni di Natale: l'albero Padoru - blogoctt
+2022-12-13] ⚡️ Il blogging rapido con Standard Notes - blogoctt
 2022-10-31] 🎮 Storia antica del DSpacc - blogoctt
 2022-08-26] 📈 sitoctt - Da 3 mesi fa ad oggi, l'inizio e i motivi - blogoctt
 2022-07-27] 👾 L'emulazione NDS, Google Play, e una storia oscura - blogoctt
@@ -62,6 +63,7 @@ Archive[2022-05-07] Gli inaspettati vantaggi della chiavetta Linux - blogoctt
 => ../Devlogs.gmi  
 => ../PicoBlog.gmi  
 => ../Categories/MicroBlog.gmi  
+=> ../Posts/2022-12-17-Distrazioni-di-Natale-Albero-Padoru.gmi  
 => ../Posts/2022-12-13-Blogging-Rapido-con-Standard-Notes.gmi  
 => ../Posts/2022-10-31-Storia-Antica-del-DSpacc.gmi  
 => ../Posts/2022-08-26-sitoctt-da-3-mesi-ad-oggi.gmi  

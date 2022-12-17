@@ -4,14 +4,14 @@ Alcune informazioni importanti sono disponibili su:
 
 🏠 ~Home~
 😺 Chi sono
-💾 Devlogs - blogoctt
-✉️ PicoBlog - blogoctt
+💾 Devlogs
+✉️ PicoBlog
 💎 OctoSpacc Hub
 📦 OcttKB
 🔖️ Bacheca (Old)
 💰 Donazioni
 🗂️ Raccolte 📓️ Blog
-📒 MicroBlog - blogoctt
+📒 MicroBlog
 🦄 Fritto Misto
 🛠️ DIY
 ♻️ Ecologia
@@ -49,7 +49,7 @@ In questi giorni ho sistemato i primi affari riguardanti il rendere disponibile 
 Se nulla è andato storto, il servizio Onion è ancora raggiungibile a questo indirizzo: onmfrk2acl4xdeawfjg3nfepq7gcufolctmhiwwxpcknazus5bxzxhqd.onion
 sitoctt2fxjvx3lc2iqqef2aeulflprjaasv2xl4zi7sxxbmvjy5b5yd.onion
 1
-]
+].
 
 L'idea - apparentemente riuscita - è stata quella di utilizzare un servizio PaaS gratuito, Replit, per fare il tutto.
 In questo modo, non appesantisco ulteriormente il mio improprio server. Ormai da mesi, precisamente da inizio-metà di febbraio 2022, uso una console Switch come server per troppe cose: oltre lo storico server SpaccCraft, ho una mia istanza Matrix, qualche bot Telegram che forse è la roba che meno richiede risorse, e software minori assortiti. Si, Nintendo Switch su cui ho avviato Ubuntu..

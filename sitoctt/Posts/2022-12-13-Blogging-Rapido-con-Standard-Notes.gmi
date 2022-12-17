@@ -4,14 +4,14 @@ Alcune informazioni importanti sono disponibili su:
 
 🏠 ~Home~
 😺 Chi sono
-💾 Devlogs - blogoctt
-✉️ PicoBlog - blogoctt
+💾 Devlogs
+✉️ PicoBlog
 💎 OctoSpacc Hub
 📦 OcttKB
 🔖️ Bacheca (Old)
 💰 Donazioni
 🗂️ Raccolte 📓️ Blog
-📒 MicroBlog - blogoctt
+📒 MicroBlog
 🦄 Fritto Misto
 🛠️ DIY
 ♻️ Ecologia
@@ -49,11 +49,14 @@ Alcune informazioni importanti sono disponibili su:
 come app di note personali.
 Anni fa l'avevo scelta per il suo essere libera e open-source, ma allo stesso tempo molto pulita, curata, e funzionale. Capitava a pennello in un momento in cui cercavo qualcosa che supportasse una cifratura dei dati che funziona, senza inficiare sull'usabilità.
 
+[‡ Vecchia app Android di Standard Notes sul mio tablet.]
+
+=> https://standardnotes.com  Standard Notes
+
 Senza dilungarmi su perché poi mi è piaciuto continuare ad usarla, poi ho smesso, e poi ho ripreso fino ad arrivare ad ora, bisogna approfondire su una in particolare delle sue funzioni integrate : Listed
 .
 Si tratta di una piattaforma di blogging concepita dagli stessi sviluppatori di Standard Notes, e disponibile per il self-hosting oppure l'uso gratuito sull'istanza ufficiale. Per quanto io non l'abbia mai davvero usata prima, ho trovato fin dall'inizio interessante il concetto e la sua applicazione.
 
-=> https://standardnotes.com  Standard Notes
 => https://listed.to  Listed
 
 ## »
@@ -66,12 +69,12 @@ La scelta stava per ricadere sull' usare staticoso
 , il mio generatore di siti statici che già uso per il sitoctt
 , ma poi ci ho ripensato.
 
-Ho pensato che, appunto, voglio rendere effettivamente la mia collezione di esperienze ritrovabile sul Web. Il problema qui, però, che ho potuto amaramente constatare in tutti questi mesi, è come il mio sito ad esempio sia, come dire... I motori di ricerca non se lo cagano. 😭
-Oltre ad essere pure questo un argomento a parte, va precisato che la colpa della orrenda sorte del mio sito non dipende dal suo codice; è colpa del dominio e/o dell'host. Quindi, no, non abbandonerò mai il mio staticoso: il solo cambiare generatore (e i template di conseguenza) con uno magari fatto seriamente non risolverebbe alcun problema.
-
 => https://listed.to/@ChatGPT_Experiences  ChatGPT
 => https://gitlab.com/octtspacc/staticoso  staticoso
 => https://sitoctt.octt.eu.org  sitoctt
+
+Ho pensato che, appunto, voglio rendere effettivamente la mia collezione di esperienze ritrovabile sul Web. Il problema qui, però, che ho potuto amaramente constatare in tutti questi mesi, è come il mio sito ad esempio sia, come dire... I motori di ricerca non se lo cagano. 😭
+Oltre ad essere pure questo un argomento a parte, va precisato che la colpa della orrenda sorte del mio sito non dipende dal suo codice; è colpa del dominio e/o dell'host. Quindi, no, non abbandonerò mai il mio staticoso: il solo cambiare generatore (e i template di conseguenza) con uno magari fatto seriamente non risolverebbe alcun problema.
 
 Ho dovuto insomma cestinare totalmente l'idea del l'hosting su GitHub e GitLab, e pensare ad altro.
 
@@ -137,13 +140,13 @@ E script fu scripto. Lo lascio qui: gitlab.com/octtspacc/sitoctt/Scripts/ListedD
 ; attenzione però che non c'è niente di bello da leggere, anche perché non ho ancora implementato tutto quello che dovrebbe servirmi a lungo termine, ma per chi vuole usarlo sta là.
 È tecnicamente indipendente dal sitoctt e da staticoso, in quanto salva semplici file Markdown su disco (anche se la sintassi delle righe di metadati in essi scritti è quella mia; per cui, in caso, andrebbe cambiata qualche stringa di testo nel programma per supportare il più classico formato dei metadati YAML).
 
+=> https://listed.to/@u8/all  /all
+=> https://gitlab.com/octtspacc/sitoctt/-/blob/main/Scripts/ListedDownsync.js  gitlab.com/octtspacc/sitoctt/Scripts/ListedDownsync.js
+
 Non voglio dire che ho pensato davvero a tutto, però ci sono andata vicina.
 No non mi so ancora decidere - per colpa di mie paturnie - su che standard usare per indicare blocchi speciali (di metadati, o di HTML da non far interpretare al SSG di Listed).
 No, non ho ancora fatto lo script da avviare come cronjob sul server, che ogni tanto dovrebbe scaricare i dati da l blog di Listed e aggiornare i file nel la repository Git se ci sono aggiornamenti.
 Però, ho pensato alle cose veramente inderogabili, tipo la possibilità per il programma di sincronizzazione di non sovrascrivere un file già nella repo se questo specifica la cosa nei metadati. Metti che succede un qualunque casino, e io devo modificare i dati del post per il sitoctt senza toccare quelli della nota su Standard Notes: impostando questa flag, lo script di sincronizzazione non lo sostituirà la prossima volta che gira.
-
-=> https://listed.to/@u8/all  /all
-=> https://gitlab.com/octtspacc/sitoctt/-/blob/main/Scripts/ListedDownsync.js  gitlab.com/octtspacc/sitoctt/Scripts/ListedDownsync.js
 
 ## »
 Conclusioni
@@ -154,6 +157,14 @@ Oggi ho già scritto troppo (è venuto fuori un articolo di blog e non microblog
 
 Ah, si, questo qui è stato il primo post sul mio blog Listed
 , è giusto precisarlo per chi legge dal sitoctt... ma io spero che almeno la versione Listed del blog possa venire indicizzata per bene e scoperta da più persone, già che ci siamo.
+È proprio nella speranza di raggiungere questo obiettivo che sto accettando alcuni compromessi quando scrivo qui, come il fare a meno delle macro (che con staticoso posso usare, mentre qui produrrebbero testi bucati e link rotti), per far si che gli articoli siano effettivamente consultabili anche dalle pagine di Listed.
+
+Adattamento a scrivere su SN (senza macro ecc)
 
 => https://sitoctt.octt.eu.org  sitoctt
-=> https://listed.to/@u8
+=> https://listed.to/@u8  
+
+## »
+🏷️ Note e Riferimenti
+
+Aggiornamenti del post: 2022-12-16 : Ho aggiunto una foto di copertina per l'articolo, e ho precisato il dettaglio finale che avevo dimenticato. 2022-12-14 : Ho aggiunto un po' di formattazione extra, e ho corretto alcune espressioni.
