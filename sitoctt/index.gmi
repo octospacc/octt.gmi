@@ -57,7 +57,7 @@ Esatto, il ✨ sitoctt ✨. Letteralmente il mio sito, perchè io sono octt e qu
 ).
 Se preferisci, puoi chiamarlo sitocto. O anche postoctt! È pur sempre un posto questo - il mio posto - anche se virtuale!
 
-=> https://octtspacc.gitlab.io/sitoctt-assets/Media/sitoctt-pronuncia.flac  pronuncia: "sitòctt"
+=> https://sitoctt-assets.octt.eu.org/Media/sitoctt-pronuncia.flac  pronuncia: "sitòctt"
 
 ## »
 Collegamenti rapidi

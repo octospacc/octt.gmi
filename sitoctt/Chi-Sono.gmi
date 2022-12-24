@@ -57,7 +57,7 @@ sarebbe più corretto, peccato che le persone che anche soltanto conoscono dell'
 Vabbe, io ho capito che nel mondo c'era necessità di questo sito (ma quando mai??), ho immaginato il sito, ho iniziato a costruire il sito, ho messo in piedi strategie per semplificarmi la creazione del sito (eee, che paroloni, ho scritto un programmino in Pitone), ed ecco qui il risultato.
 
 => ./index.gmi  Home
-=> https://octtspacc.gitlab.io/sitoctt-assets/Media/sitoctt-pronuncia.flac  come sitoctt, ma senza "sit"
+=> https://sitoctt-assets.octt.eu.org/Media/sitoctt-pronuncia.flac  come sitoctt, ma senza "sit"
 => https://www.dictionary.com/browse/webmistress  webmistress
 
 ## »
@@ -102,11 +102,13 @@ Friendica : @octt@poliverso.org
 Mastodon : @octo@mastodon.uno
 Matrix : @octt:matrix.org
 Misskey SELFHOST! : @octt@miss.octt.eu.org
+GoToSocial SELFHOST! : @octt@godo.octt.eu.org
 
 => https://poliverso.org/profile/octt  @octt@poliverso.org
 => https://mastodon.uno/@octo  @octo@mastodon.uno
 => https://matrix.to/#/@octt:matrix.org  @octt:matrix.org
 => https://miss.octt.eu.org/@octt  @octt@miss.octt.eu.org
+=> https://godo.octt.eu.org/@octt  @octt@godo.octt.eu.org
 
 ### »
 Crittografia, prove, e altri profili
