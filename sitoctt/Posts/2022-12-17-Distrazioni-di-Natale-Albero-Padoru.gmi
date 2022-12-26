@@ -199,11 +199,15 @@ L'altro ieri ho iniziato a scrivere questo articolo, credendo che avrei parlato 
 ## »
 🏷️ Note e Riferimenti
 
+Aggiornamento del 2022-12-24 : Ho caricato alcune foto in più sulla storia su Pixelfed: pixelfed.uno/p/octo/512223099419845225
+.
+
 Sul canale ho ritrovato il comando di ImageMagick
 che usai per creare l'immagine grande contenente tutte le altre disposte a griglia, lo metto qui per chi ha bisogno di stampare cose di questa tipologia: (da eseguire stando nella cartella con tutte le immagini da includere) montage -define png:size=496x496 -geometry 496x496 -tile 5x7 -auto-orient * OUTPUT.png. I valori di "496x496" e "5x7" sono modificabili a piacere, qui sono messi in modo che il file risultante avrà dimensioni vicinissime a quelle A4, con 35 immagini massime su un solo foglio, tutte scalate uguali e quadrate. Magari l'immagine finale va stampata aggiungendo dei buoni margini prima, però, altrimenti rischia di uscire leggermente tagliata. ↩
 
 trollare : In questo caso, fare uno scherzetto innocuo. ↩
 
+=> https://pixelfed.uno/p/octo/512223099419845225  pixelfed.uno/p/octo/512223099419845225
 => https://imagemagick.org  ImageMagick
 
 stare bend : " to bend " in Inglese vuol dire " piegare ". Io uso l'espressione " stare bend ", volutamente errata, per intendere " stare piegata " (con la schiena o il collo). È un mio meme stupido che nacque sotto circostanze curiose, magari un giorno lo spiegherò. ↩

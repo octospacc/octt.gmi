@@ -45,11 +45,13 @@ Alcune informazioni importanti sono disponibili su:
 # »
 🌐️ Internet
 Internet Raccolta Siti Internet
-Posts[2022-08-26] 📈 sitoctt - Da 3 mesi fa ad oggi, l'inizio e i motivi - blogoctt
+Posts[2022-12-26] 🐕‍🦺 Epicyon, piattaforma del Fediverso durata 2 giorni - blogoctt
+2022-08-26] 📈 sitoctt - Da 3 mesi fa ad oggi, l'inizio e i motivi - blogoctt
 2022-06-14] 📄 I documenti non devono diventare applicazioni - blogoctt
 2022-06-03] 🌐️ Come e perché il sitoctt su Tor? - blogoctt
 
 => ../Raccolte/Internet/Raccolta-Siti-Internet.gmi  Raccolta Siti Internet
+=> ../Posts/2022-12-26-Epicyon-Piattaforma-del-Fediverso-Durata-2-Giorni.gmi  
 => ../Posts/2022-08-26-sitoctt-da-3-mesi-ad-oggi.gmi  
 => ../Posts/2022-06-14-I-Documenti-Non-Devono-Diventare-Applicazioni.gmi  
 => ../Posts/2022-06-03-Come-e-Perche-il-Sitoctt-su-Tor.gmi
