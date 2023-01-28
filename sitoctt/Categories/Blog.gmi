@@ -47,7 +47,8 @@ Alcune informazioni importanti sono disponibili su:
 💾 Devlogs
 ✉️ PicoBlog
 Categories 📒 MicroBlog
-Posts[2022-12-26] 🐕‍🦺 Epicyon, piattaforma del Fediverso durata 2 giorni - blogoctt
+Posts[2023-01-28] 🤯 Quando i problemi hardware diventano mentali (maledetto Raspino) - blogoctt
+2022-12-26] 🐕‍🦺 Epicyon, piattaforma del Fediverso durata 2 giorni - blogoctt
 2022-12-17] 🎄 Distrazioni di Natale: l'albero Padoru - blogoctt
 2022-12-13] ⚡️ Il blogging rapido con Standard Notes - blogoctt
 2022-10-31] 🎮 Storia antica del DSpacc - blogoctt
@@ -64,6 +65,7 @@ Archive[2022-05-07] Gli inaspettati vantaggi della chiavetta Linux - blogoctt
 => ../Devlogs.gmi  
 => ../PicoBlog.gmi  
 => ../Categories/MicroBlog.gmi  
+=> ../Posts/2023-01-28-Problemi-Hardware-Diventano-Mentali.gmi  
 => ../Posts/2022-12-26-Epicyon-Piattaforma-del-Fediverso-Durata-2-Giorni.gmi  
 => ../Posts/2022-12-17-Distrazioni-di-Natale-Albero-Padoru.gmi  
 => ../Posts/2022-12-13-Blogging-Rapido-con-Standard-Notes.gmi  
