@@ -265,6 +265,25 @@ Alcuni bottoni 88x31 non identitari: 88x31 GIF Collection di cyber.dabamos.de
 => https://cyber.dabamos.de/88x31  88x31 GIF Collection di cyber.dabamos.de
 
 ## »
+Riservatezza e trasparenza
+
+In quanto mio interesse legittimo, in questo sito web utilizzo un servizio di analitica; sia per poter migliorare ciò che faccio, che per soddisfare la mia pura curiosità di scoprire dati.
+
+Il servizio di analitica è basato su software completamente libero ed open-source
+, ospitato gratuitamente per siti a basso traffico da GoatCounter.com.
+
+A quanto pare, con GoatCounter non serve includere un avviso a schermo che disturba gli utenti per essere in regola con il GDPR (si veda goatcounter.com/help/gdpr
+), ma, per onestà e trasparenza, sto scrivendo comunque questo paragrafo.
+
+=> https://github.com/arp242/goatcounter/blob/master/LICENSE  libero ed open-source
+=> https://www.goatcounter.com/help/gdpr  goatcounter.com/help/gdpr
+
+Solo i dati non-personali vengono raccolti, in forma anonima, per i soli fini di statistica generale, e non di tracciamento individuale. Il servizio non utilizza cookies, e i dati non vengono ceduti a terze parti. Per ulteriori informazioni, non posso fare altro che consigliare di leggere la Privacy policy di GoatCounter
+.
+
+=> https://www.goatcounter.com/help/privacy  Privacy policy di GoatCounter
+
+## »
 Rings
 
 Se dei link tra questi sotto non funzionano, vuol dire che chi amministra i ring non ha ancora accettato il mio sito negli stessi.
