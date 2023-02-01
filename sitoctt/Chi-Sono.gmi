@@ -83,9 +83,11 @@ Spesso dormo anche, ahhh bello quando dormi che stai lì così, ohhh, e ogni tan
 Scrivo anche programmi veri e propri a volte. Più che altro, programmini, perchè se mi imbarco in grosse imprese poi rischio (no no, succede spesso, quale "rischio", è una certezza) di lasciare roba abbandonata a metà... tuttavia, ad onor del vero, staticoso
 per ora sembra essere l'eccezione! 🥳
 
-Pensa te, inoltre: quando ho tempo, gioco anche ai videogiochi. In passato, molto di più, ma ad oggi impiego il mio tempo in tante altre cose, quindi il gioco è bello ma, ormai, dura sempre troppo poco.
+Pensa te, inoltre: quando ho tempo, gioco anche ai videogiochi. In passato, molto di più, ma ad oggi impiego il mio tempo in tante altre cose, quindi il gioco è bello ma, ormai, dura sempre troppo poco. Qui comunque ce ne sono alcuni che consiglio: Raccolta Videogiochi
+.
 
 => ./index.gmi#-Codice-sorgente  staticoso
+=> Pages/Raccolte/Gaming/Raccolta-Videogiochi.md  Raccolta Videogiochi
 
 Ah, e devo anche ancora andare a scuola. Un po' na' seccatura, vabbe, c'è poco da fare.
 
@@ -101,14 +103,13 @@ Mi puoi trovare sul Fediverso, ai contatti da me preferiti che lascio qui sotto.
 Friendica : @octt@poliverso.org
 Mastodon : @octo@mastodon.uno
 Matrix : @octt:matrix.org
-Misskey SELFHOST! : @octt@miss.octt.eu.org
-GoToSocial SELFHOST! : @octt@godo.octt.eu.org
+C'erano anche le mie istanza ActivityPub qui, ma poi sono successi gli incidenti
+.
 
 => https://poliverso.org/profile/octt  @octt@poliverso.org
 => https://mastodon.uno/@octo  @octo@mastodon.uno
 => https://matrix.to/#/@octt:matrix.org  @octt:matrix.org
-=> https://miss.octt.eu.org/@octt  @octt@miss.octt.eu.org
-=> https://godo.octt.eu.org/@octt  @octt@godo.octt.eu.org
+=> ./Posts/2023-01-28-Problemi-Hardware-Diventano-Mentali.gmi  
 
 ### »
 Crittografia, prove, e altri profili
@@ -122,8 +123,13 @@ Visitandolo, oltre a poter semplicemente accedere a link di alcuni miei altri pr
 # »
 Fine?
 
-Per ora, mi dispiace, ma è tutto. Se vuoi sapere altro, dovrai prima aspettare che mi venga in mente nuova roba da scrivere. Non sperarci troppo, però, considerando che è da più di un mese che questa pagina non si espande sostanzialmente😬.
+Per ora, mi dispiace, ma è tutto. Se vuoi sapere altro, dovrai prima aspettare che mi venga in mente nuova roba da scrivere. Non sperarci troppo, però, considerando che è da mesi e mesi che questa pagina non si espande in modo sostanziale 😬.
+
+Qui sul sito, comunque, non ho ancora avuto le idee abbastanza chiare, né la pazienza necessaria, per creare enormi raccolte su tutti quegli elementi di conoscenza che possiedo su soggetti molto particolari. Per il momento, al costo di non aggiungere quasi mai nulla, evito di riempire il postoctt di troppe informazioni; però, le butto tutte sulla OcttKB
+.
 
 [‡ Me su Animal Crossing Wild World.]
 Io? Cute. Assolutamente indiscutibile.
 Voi? Meh, forse.. penso???
+
+=> https://kb.octt.eu.org  OcttKB
