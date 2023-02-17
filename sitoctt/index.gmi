@@ -194,7 +194,7 @@ o Simple Rss
 => https://github.com/koreader/koreader  KOReader
 
 Inoltre, se usi una qualunque piattaforma del Fediverso ActivityPub (Mastodon, Pleroma, Misskey, ...) puoi seguire il bot del sitoctt, così da ricevere nel tuo feed Home i nuovi post: @sitoctt@botsin.space
-!
+! Per alcune complicazioni iniziate a fine agosto 2022, il bot non è accessibile dalla più grande istanza Mastodon italiana, mastodon.uno, quindi è quasi praticamente inutile ora. Non lo tolgo di mezzo solo perché mi costerebbe di più fare ciò che lasciarlo dov'è :P; comunque ne dovrei creare uno nuovo, prima o poi.
 
 => https://botsin.space/@sitoctt  @sitoctt@botsin.space
 

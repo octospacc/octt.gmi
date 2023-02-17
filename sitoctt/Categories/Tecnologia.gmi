@@ -50,14 +50,16 @@ Categories 🕹️ Gaming
 📱️ Mobile
 💰 Rasperino
 Sistemi Raccolta del Riso
-Posts[2023-01-28] 🤯 Quando i problemi hardware diventano mentali (maledetto Raspino) - blogoctt
+Posts
+2023-01-28] 🤯 Quando i problemi hardware diventano mentali (maledetto Raspino) - blogoctt
 2022-12-13] ⚡️ Il blogging rapido con Standard Notes - blogoctt
 2022-10-31] 🎮 Storia antica del DSpacc - blogoctt
 2022-07-27] 👾 L'emulazione NDS, Google Play, e una storia oscura - blogoctt
 2022-07-09] 💻 Come ho riparato il mio portatile (con 25€) - blogoctt
 2022-07-03] ⌨️ L'idea di una tastiera fisica per smartphone fatta in casa - blogoctt
 2022-06-23] ☀️ Rasperino Solare (ed altri esperimenti andati a male) - blogoctt
-Archive[2022-05-07] Gli inaspettati vantaggi della chiavetta Linux - blogoctt
+Archive
+2022-05-07] Gli inaspettati vantaggi della chiavetta Linux - blogoctt
 
 => ../Devlogs.gmi  
 => ../Categories/Gaming.gmi  

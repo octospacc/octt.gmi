@@ -44,7 +44,8 @@ Alcune informazioni importanti sono disponibili su:
 
 # »
 💰 Rasperino
-Posts[2023-01-28] 🤯 Quando i problemi hardware diventano mentali (maledetto Raspino) - blogoctt
+Posts
+2023-01-28] 🤯 Quando i problemi hardware diventano mentali (maledetto Raspino) - blogoctt
 2022-06-23] ☀️ Rasperino Solare (ed altri esperimenti andati a male) - blogoctt
 
 => ../Posts/2023-01-28-Problemi-Hardware-Diventano-Mentali.gmi  

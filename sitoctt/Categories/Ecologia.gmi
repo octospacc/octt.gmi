@@ -44,7 +44,8 @@ Alcune informazioni importanti sono disponibili su:
 
 # »
 ♻️ Ecologia
-Posts[2022-07-09] 💻 Come ho riparato il mio portatile (con 25€) - blogoctt
+Posts
+2022-07-09] 💻 Come ho riparato il mio portatile (con 25€) - blogoctt
 2022-06-23] ☀️ Rasperino Solare (ed altri esperimenti andati a male) - blogoctt
 
 => ../Posts/2022-07-09-Come-ho-Riparato-il-mio-Portatile-con-25-Euro.gmi  
