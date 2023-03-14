@@ -103,7 +103,7 @@ Mi puoi trovare sul Fediverso, ai contatti da me preferiti che lascio qui sotto.
 Friendica : @octt@poliverso.org
 Mastodon : @octo@mastodon.uno
 Matrix : @octt:matrix.org
-C'erano anche le mie istanza ActivityPub qui, ma poi sono successi gli incidenti
+C'erano anche le mie istanze ActivityPub qui, ma poi sono successi gli incidenti
 .
 
 => https://poliverso.org/profile/octt  @octt@poliverso.org
