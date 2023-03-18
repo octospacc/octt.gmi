@@ -16,4 +16,4 @@ Non stupirti se alcune sezioni in molte pagine parlano di caratteristiche del si
 
 Parlando di ciò, ma non è che forse preferisci navigare sulla versione Web del sitocto, più colorata e animata e meglio impaginata?
 => https://sitoctt.octt.eu.org sitoctt.octt.eu.org
-È un sito Web, si, ma non aver paura: è fatto in modo decente a livello tecnico, niente bloat e assolutamente sicuro e scattante (non contiene una singola riga di JavaScript).
+È un sito Web, si, ma non aver paura: è fatto in modo decente a livello tecnico, niente bloat e assolutamente sicuro e scattante (non contiene una singola riga di JavaScript, se non per alcune cose di trascurabile importanza, non fondamentali per la navigazione del sito, e che davvero non potevo realizzare solo con HTML e CSS).
