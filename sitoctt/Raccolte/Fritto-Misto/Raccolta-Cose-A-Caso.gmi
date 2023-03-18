@@ -20,6 +20,7 @@ Alcune informazioni importanti sono disponibili su:
 📱️ Mobile
 📝️ Note
 💰 Rasperino
+⚙️ Sysadmin
 📡 Tecnologia
 
 => ../../index.gmi  
@@ -40,6 +41,7 @@ Alcune informazioni importanti sono disponibili su:
 => ../../Categories/Mobile.gmi  
 => ../../Categories/Note.gmi  
 => ../../Categories/Rasperino.gmi  
+=> ../../Categories/Sysadmin.gmi  
 => ../../Categories/Tecnologia.gmi  
 
 # »

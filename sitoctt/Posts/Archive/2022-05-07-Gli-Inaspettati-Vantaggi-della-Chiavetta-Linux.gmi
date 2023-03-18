@@ -20,6 +20,7 @@ Alcune informazioni importanti sono disponibili su:
 📱️ Mobile
 📝️ Note
 💰 Rasperino
+⚙️ Sysadmin
 📡 Tecnologia
 
 Una cosa che ho fatto mesi fa e che, fino ad ora, si è rivelata una scelta vincente, è stata l'installare un sistema operativo basato su Linux, in modalità persistente, su una piccola pennina USB.
@@ -44,6 +45,7 @@ I motivi per cui ho voluto farlo inizialmente sono forse semplici e banali, ma l
 => ../../Categories/Mobile.gmi  
 => ../../Categories/Note.gmi  
 => ../../Categories/Rasperino.gmi  
+=> ../../Categories/Sysadmin.gmi  
 => ../../Categories/Tecnologia.gmi  
 
 ### »

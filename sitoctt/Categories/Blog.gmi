@@ -20,6 +20,7 @@ Alcune informazioni importanti sono disponibili su:
 📱️ Mobile
 📝️ Note
 💰 Rasperino
+⚙️ Sysadmin
 📡 Tecnologia
 
 => ../index.gmi  
@@ -40,6 +41,7 @@ Alcune informazioni importanti sono disponibili su:
 => ../Categories/Mobile.gmi  
 => ../Categories/Note.gmi  
 => ../Categories/Rasperino.gmi  
+=> ../Categories/Sysadmin.gmi  
 => ../Categories/Tecnologia.gmi  
 
 # »
@@ -48,6 +50,7 @@ Alcune informazioni importanti sono disponibili su:
 ✉️ PicoBlog
 Categories 📒 MicroBlog
 Posts
+2023-03-18] 🥴 Brutta interfaccia? File tutti distrutti! - blogoctt
 2023-01-28] 🤯 Quando i problemi hardware diventano mentali (maledetto Raspino) - blogoctt
 2022-12-26] 🐕‍🦺 Epicyon, piattaforma del Fediverso durata 2 giorni - blogoctt
 2022-12-17] 🎄 Distrazioni di Natale: l'albero Padoru - blogoctt
@@ -67,6 +70,7 @@ Archive
 => ../Devlogs.gmi  
 => ../PicoBlog.gmi  
 => ../Categories/MicroBlog.gmi  
+=> ../Posts/2023-03-18-Cattiva-Interfaccia-Partizione-Distrutta.gmi  
 => ../Posts/2023-01-28-Problemi-Hardware-Diventano-Mentali.gmi  
 => ../Posts/2022-12-26-Epicyon-Piattaforma-del-Fediverso-Durata-2-Giorni.gmi  
 => ../Posts/2022-12-17-Distrazioni-di-Natale-Albero-Padoru.gmi  

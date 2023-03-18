@@ -20,6 +20,7 @@ Alcune informazioni importanti sono disponibili su:
 📱️ Mobile
 📝️ Note
 💰 Rasperino
+⚙️ Sysadmin
 📡 Tecnologia
 
 => index.gmi  
@@ -40,6 +41,7 @@ Alcune informazioni importanti sono disponibili su:
 => Categories/Mobile.gmi  
 => Categories/Note.gmi  
 => Categories/Rasperino.gmi  
+=> Categories/Sysadmin.gmi  
 => Categories/Tecnologia.gmi  
 
 # »
@@ -108,7 +110,7 @@ Il sito Web non usa alcuno script client-side per le funzioni di base, perché n
 Ad ogni modo, però.. per fornire alcune funzionalità extra, devo per forza avere del JS, c'è poco da fare. Qui sotto, la lista di cosa uso. Tutti i file sono caricati dai server del mio sito, quindi è difficile che enti malevoli possano nasconderci malware dentro.
 
 Lista di script client-side usati nel sito Web (Espandi)
-Script interni scritti da me: Al momento, nessuno attivo! Polyfill per supportare le immagini AVIF su vecchi browser: avif.js di Kagami
+Script interni, scritti da me: Auto-espansione dei menu sulle pagine con tema sitoctt in modalità desktop. Polyfill per supportare le immagini AVIF su vecchi browser: avif.js di Kagami
 (Non ancora attivato... lo sarà a breve quando cavolo lo farò? Sono mesi che rimando, il problema è che non è una soluzione plug-and-play, devo prima capirla e poi creare uno script di wrapping 😭)
 
 Di seguito, metto la mia classifica dei possibili modi per visualizzare questo sito, dal migliore al peggiore. Per standardizzazione, tutti presuppongono supporto completo ai colori (nel possibile).

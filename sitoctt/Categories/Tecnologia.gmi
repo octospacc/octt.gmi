@@ -20,6 +20,7 @@ Alcune informazioni importanti sono disponibili su:
 📱️ Mobile
 📝️ Note
 💰 Rasperino
+⚙️ Sysadmin
 📡 Tecnologia
 
 => ../index.gmi  
@@ -40,6 +41,7 @@ Alcune informazioni importanti sono disponibili su:
 => ../Categories/Mobile.gmi  
 => ../Categories/Note.gmi  
 => ../Categories/Rasperino.gmi  
+=> ../Categories/Sysadmin.gmi  
 => ../Categories/Tecnologia.gmi  
 
 # »
@@ -49,9 +51,9 @@ Categories 🕹️ Gaming
 🌐️ Internet
 📱️ Mobile
 💰 Rasperino
+⚙️ Sysadmin
 Sistemi Raccolta del Riso
 Posts
-2023-01-28] 🤯 Quando i problemi hardware diventano mentali (maledetto Raspino) - blogoctt
 2022-12-13] ⚡️ Il blogging rapido con Standard Notes - blogoctt
 2022-10-31] 🎮 Storia antica del DSpacc - blogoctt
 2022-07-27] 👾 L'emulazione NDS, Google Play, e una storia oscura - blogoctt
@@ -66,8 +68,8 @@ Archive
 => ../Categories/Internet.gmi  
 => ../Categories/Mobile.gmi  
 => ../Categories/Rasperino.gmi  
+=> ../Categories/Sysadmin.gmi  
 => ../Raccolte/Sistemi/Raccolta-del-Riso.gmi  Raccolta del Riso
-=> ../Posts/2023-01-28-Problemi-Hardware-Diventano-Mentali.gmi  
 => ../Posts/2022-12-13-Blogging-Rapido-con-Standard-Notes.gmi  
 => ../Posts/2022-10-31-Storia-Antica-del-DSpacc.gmi  
 => ../Posts/2022-07-27-Emulazione-NDS-Google-Play-e-una-Storia-Oscura.gmi  
