@@ -9,6 +9,7 @@ Alcune informazioni importanti sono disponibili su:
 💎 OctoSpacc Hub
 📦 OcttKB
 🔖️ Bacheca (Old)
+📖 Guestbook
 💰 Donazioni
 🗂️ Raccolte 📓️ Blog
 📒 MicroBlog
@@ -30,6 +31,7 @@ Alcune informazioni importanti sono disponibili su:
 => https://hub.octt.eu.org  💎 OctoSpacc Hub
 => https://kb.octt.eu.org  📦 OcttKB
 => https://octtspacc.gitlab.io/bachecoctt  🔖️ Bacheca (Old)
+=> https://listed.to/@u8/guestbook  📖 Guestbook
 => ../Donazioni.gmi  
 => ../Categories/Blog.gmi  
 => ../Categories/MicroBlog.gmi  
@@ -58,13 +60,10 @@ Bisogna avere entrambi
 
 In genere tengo installati entrambi questi due programmi, e li uso in maniera piuttosto alternata, perché:
 
-GParted ha meno funzioni distinte, ma ogni cosa ha il suo posto, e un sufficiente livello di profondità e funzionalità: informazioni di basso livello sui dischi, formattazione in un'infinità di formati, e qualche altro dettaglio.
+⊞ table ⊞
 
-[‡ GParted Advanced]
-
-GNOME Disks presenta meno profondità con le singole operazioni, ma offre qualche funzione extra non strettamente legata alla modifica di partizioni, che fa sempre comodo: gestione energetica e prestazionale dei dischi, un'interfaccia per il protocollo SMART, e pure uno strumento per testare le prestazioni della memoria!
-
-[‡ GNOME Advanced]
+[‡ La vista di GParted di informazioni approfondite su un disco.] [‡ Il menu globale a comparsa di GNOME Disks, che presenta alcune funzioni speciali.]
+GParted ha meno funzioni distinte, ma ogni cosa ha il suo posto, e un sufficiente livello di profondità e funzionalità: informazioni di basso livello sui dischi, formattazione in un'infinità di formati, e qualche altro dettaglio. GNOME Disks presenta meno profondità con le singole operazioni, ma offre qualche funzione extra non strettamente legata alla modifica di partizioni, che fa sempre comodo: gestione energetica e prestazionale dei dischi, un'interfaccia per il protocollo SMART, e pure uno strumento per testare le prestazioni della memoria!
 
 ## »
 Era una missione semplice!
@@ -72,15 +71,15 @@ Era una missione semplice!
 L'altro ieri, quando ho avviato una live USB Linux sul mio portatile
 , avevo in mente di portare a termine senza danni una missione teoricamente facile e indolore:
 
-Liberare spazio sul disco del PC, cancellando buona parte dei file, eccetto per quelli che volevo un attimino vedere di conservare (per gestire magari in futuro).Ridimensionare la partizione del disco, visto che a questo punto sarà sufficientemente vuota.Creare una nuova partizione sufficientemente grande in cui installare il nuovo sistema operativo [1
-].Spostare file dalla vecchia partizione alla nuova, via via restringendo la prima e allargando la seconda, fino a poter eliminare la vecchia.
+Liberare spazio sul disco del PC, cancellando buona parte dei file, eccetto per quelli che volevo un attimino vedere di conservare (per gestire magari in futuro). Ridimensionare la partizione del disco, visto che a questo punto sarà sufficientemente vuota. Creare una nuova partizione sufficientemente grande in cui installare il nuovo sistema operativo [1
+]. Spostare file dalla vecchia partizione alla nuova, via via restringendo la prima e allargando la seconda, fino a poter eliminare la vecchia.
 
 => https://sitoctt.octt.eu.org/Posts/2022-07-09-Come-ho-Riparato-il-mio-Portatile-con-25-Euro.gmi  mio portatile
 
 ## »
 Troppo casino.
 
-...Nella mia idea, qualcosa è andato leggermente storto. Non poteva mica essere una serata tranquilla!
+...Nella pratica, qualcosa è andato leggermente storto. Non poteva mica essere una serata tranquilla! 😾
 
 Stavolta, per il semplice fatto che nel cercare un editor di partizioni tra le app preinstallate del sistema live di turno, volendo far subito subito, il primo programma su cui i miei occhi sono caduti è stato GNOME Disks.
 Oh, se avrei dovuto starne alla larga. E i motivi sono tanti:
@@ -92,15 +91,12 @@ Già a questo punto, se (come nel mio caso) si hanno partizioni di tipo strano, 
 , la situazione si fa bruttina, perché non è chiaro dove si debba andare ad operare per fare modifiche. [2
 ]
 
-GParted ha solo una lista di dispositivi (dischi reali sicuramente, ma mi pare anche dispositivi virtuali) da selezionare innanzitutto, e poi la vista grande con tutte le partizioni per il dispositivo scelto. È ordinato e logico.
+⊞ table ⊞
 
 => https://wiki.archlinux.org/title/LVM  LVM
 
-[‡ GParted List]
-
-Qui, invece, per fare quello che si deve fare, si va dalla vista del disco o dove? Nel primo caso ci sono alcune opzioni ed altre mancano. Proviamo dalla vista dedicata alla partizione virtuale? Anche qui, la lista delle opzioni è decisamente castrata, tra l'altro sia nel senso di bottoni-icona rapidi, che nel senso di bottoni del menu a comparsa... vediamo che problemi hanno loro:
-
-[‡ GNOME List]
+[‡ Il selettore a lista dei dischi su GParted.] [‡ La vista della lista di dischi e partizioni su GNOME Disks.]
+GParted ha solo una lista di dispositivi (dischi reali sicuramente, ma mi pare anche dispositivi virtuali) da selezionare innanzitutto, e poi la vista grande con tutte le partizioni per il dispositivo scelto. È ordinato e logico. Su GNOME Disks, invece, per fare quello che si deve fare, si va dalla vista del disco o dove? Nel primo caso ci sono alcune opzioni ed altre mancano. Proviamo dalla vista dedicata alla partizione virtuale? Anche qui, la lista delle opzioni è decisamente castrata, tra l'altro sia nel senso di bottoni-icona rapidi, che nel senso di bottoni del menu a comparsa... ma ora vediamo che problemi hanno loro.
 
 »
 2. In base ai casi, le icone rapide disponibili per ciascuna partizione compaiono e scompaiono
@@ -110,15 +106,16 @@ Seguono i casi che ho visto io, ma forse ce ne sono pure di più possibili eh, c
 
 All'estrema sinistra, per alcune selezioni si vede un tasto play/stop (monta/smonta partizione), altre volte nello stesso identico punto figura un lucchetto (blocca/sblocca partizione cifrata), altre volte una croce (crea partizione in spazio vuoto), e in alcuni casi nulla.Subito a destra, un ingranaggio, tasto che apre un menu a comparsa con tutta una lista più completa di opzioni per la partizione - notiamo che questo finisce per scalare all'estrema sinistra, qualora prima di lui non ci sia nulla, giusto per confondere di più.Infine, sulla destra estrema, può in alcuni casi apparire un bottone con un trattino su sfondo rosso (distruggi partizione).
 
-Ehh, non va tanto bene 'sta cosa, perché rende impossibile associare mentalmente una specifica microzona della finestra come dedicata ad una specifica operazione. È ciò è potenzialmente pericoloso, se si tiene conto del problemone 5 (si, sta sotto).
+Ehh, non va tanto bene 'sta cosa, perché rende impossibile associare mentalmente una specifica microzona della finestra come dedicata ad una specifica operazione. È ciò è potenzialmente pericoloso, se si tiene conto del problemone 5 (sta sotto).
 
 »
 3. Il menu a comparsa delle opzioni su una partizione usa solo etichette testuali, mai una singola icona
 
 Un dettaglio apparentemente piccolo, ma che invece è bello tosto.
-Una stringa di testo permette di far capire inequivocabilmente cosa fa un determinato tasto, a differenza di come può accadere quando si hanno solo icone, ma il meglio si ottiene combinando le due cose: tasti accompagnati da icone.
+Una stringa di testo permette di far capire inequivocabilmente cosa fa un determinato tasto, a differenza di come può accadere quando si hanno solo icone, ma il meglio si otterrebbe combinando le due cose: tasti accompagnati da icone.
 
-GParted lo fa per i suoi menu contestuali (almeno i più importanti), e ciò permette di memorizzare subito l'azione corrispondente a ciascun'opzione, e di richiamarla immediatamente a colpo d'occhio.
+GParted lo fa per i suoi menu contestuali (almeno sulle voci più importanti), e ciò permette di memorizzare subito l' azione corrispondente a ciascun'opzione, e di richiamarla immediatamente a colpo d'occhio.
+
 Personalmente, usando GNOME Disks mi trovo invece sempre a dover rileggere buona parte del listone per selezionare qualcosa, nonostante non sia più lungo di quello di GParted, proprio perché mancano le icone.
 
 [‡ Context Menus]
@@ -126,9 +123,9 @@ Personalmente, usando GNOME Disks mi trovo invece sempre a dover rileggere buona
 »
 4. Tasti rapidi e menu a comparsa non sono uno l'alternativa dell'altro
 
-Su GParted si ha innanzitutto la barra dei menu (un elemento UI che oggi è sempre meno presente nelle applicazioni), che contiene davvero tutte le operazioni possibili nel programma; solo poi c'è una barra con delle icone utili a richiamare rapidamente le azioni probabilmente più comuni. In pratica, finché si ha la barra dei menu, ci si può anche dimenticare dell'esistenza di quelle iconcine lì.
+Su GParted si ha innanzitutto la barra dei menu (di cui vari menu sono richiamabili anche come contestuali in alcune zone), che contiene davvero tutte le operazioni possibili nel programma; solo poi c'è una barra con delle icone utili a richiamare rapidamente le azioni probabilmente più comuni. In pratica, finché si ha la barra dei menu, ci si può anche dimenticare dell'esistenza di quelle iconcine lì.
 
-Su GNOME Disks questa cosa non è possibile. A dire il vero, su diverse app GTK3
+Con GNOME Disks questa cosa non è possibile. A dire il vero, su diverse app GTK3
 è così: ci sono azioni fissate a tasti-etichetta in un menu, ed altre fissate a tasti-icona direttamente visibili. In genere, però, quei tasti non scompaiono o appaiono in parte al cambiare di stato all'interno di una stessa vista dell'applicazione! Magari ho gusti strani, ma sta cosa mi manda in pappa il cervello durante l'uso del software.
 
 => https://duckduckgo.com/?q=gtk3+examples&ia=images&iax=images  diverse app GTK3
@@ -150,11 +147,11 @@ Faccio sto avanti e indietro tra le due schermate una decina di volte, e niente,
 Ad un certo punto, il mio inconscio si scoccia di tutti 'sti giri a vuoto, e mi permette finalmente di notare un altro tasto... quello rosso pericoloso. Ahi ahi.
 Lo premo e onestamente non ricordo nemmeno se cancello una volta il dialogo di conferma - che non ero assolutamente in condizione psicologica di leggere - e poi ripremo un'altra volta il bottoncino per subito dopo confermare il dialogo, ma una cosa è chiara:
 
-Se fino a quel momento non riuscivo a ragionare, perché con ogni mio respiro nella mia mente risuonava un ruvido "WTF?!", è stata questione di pochi secondi dal momento del fatale click perché un brutto presentimento iniziasse a palesarsi nella mia testa bucata, deformata, piena di noccioline scadute... 😰️
+Se fino a quel momento non riuscivo a ragionare, perché con ogni mio respiro in testa mi risuonava un ruvido "WTF?!", è stata questione di pochi secondi dal momento del fatale click perché un brutto presentimento iniziasse a palesarsi nella mia testa bucata, deformata, piena di noccioline scadute... 😰️
 
 ...Eh, e quindi? Che c'è?
 ...
-Ohhhhah, e va bene, avete vinto voi. Lo ammetto: pure io centro. Si. Contenti? Alla fine la mano per cliccare l'ho mossa io, certo... Ma nella mia vita ho fatto queste operazioni tantissime volte! Pure con GNOME Disks, qualche volta tra le tante! 😭️
+Ohhhhah, e va bene, avete vinto voi. Lo ammetto: pure io centro. Si. Contenti? Alla fine la mano per cliccare l'ho mossa io, certo... Ma nella mia vita ho fatto queste operazioni tantissime volte! Pure usando GNOME Disks, qualche volta tra le tante! 😭️
 
 In ogni caso, no, non addosserò tutta la colpa alla povera Octt di tre giorni fa. Ora gioco la mia carta trappola, ed espongo il vero tocco di disgrazia senza il quale mi sarei probabilmente salvata:
 
@@ -167,7 +164,7 @@ La differenza sta però proprio in questa parolina: con GParted il disastro è s
 Su GParted le operazioni che si ordinano finiscono in una coda, che deve essere manualmente applicata una volta che si è deciso di proseguire.
 E anche qui, siamo alle minuzie, eppure una cosa del genere pesa molto sul conto finale. Possiamo vederla così: in quel caso, devi sbagliare ben due (2) volte per fare un casino, mentre col programma di GNOME basta una (1) svista.
 
-[‡ GParted Queue]
+[‡ La vista della coda operazioni su GParted.]
 
 ## »
 "Ci sono danni?"
@@ -185,7 +182,7 @@ Eppure io, sotto sotto, ancora non ho accettato che sia stata cancellata.
 Voglio vedere se, dopo un riavvio, scompare definitivamente.
 
 E allora è così, senza nemmeno premurarmi di copiare uno straccio di file - perché era circa tardino e dovevo prepararmi per andarmi ad assopire - che riavvio.
-Ohibò, vedo la schermata nera di GRUB, e non il sistema che si avvia! ...È tutto perso, ora è inutile girarci attorno.
+Ohibò, vedo la schermata nera di GRUB, e non il sistema che si avvia! ... È tutto perso, ora è inutile girarci attorno.
 
 " Dopo che hai fatto il danno hai pensato di riavviare subito senza nemmeno salvare i file più importanti?!?! Ma allora sei bruh-cretina certificata, ben due volte, mica una! "
 Ooooooooooooo, ma come ti permetti? Come ti permetti TU di avere così tanta ragione se il blog è MIO??
@@ -203,14 +200,14 @@ Dump di dischi che ho ancora in casa (alcuni già caricati su Archive.org
 
 Documenti la cui rilevanza corrente è nulla.
 
-Se ho dimenticato qualcosa di importante in questa lista, invece, forse forse non era importante, e possiamo stare tranquilli. Altrimenti me ne ricorderei, no?
+Se ho dimenticato qualcosa di importante in questa lista, invece, forse forse non era importante, e possiamo stare tranquilli. Altrimenti me ne ricorderei, no? Mah, conoscendomi...
 
 ## »
 Evitare...
 
 La morale di questa storiaccia si può condensare in:
 
-Evitare GNOME Disks.Prestare attenzione quando si maneggia con le partizioni, anche se lo si ha fatto 50 volte in passato. Evitare, assolutamente, GNOME Disks!
+Evitare GNOME Disks. Prestare attenzione quando si maneggia con le partizioni, anche se lo si ha fatto 50 volte in passato. Evitare, assolutamente, GNOME Disks!
 
 E chiudo con un consiglio, anzi, una filosofia di sviluppo, che tutti coloro che disegnano UI (anche io, nelle mie cose, non lo nascondo) dimenticano troppo spesso: L'utente è ubriaco
 .
@@ -230,7 +227,7 @@ P.S: La distribuzione Linux che ho installato a 'sto giro è Pop!_OS
 Il sistema che ho tenuto fino a quel momento, Linux Mint, versione 19.3, dopo 3 anni:
 
 È diventato vecchio: La versione 19.3 è discontinuata, e le repository non ricevono più nuovi software. Dunque, avrei dovuto aggiornare alla corrente versione di Mint, ma a quanto pare avrei dovuto comunque farlo reinstallando da zero (su apt dist-upgrade non ci sono nuovi aggiornamenti) Si è spaccato: Alcune cose (come i driver video saltati, e l'ambiente desktop che parte solo in modalità fallback) sono sicuramente colpa mia (ho cringiato con i driver ACCIDIA
-nelle scorse settimane), ma altre (il Bluetooth che non funziona più!?) direi di no :/. In ogni caso, quando il sistema è così spaccato, si è più efficienti a reinstallare tutto... ↩
+nelle scorse settimane), ma altre (il Bluetooth che non funziona più!?) direi di no :/. In ogni caso, quando il sistema è così spaccato, si fa prima a reinstallare tutto... ↩
 
 => https://en.wikipedia.org/wiki/Nvidia#:%7E:text=Nvidia  ACCIDIA
 
