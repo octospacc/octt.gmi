@@ -1,0 +1,97 @@
+# sitoctt
+Alcune informazioni importanti sono disponibili su:
+=> /octt/index.gmi octocapsula/index
+
+🏠 ~Home~
+😺 Chi sono
+💾 Devlogs
+✉️ PicoBlog
+💎 OctoSpacc Hub
+📦 OcttKB
+🔖️ Bacheca (Old)
+📖 Guestbook
+💰 Donazioni
+🗂️ Raccolte 📓️ Blog
+📒 MicroBlog
+🦄 Fritto Misto
+🛠️ DIY
+♻️ Ecologia
+🕹️ Gaming
+🌐️ Internet
+📱️ Mobile
+📝️ Note
+💰 Rasperino
+⚙️ Sysadmin
+📡 Tecnologia
+
+=> ../../index.gmi  
+=> ../../Chi-Sono.gmi  
+=> ../../Devlogs.gmi  
+=> ../../PicoBlog.gmi  
+=> https://hub.octt.eu.org  💎 OctoSpacc Hub
+=> https://kb.octt.eu.org  📦 OcttKB
+=> https://octtspacc.gitlab.io/bachecoctt  🔖️ Bacheca (Old)
+=> https://listed.to/@u8/guestbook  📖 Guestbook
+=> ../../Donazioni.gmi  
+=> ../../Categories/Blog.gmi  
+=> ../../Categories/MicroBlog.gmi  
+=> ../../Categories/Fritto-Misto.gmi  
+=> ../../Categories/DIY.gmi  
+=> ../../Categories/Ecologia.gmi  
+=> ../../Categories/Gaming.gmi  
+=> ../../Categories/Internet.gmi  
+=> ../../Categories/Mobile.gmi  
+=> ../../Categories/Note.gmi  
+=> ../../Categories/Rasperino.gmi  
+=> ../../Categories/Sysadmin.gmi  
+=> ../../Categories/Tecnologia.gmi  
+
+# »
+Raccolta del Riso
+
+Raccolta del Riso - o, per dirla in maniera corretta, raccolta dei miei ricing: personalizzazioni d'interfaccia effettuate ai miei sistemi operativi.
+
+Nella comunità di Linux, i termini "rice" e "ricing" sono comunissimi per riferirsi a tutta una serie di personalizzazioni estetiche fai-da-te, che la gente appassionata effettua per diversi motivi.
+Basta leggere una discussione come questa
+, però, per capire che il consenso sull'origine del termine non è solidissimo. E allora, a noi non ci frega. 🙄
+
+La pratica del ricing non riguarda solo Linux, in quanto si può attuare su virtualmente qualsiasi sistema. Io, però:
+
+Su PC uso soltanto Linux (non necessariamente con GNU 😏).Su smartphone ho Android non-vanilla (MIUI) quasi-vanilla (Project Elixir), e lì purtroppo non c'è granché forse qualcosa c'è da poter cambiare, ma boh.
+
+=> https://web.archive.org/web/20220907203523/https://teddit.net/r/unixporn/comments/3iy3wd/stupid_question_what_is_ricing  questa
+
+Quindi, posso già dire che la maggior parte dei miei contenuti riguarderà il desktop Linux.
+
+In costruzione...
+
+### Filtri:
+#Linux #Desktop #XFCE
+»
+W5 Ottobre 2022
+
+-> #Linux #Desktop #XFCE
+
+[‡ Screenshot 2022 10 30 00 14 14]
+
+OS : Void Linux
+Desktop : xfce4 Pannello : xfce4-panel Taskbar : xfce4-docklike-plugin Menu Globale : AppMenu Plugin (appmenu-gtk-module appmenu-gtk3-module appmenu-registrar vala-panel-appmenu vala-panel-appmenu-data xfce4-panel-appmenu) Tema GTK : BlueSky-Light
+Tema xfwm : BlueSky-Light Icone : Colloid
+»
+W2 Ottobre 2022
+
+-> #Linux #Desktop #XFCE
+
+=> https://voidlinux.org  Void Linux
+=> https://github.com/i-mint/bluesky  BlueSky-Light
+=> https://github.com/vinceliuice/Colloid-icon-theme  Colloid
+
+[‡ Screenshot 2022 10 10 20 21 47]
+
+OS : Void Linux
+Desktop : xfce4 Pannello : xfce4-panel Dock : plank Menu Globale : AppMenu Plugin (appmenu-gtk-module appmenu-gtk3-module appmenu-registrar vala-panel-appmenu vala-panel-appmenu-data xfce4-panel-appmenu) Tema GTK : Fluent-compact
+Tema xfwm : Fluent-Dark Icone : Fluent
+
+=> https://voidlinux.org  Void Linux
+=> https://github.com/vinceliuice/Fluent-gtk-theme  Fluent-compact
+=> https://github.com/vinceliuice/Fluent-icon-theme  Fluent

@@ -1,0 +1,62 @@
+# sitoctt
+Alcune informazioni importanti sono disponibili su:
+=> /octt/index.gmi octocapsula/index
+
+🏠 ~Home~
+😺 Chi sono
+💾 Devlogs
+✉️ PicoBlog
+💎 OctoSpacc Hub
+📦 OcttKB
+🔖️ Bacheca (Old)
+📖 Guestbook
+💰 Donazioni
+🗂️ Raccolte 📓️ Blog
+📒 MicroBlog
+🦄 Fritto Misto
+🛠️ DIY
+♻️ Ecologia
+🕹️ Gaming
+🌐️ Internet
+📱️ Mobile
+📝️ Note
+💰 Rasperino
+⚙️ Sysadmin
+📡 Tecnologia
+
+=> ../index.gmi  
+=> ../Chi-Sono.gmi  
+=> ../Devlogs.gmi  
+=> ../PicoBlog.gmi  
+=> https://hub.octt.eu.org  💎 OctoSpacc Hub
+=> https://kb.octt.eu.org  📦 OcttKB
+=> https://octtspacc.gitlab.io/bachecoctt  🔖️ Bacheca (Old)
+=> https://listed.to/@u8/guestbook  📖 Guestbook
+=> ../Donazioni.gmi  
+=> ../Categories/Blog.gmi  
+=> ../Categories/MicroBlog.gmi  
+=> ../Categories/Fritto-Misto.gmi  
+=> ../Categories/DIY.gmi  
+=> ../Categories/Ecologia.gmi  
+=> ../Categories/Gaming.gmi  
+=> ../Categories/Internet.gmi  
+=> ../Categories/Mobile.gmi  
+=> ../Categories/Note.gmi  
+=> ../Categories/Rasperino.gmi  
+=> ../Categories/Sysadmin.gmi  
+=> ../Categories/Tecnologia.gmi  
+
+# »
+🌐️ Internet
+Internet Raccolta Siti Internet
+Posts
+2022-12-26] 🐕‍🦺 Epicyon, piattaforma del Fediverso durata 2 giorni - blogoctt
+2022-08-26] 📈 sitoctt - Da 3 mesi fa ad oggi, l'inizio e i motivi - blogoctt
+2022-06-14] 📄 I documenti non devono diventare applicazioni - blogoctt
+2022-06-03] 🌐️ Come e perché il sitoctt su Tor? - blogoctt
+
+=> ../Raccolte/Internet/Raccolta-Siti-Internet.gmi  Raccolta Siti Internet
+=> ../Posts/2022-12-26-Epicyon-Piattaforma-del-Fediverso-Durata-2-Giorni.gmi  
+=> ../Posts/2022-08-26-sitoctt-da-3-mesi-ad-oggi.gmi  
+=> ../Posts/2022-06-14-I-Documenti-Non-Devono-Diventare-Applicazioni.gmi  
+=> ../Posts/2022-06-03-Come-e-Perche-il-Sitoctt-su-Tor.gmi

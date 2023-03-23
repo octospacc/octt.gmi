@@ -1,0 +1,58 @@
+# sitoctt
+Alcune informazioni importanti sono disponibili su:
+=> /octt/index.gmi octocapsula/index
+
+🏠 ~Home~
+😺 Chi sono
+💾 Devlogs
+✉️ PicoBlog
+💎 OctoSpacc Hub
+📦 OcttKB
+🔖️ Bacheca (Old)
+📖 Guestbook
+💰 Donazioni
+🗂️ Raccolte 📓️ Blog
+📒 MicroBlog
+🦄 Fritto Misto
+🛠️ DIY
+♻️ Ecologia
+🕹️ Gaming
+🌐️ Internet
+📱️ Mobile
+📝️ Note
+💰 Rasperino
+⚙️ Sysadmin
+📡 Tecnologia
+
+=> ../index.gmi  
+=> ../Chi-Sono.gmi  
+=> ../Devlogs.gmi  
+=> ../PicoBlog.gmi  
+=> https://hub.octt.eu.org  💎 OctoSpacc Hub
+=> https://kb.octt.eu.org  📦 OcttKB
+=> https://octtspacc.gitlab.io/bachecoctt  🔖️ Bacheca (Old)
+=> https://listed.to/@u8/guestbook  📖 Guestbook
+=> ../Donazioni.gmi  
+=> ../Categories/Blog.gmi  
+=> ../Categories/MicroBlog.gmi  
+=> ../Categories/Fritto-Misto.gmi  
+=> ../Categories/DIY.gmi  
+=> ../Categories/Ecologia.gmi  
+=> ../Categories/Gaming.gmi  
+=> ../Categories/Internet.gmi  
+=> ../Categories/Mobile.gmi  
+=> ../Categories/Note.gmi  
+=> ../Categories/Rasperino.gmi  
+=> ../Categories/Sysadmin.gmi  
+=> ../Categories/Tecnologia.gmi  
+
+# »
+⚙️ Sysadmin
+Posts
+2023-03-18] 🥴 Brutta interfaccia? File tutti distrutti! - blogoctt
+2023-01-28] 🤯 Quando i problemi hardware diventano mentali (maledetto Raspino) - blogoctt
+2022-06-03] 🌐️ Come e perché il sitoctt su Tor? - blogoctt
+
+=> ../Posts/2023-03-18-Cattiva-Interfaccia-Partizione-Distrutta.gmi  
+=> ../Posts/2023-01-28-Problemi-Hardware-Diventano-Mentali.gmi  
+=> ../Posts/2022-06-03-Come-e-Perche-il-Sitoctt-su-Tor.gmi

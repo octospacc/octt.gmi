@@ -1,0 +1,308 @@
+# sitoctt
+Alcune informazioni importanti sono disponibili su:
+=> /octt/index.gmi octocapsula/index
+
+🏠 ~Home~
+😺 Chi sono
+💾 Devlogs
+✉️ PicoBlog
+💎 OctoSpacc Hub
+📦 OcttKB
+🔖️ Bacheca (Old)
+📖 Guestbook
+💰 Donazioni
+🗂️ Raccolte 📓️ Blog
+📒 MicroBlog
+🦄 Fritto Misto
+🛠️ DIY
+♻️ Ecologia
+🕹️ Gaming
+🌐️ Internet
+📱️ Mobile
+📝️ Note
+💰 Rasperino
+⚙️ Sysadmin
+📡 Tecnologia
+
+=> index.gmi  
+=> Chi-Sono.gmi  
+=> Devlogs.gmi  
+=> PicoBlog.gmi  
+=> https://hub.octt.eu.org  💎 OctoSpacc Hub
+=> https://kb.octt.eu.org  📦 OcttKB
+=> https://octtspacc.gitlab.io/bachecoctt  🔖️ Bacheca (Old)
+=> https://listed.to/@u8/guestbook  📖 Guestbook
+=> Donazioni.gmi  
+=> Categories/Blog.gmi  
+=> Categories/MicroBlog.gmi  
+=> Categories/Fritto-Misto.gmi  
+=> Categories/DIY.gmi  
+=> Categories/Ecologia.gmi  
+=> Categories/Gaming.gmi  
+=> Categories/Internet.gmi  
+=> Categories/Mobile.gmi  
+=> Categories/Note.gmi  
+=> Categories/Rasperino.gmi  
+=> Categories/Sysadmin.gmi  
+=> Categories/Tecnologia.gmi  
+
+# »
+Ciao!! (UwU)
+
+Sei entrat a / o nel...
+
+# ✨ s i t o c t t ✨
+
+# ✨ s i t o c t t ✨
+
+# ✨ s i t o c t t ✨
+
+Esatto, il ✨ sitoctt ✨. Letteralmente il mio sito, perchè io sono octt e quindi sito + octt = ✨ sitoctt ✨ (pronuncia: "sitòctt"
+).
+Se preferisci, puoi chiamarlo sitocto. O anche postoctt! È pur sempre un posto questo - il mio posto - anche se virtuale!
+
+=> https://sitoctt-assets.octt.eu.org/Media/sitoctt-pronuncia.flac  pronuncia: "sitòctt"
+
+## »
+Collegamenti rapidi
+
+Sul sito, ormai, un po' di roba c'è. Dovresti navigare il menu principale per poter accedere a tutto (leggi il seguito) ma, se proprio non sai da dove partire, allora perché non dare un'occhiata ai miei post più recenti, dalla finestrella in alto a sinistra? Altrimenti, magari vai a qualcosa tra..
+
+### ✉️ PicoBlog
+
+,
+
+=> ./PicoBlog.gmi  
+
+### 📓️ Blog
+
+, o
+
+=> ./Categories/Blog.gmi  
+
+### 📒 MicroBlog
+
+.
+
+=> ./Categories/MicroBlog.gmi  
+
+## »
+Stato del sito e come navigare
+
+Nonostante abbia già un po' più di sostanza, tutto questo ambaradan è ancora pesantemente in costruzione. E lo sarà per sempre, perché avrò sempre roba nuova da condividere. E, quando sarò morta, sarà comunque non finito perché nella mia vita non avrò scritto tutto lo scibile universale teoricamente possibile sul sitoctt.
+Gli aggiornamenti al sito sono di diverso tipo: la pubblicazione di nuovi articoli di blog succede, boh, 3 volte al mese, è una buona idea usare i feed
+che metto a disposizione; le modifiche per pagine normali sono continue e avvengono a caso, quindi dovresti controllare magari ogni settimana quelle che ti interessano, se ti aspetti novità.
+
+Da tenere a mente (da Web): quando ci sono per lo schermo i seguenti tastini, è perché possono nascondere menu collassabili. Possono stare in posizioni diverse su pagine diverse, perché mi piace sperimentare con diversi temi; però cerco di mantenere il loro significato coerente ovunque.
+Un'icona con l'emoji di una pila di libri (📚) segnala il menu principale del sito, fondamentale per poterlo navigare saltando tra pagine completamente diverse e non collegate. Invece, l'icona con l'emoji di un foglio con un segnalibro (📑) indica l'elenco delle sezioni della pagina corrente - non è essenziale, ma può tornare utile per saltare tra parti diverse di un lungo testo.
+
+Note sulla compatibilità dei browser (Espandi)
+
+Per la migliore esperienza DEVI usare un browser con supporto almeno a CSS3 e alle immagini in formato AVIF (quest'ultima cosina, almeno finché non riesco a far funzionare il polyfill). Se usi un browser antico ti garantisco che troverai tanta, tanta roba rotta (ma comunque il sito dovrebbe essere navigabile lo stesso).
+Essendo che questo sito, per l'appunto, contiene immagini AVIF, assicurati che il tuo browser sia aggiornato e decente. Safari di Apple, per esempio, mi dicono che non supporta AVIF, quindi buttalo via.
+Preferibilmente non usare Chromium, che ha degli strani memory leak su pagine con animazioni complesse, e ha qualche glitch particolare. Firefox non ha questo problema, ma usa molto di più la CPU.
+Direi che la scelta non è tra il migliore ma tra il meno peggio..
+Nota: se scegli Firefox, non usare la versione ESR! È per sua natura vecchia, fossilizzata, e manca sempre di funzionalità moderne - per esempio, al giorno d'oggi ancora non supporta AVIF.
+
+### »
+Script client-side
+
+Il sito Web non usa alcuno script client-side per le funzioni di base, perché non voglio costringere chi (per validi motivi di sicurezza e non solo) non vuole attivare JavaScript ad avere un'esperienza degradata. A proposito della questione spinosa, ho scritto anche un articolo: 📄 I documenti non devono diventare applicazioni
+.
+Ad ogni modo, però.. per fornire alcune funzionalità extra, devo per forza avere del JS, c'è poco da fare. Qui sotto, la lista di cosa uso. Tutti i file sono caricati dai server del mio sito, quindi è difficile che enti malevoli possano nasconderci malware dentro.
+
+Lista di script client-side usati nel sito Web (Espandi)
+Script interni, scritti da me: Auto-espansione dei menu sulle pagine con tema sitoctt in modalità desktop (sto cercando di sistemarlo..), Visualizzazione a schermo intero degli sfondi delle pagine. Polyfill per supportare le immagini AVIF su vecchi browser: avif.js di Kagami
+(Non ancora attivato... lo sarà a breve quando cavolo lo farò? Sono mesi che rimando, il problema è che non è una soluzione plug-and-play, devo prima capirla e poi creare uno script di wrapping 😭)
+
+Di seguito, metto la mia classifica dei possibili modi per visualizzare questo sito, dal migliore al peggiore. Per standardizzazione, tutti presuppongono supporto completo ai colori (nel possibile).
+
+Mie inutili digressioni su modi assolutamente assurdi di consultare il sitoctt (Espandi)
+• Browser Web, con supporto completo a CSS3 (Perfetto!) • Stampa su carta olografica, GIF e CSS3 completamente renderizzati nel possibile (Richiede muovere il foglio a mano ma ottimo!) • Browser Web, con supporto incompleto a CSS3 (Meh, OK..) • Stampa su carta normale, animazioni CSS3 e GIF non renderizzate (Buuu, mancano le animazioni..) • Browser vecchio (Web vecchio, Web testuale, o Gemini) / Stampa su carta normale, zero supporto CSS (Ma che è sto schifo?!?!)
+
+=> Posts/2022-06-14-0000-I-Documenti-Non-Devono-Diventare-Applicazioni.gmi  
+=> https://github.com/Kagami/avif.js  avif.js di Kagami
+
+## »
+Ma di che si tratta?
+
+Su questo mio spazio di Internet metterò di tutto. Spero.
+
+Per ora, sicuramente metto paginine superficiali su argomenti specifici, ma anche articoli di blog lunghi e discorsivi. Voglio, inoltre, mettere anche tante raccolte sulle cose che mi piacciono, in forma sia testuale che di media. Una specie di galleria sulle cose che per me valgono.
+
+Oltre che degli effettivi contenuti, però, voglio che il sito (la versione Web, ovviamente) sia galleria di sé stesso. Voglio creare qualcosa che abbia un suo carattere unico, come i siti Web amatoriali degli anni 1995-2005, dove ogni luogo di Internet aveva sempre un'atmosfera diversa da tutto ciò visitato un attimo prima.
+L'ascesa dei social come li abbiamo oggi ha purtroppo rovinato il web sotto questo punto di vista, portando alla standardizzazione completa e alla morte della creatività espressa con la forma.
+Voglio che questo mio spazio web sia diverso da tutti gli altri, caratterizzati da testo monocromatico e temi riciclati, perché è un peccato avere strumenti potentissimi e non sfruttarli davvero.
+
+Per questo, cercherò di inventarmi di continuo modi di abbellire le pagina con il CSS, non solo con layouting o effetti del testo fissi, ma soprattutto con le animazioni.
+Al resto della forma, come l'ordine ad albero delle pagine nel sito o dei paragrafi nelle pagine, non penserò molto, altrimenti mi distraggo dal creare contenuti e la voglia mi passa.
+
+Ricapitolando, le mie intenzioni attuali sono queste, poi non lo so cosa ci finirà qui sopra col tempo per davvero.. considerando anche che questa pagina può subire, ha subito, e subirà, lente modifiche.
+
+## »
+Disponibilità del sito
+
+Al momento, questo sito è disponibile per la navigazione su vari indirizzi diversi (i contenuti sono sempre identici).
+Per chi non sapesse, comunque, il nome è da un mesetto cambiato in sitoctt da postoctt, perché il vecchio nome mi dava l'impressione di qualche servizio postale...
+Dovrei pensare anche a molti altri mirror in cloud da diversi provider (ovviamente gratuiti), se voglio che il sitocto sopravviva ad octt stessa me medesima e superi la prova del tempo... Ma questa è una questione lunga.
+
+### »
+Web
+
+Il sito Web è disponibile da diverse fonti.
+
+Sul clearweb HTTPS, sui server di GitLab : sitoctt.octt.eu.org
+.Sull' Onion Web (Tor), sui server di Replit: sitoctt2fxjvx3lc2iqqef2aeulflprjaasv2xl4zi7sxxbmvjy5b5yd.onion
+. Alla fine non è più ospitato in casa mia, ma forse è meglio così, è un carico in meno per il povero serverino di fortuna che ho (al momento, una console Nintendo Switch con Ubuntu il Raspberry Pi 3). 💾 Opzioni di compatibilità per sistemi obsoleti o esotici (Espandi)
+• Versione HTTP di base Il sito include funzioni CSS complesse e relativamente moderne, per poter fornire effetti grafici (e funzionali) epici. Ironia della sorte, per quanto visualizzando le pagine su browser veramente vecchi, che mancano di supporto CSS totale o quasi, il tutto si vede brutto ma è leggibile.. su browser che sono sia troppo vecchi e sia troppo nuovi si presentano bug parecchio gravi, che rendono impossibile usare alcuni menù o addirittura leggere il testo!
+Oltre al fatto che (nel possibile) voglio supportare sistemi vecchi, 'ste maledette rogne si presentano anche su dispositivi meno popolari ma attuali, tipo il Kindle! Insomma, per i troppi browser che non includono un'impostazione per disattivare completamente il CSS, era d'obbligo fare quello che ho fatto: al percorso /Plain
+sui miei domini del clearweb c'è una root parallela, e pagine con uguale contenuto ma CSS ridotto all'osso. • HTTP non cifrato Per evitare problemi ci ho dedicato un sottodominio dedicato, tenendo HTTPS forzato sul principale; ma, visto che non mi richiede manutenzione, ho fatto si che dal dominio di quinto (!) livello " http " si acceda al sito tramite HTTP non cifrato (ospitato da GitHub, stavolta): in poche parole, l'indirizzo è http://http.sitoctt.octt.eu.org. I contenuti sono identici, ovviamente, ma finalmente si può navigare il sitoctt su roba come Internet Explorer 4 direttamente contattando il server.
+
+=> https://sitoctt.octt.eu.org  sitoctt.octt.eu.org
+=> http://sitoctt2fxjvx3lc2iqqef2aeulflprjaasv2xl4zi7sxxbmvjy5b5yd.onion  sitoctt2fxjvx3lc2iqqef2aeulflprjaasv2xl4zi7sxxbmvjy5b5yd.onion
+=> ./Plain  /Plain
+
+### »
+Gemini
+
+Da ora, inoltre, il sitoctt è disponibile come capsula Gemini. Per andarci, si deve usare un browser Gemini.
+Ovviamente (per chi conosce Gemini), è tutto più castrato, e la forma non è esattamente la migliore perché tutte le pagine sono una diretta conversione dall'HTML del sito Web (e il programma su cui mi appoggio per farla è un po' rotto, per giunta).
+Vai alla octocapsula, gentilmente ospitata da koyu.space: gemini://koyu.space/octt
+
+### »
+Feed e notifiche
+
+Da ora il sitocto (il blogoctt e il MicroBlog, nello specifico) ha dei feed integrati, che vengono automaticamente aggiornati quando pubblico un nuovo articolo!
+
+Feed Atom (moderno, consigliato, contiene post completi): feed/atom.xml
+
+Feed RSS (obsoleto, disponibile per compatibilità): feed/rss.xml
+
+Ti serve un aggregatore di feed compatibile per usarli.
+- Su PC desktop consiglio Thunderbird
+o SeaMonkey Mail
+.
+- Su Android consiglio Feeder
+o Simple Rss
+.
+- Se vuoi usare un dispositivo come un lettore di e-book e-ink, l'unico software universale che - tra le altre cose - include un aggregatore di feed, che conosco e posso consigliare, è KOReader
+.
+- Suggerimento: se usi Friendica, puoi copiare il link al feed e incollarlo nella barra di ricerca, per poterlo seguire come se fosse un profilo!
+
+=> ./feed/atom.xml  feed/atom.xml
+=> ./feed/rss.xml  feed/rss.xml
+=> https://thunderbird.net  Thunderbird 
+=> https://www.seamonkey-project.org  SeaMonkey Mail
+=> https://f-droid.org/packages/com.nononsenseapps.feeder  Feeder
+=> https://f-droid.org/packages/com.poloure.simplerss  Simple Rss
+=> https://github.com/koreader/koreader  KOReader
+
+Inoltre, se usi una qualunque piattaforma del Fediverso ActivityPub (Mastodon, Pleroma, Misskey, ...) puoi seguire il bot del sitoctt, così da ricevere nel tuo feed Home i nuovi post: @sitoctt@botsin.space
+! Per alcune complicazioni iniziate a fine agosto 2022, il bot non è accessibile dalla più grande istanza Mastodon italiana, mastodon.uno, quindi è quasi praticamente inutile ora. Non lo tolgo di mezzo solo perché mi costerebbe di più fare ciò che lasciarlo dov'è :P; comunque ne dovrei creare uno nuovo, prima o poi.
+
+=> https://botsin.space/@sitoctt  @sitoctt@botsin.space
+
+## »
+Sorgenti e licenze
+
+### »
+Licenze dei contenuti
+
+Tutto il contenuto presente su questo sito che ho creato io (i miei testi, media originali, e maggior parte del codice sorgente) è rilasciato sotto licenza "Creative Commons Attribuzione - Condividi allo stesso modo 4.0 Internazionale" (CC BY-SA 4.0) ([‡ CC] [‡ BY] [‡ SA])
+, una licenza libera che promuove la condivisione, e non intacca i legittimi diritti alla cultura e la collaborazione dell'umanità in generale.
+
+Sono presenti, però, anche contenuti non miei.
+In ogni caso, se qualcosa viene dalla mia mano, non avrà nessuna indicazione di crediti vicino.
+Per la roba presa in prestito, invece, verrà sempre indicata la fonte da cui ho prelevato e la licenza, che sia questa di dominio pubblico, Creative Commons, o non specificata.
+Occhio, che i crediti per le cosine HTML e CSS spesso li lascio soltanto nei sorgenti della pagina.. Quindi, in caso, controlla lì per questo genere di crediti. Per cose come immagini o testi, invece, spesso eventuali crediti sono parte visibile della pagina, vicini all'oggetto preso in prestito (come una descrizione); altre volte, lo stesso oggetto è un link che, se cliccato, riporta alla fonte.
+Comunque, ho pensato di creare una sezione della pagina qui sotto
+, dedicata a crediti speciali (che compilo quando mi ricordo).
+
+=> https://creativecommons.org/licenses/by-sa/4.0/deed.it  
+
+### »
+Codice sorgente
+
+Parlando dei sorgenti del sito, quelli HTML dell'effettiva pagina caricata dal browser potrebbero essere difficili da leggere. Questo è perché in realtà non scrivo direttamente l'HTML completo per comporre le pagine.
+Non solo sarebbe un casino replicare le mie varie barre e sezioni di navigazione su tutte le pagine, e se devo fare modifiche a queste poi è un inferno replicare la cosa ovunque, ma la sintassi HTML è sporca e faticosa da scrivere.
+
+Proprio per questi motivi, ho creato un mio generatore di siti statici (anche quello, come questo sito stesso, incompleto ma aggiornato di tanto in tanto quando mi serve), che preprocessa il mio codice sorgente per includere le mie barre in tutte le pagine, generare le sezioni della pagina (che appaiono nel menu a destra), generare la lista di pagine del sito (del menu a sinistra), e altre cosette. Passaggio importante, eventuali file Markdown o Pug vengono tradotti in HTML per essere comprensibili da normali browser, ed ecco qua.
+Ah, si, sto dicendo " altre cosette " perché si tratta di roba che al momento della scrittura di questo capitolo della pagina è assente o incompleta, e scrivendo come scrivo mi paro le chiappette e non devo fare future modifiche.
+
+```
+H e h .
+```
+
+»
+Prendi tutto!
+
+Per terminare, trovate tutti i miei sorgenti sulle rispettive repo Git.
+Quelli del mio sito (divisi in repo multiple per tenere la cronologia pulita), alle condizioni descritte sopra: gitlab.com/octtspacc/sitoctt
+; sitoctt-assets
+.
+Quelli del mio generatore, anche questo rilasciato sotto una licenza libera, la AGPL: gitlab.com/octtspacc/staticoso
+.
+
+=> https://gitlab.com/octtspacc/sitoctt  gitlab.com/octtspacc/sitoctt
+=> https://gitlab.com/octtspacc/sitoctt-assets  sitoctt-assets
+=> https://gitlab.com/octtspacc/staticoso  gitlab.com/octtspacc/staticoso
+
+Altra cosa: in caso possa interessare, per conservare e/o condividere in modo immediato (esclusi i file che sono sulle repo a parte, perché linkati in modo assoluto) copie offline del sito, si può scaricare uno zip contenente tutte le pagine compilate qui
+!
+
+=> https://gitlab.com/octtspacc/sitoctt/-/jobs/artifacts/main/download?job=pages  qui
+
+### »
+Crediti speciali
+Lista di crediti e ringraziamenti speciali a chi ho preso materiale in prestito (Espandi)
+Lista di script client-side
+, tra cui alcuni di terziTitolo animato ad onda: Waaaves di jh3y
+Famiglia caratteri: Space Mono di Colophon Foundry
+Pacchetto emoji CSS: Twemoji di Twitter
+, via Twemoji Astonishing
+Alcuni bottoni 88x31 non identitari: 88x31 GIF Collection di cyber.dabamos.de
+
+=> https://codepen.io/jh3y/pen/WNrXqYz  Waaaves di jh3y
+=> https://fonts.google.com/specimen/Space+Mono  Space Mono di Colophon Foundry
+=> https://twemoji.twitter.com  Twemoji di Twitter
+=> https://gitlab.com/octtspacc/twemoji-astonishing  Twemoji Astonishing
+=> https://cyber.dabamos.de/88x31  88x31 GIF Collection di cyber.dabamos.de
+
+## »
+Riservatezza e trasparenza
+
+In quanto mio interesse legittimo, in questo sito web utilizzo un servizio di analitica; sia per poter migliorare ciò che faccio, che per soddisfare la mia pura curiosità di scoprire dati.
+
+Il servizio di analitica è basato su software completamente libero ed open-source
+, ospitato gratuitamente per siti a basso traffico da GoatCounter.com.
+
+A quanto pare, con GoatCounter non serve includere un avviso a schermo che disturba gli utenti per essere in regola con il GDPR (si veda goatcounter.com/help/gdpr
+), ma, per onestà e trasparenza, sto scrivendo comunque questo paragrafo.
+
+=> https://github.com/arp242/goatcounter/blob/master/LICENSE  libero ed open-source
+=> https://www.goatcounter.com/help/gdpr  goatcounter.com/help/gdpr
+
+Solo i dati non-personali vengono raccolti, in forma anonima, per i soli fini di statistica generale, e non di tracciamento individuale. Il servizio non utilizza cookies, e i dati non vengono ceduti a terze parti. Per ulteriori informazioni, non posso fare altro che consigliare di leggere la Privacy policy di GoatCounter
+.
+
+=> https://www.goatcounter.com/help/privacy  Privacy policy di GoatCounter
+
+## »
+Rings
+
+Se dei link tra questi sotto non funzionano, vuol dire che chi amministra i ring non ha ancora accettato il mio sito negli stessi.
+L'attesa sta uccidendo più me che te, fidati.
+O, magari, si tratta di un problema temporaneo.
+
+←
+[‡ Fediverse logo proposal] Fediring
+[🎲]
+→
+
+❤️ Copying is an act of love. Please copy and share
+.
+
+=> https://fediring.net/previous?host=sitoctt.octt.eu.org  
+=> https://fediring.net/  
+=> https://fediring.net/random  
+=> https://fediring.net/next?host=sitoctt.octt.eu.org

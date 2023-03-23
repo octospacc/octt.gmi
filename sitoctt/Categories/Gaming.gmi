@@ -1,0 +1,62 @@
+# sitoctt
+Alcune informazioni importanti sono disponibili su:
+=> /octt/index.gmi octocapsula/index
+
+🏠 ~Home~
+😺 Chi sono
+💾 Devlogs
+✉️ PicoBlog
+💎 OctoSpacc Hub
+📦 OcttKB
+🔖️ Bacheca (Old)
+📖 Guestbook
+💰 Donazioni
+🗂️ Raccolte 📓️ Blog
+📒 MicroBlog
+🦄 Fritto Misto
+🛠️ DIY
+♻️ Ecologia
+🕹️ Gaming
+🌐️ Internet
+📱️ Mobile
+📝️ Note
+💰 Rasperino
+⚙️ Sysadmin
+📡 Tecnologia
+
+=> ../index.gmi  
+=> ../Chi-Sono.gmi  
+=> ../Devlogs.gmi  
+=> ../PicoBlog.gmi  
+=> https://hub.octt.eu.org  💎 OctoSpacc Hub
+=> https://kb.octt.eu.org  📦 OcttKB
+=> https://octtspacc.gitlab.io/bachecoctt  🔖️ Bacheca (Old)
+=> https://listed.to/@u8/guestbook  📖 Guestbook
+=> ../Donazioni.gmi  
+=> ../Categories/Blog.gmi  
+=> ../Categories/MicroBlog.gmi  
+=> ../Categories/Fritto-Misto.gmi  
+=> ../Categories/DIY.gmi  
+=> ../Categories/Ecologia.gmi  
+=> ../Categories/Gaming.gmi  
+=> ../Categories/Internet.gmi  
+=> ../Categories/Mobile.gmi  
+=> ../Categories/Note.gmi  
+=> ../Categories/Rasperino.gmi  
+=> ../Categories/Sysadmin.gmi  
+=> ../Categories/Tecnologia.gmi  
+
+# »
+🕹️ Gaming
+Gaming 💣 Minesweeper
+🔢️ Nonogram
+Raccolta Videogiochi
+Posts
+2022-10-31] 🎮 Storia antica del DSpacc - blogoctt
+2022-07-27] 👾 L'emulazione NDS, Google Play, e una storia oscura - blogoctt
+
+=> ../Raccolte/Gaming/Minesweeper.gmi  💣 Minesweeper
+=> ../Raccolte/Gaming/Nonogram.gmi  🔢️ Nonogram
+=> ../Raccolte/Gaming/Raccolta-Videogiochi.gmi  Raccolta Videogiochi
+=> ../Posts/2022-10-31-Storia-Antica-del-DSpacc.gmi  
+=> ../Posts/2022-07-27-Emulazione-NDS-Google-Play-e-una-Storia-Oscura.gmi

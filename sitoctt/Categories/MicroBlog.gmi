@@ -1,0 +1,65 @@
+# sitoctt
+Alcune informazioni importanti sono disponibili su:
+=> /octt/index.gmi octocapsula/index
+
+🏠 ~Home~
+😺 Chi sono
+💾 Devlogs
+✉️ PicoBlog
+💎 OctoSpacc Hub
+📦 OcttKB
+🔖️ Bacheca (Old)
+📖 Guestbook
+💰 Donazioni
+🗂️ Raccolte 📓️ Blog
+📒 MicroBlog
+🦄 Fritto Misto
+🛠️ DIY
+♻️ Ecologia
+🕹️ Gaming
+🌐️ Internet
+📱️ Mobile
+📝️ Note
+💰 Rasperino
+⚙️ Sysadmin
+📡 Tecnologia
+
+=> ../index.gmi  
+=> ../Chi-Sono.gmi  
+=> ../Devlogs.gmi  
+=> ../PicoBlog.gmi  
+=> https://hub.octt.eu.org  💎 OctoSpacc Hub
+=> https://kb.octt.eu.org  📦 OcttKB
+=> https://octtspacc.gitlab.io/bachecoctt  🔖️ Bacheca (Old)
+=> https://listed.to/@u8/guestbook  📖 Guestbook
+=> ../Donazioni.gmi  
+=> ../Categories/Blog.gmi  
+=> ../Categories/MicroBlog.gmi  
+=> ../Categories/Fritto-Misto.gmi  
+=> ../Categories/DIY.gmi  
+=> ../Categories/Ecologia.gmi  
+=> ../Categories/Gaming.gmi  
+=> ../Categories/Internet.gmi  
+=> ../Categories/Mobile.gmi  
+=> ../Categories/Note.gmi  
+=> ../Categories/Rasperino.gmi  
+=> ../Categories/Sysadmin.gmi  
+=> ../Categories/Tecnologia.gmi  
+
+# »
+📒 MicroBlog
+
+Nota: I contenuti negli archivi possono aver subito redazioni non segnalate.
+
+MicroBlog
+2022-10-16] Aggiornamenti DSpacc - Tastino maledetto
+2022-09-23] Nuove frontiere
+2022-09-18] Quando metto mano io spacc
+2022-09-11] Che accade
+[?] Archivi MicroBlog di Settembre 2019
+
+=> ../Posts/MicroBlog/2022-10-16-Aggiornamenti-DSpacc-Tastino-Maledetto.gmi  Aggiornamenti DSpacc - Tastino maledetto
+=> ../Posts/MicroBlog/2022-09-23-Nuove-Frontiere.gmi  Nuove frontiere
+=> ../Posts/MicroBlog/2022-09-18-Quando-Metto-Mano-Io-Spacc.gmi  Quando metto mano io spacc
+=> ../Posts/MicroBlog/2022-09-11-Che-Accade.gmi  Che accade
+=> ../Posts/MicroBlog/Archive/2019/09/index.gmi  Archivi MicroBlog di Settembre 2019

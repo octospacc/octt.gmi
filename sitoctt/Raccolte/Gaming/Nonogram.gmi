@@ -1,0 +1,65 @@
+# sitoctt
+Alcune informazioni importanti sono disponibili su:
+=> /octt/index.gmi octocapsula/index
+
+🏠 ~Home~
+😺 Chi sono
+💾 Devlogs
+✉️ PicoBlog
+💎 OctoSpacc Hub
+📦 OcttKB
+🔖️ Bacheca (Old)
+📖 Guestbook
+💰 Donazioni
+🗂️ Raccolte 📓️ Blog
+📒 MicroBlog
+🦄 Fritto Misto
+🛠️ DIY
+♻️ Ecologia
+🕹️ Gaming
+🌐️ Internet
+📱️ Mobile
+📝️ Note
+💰 Rasperino
+⚙️ Sysadmin
+📡 Tecnologia
+
+=> ../../index.gmi  
+=> ../../Chi-Sono.gmi  
+=> ../../Devlogs.gmi  
+=> ../../PicoBlog.gmi  
+=> https://hub.octt.eu.org  💎 OctoSpacc Hub
+=> https://kb.octt.eu.org  📦 OcttKB
+=> https://octtspacc.gitlab.io/bachecoctt  🔖️ Bacheca (Old)
+=> https://listed.to/@u8/guestbook  📖 Guestbook
+=> ../../Donazioni.gmi  
+=> ../../Categories/Blog.gmi  
+=> ../../Categories/MicroBlog.gmi  
+=> ../../Categories/Fritto-Misto.gmi  
+=> ../../Categories/DIY.gmi  
+=> ../../Categories/Ecologia.gmi  
+=> ../../Categories/Gaming.gmi  
+=> ../../Categories/Internet.gmi  
+=> ../../Categories/Mobile.gmi  
+=> ../../Categories/Note.gmi  
+=> ../../Categories/Rasperino.gmi  
+=> ../../Categories/Sysadmin.gmi  
+=> ../../Categories/Tecnologia.gmi  
+
+# »
+🔢️ Nonogram
+
+I Nonogram (conosciuti anche come Picross, Crucipixel, e un'altra ventina di nomi) sono dei puzzle che consistono nel riempire una griglia di quadratini al fine di svelare un'immagine, utilizzando i numeri ai lati del foglio per trovare intersezioni tra righe e colonne.
+
+WIP... Se vuoi scoprire altre cosine o imparare a giocare, leggi su Wikipedia
+.
+
+=> https://it.wikipedia.org/wiki/Nonogram  Wikipedia
+
+## »
+🏷️ Note e Riferimenti
+
+Sfondo della Pagina : Fonte
+↩
+
+=> https://stock.adobe.com/it/images/close-up-pen-on-a-sheet-with-a-solved-japanese-crossword-leisure-activities/323111281  Fonte

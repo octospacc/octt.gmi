@@ -1,0 +1,206 @@
+# sitoctt
+Alcune informazioni importanti sono disponibili su:
+=> /octt/index.gmi octocapsula/index
+
+🏠 ~Home~
+😺 Chi sono
+💾 Devlogs
+✉️ PicoBlog
+💎 OctoSpacc Hub
+📦 OcttKB
+🔖️ Bacheca (Old)
+📖 Guestbook
+💰 Donazioni
+🗂️ Raccolte 📓️ Blog
+📒 MicroBlog
+🦄 Fritto Misto
+🛠️ DIY
+♻️ Ecologia
+🕹️ Gaming
+🌐️ Internet
+📱️ Mobile
+📝️ Note
+💰 Rasperino
+⚙️ Sysadmin
+📡 Tecnologia
+
+=> ../index.gmi  
+=> ../Chi-Sono.gmi  
+=> ../Devlogs.gmi  
+=> ../PicoBlog.gmi  
+=> https://hub.octt.eu.org  💎 OctoSpacc Hub
+=> https://kb.octt.eu.org  📦 OcttKB
+=> https://octtspacc.gitlab.io/bachecoctt  🔖️ Bacheca (Old)
+=> https://listed.to/@u8/guestbook  📖 Guestbook
+=> ../Donazioni.gmi  
+=> ../Categories/Blog.gmi  
+=> ../Categories/MicroBlog.gmi  
+=> ../Categories/Fritto-Misto.gmi  
+=> ../Categories/DIY.gmi  
+=> ../Categories/Ecologia.gmi  
+=> ../Categories/Gaming.gmi  
+=> ../Categories/Internet.gmi  
+=> ../Categories/Mobile.gmi  
+=> ../Categories/Note.gmi  
+=> ../Categories/Rasperino.gmi  
+=> ../Categories/Sysadmin.gmi  
+=> ../Categories/Tecnologia.gmi  
+
+# »
+🤯 Quando i problemi hardware diventano mentali (maledetto Raspino)
+
+Fino ad, ormai, 2 mesi fa, il mio regno del Rasperino era al suo splendore massimo : l'istanza Misskey, messa su giusto 2 settimane prima, andava alla grande, e ormai (quasi) tutto sembrava destinato a continuare per bene...
+E invece, sono subentrati i problemi. Diciamo che ci ho messo un pochino ad accorgermene, perché si sono sviluppati in modo stranamente graduale.
+
+## »
+Le crepe iniziali
+
+La prima cosa veramente strana la notai verso l'inizio di Dicembre, in cui mi accorsi che il sistema poteva crashare provando a fare un'operazione molto banale ma specifica : creare un grande archivio di file (compresso e non)... con qualunque programma.
+Questo piccolo inconveniente ha, a sua volta, causato una problematica secondaria... Ci arrivo.
+Comunque, non ci ho fatto troppo caso. Come potevo? Il resto, se non toccato, funzionava, a parte qualche leggera degradazione delle prestazioni dovuta al lavoro di Misskey stesso.
+
+### »
+Il primo crollo
+
+Ma poi, sono passate quelle altre 2 settimane di relativa pace, e io mi sveglio
+con il server piantato, e che muore male dopo qualunque mio riavvio manuale (staccando e riattaccando l'alimentatore, è l'unico modo). Dopo 2 giorni
+di ricerca molto scazzata non ho capito assolutamente qual'era la causa generale del problema, ma solo il sintomo più grave, e ormai mi stavo quasi per convincere che in qualche modo mistico Misskey da solo riuscisse ad abbattere tutto il server, che invece tornava a girare per bene senza quel particolare software in esecuzione. Beh, un fondo di logica nel mio ragionamento c'era, visto che comunque l' uso medio di CPU e RAM era alto (anche se non andava a saturare totalmente).
+Nei giorni ancora successivi, invece, con qualche test scopro che il server non si piantava per via del serverino di microblogging, ma per quello che gli fa da database : PostgreSQL (in Docker). Se eseguivo Misskey sul mio PC, ma lo lasciavo collegarsi al database sul Raspino, ecco che in pochi secondi, con l'arrivo di tante note, il server fruttato moriva.
+
+Ormai, ad ogni modo, era per me chiara la necessità di installare qualcos'altro, perché mi ero convinta che Misskey fosse troppo pesante, e pazienza.
+Per ben 2 giorni ho provato Epicyon, una piattaforma a dir poco particolare... e l'esperienza non è stata proprio gradevolissima
+, ma credo sia stata completa, visto che quattromila parole le ho cacciate fuori nel mio articolo dedicato. Subito dopo ho quindi deciso di dare una chance ad un altro software che non avevo mai visto prima, ossia GoToSocial
+. Con quest'ultimo, nonostante sia dichiaratamente di qualità alpha (e infatti ha qualche problemino), mi sono trovata - perché ahimè ora è tutto finito... ci arrivo, ci arrivo - molto bene, ma non è questo il punto.
+
+=> https://mastodon.uno/@octo/109508472717947364  mi sveglio
+=> https://mastodon.uno/@octo/109518037875867744  Dopo 2 giorni
+=> https://sitoctt.octt.eu.org/Posts/2022-12-26-Epicyon-Piattaforma-del-Fediverso-Durata-2-Giorni.gmi  l'esperienza non è stata proprio gradevolissima
+=> https://github.com/superseriousbusiness/gotosocial  GoToSocial
+
+### »
+Problemi sempre più sospetti
+
+Appena pochi giorni dopo, quei crash strani hanno ripreso a presentarsi, ma stavolta erano decisamente sospetti, perché l' utilizzo di risorse generale del sistema era basso. Io ho provato a leggere i log di sistema in maniera produttiva, ma la mia pazienza era ormai arrivata al limite, e con essa la mia lucidità, quindi ogni giorno cercavo il minimo errore sospetto ma leggibile, fissandomi su quello ed ignorando completamente l'errore illeggibile che mi stava sempre di fronte.
+
+Ormai, giusto per disperazione, ma non perché avevo capito ragionando fosse quello il problema, mi decido a cambiare la schedina microSD, e adesso che l'ho fatto mi pento amaramente... di non averci provato prima! Il problema era quello, maremma scapestrata!
+Il bello è che il giorno prima avevo fatto un controllo dei file system (ext4), sia della schedina che del mio HDD USB, ed era uscito tutto (circa) pulito, perciò avevo escluso problemi hardware a priori: " se i file non sono corrotti... " ho pensato.
+Circa nello stesso momento (il fato ha deciso che l'aiuto dovesse arrivare tardi!), comunque, una persona mi ha dato una mano a capire che cavolo dicessero quelle righe indecifrabili, che erano una roba tipo...
+
+```
+Dec 27 06:32:35 kernel: [27230.964650] INFO: task kworker/2:0:21874 blocked for more than 860 seconds.
+Dec 27 06:32:35 kernel: [27230.964693]       Tainted: G         C        5.15.76-v7+ #1597
+Dec 27 06:32:35 kernel: [27230.964709] "echo 0 > /proc/sys/kernel/hung_task_timeout_secs" disables this message.
+Dec 27 06:32:35 kernel: [27230.964723] task:kworker/2:0     state:D stack:    0 pid:21874 ppid:     2 flags:0x00000000
+Dec 27 06:32:35 kernel: [27230.964760] Workqueue: events_freezable mmc_rescan
+Dec 27 06:32:35 kernel: [27230.964801] Backtrace: 
+Dec 27 06:32:35 kernel: [27230.964824] [<80a4ff38>] (__schedule) from [<80a50a7c>] (schedule+0x7c/0x134)
+Dec 27 06:32:35 kernel: [27230.964868]  r10:81f90800 r9:ffffe000 r8:00000000 r7:00000000 r6:60000013 r5:8d368000
+Dec 27 06:32:35 kernel: [27230.964884]  r4:ffffe000
+Dec 27 06:32:35 kernel: [27230.964896] [<80a50a00>] (schedule) from [<8083f658>] (__mmc_claim_host+0xe0/0x238)
+Dec 27 06:32:35 kernel: [27230.964929]  r5:81f90a18 r4:00000002
+Dec 27 06:32:35 kernel: [27230.964942] [<8083f578>] (__mmc_claim_host) from [<8083f7e8>] (mmc_get_card+0x38/0x3c)
+Dec 27 06:32:35 kernel: [27230.964979]  r10:baaf8205 r9:00000000 r8:baaf8200 r7:00000080 r6:baaf4b80 r5:00000000
+Dec 27 06:32:35 kernel: [27230.964994]  r4:81f91800
+Dec 27 06:32:35 kernel: [27230.965007] [<8083f7b0>] (mmc_get_card) from [<80849238>] (mmc_sd_detect+0x24/0x7c)
+Dec 27 06:32:35 kernel: [27230.965039]  r5:81f90800 r4:81f90800
+Dec 27 06:32:35 kernel: [27230.965052] [<80849214>] (mmc_sd_detect) from [<80841ca4>] (mmc_rescan+0xac/0x2d4)
+Dec 27 06:32:35 kernel: [27230.965083]  r5:81f90800 r4:81f90a7c
+Dec 27 06:32:35 kernel: [27230.965096] [<80841bf8>] (mmc_rescan) from [<8013e158>] (process_one_work+0x250/0x57c)
+Dec 27 06:32:35 kernel: [27230.965140]  r9:00000000 r8:baaf8200 r7:00000080 r6:baaf4b80 r5:8e898f00 r4:81f90a7c
+Dec 27 06:32:35 kernel: [27230.965153] [<8013df08>] (process_one_work) from [<8013e4e4>] (worker_thread+0x60/0x5c4)
+Dec 27 06:32:35 kernel: [27230.965195]  r10:baaf4b80 r9:81003d00 r8:baaf4b98 r7:00000008 r6:baaf4b80 r5:8e898f18
+Dec 27 06:32:35 kernel: [27230.965210]  r4:8e898f00
+Dec 27 06:32:35 kernel: [27230.965223] [<8013e484>] (worker_thread) from [<80146804>] (kthread+0x178/0x194)
+Dec 27 06:32:35 kernel: [27230.965264]  r10:837c4000 r9:8d3a7e74 r8:00000000 r7:8e898f00 r6:8013e484 r5:8285ee00
+Dec 27 06:32:35 kernel: [27230.965279]  r4:8d0d3640
+Dec 27 06:32:35 kernel: [27230.965291] [<8014668c>] (kthread) from [<801000d4>] (ret_from_fork+0x14/0x20)
+Dec 27 06:32:35 kernel: [27230.965321] Exception stack(0x837c5fb0 to 0x837c5ff8)
+Dec 27 06:32:35 kernel: [27230.965341] 5fa0:                                     00000000 00000000 00000000 00000000
+Dec 27 06:32:35 kernel: [27230.965363] 5fc0: 00000000 00000000 00000000 00000000 00000000 00000000 00000000 00000000
+Dec 27 06:32:35 kernel: [27230.965383] 5fe0: 00000000 00000000 00000000 00000000 00000013 00000000
+Dec 27 06:32:35 kernel: [27230.965405]  r10:00000000 r9:00000000 r8:00000000 r7:00000000 r6:00000000 r5:8014668c
+Dec 27 06:32:35 kernel: [27230.965420]  r4:8285ee00
+
+```
+
+Ogni volta che succedeva un errore del genere, tutto il sistema moriva malissimo: malattie ai piccoli bot, morte al server HTTP (nginx), lesioni ai miei aggregatori di articoli e feed (wallabag e FreshRSS), ciao per sempre a qualunque cosa mi permetta di aprire una console via Internet sul Rasperino (SSH, Telnet, e pure un server arrangiato con netcat). L'unica cosa che continuava a funzionare è lo sputo costante di questo preciso tipo di errori nel file di log.
+Adesso, so che sono mona forte, ma con tutti 'sti numeri strani di mezzo io non riuscivo assolutamente a vedere parole come mmc_get_card o mmc_sd_detect! E quindi proprio non capivo che forse, ma proprio forse, la microSD cagona che avevo scelto per il Raspi all'inizio di settembre (tra quelle libere in casa), quando ho rimesso sto povero computerino a lavorare da server, era tendente alla morte.
+
+[‡ La schedina microSD che è riuscita lentamente a portarmi alla pazzia. Notare l'assenza di marche.]
+
+Io non voglio dover ricorrere ai luoghi comuni, ma stavolta c'è poco da fare! Cioè, la foto parla da sola:
+
+> 
+> 
+> 
+> La presenza di un marchio rinomato non è sicurezza di qualità, ma
+> l'assenza di un marchio è certamente promessa di qualità assente.
+> 
+> 
+
+Nonostante sul PC la vecchia schedaccia sembri ancora funzionare - ho potuto constatare ciò perché almeno ce l'ho fatta a fare un dump dei dati - non voglio più averne a che fare per roba di questo tipo! Me la segno in mente come malamente, dunque.
+Altro tempo ancora fu allora perso nel flashare il dump su una nuova scheda, visto che le uniche altre due schede che avevo a disposizione sul momento erano rispettivamente 4 e 32 GB, e io proprio volevo far entrare (dopo aver cancellato vari log e cache, perché la precedente memoria era da 8 GB) tutto su quella da 4, ma nulla da fare; e alla fine 32 GB fu.
+
+## »
+La pace violata
+
+La cosa importante è che, messa la nuova SD nel server lampone, quegli errori terrificanti non si sono più presentati, e i grossi problemi sono spariti... o almeno così credevo, volevo, speravo.
+Se questo articolo, che sarebbe dovuto letteralmente uscire alla fine dell'anno scorso, esce solo ora, dei motivi ci sono. Subito dopo che ebbi fatto il cambio di scheda SD, preferii aspettare qualche giorno, per vedere se davvero le acque si fossero calmate, ed evitare di cantare vittoria troppo presto. Ho fatto bene!
+
+### »
+Il disco sofferente
+
+Ahimè, infatti, quelle altre cose viste nei giorni passati nei log non erano degli enormi buchi nell'acqua (ancora agitata), in particolare gli errori che ho subito riconosciuto riguardare il disco USB.
+È una cosa che mi succedeva già in passato con un altro adattatore USB per dischi SATA da 2.5", addirittura su macchine diverse (nel periodo in cui ho usato la mia console Nintendo Switch come server...), ma con questo che uso ora non c'erano mai stati problemi. E però ora, a quanto vedo, si scollega dall'host in maniera casuale, facendo morire tutti quei processi che dipendono dai file che stanno su quel disco, come se di punto in bianco ci fossero attimi in cui non riceve abbastanza corrente. Con qualsiasi combinazione di adattatori SATA e cavetti USB (sia corti che lunghi), il disco funziona ancora alla grande su PC, quindi il problema è chiaramente il Raspino... ma vai a capire perché!
+
+Mi dicono che le porte USB-A del Raspi fanno schifo di natura [citazione richiesta (?)], ma il punto è che fino a poco tempo prima funzionavano (tutte e 4)! Che nel mio alimentatore si sia spaccato un diodo? Che sulla scheda di questo maledetto computer a singola scheda, un condensatore sia saltato in aria? Che l'elettricità a casa mia non sia più 230V, ma 229V, e quindi il trasformatore anziché dare 5 volt in output ne dà 4.98?...Ma che ne so.
+Tornando al mondo reale, l'unica ipotesi sensata mi pare che sia questa: a furia di inserire e disinserire il connettore di alimentazione nella sua porta (micro USB-B 2.0, quella grande cacata!!!), i pin da una parte o i pad dall'altra si saranno consumati, quindi la loro superficie di contatto è più ridotta, quindi la resistenza elettrica è maggiore, e quindi il dispositivo viene alimentato con una tensione leggermente minore, e quando una periferica ha bisogno di assorbire molto, ecco i patatrac.
+
+### »
+Per tentare di risolvere
+
+Non avendo un altro Raspone uguale, e non avendo altri alimentatori 5V 3A, la verità non la scoprirò mai, ma la soluzione in qualche modo devo trovarla per forza.
+Dopo aver aspettato così tanto che i problemi al server sono diventati solo più grossi, e i downtime molto più frequenti, mi decido a comprare un cavo USB-A-Y. Alla peggio, se pure non avessi risolto, un cavo di questo tipo fa sempre comodo averlo perché - nonostante violi gli standard USB [1
+] - alcuni dispositivi danno tante rogne senza, e alcuni produttori di periferiche merdose addirittura consigliano di usare cavi di questo tipo in caso di problemi (e procedono tuttavia a non includerne uno in confezione, indecenti!).
+
+Arrivato il cavo, sistemo tutti i collegamenti e noto una cosa particolare: la corrente che viene dal secondo alimentatore USB per alimentare il disco, può risalire il cavo fino a rientrare nel Pi. Non è tanto il cavo il problema, che funziona e rispetta tutte le leggi della fisica (anche se non quelle dello standard USB), ma più il fatto che il Raspberry non abbia nemmeno, che so, dei diodi nelle porte USB-A. Ed è un problema che non sto scoprendo io, basta leggere sul forum ufficiale
+. Ad ogni modo, ad avere un circuito così impostato:
+
+Rischi per la strumentazione o l'ambiente circostante non ce ne sono, se si usano alimentatori per bene a monte, e i miei dovrebbero esserlo [2
+]; Problemi pratici ci sono, ma anche le soluzioni e gli arrangiamenti: potrei, come sul forum suggeriscono, applicare del nastro isolante sul pad +5V del connettore USB che va al Raspantino; ma per ora non ce n'è stato vero bisogno, l'unica cosa a cui devo fare attenzione è che le cose siano alimentate in questo ordine, quelle poche volte in cui mi trovo a dover fare un hard reset del sistema: Disco USB (collegato alla porta del cavo Y); Raspi (dalla sua porta di alimentazione);Dopo un'attesa di almeno ~10 secondi, disco collegato al Raspberry (connettore dati del cavo Y collegato al Rasperino).
+
+=> https://forums.raspberrypi.com/viewtopic.php?t=44584  sul forum ufficiale
+
+Non so perché, specialmente considerando che non serve per i riavvii software, ma senza questa procedura il boot può fallire.
+
+## »
+Finalmente, il riposo
+
+Alla fine, comunque, l' inferno sembra essere finito, e il server ora funziona.
+Le fiamme hanno fatto dei danni, però: i database di molti miei servizi ospitati si sono corrotti, e di 2 in particolare (GoToSocial, che dicevo prima, e Peka, un chatbot basato su una catena di Markov) ho backup troppo vecchi (di settimane prima) perché, con il server che moriva, i miei script di backup non riuscivano mai a lavorare... e quindi questi programmi ancora adesso sono offline, perché non ho ancora avuto la forza di rassegnarmi a ripristinare i backup antichi.
+Ma io comprare il cavetto un po' prima, e spegnere il server nell'attesa, proprio no, eh?
+
+Sperando che non succedano più cose di questo tipo nel breve futuro, altrimenti diventerò completamente e irrecuperabilmente pazza per via di questi dannati problemi hardware, vi saluto e vi auguro di non dover mai mannaggiare quanto me. 😔
+
+## »
+🏷️ Note e Riferimenti
+
+È stata una sorpresa anche per me, ma lo standard USB proibisce i cavi Y : si veda Update 72
+; tradotto in italiano,
+
+=> https://compliance.usb.org/index.asp?UpdateFile=Policies#72  Update 72
+
+> 
+> L'uso di un cavo a "Y" (un cavo con due connettori A) è vietato su
+> qualsiasi periferica USB. Se una periferica USB richiede una potenza
+> superiore a quella consentita dalla specifica USB per la quale è stata
+> progettata, deve essere auto-alimentata.
+
+E insomma, che belle le regole, però poi arriva la realtà e la pensa un po' diversamente. Tutto il mondo reale usa cavi Y senza farsi troppe paturnie. ↩
+
+(Entrambi 5V)
+
+Per il Pi, un alimentatore 3A (appena sopra il suggerito dalla Raspberry Foundation
+) che era incluso in un kit (computerino escluso) di accessori per il Raspante, di Aukru. Aò, dopo anni non è esploso, poi le recensioni erano buone comunque, e ancora questa marca vende nuovi alimentatori, e allora va bene...Per l'alimentazione supplementare, un blocchetto 1A che era incluso nella confezione del mio vecchio telefono Huawei (commercializzato anche in Europa) di bassa gamma, del 2017. ↩
+
+=> https://github.com/raspberrypi/documentation/blob/develop/documentation/asciidoc/computers/raspberry-pi/power-supplies.adoc  il suggerito dalla Raspberry Foundation
