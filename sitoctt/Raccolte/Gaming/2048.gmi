@@ -47,14 +47,32 @@ Alcune informazioni importanti sono disponibili su:
 => ../../Categories/Tecnologia.gmi  
 
 # »
-#️⃣️ Nonogram
+🔢️ 2048
 
-I Nonogram (conosciuti anche come Picross, Crucipixel, e un'altra ventina di nomi) sono dei puzzle che consistono nel riempire una griglia di quadratini al fine di svelare un'immagine, utilizzando i numeri ai lati del foglio per trovare intersezioni tra righe e colonne.
+2048 è un semplice giochino puzzle in cui si ha una griglia di piastrelle numerate, generate casualmente, che si può far scorrere interamente in una delle quattro direzioni. Tutti i numeri sono potenze di 2, e numeri uguali che si scontrano vanno a sommarsi per diventare il loro doppio.
 
-WIP... Se vuoi scoprire altre cosine o imparare a giocare, leggi su Wikipedia
+Se si arriva, a furia di far sommare le piastrelle, a 2048, si vince una partita, che però può andare avanti anche oltre. Si perde se si arriva a riempire la griglia interamente di numeri senza avere spazio per fare altre mosse.
+
+L'implementazione ufficiale del gioco è open source, cosa che ha portato alla creazione di tantissimi cloni e versioni modificate che implementano le meccaniche più svariate.
+
+... WIP... Se vuoi scoprire altre cosine sul gioco, leggi su Wikipedia
 .
 
-=> https://it.wikipedia.org/wiki/Nonogram  Wikipedia
+=> https://it.wikipedia.org/wiki/2048_(videogioco)  Wikipedia
+
+## »
+Implementazioni
+Ufficiale (Gabriele Cirulli): Web
+, Git
+
+=> https://play2048.co/  Web
+=> https://github.com/gabrielecirulli/2048  Git
+
+## »
+Cloni
+2248 : Web
+
+=> https://2248game.com/  Web
 
 ## »
 🏷️ Note e Riferimenti
@@ -62,4 +80,4 @@ WIP... Se vuoi scoprire altre cosine o imparare a giocare, leggi su Wikipedia
 Sfondo della Pagina : Fonte
 ↩
 
-=> https://stock.adobe.com/it/images/close-up-pen-on-a-sheet-with-a-solved-japanese-crossword-leisure-activities/323111281  Fonte
+=> https://yandex.com/games/app/176908  Fonte

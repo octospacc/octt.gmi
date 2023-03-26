@@ -49,14 +49,16 @@ Alcune informazioni importanti sono disponibili su:
 # »
 🕹️ Gaming
 Gaming 💣 Minesweeper
-🔢️ Nonogram
+#️⃣️ Nonogram
 Raccolta Videogiochi
+🔢️ 2048
 Posts
 2022-10-31] 🎮 Storia antica del DSpacc - blogoctt
 2022-07-27] 👾 L'emulazione NDS, Google Play, e una storia oscura - blogoctt
 
 => ../Raccolte/Gaming/Minesweeper.gmi  💣 Minesweeper
-=> ../Raccolte/Gaming/Nonogram.gmi  🔢️ Nonogram
+=> ../Raccolte/Gaming/Nonogram.gmi  #️⃣️ Nonogram
 => ../Raccolte/Gaming/Raccolta-Videogiochi.gmi  Raccolta Videogiochi
+=> ../Raccolte/Gaming/2048.gmi  🔢️ 2048
 => ../Posts/2022-10-31-Storia-Antica-del-DSpacc.gmi  
 => ../Posts/2022-07-27-Emulazione-NDS-Google-Play-e-una-Storia-Oscura.gmi

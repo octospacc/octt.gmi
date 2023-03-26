@@ -66,6 +66,11 @@ Gli epici
 Questo è il posto per i titoli migliori, quelli epici e unici nel loro genere, punto. E qui, non importa assolutamente che un dato gioco sia popolare o meno: conta solo quanto per me è importante.
 
 ### »
+🔢️ 2048 ↗️
+
+=> ./2048.gmi  🔢️ 2048 ↗️
+
+### »
 🎩 A Hat in Time
 
 Platformer 3D vivace e frenetico, proveniente senza dubbio dalla scuola di Super Mario 64. La difficoltà della storia principale è giusta, e il gioco scorre piacevolmente con un alternarsi di temi e ambienti che sa sempre di fresco.
@@ -100,6 +105,11 @@ Da YouTube/2N1TJP1cxmo
 .
 
 => https://inv.bp.projectsegfau.lt//2N1TJP1cxmo  YouTube/2N1TJP1cxmo
+
+### »
+#️⃣️ Nonogram ↗️
+
+=> ./Nonogram.gmi  #️⃣️ Nonogram ↗️
 
 ### »
 🐙 Splatoon

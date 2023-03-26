@@ -80,6 +80,33 @@ La campagna ha preso piede solo limitatamente fuori dall'Italia (?), e solo con 
 => http://fc.retecivica.milano.it/rcmweb/fnm/princ.htm#italiano  Campagna Internazionale per la messa al Bando di Campo Minato
 
 ## »
+Implementazioni
+
+Per PC, l' originale di Microsoft non è malaccio. La versione per Windows XP funziona sulle ultime versioni del sistema, e persino su Wine. Purtroppo, scala un po' male su schermi ad alta risoluzione, in quanto i quadratini sono di una dimensione fissa e non esiste zoom. Da anni non è incluso in Windows, forse per questo motivo, ma si può scaricare dal Web:
+
+Versione XP Globale: Minesweeper.exe
+Versione XP Italiana: Prato Fiorito.exe
+
+Su Android, e azzardo a dire in generale, la migliore implementazione che ho trovato è Antimine.
+
+Scaricare da F-Droid: dev.lucanlm.antimine
+Codice Sorgente: antimine-android
+
+Per giocare da browser Web, beh, su questa pagina sto mettendo su qualcosa che per i miei personali gusti è il meglio disponibile. Funziona bene sia su desktop che mobile (anche se lì il tempo per cui bisogna tenere un quadrante premuto per piantare una bandiera è lunghetto), ed ha una grafica minimale.
+Sto lavorando per rendere il gioco personalizzabile, per il momento si può solo giocare con ciò che ho implementato come minigioco per sbloccare la lettura della sezione Curiosità
+(se non vedi nulla, attiva JavaScript!).
+Nota : la mia implementazione è basata su vue-minesweeper
+, con alcune personali modifiche per l'embedding. Tutto il mio codice modificato è nella repository del sitoctt
+(licenza MIT).
+
+=> https://archive.org/download/Minesweeper_201811/Minesweeper.exe  Minesweeper.exe
+=> https://archive.org/download/prato-fiorito/PRATO_FIORITO.exe  Prato Fiorito.exe
+=> https://f-droid.org/packages/dev.lucanlm.antimine/  dev.lucanlm.antimine
+=> https://github.com/lucasnlm/antimine-android  antimine-android
+=> https://github.com/antfu/vue-minesweeper  vue-minesweeper
+=> https://gitlab.com/octtspacc/sitoctt/-/tree/main/Assets/vuesweeper-core  nella repository del sitoctt
+
+## »
 Altre Risorse
 Authoritative Minesweeper
 
