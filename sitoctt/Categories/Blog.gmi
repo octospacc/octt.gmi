@@ -52,6 +52,7 @@ Alcune informazioni importanti sono disponibili su:
 ✉️ PicoBlog
 Categories 📒 MicroBlog
 Posts
+2023-04-03] 🔋 Tutto per non cambiare due pile... - blogoctt
 2023-03-18] 🥴 Brutta interfaccia? File tutti distrutti! - blogoctt
 2023-01-28] 🤯 Quando i problemi hardware diventano mentali (maledetto Raspino) - blogoctt
 2022-12-26] 🐕‍🦺 Epicyon, piattaforma del Fediverso durata 2 giorni - blogoctt
@@ -72,6 +73,7 @@ Archive
 => ../Devlogs.gmi  
 => ../PicoBlog.gmi  
 => ../Categories/MicroBlog.gmi  
+=> ../Posts/2023-04-03-Tutto-Per-Non-Cambiare-Due-Pile.gmi  
 => ../Posts/2023-03-18-Cattiva-Interfaccia-Partizione-Distrutta.gmi  
 => ../Posts/2023-01-28-Problemi-Hardware-Diventano-Mentali.gmi  
 => ../Posts/2022-12-26-Epicyon-Piattaforma-del-Fediverso-Durata-2-Giorni.gmi  

@@ -1,0 +1,134 @@
+# sitoctt
+Alcune informazioni importanti sono disponibili su:
+=> /octt/index.gmi octocapsula/index
+
+🏠 ~Home~
+😺 Chi sono
+💾 Devlogs
+✉️ PicoBlog
+💎 OctoSpacc Hub
+📦 OcttKB
+🔖️ Bacheca (Old)
+📖 Guestbook
+💰 Donazioni
+🗂️ Raccolte 📓️ Blog
+📒 MicroBlog
+🦄 Fritto Misto
+🛠️ DIY
+♻️ Ecologia
+🕹️ Gaming
+🌐️ Internet
+📱️ Mobile
+📝️ Note
+💰 Rasperino
+⚙️ Sysadmin
+📡 Tecnologia
+
+=> ../index.gmi  
+=> ../Chi-Sono.gmi  
+=> ../Devlogs.gmi  
+=> ../PicoBlog.gmi  
+=> https://hub.octt.eu.org  💎 OctoSpacc Hub
+=> https://kb.octt.eu.org  📦 OcttKB
+=> https://octtspacc.gitlab.io/bachecoctt  🔖️ Bacheca (Old)
+=> https://listed.to/@u8/guestbook  📖 Guestbook
+=> ../Donazioni.gmi  
+=> ../Categories/Blog.gmi  
+=> ../Categories/MicroBlog.gmi  
+=> ../Categories/Fritto-Misto.gmi  
+=> ../Categories/DIY.gmi  
+=> ../Categories/Ecologia.gmi  
+=> ../Categories/Gaming.gmi  
+=> ../Categories/Internet.gmi  
+=> ../Categories/Mobile.gmi  
+=> ../Categories/Note.gmi  
+=> ../Categories/Rasperino.gmi  
+=> ../Categories/Sysadmin.gmi  
+=> ../Categories/Tecnologia.gmi  
+
+# »
+🔋 Tutto per non cambiare due pile...
+
+Tra 1 e 2 mesi fa - rendetevi conto di quanto tempo è passato prima che io mi scocciassi definitivamente - le pile nel telecomando della televisione che tengo sulla mia scrivania (la uso come secondo monitor) hanno iniziato a scaricarsi oltre il limite di usabilità sopportabile.
+
+[‡ Il telecomando sulla mia scrivania, con il vano batterie aperto, e un sacco di batterie mini stilo colorate attorno.]
+
+## »
+Perché non ho fatto nulla
+
+Fino ad ora non le ho cambiate, semplicemente perché mi seccavo e mi secco, considerando che:
+
+Ho relativamente poche batterie stilo e mini-stilo ricaricabili, e devo tenermele per la roba che davvero assorbe tanto. Non voglio sprecare pile non ricaricabili e contribuire a, in ordine: Lo spreco dei soldi di casa;Lo spreco di materiali globale;Lo spreco di energia per il trasporto - e, quando possibile, il riciclo - di questi materiali;In ultima analisi, l' inquinamento del pianeta.Le batterie nel telecomando ancora funzionano, anche se in modo decisamente non ottimale.
+
+### »
+Tecnicamente "funziona"
+
+Il telecomando, infatti, dimostra di poter ancora inviare segnali al televisore, ma solo per un attimo : il tempo di premere un bottone, e niente più. In un attimo quindi ritorna morto, e tentare subito di inviare altri segnali non serve ad un bel nulla.
+Se, però, a questo punto si aspetta una quindicina di secondi, e poi si preme un altro tasto, il comando va a segno. È evidente che le batterie sono si molto scariche, ma hanno ancora quel poco di carica che permette ad un condensatore di caricarsi lentamente, e quindi al telecomando di essere alimentato. Emettere la luce infrarossi poi, apparentemente, drena tutta la carica del condensatore in pochi istanti, e quindi bisogna di nuovo aspettare perché si ricarichi.
+
+## »
+A cosa mi serve sulla scrivania?
+
+Onestamente, il telecomando non mi serve, in ogni caso. Il 98% del tempo lo uso solo per accendere o spegnere l'apparecchio; quelle pochissime altre volte in cui ho bisogno di regolare il volume, o cambiare sorgente attiva, posso tranquillamente usare il mio smartphone, su cui ho un'applicazione che sfrutta l'emettitore infrarossi integrato (esatto, i produttori non lo integrano soltanto come mezzo per fare scherzi nei locali aperti al pubblico, ma anche come strumento utile).
+
+### »
+Per quando devo fare subito!
+
+Il problema, grosso problema, quando devo accendere e spegnere, è che mi serve accesso rapido.
+Non posso mettermi a sbloccare il telefono, cercare l'icona dell'applicazione per il telecomando, e a quel punto premere bene sul display per centrare il tasto power, tutto con i porci comodi della mia ROM Android, che è buggata e lenta, come se venisse dall'Ohio
+(invece è di sviluppatori dell'India, come virtualmente tutte le custom ROM Android).
+
+=> https://www.urbandictionary.com/define.php?term=Only%20in%20Ohio  dall'Ohio
+
+## »
+I controlli sul retro
+
+La TV ha un'interfaccia di controllo integrata : una semplice rotellina che si muove in due direzioni e si preme, e si può usare per accendere/spegnere o cambiare sorgente.
+Il problema è che sta in una posizione terrificante! È praticamente sul lato del bordo posteriore, quello formato dal protrarsi della struttura di plastica, che mantiene la circuiteria della televisione, dietro la cornice dell'LCD.
+Praticamente mi dovrei piegare ogni volta, infilando le dita tra gli ostacoli fastidiosi che vivono sulla mia scrivania.
+
+Forse dovrei ringraziare che quei controlli sono sul bordo sinistro - dato che immediatamente a destra ho l'altro schermo, le cose sarebbero potute andare peggio - ed accontentarmi... ma che pale... pile... no, palle!
+
+## »
+La mia soluzione
+
+E allora, per questo desueto attacco d'arte, prendo i seguenti materiali e utensili:
+
+Una pinza (assolutamente non fatta per piegare metalli, ma io questo ho), per piegare: Una vecchia graffetta, di medio spessore. Forbici (dalla punta non arrotondata), per tagliare: Il cartoncino dei pacchetti di Amazon. Nastro biadesivo.
+
+### »
+Procedimento spassoso
+
+Ecco allora cosa sono andata a fare:
+
+Piego una parte terminale della graffetta per formare un piccolo anello. Serve ad accomodare la parte centrale sporgente della rotellina.Un po' alla volta, prendo le misure che la graffetta deve avere, e la piego di conseguenza: Appoggio la graffetta sulla rotellina; Vedo quanto è lunga al primo nuovo punto di stacco che raggiunge sulla scocca della TV;La riprendo, tenendo col dito il punto d'interesse, e con pazienza la piego; Ripeto fin quando la graffetta non arriva fino al bordo anteriore del televisore, passando su quello laterale.Constato che la sporgenza della rotella finisce totalmente dentro l'anello, che quindi non la preme; allora incastro un pezzettino di cartone nell'anello (in via opzionale bloccato con del nastro adesivo). [‡ La graffetta, piegata quasi totalmente per essere montata.]
+In questo modo, qualcosa di solido spinge esattamente sulla rotellina, che viene effettivamente premuta.Dato che mi pare tutto apposto, inizio a tagliare striscioline di cartone, e ci attacco del nastro biadesivo alle estremità. Queste sono per sorreggere la graffetta in diversi punti, e non farla cadere via dal pulsante, ma lasciandole libertà di movimento in una direzione. Circa a metà lascio le striscioline pulite, e le increspo leggermente, per lasciare uno spazio in cui far passare il filo di metallo;Mantenendo la graffetta nella giusta posizione, attacco le striscette dove necessario.
+
+[‡ Vista del retro del mio sistema montato. In rosso, ho cerchiato il pezzo che preme sulla rotellina.] (Non riuscivo a fare la foto meno sfocata lì dietro, mi spiace.)
+
+### »
+Che lavoro...
+
+Per quanto riguarda la pressione del tasto - che ora posso attuare appoggiando il dito sul bordo sinistro estremo dello schermo, senza dover mettere le mani dietro a tutto - questa soluzione funziona perfettamente.
+Ahimè, la rotazione della rotella non va granché con questo accrocco, che ha buona libertà di movimento su un solo asse. Il cartone in ogni caso non crea eccessiva rigidità, quindi riesco ancora a ruotare la rotellina da dietro.
+
+Questo è quanto. Se dovessi migliorare la mia soluzione - che, si, è grezzissima, non lo nego proprio perché è questo che mi piace - scriverò un'appendice a questo articolo.
+
+[‡ Vista frontale laterale del mio sistema montato. Basta premere sul lato per applicare forza al bottone della TV.]
+
+## »
+Domande scomode
+
+So già che la domanda arriverà, quindi rispondo ora:
+
+> 
+> 
+> 
+> Ma tutte quelle batterie sfuse che hai messo nella foto di copertina?
+> 
+> 
+
+Ehhh. Buona domanda.
+Sono tutte pile che conservo quando in casa (non per mano mia, in quanto, lo ripeto, evito più possibile le non ricaricabili) vengono scartate, perché molto spesso "scariche" significa soltanto "troppo scariche per il dispositivo da cui sono state sostituite". Per alcuni telecomandi vanno infatti spesso ancora bene, inclusi i miei in certi casi.
+
+Allora ho solo perso tempo con il progetto di oggi? Nah, non direi : da ora posso tranquillamente tenere il telecomando un po' più riposto, non più necessariamente sempre sulla scrivania, che quindi posso tenere leggerissimamente (perché io poi in un attimo rovino i miei stessi sforzi!) più ordinata.
