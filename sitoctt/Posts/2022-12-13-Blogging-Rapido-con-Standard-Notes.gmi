@@ -163,8 +163,6 @@ Ah, si, questo qui è stato il primo post sul mio blog Listed
 , è giusto precisarlo per chi legge dal sitoctt... ma io spero che almeno la versione Listed del blog possa venire indicizzata per bene e scoperta da più persone, già che ci siamo.
 È proprio nella speranza di raggiungere questo obiettivo che sto accettando alcuni compromessi quando scrivo qui, come il fare a meno delle macro (che con staticoso posso usare, mentre qui produrrebbero testi bucati e link rotti), per far si che gli articoli siano effettivamente consultabili anche dalle pagine di Listed.
 
-Adattamento a scrivere su SN (senza macro ecc)
-
 => https://sitoctt.octt.eu.org  sitoctt
 => https://listed.to/@u8  
 

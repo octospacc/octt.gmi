@@ -52,6 +52,7 @@ Alcune informazioni importanti sono disponibili su:
 ✉️ PicoBlog
 Categories 📒 MicroBlog
 Posts
+2023-04-16] 🏴‍☠️ Che impatto avrà la nuova legge anti-pirateria italiana? - blogoctt
 2023-04-03] 🔋 Tutto per non cambiare due pile... - blogoctt
 2023-03-18] 🥴 Brutta interfaccia? File tutti distrutti! - blogoctt
 2023-01-28] 🤯 Quando i problemi hardware diventano mentali (maledetto Raspino) - blogoctt
@@ -73,6 +74,7 @@ Archive
 => ../Devlogs.gmi  
 => ../PicoBlog.gmi  
 => ../Categories/MicroBlog.gmi  
+=> ../Posts/2023-04-16-Che-Impatto-Nuova-Legge-Anti-Pirateria-Italiana.gmi  
 => ../Posts/2023-04-03-Tutto-Per-Non-Cambiare-Due-Pile.gmi  
 => ../Posts/2023-03-18-Cattiva-Interfaccia-Partizione-Distrutta.gmi  
 => ../Posts/2023-01-28-Problemi-Hardware-Diventano-Mentali.gmi  
