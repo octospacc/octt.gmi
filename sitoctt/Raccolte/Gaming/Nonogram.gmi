@@ -6,10 +6,9 @@ Alcune informazioni importanti sono disponibili su:
 😺 Chi sono
 💾 Devlogs
 ✉️ PicoBlog
-💎 OctoSpacc Hub
-📦 OcttKB
-🔖️ Bacheca (Old)
 📖 Guestbook
+Esterni 💎 OctoSpacc Hub
+📦 OcttKB
 💰 Donazioni
 🗂️ Raccolte 📓️ Blog
 📒 MicroBlog
@@ -28,10 +27,9 @@ Alcune informazioni importanti sono disponibili su:
 => ../../Chi-Sono.gmi  
 => ../../Devlogs.gmi  
 => ../../PicoBlog.gmi  
+=> https://listed.to/@u8/guestbook  📖 Guestbook
 => https://hub.octt.eu.org  💎 OctoSpacc Hub
 => https://kb.octt.eu.org  📦 OcttKB
-=> https://octtspacc.gitlab.io/bachecoctt  🔖️ Bacheca (Old)
-=> https://listed.to/@u8/guestbook  📖 Guestbook
 => ../../Donazioni.gmi  
 => ../../Categories/Blog.gmi  
 => ../../Categories/MicroBlog.gmi  

@@ -6,10 +6,9 @@ Alcune informazioni importanti sono disponibili su:
 😺 Chi sono
 💾 Devlogs
 ✉️ PicoBlog
-💎 OctoSpacc Hub
-📦 OcttKB
-🔖️ Bacheca (Old)
 📖 Guestbook
+Esterni 💎 OctoSpacc Hub
+📦 OcttKB
 💰 Donazioni
 🗂️ Raccolte 📓️ Blog
 📒 MicroBlog
@@ -28,10 +27,9 @@ Alcune informazioni importanti sono disponibili su:
 => ../Chi-Sono.gmi  
 => ../Devlogs.gmi  
 => ../PicoBlog.gmi  
+=> https://listed.to/@u8/guestbook  📖 Guestbook
 => https://hub.octt.eu.org  💎 OctoSpacc Hub
 => https://kb.octt.eu.org  📦 OcttKB
-=> https://octtspacc.gitlab.io/bachecoctt  🔖️ Bacheca (Old)
-=> https://listed.to/@u8/guestbook  📖 Guestbook
 => ../Donazioni.gmi  
 => ../Categories/Blog.gmi  
 => ../Categories/MicroBlog.gmi  
@@ -54,14 +52,20 @@ Come da titolo, è stato questo il pensiero poetico dispensato da mia madre oggi
 Fino a 30 minuti prima, maremma bona, volevo solo esplodere. Atttenzione, però: non per l'esame in sé (l'ultimo di una serie di extra-curriculari, precisamente), per me semplicissimo, di cui non mi importa nulla se non della certificazione! [1
 ] È successa un' altra roba.
 
+## »
+Torniamo indietro
+
 Quando passai le prime sessioni due anni fa, andò tutto liscissimo, quasi all'insegna del chilling
 : erano ancora i tempi delle restrizioni anti-COVID, e quei 2 esami che affrontai a scuola erano in un' aula comunque poco affollata.
-
-=> https://www.urbandictionary.com/define.php?term=chill%20vibes  chilling
 
 Quest'anno, però, una schifezza. La carta l'ho presa senza ripetere nulla, quindi i miei non hanno buttato soldi in quel riguardo, ma l' esperienza è stata terrificante.
 L' aula a questi giri è stata sempre pienissima, e proprio questa cosa è finita per essere un problema per la mia anima.
 Non credo di meritarmi tutto questo...
+
+=> https://www.urbandictionary.com/define.php?term=chill%20vibes  chilling
+
+### »
+Aria di problemi
 
 Il mese scorso feci 2 esami dei 3 che mi mancavano, e già non filò nulla liscio, affatto:
 
@@ -69,11 +73,15 @@ Il mio professore (referente del progetto) non mi aveva detto che sulla casella 
 e sul tablet, e non riesco ad accedere altrove [2
 ]. Risultato: dovetti farmi la corsa a casa per prendere il tablet e tornare a scuola... Fortuna che abito nelle vicinanze.
 
-La piattaforma di testing si ruppe totalmente quando avevo finito uno degli esami (non senza fatica, alcune domande erano glitchate!): appena feci partire il secondo, il sistema disse che avevo esaurito il tempo, e mi chiuse in faccia la prova appena avviata... Il prof. dovette perdere tempo a chiamare il supporto per spiegare la cosa, e dopo un bel casino l'esame venne ripristinato come non svolto.
-
 => https://sitoctt.octt.eu.org/Posts/Archive/2022-05-07-Gli-Inaspettati-Vantaggi-della-Chiavetta-Linux.gmi  chiavetta con Puppy Linux
 
+La piattaforma di testing si ruppe totalmente quando avevo finito uno degli esami (non senza fatica, alcune domande erano [glitchate](https://en.wikipedia.org/wiki/Glitch#Computer
+glitch)_!): appena feci partire il secondo, il sistema disse che avevo esaurito il tempo, e mi chiuse in faccia la prova appena avviata... Il prof. dovette perdere tempo a chiamare il supporto per spiegare la cosa, e dopo un bel casino l'esame venne ripristinato come non svolto.
+
 Tra entrambe le cose, allora, fu persa una buona quantità di tempo. E se così non fosse stato, forse ce l' avrei fatta a finire tutti gli esami quel giorno.
+
+## »
+Il presente
 
 Torniamo ad oggi.
 Finita la scocciatura dell'attesa (non troppo problematica, grazie al rettangolo di plastica, vetro, metallo, con connessione Internet, e tascabile, che anche io porto sempre in giro), dovuta al fatto che tutte le postazioni erano occupate inizialmente, inizio.
@@ -82,6 +90,9 @@ Finita la scocciatura dell'attesa (non troppo problematica, grazie al rettangolo
 I miei primi minuti vanno per bene, fino a che non iniziano a terminare l'esame anche una buona selezione (casuale, o il destino le ha scelte accuratamente?) di scimmie, che dalle file dietro a tutto farfugliavano con chi (immagino in confidenza) ancora non aveva finito, ad un volume esagerato e in contemporanea.
 Ecco, ecco, ora, lentamente, il sangue inizia a ribollire nel mio corpo, manco fosse una caffettiera, perché con quel casino non riesco a leggere metà di una domanda senza distrarmi totalmente. Nemmeno avere gli auricolari nelle orecchie (ma staccati) attenuava abbastanza il rumore. Finire in quel modo l'esame? Impossibile.
 
+### »
+Ci ho provato
+
 Prima che fosse troppo tardi, ho cercato di chiamare l'insegnante — che, mannaggia allo strafaccio, era parecchio distratto, perché ad un'altra persona in quel momento era capitato lo stesso glitch della mia volta precedente (e qui devo: ma che backend di merda che ha 'sta piattaforma, buttatelo via e riscrivetelo da capo, per cortesia!!!).
 Volevo gentilmente dirgli di far stare in silenzio tutti coloro che non avevano diritto di parola, e dopo qualche minuto (a onor suo, di sua sponte, un attimo prima che sentisse me) ha blaterato qualcosa (di poco convincente) per dire alla platea di acquietarsi. La platea non si è acquietata, e il prof. stava uscendo pazzo per via dei problemi generali, purtroppo, quindi poco poteva dar retta a me.
 
@@ -89,9 +100,15 @@ L' altra volta c'era meno casino. Forse perché gli individui sbagliati erano me
 
 Addirittura decido di chiamare a telefono mio padre, arrivata qui, per dirgli di chiamare a sua volta il professore a telefono; magari a 'sto giro riesce a capire. In effetti, a questo giro l'invito al silenzio era più convincente. Lo era?
 
+### »
+Un disastro
+
 Ma, ormai, troppo tardi comunque: la mia tensione è salita troppo, non riesco a riacquisire un minimo di concentrazione, costringendomi, dopo forse 21 mesi buoni in cui ho potuto farne a meno, a graffiarmi per convertire una minima parte del carico mentale (che richiede energie mentali di primo piano per essere gestito, le stesse che in quel momento mi servivano per completare la mia sessione) in bruciore cutaneo (che, fino ad un certo livello, è gestito dal cervello in background). Che palle.
 
 Il danno ormai l'ho fatto, ahimè ed e che cazzo, e sembrava che lentamente si stesse per calmare tutto e la concentrazione potesse tornare... e invece no. Il richiamo del prof. è stato comunque troppo morbido e non ha stroncato i cattivi comportamenti di quella parte degli altri studenti, li ha solo messi un po' in pausa.
+
+### »
+La soluzione vera
 
 Boh, a questo punto mi viene semplicemente da tirare un pugno sulla scrivania e "urlare" (non che io lo sappia fare, ma il pugno proprio a sopperire a questo serve; l'ho inconsciamente imparato da un altro mio professore) di fare silenzio, che altrimenti non avrei potuto concludere nulla, e... ha funzionato. Ah?...
 Si, tutto qui. Non posso dire altro su questo attimo, si è immediatamente cristallizzato in bene. Da lì, fino a quando ho finito e ho potuto andarmene, non è volata più una mosca.
@@ -99,7 +116,7 @@ Si, tutto qui. Non posso dire altro su questo attimo, si è immediatamente crist
 A quel punto, purtroppo, l' irritazione l'avevo comunque accumulata, e ci ho messo ore e ore e ore per smaltirla, tra il fare varie cose a caso e lo scrivere questo articolo.
 L'unica cosa di cui logicamente posso pentirmi è di non aver fatto risuonare quel banco qualche prezioso minuto prima di arrivare sul serio al limite, dato che i metodi gentili non funzionavano. Purtroppo o per fortuna, mannaggia, non è un riflesso che mi sorge troppo spesso; solo quando ormai sono già oltre quel limite, e forse ho già commesso altri danni evitabili.
 
-Eppure, quel dubbio mi resta ancora: ma cosa avrò fatto di tanto male al mondo per meritarmi queste cose?
+Eppure, quel dubbio mi resta ancora: ma cosa avrò fatto di tanto male al mondo per meritarmi queste cose? E vallo a capire...
 
 ## »
 🏷️ Note e Riferimenti
