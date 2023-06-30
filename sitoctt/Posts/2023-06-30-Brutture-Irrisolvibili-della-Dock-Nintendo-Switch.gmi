@@ -1,0 +1,195 @@
+# sitoctt
+Alcune informazioni importanti sono disponibili su:
+=> /octt/index.gmi octocapsula/index
+
+🏠 ~Home~
+😺 Chi sono
+💾 Devlogs
+✉️ PicoBlog
+📖 Guestbook
+Esterni 💎 OctoSpacc Hub
+📦 OcttKB
+💰 Donazioni
+🗂️ Raccolte 📓️ Blog
+📒 MicroBlog
+🦄 Fritto Misto
+🛠️ DIY
+♻️ Ecologia
+🕹️ Gaming
+🌐️ Internet
+📱️ Mobile
+📝️ Note
+💰 Rasperino
+⚙️ Sysadmin
+📡 Tecnologia
+
+=> ../index.gmi  
+=> ../Chi-Sono.gmi  
+=> ../Devlogs.gmi  
+=> ../PicoBlog.gmi  
+=> https://listed.to/@u8/guestbook  📖 Guestbook
+=> https://hub.octt.eu.org  💎 OctoSpacc Hub
+=> https://kb.octt.eu.org  📦 OcttKB
+=> ../Donazioni.gmi  
+=> ../Categories/Blog.gmi  
+=> ../Categories/MicroBlog.gmi  
+=> ../Categories/Fritto-Misto.gmi  
+=> ../Categories/DIY.gmi  
+=> ../Categories/Ecologia.gmi  
+=> ../Categories/Gaming.gmi  
+=> ../Categories/Internet.gmi  
+=> ../Categories/Mobile.gmi  
+=> ../Categories/Note.gmi  
+=> ../Categories/Rasperino.gmi  
+=> ../Categories/Sysadmin.gmi  
+=> ../Categories/Tecnologia.gmi  
+
+# »
+☣️ Le brutture irrisolvibili della dock di Nintendo Switch (Parte I)
+
+Nota : questo articolo avrebbe dovuto si in primo luogo illustrare i problemi della dock di Switch, ma poi continuare e terminare con lo sviluppo totale della mia soluzione alternativa. La prima parte è venuta bella lunga, però, e ho paura che possa eclissare quella veramente importante, quella della mia soluzione pericolosamente originale. Quindi, in questo articolo parlo solo delle mie rogne; quello che uscirà in seguito sarà dedicato al mio fai-da-te.
+
+Chi è, come me, tra gli sfortunati possessori di una console Nintendo Switch, probabilmente sa bene quanto la dock ufficiale sia non solo scomoda, ma quasi uno scherzo in essenza, qualcosa che quasi non doveva esistere!
+
+## »
+Ecco di cosa parliamo
+
+La dock, per coloro che sono stati beati ignoranti fino ad ora, è semplicemente una basetta proprietaria che fornisce alcune espansioni alla console, tra cui una sola con un minimo di rilievo: l' output video.
+
+Per evitare di creare confusione, o di attribuire colpe dove queste possono non essere dovute, mi chiarisco: tutto questo articolo ruota attorno alla prima edizione della dock. Nintendo ne ha infatti creato una versione migliorata quando, nel 2021, ha rilasciato la revisione OLED della console. Io possiedo solo il primo modello (in quanto ho solo la prima edizione di Switch), quindi la mia esperienza si limita a quello. Vabbè che, anche se pare che alcuni problemi minori siano stati risolti, nel complesso la dock rimane sempre sub-ottimale.
+
+[‡ La mia dock appoggiata in un cestino della spazzatura... smontata, perché ho già realizzato l'oggetto del prossimo post.] Ecco qui il posto in cui la dock dovrebbe stare: nel cestino.
+
+## »
+Per cosa iniziò la fine
+
+È stato sin dal proverbiale day-one, quel giorno del 2017 in cui Nintendo ha rilasciato questa ennesima console sul mercato, che tra le diverse critiche sollevatesi attorno ad essa, molte hanno riguardato proprio anche il suo rapporto con la dock.
+
+### »
+L'output video fatto brutto
+
+Il fastidio più grosso, a mio parere, è dovuto al fatto che la maledetta dock è l' unico modo per avere output video dalla console ad un display esterno. Comprendiamo tutti il non voler mettere una porta HDMI sul tablet, ossia la console vera e propria, ma perché per forza richiedere la dock?
+
+Già da 3 anni prima dell'uscita sul mercato dello Switch, ossia dal 2014, è stato diffuso lo standard " DisplayPort Alternate Mode on USB Type-C Connector
+", quello oggi implementato in tutti quei PC portatili che non includono una porta HDMI, e che permette per l'appunto di trasportare, su un unico connettore : energia sufficiente alla ricarica, dati video, e dati di ogni tipo (USB).
+Nel caso poi si volessero avere porte USB extra, o direttamente una porta HDMI (per collegarsi a monitor non-DisplayPort), sul mercato ci sono hub per meno di qualche decina di euro che fanno proprio a questo caso.
+Ovviamente, avendo Nintendo voluto implementare la sua soluzione proprietaria discutibile, il collegare Switch direttamente ad un monitor dotato di porta USB-C, o a uno di questi adattatori, non risulterà in alcun segnale video venir trasmesso.
+
+=> https://en.wikipedia.org/wiki/DisplayPort#USB-C  DisplayPort Alternate Mode on USB Type-C Connector
+
+Nintendo ha poi ben depensato di non includere funzioni di trasmissione video senza fili, nemmeno come opzione secondaria, seppur programmi homebrew come SysDVR
+dimostrano che l' hardware è perfettamente capace di una trasmissione video in WLAN.
+Per dirne un'altra, lo standard Miracast
+esiste dal 2012, quindi c'era tutto il tempo di implementarlo nella console, se solo la casa madre avesse voluto. A dire il vero, trattandosi di qualcosa di implementabile via software (l'unico requisito hardware è il Wi-Fi), Nintendo non ha mai avuto un termine massimo per includere una funzione del genere, eppure nessun aggiornamento del firmware rilasciato in questi 6 anni ha ancora tappato questa lacuna (o varie altre); qualcosa che non fa altro che confermare la svogliatezza dell'azienda.
+
+=> https://github.com/exelix11/SysDVR  SysDVR
+=> https://en.wikipedia.org/wiki/Miracast  Miracast
+
+### »
+Una batosta al portafogli!
+
+Nonostante questa fissazione di Nintendo con il non implementare standard diffusi - o, ancora peggio, con il farlo in maniera scorretta, reinterpretandoli e rompendoli (non m'azzardo ad aprire bocca sulle questioni di Switch che esulano dalla basetta...) - quantomeno la dock è inclusa nella confezione della console, e non va acquistata separatamente... qualcosa che non so se vedere come bene o male, considerando che, costando ben 80 euro se acquistata separatamente, immagino che la sua inclusione nella scatola del tablet impatti pesantemente quello che sarebbe altrimenti il costo della console da sola.
+
+Se anche è vero, però, che i critici arrivano anche dove qualcuno offre un prodotto perfetto, questo plasticume d'accessorio merita tutta la sua cattiva fama. Voglio dire: tutti noi videogiocatori ci saremmo aspettati qualcosa di un attimo migliore, con quella taglia di 80€, e perciò va detto che gli aspetti negativi di questo soprammobile pesano onestamente molto di più dei lati positivi.
+
+### »
+Al bando le porte
+
+Trovo innanzitutto un minimo ridicolo - seppur realisticamente insignificante, considerando cosa offrivano nel 2017 le console della concorrenza e in generale gli altri dispositivi elettronici - che la dock fornisca solamente una porta di output audio-video digitale (HDMI), e nessuna analogica.
+Ripeto, non è un pretesto intelligente per andare da Nintendo con in mano dei forconi, ma è quantomeno deludente, considerando che la console casalinga precedente della grande N, la bistrattata Wii U, aveva entrambe le uscite.
+
+Una mancanza di input/output ritenuta un problema da ben più di 4 gatti, però, riguarda la porta Ethernet. In ambiti specifici il Wi-Fi non ha mai davvero soppiantato le connessioni di rete cablate, e il gaming è uno di questi.
+Su Switch poi, con i driver Wi-Fi di Horizon OS (il sistema operativo di Nintendo), che dire schifosi è fargli un complimento, e con il mancato supporto ai driver tethering USB (quelli che permettono di usare, per esempio, uno smartphone Android come router cablato), l' unico modo per avere un collegamento Internet di qualità è comprare un adattatore Ethernet-USB (almeno questo, per fortuna, può essere generico).
+
+Eppure, in questo caso, la mancanza di spazio non è una scusa digeribile per non aver incluso porte a volontà... la dock al suo interno è perlopiù spazio vuoto, che componenti elettroniche, e penso sarebbe stato possibile fare di più (la dock OLED, infatti, presenta almeno la porta Ethernet).
+A proposito: di per sé, la tanta plastica ABS non sarebbe un problema - anzi, dà una buona solidità e un peso di rispetto al prodotto, che altrimenti potrebbe tendere a volar via giù da tavoli e scrivanie con poco, e sarebbe forse un po' fragile.
+
+Per via di ciò, però, la dock non è affatto semplice da trasportare, principalmente perché troppo grossa.
+Il peso, detto francamente, non è un problema in tal riguardo: la console da sola con i Joy-Con (i controller laterali) equipaggiati pesa già più della dock da sola... tutto quel litio in una tavoletta di plastica, fidatevi, pare piombo.
+Le dimensioni, però, se apparentemente contenute (almeno, rispetto ad un'intera console solo fissa) sono problematiche se si vuole portare la dock in una borsa o uno zaino assieme alla console. Tutte le custodie trasportabili, ovviamente, non possono riservare uno spazio per la basetta, a meno di essere grosse quanto delle ventiquattrore.
+
+Fermandoci un attimo con le parole al vento, e parlando di numeri, siamo a 238x98x13 millimetri per la console (Joy-Con inclusi), e 172x102x50 mm per la dock: insomma, quest'ultima è spessa quasi 4 volte il tablettino, il che è un problema.
+La mia custodia generica a valigetta (una di quelle quasi-imbottite, con spazio per gli accessori) è, da chiusa, 249x126x52 millimetri: se dovesse includere anche lo spazio per la dock sarebbe un borsone!
+
+## »
+Oltre le banali apparenze
+
+Ed è esattamente così, osservando attentamente dettagli sempre più minuti al fine di produrre affinate deduzioni, che ci ricordiamo qualcosa - almeno, io e tutti coloro che imparano fai-da-te e programmazione dal mio blog (sbagliando grosso?): la sovra-ingegnerizzazione
+è un pericolo sempre dietro l'angolo, quando si tenta di fare qualcosa di particolare.
+
+=> https://en.wikipedia.org/wiki/Overengineering  sovra-ingegnerizzazione
+
+### »
+Pareti artigliate incluse!
+
+Una delle sviste di progettazione uscita subito fuori con il design della basetta, e che non sarebbe stato affatto presente se solo Nintendo avesse optato per un design più essenziale, è che lo spazio in cui il tablet di Switch si inserisce e riposa è un po' troppo stretto. Le due facce di plastica non sono così vicine da far percepire qualcosa di strano all'inserire o al disinserire della console, eppure, abbastanza vicine da creare graffi sul fronte della console.
+A onor del vero, nessun graffio può accumularsi nell'area propriamente del display, ma realisticamente solo ai suoi margini (e sui pixel più estremi del display, ed ecco da cosa viene la rabbia collettiva), dato che è solo in corrispondenza di quella zona che la dock presenta 2 sporgenze simmetriche, che fanno da guide per l'inserimento.
+
+Ovviamente, il pannello frontale si graffia soltanto perché è di plastica : se fosse stato di vetro, non sarebbero successi incidenti. Considerando però l'ampiezza del target di mercato a cui la console si rivolge, e il resto delle sue caratteristiche tecniche, un display di vetro sarebbe stato in effetti inadeguato. Tanto, chiunque ci tenga può, come feci io, comprare una pellicola di vetro a pochi euro, e in un attimo applicarla.
+
+### »
+Flusso dell'aria ridotto
+
+Parecchi giochi che girano su Switch, nel tentare di mantenere un regime prestazionale accettabile durante la sessione di gameplay, lavorano a scapito delle temperature, che si alzano di parecchio (specialmente sulla primissima revisione della console, che monta un chip più energivoro. [1
+]). Da qui deriva la necessità per la console di avere un sistema di raffreddamento attivo, che aspira aria da una piccola griglia sul retro, per poi risputarla (calda) nella parte alta.
+
+Non che io abbia tanta esperienza nella fisica dei fluidi, però mi pare, dal semplice uso della console, che in dock le ventole tendano in media a girare sempre con più forza rispetto alla modalità portatile, anche a parità di risoluzione video (720p) e, a regola, di frequenze di CPU e GPU.
+In effetti, per come il tablet riposa nella sua base, metà della griglia posteriore affaccia sul vano cavi della dock, mentre l'altra metà è direttamente ostruita (vicinissima ad una parete di plastica). Questa prima metà, oltre a poter essere, eventualmente, parzialmente ostruita dai cavi di alimentazione e video, riceve aria solo dai due piccoli spazi aperti (a sinistra e in alto) sul retro della dock; e a me, quest'aria, pare pochina.
+
+[‡ Modello disegnato a mano su carta, con pennarelli colorati.] Ecco un modello grafico dei buchi, flussi d'aria, e possibili cavi. Bruttina la situazione della piccola griglia posteriore (in blu)! (Non fate caso al fatto che ho invertito la porta USB-C con quella HDMI...)
+
+### »
+Girarla in orizzontale?
+
+Infine, è un po' stressante la mancanza di una modalità di posizionamento in orizzontale per la base, che sarebbe particolarmente utile quando lo spazio è ristretto e i cavi devono essere corti - come in postazioni di gioco vicino alla TV (situazione comune in certe case proprio giapponesi, tra l'altro), o anche postazioni su scrivania (il mio caso).
+Se girata sul lato lungo, in realtà, la base ci rimane, e la console rimane connessa; ma basta tirare un po' qualcosa per farla scendere fuori, e quindi scollegare.
+Per la cronaca, sia Wii che Wii U, oltre che le console della concorrenza (le presenti, e diverse passate), sono state pensate per poter riposare in entrambi gli orientamenti.
+
+Sarebbe stato comodo avere questa opzione, anche se forse non è la fine del mondo, rispetto alle altre rogne: anche perché basta aggiungere un supporto triangolare auto-fabbricato (o comprato da venditori che si occupano di artigianato della plastica) per avere una situazione più decente, in cui la console resta un po' inclinata rispetto al piano di appoggio della base (e non quasi parallela).
+
+[‡ Un supporto aggiuntivo pensato per il posizionamento in orizzontale della dock.] >>
+Foto da DVAMakerStudios, Etsy
+.
+
+=> https://www.etsy.com/uk/listing/877452299/nintendo-switch-dock-horizontal-base  >>
+=> https://www.etsy.com/uk/listing/877452299/nintendo-switch-dock-horizontal-base  DVAMakerStudios, Etsy
+
+## »
+Che cosa fare
+
+Che cosa si può fare allora se questo plasticone è causa di tutti questi pesanti morbi? Lo abbiamo detto sopra: usare un hub USB generico, come su tutti i dispositivi normali, qui non è possibile.
+
+### »
+Dock che il prozio al mercato comprò...
+
+Principalmente solo sul Web, si trovano in vendita dock per Switch di terze parti, di tutte le forme. Purtroppo, a seguito delle segnalazioni fatte da tantissimi utenti dopo un tempo d'uso variabile, non le reputo affatto affidabili (anche se certamente qualcuna tra le centinaia lo sarà).
+A causa del bizzarro protocollo secondo cui è gestita l' energia tra Nintendo Switch e i suoi accessori ufficiali, pare che la console possa rompersi con accessori di terze parti
+che forniscono (anche) ricarica. Il che è bizzarro, come dire, perché virtualmente qualunque altro dispositivo sul mercato con una porta USB di ricarica non si rompe, se non con procedure poco ortodosse e volute, che vanno al di là dell'usare un caricatore della concorrenza.
+
+Su Amazon in particolare si trovano però anche altre tipologie, oltre ai cloni rifatti da zero della dock:
+
+Quelle compatte che contengono - o almeno, così dicono loro, ma così pare guardando le foto (la disposizione delle porte e le dimensioni della scheda, ad occhio, combaciano) - la scheda ufficiale contenuta nella base prodotta da Nintendo (come questa per €24,99
+).La stessa cosa appena presentata, stesso design, stesse dimensioni, ma senza alcuna scheda integrata (come questa per €19,99
+): sono kit fai-da-te, l'idea è di prelevare la scheda dalla dock che già si possiede e montarla in questa nuova scocca. »
+... e fu così che i suoi soldi bruciò.
+
+=> https://www.tomsguide.com/news/nintendo-switch-brick-docks  pare che la console possa rompersi con accessori di terze parti
+=> https://web.archive.org/web/20230630114837/https://www.amazon.it/Docking-station-portatile-sostituzione-ufficiale/dp/B0C49WC9BQ  questa per €24,99
+=> https://web.archive.org/web/20230630135554/https://www.amazon.it/eXtremeRate-AiryDocky-Nintendo-Portatile-OLED-Trasparente/dp/B0BW3YX946  questa per €19,99
+
+Qualunque opzione si scelga, pare però che si arrivi a pagare almeno 20 euro sonanti soltanto per della plasticaccia, viti, molle, e qualche altra scemenza. Anche questo, come prezzo, è semplicemente a dir poco eccessivo; è troppo, punto. Tutto sovrapprezzo, e scommetto che se uno dei casalinghi cinesi che ci sono da me vendesse almeno un kit DIY, difficilmente costerebbe più di 10 euro.
+
+### »
+Una sola opzione
+
+Alla fine di tutto, allora, solo un'opzione mi resta : plastica, cartone, colla, scotch, spille, ed elastici. Anche stavolta è il momento del fai-da-te pezzotto, quello a costo totalmente zero che a me piace tanto
+.
+C'è fin troppo di cui parlare a proposito, come al solito, quindi tutto ciò sarà per il prossimo articolo! Spero di non aver tediato nessuno fino alla morte oggi, altrimenti chi mai potrà leggere la seconda parte...
+
+=> https://sitoctt.octt.eu.org/Categories/DIY.gmi  che a me piace tanto
+
+## »
+🏷️ Note e Riferimenti
+
+Una revisione hardware silenziosa ha introdotto una versione riprogettata del SoC NVIDIA Tegra X1, con un processo produttivo più compatto, che funziona in modo quasi identico all'originale, ma richiede meno energia, quindi ne dissipa meno, e quindi scalda di meno : https://wiki.wiidatabase.de/wiki/Mariko
+. ↩
