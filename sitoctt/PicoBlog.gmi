@@ -212,7 +212,7 @@ ha perso un tasto laterale, e che cavolo, e mannaggia!!… Oggi oggi non si è s
 
 => ./Categories/Blog.gmi  Blog
 => ./Devlogs.gmi  Devlogs
-=> https://inv.bp.projectsegfau.lt//QoydhH3xODU  >>
+=> https://piped.kavin.rocks/embed//QoydhH3xODU  >>
 => https://t.me/SpaccInc/882  La mia Nintendo Switch
 => https://t.me/SpaccInc/888  il mio mouse pezzottissimo
 
