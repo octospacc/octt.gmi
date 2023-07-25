@@ -89,7 +89,7 @@ Pensa te, inoltre: quando ho tempo, gioco anche ai videogiochi. In passato, molt
 .
 
 => ./index.gmi#-Codice-sorgente  staticoso
-=> Pages/Raccolte/Gaming/Raccolta-Videogiochi.md  Raccolta Videogiochi
+=> ./Raccolte/Gaming/Raccolta-Videogiochi.gmi  Raccolta Videogiochi
 
 Ah, e devo anche ancora andare a scuola. Un po' na' seccatura, vabbe, c'è poco da fare.
 

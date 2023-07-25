@@ -46,10 +46,12 @@ Esterni 💎 OctoSpacc Hub
 
 # »
 🦄 Fritto Misto
-🗂️ Raccolte Fritto-Misto Raccolta Cose a Caso
+🗂️ Raccolte Fritto-Misto Carte QR
+Raccolta Cose a Caso
 Media 🎶 Raccolta Musica
 Lista di Tutti i Post
 
+=> ../Raccolte/Fritto-Misto/Carte-QR.gmi  Carte QR
 => ../Raccolte/Fritto-Misto/Raccolta-Cose-A-Caso.gmi  Raccolta Cose a Caso
 => ../Raccolte/Media/Raccolta-Musica.gmi  
 => ../Posts/index.gmi  Lista di Tutti i Post
