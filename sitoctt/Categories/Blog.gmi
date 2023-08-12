@@ -50,6 +50,7 @@ Esterni 💎 OctoSpacc Hub
 ✉️ PicoBlog
 Categories 📒 MicroBlog
 Posts
+2023-08-11] 🏖️ Recensione: Pipì nel Mare (Mar Tirreno) - blogoctt
 2023-06-30] ☣️ Le brutture irrisolvibili della dock di Nintendo Switch (Parte I) - blogoctt
 2023-05-02] 😭 Più che un esame, ho fatto una guerra. - blogoctt
 2023-04-16] 🏴‍☠️ Che impatto avrà la nuova legge anti-pirateria italiana? - blogoctt
@@ -74,6 +75,7 @@ Archive
 => ../Devlogs.gmi  
 => ../PicoBlog.gmi  
 => ../Categories/MicroBlog.gmi  
+=> ../Posts/2023-08-11-Recensione-Pipi-Nel-Mar-Tirreno.gmi  
 => ../Posts/2023-06-30-Brutture-Irrisolvibili-della-Dock-Nintendo-Switch.gmi  
 => ../Posts/2023-05-02-Piu-Che-un-Esame-Ho-Fatto-una-Guerra.gmi  
 => ../Posts/2023-04-16-Che-Impatto-Nuova-Legge-Anti-Pirateria-Italiana.gmi  
