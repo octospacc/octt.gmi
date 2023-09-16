@@ -47,11 +47,13 @@ Esterni 💎 OctoSpacc Hub
 # »
 🛠️ DIY
 Posts
+2023-09-15] 📎 Mollette per capelli, ridotte a colla e sassolini - blogoctt
 2023-04-03] 🔋 Tutto per non cambiare due pile... - blogoctt
 2022-12-17] 🎄 Distrazioni di Natale: l'albero Padoru - blogoctt
 2022-07-09] 💻 Come ho riparato il mio portatile (con 25€) - blogoctt
 2022-07-03] ⌨️ L'idea di una tastiera fisica per smartphone fatta in casa - blogoctt
 
+=> ../Posts/2023-09-15-Mollette-per-Capelli-Colla-e-Sassolini.gmi  
 => ../Posts/2023-04-03-Tutto-Per-Non-Cambiare-Due-Pile.gmi  
 => ../Posts/2022-12-17-Distrazioni-di-Natale-Albero-Padoru.gmi  
 => ../Posts/2022-07-09-Come-ho-Riparato-il-mio-Portatile-con-25-Euro.gmi  
