@@ -69,29 +69,31 @@ Beh, innanzitutto faccio questo sito. Scrivo le cose, che siano inutili fiumi di
 
 Sono la Dea e loli dello Spacc
 , nonché CEO di Spacc Inc
+, e sysadmin della Spacc BBS
 . In tal riguardo, sulle mie spalle gravano responsabilità distruttive.. ma lascio i collegamenti da seguire per capire, non parlo dello Spacc qui.
 
-Poi, per quanto io tenti di passarci meno tempo possibile appresso, ho il mio server da amministrare quando la roba si spacca o c'è da aggiornare la qualsiasi, altrimenti tutta la baracca chi la porta avanti? Tra server Matrix Misskey, bot vari per diverse piattaforme, il server SpaccCraft
-, e qualche altra robina che adesso mi scoccio di ricordare, è una roba bestiale, resa solo più difficile dal mio usare hardware più o meno di fortuna ('nsomma, un Rasperino ad oggi non è di fortuna, è una fortuna 😓).
+Poi, per quanto io tenti di passarci meno tempo possibile appresso, ho il mio server da amministrare quando la roba si spacca o c'è da aggiornare la qualsiasi, altrimenti tutta la baracca chi la porta avanti? Tra software server per usi diversi, inclusi quelli web, bot vari per diverse piattaforme, SpaccCraft
+, e qualche altra robina che adesso mi scoccio di ricordare, è una roba bestiale, anche se almeno ad oggi non ho la difficoltà dell'usare hardware troppo di fortuna.
 
 => https://wikispacc.miraheze.org/wiki/Spacc  Spacc
 => https://wikispacc.miraheze.org/wiki/Spacc_Inc  Spacc Inc
+=> https://bbs.spacc.eu.org  Spacc BBS
 => https://wikispacc.miraheze.org/wiki/SpaccCraft  SpaccCraft
 
-A volte spendo (o perdo?) tempo sul Fediverso, anche lì a scrivere e condividere robette, su diverse piattaforme carine e ovviamente libere.
+Ormai purtroppo spesso non trovo il giusto tempo da spendere sul Fediverso, come facevo prima anche lì a scrivere e condividere robette, sulle varie diverse piattaforme libere carine.
 
 Spesso dormo anche, ahhh bello quando dormi che stai lì così, ohhh, e ogni tanto ci vuole, toh.
 
-Scrivo anche programmi veri e propri a volte. Più che altro, programmini, perchè se mi imbarco in grosse imprese poi rischio (no no, succede spesso, quale "rischio", è una certezza) di lasciare roba abbandonata a metà... tuttavia, ad onor del vero, staticoso
-per ora sembra essere l'eccezione! 🥳
+Scrivo anche programmi veri e propri a volte. Più che altro, programmini, perchè se mi imbarco in grosse imprese poi rischio (no no, succede spesso, quale "rischio", è una certezza) di lasciare roba abbandonata a metà...
 
-Pensa te, inoltre: quando ho tempo, gioco anche ai videogiochi. In passato, molto di più, ma ad oggi impiego il mio tempo in tante altre cose, quindi il gioco è bello ma, ormai, dura sempre troppo poco. Qui comunque ce ne sono alcuni che consiglio: Raccolta Videogiochi
-.
+Pensa te, inoltre: quando ho tempo, gioco anche ai videogiochi, oppure leggo cose come articoli particolarmente interessanti (non solo il titolo) o manga. In passato, molto di più, ma ad oggi impiego il mio tempo in tante altre cose, quindi il gioco è bello ma, ormai, dura sempre troppo poco.
 
-=> ./index.gmi#-Codice-sorgente  staticoso
+Qui ci sono alcuni videogiochi che consiglio (lista noj esaustiva): Raccolta Videogiochi
+, mentre per le altre cose ancora non ho assemblato liste.
+
 => ./Raccolte/Gaming/Raccolta-Videogiochi.gmi  Raccolta Videogiochi
 
-Ah, e devo anche ancora andare a scuola. Un po' na' seccatura, vabbe, c'è poco da fare.
+Ah, e devo anche ancora andare a scuola... no, università mi dicono ora, credo. Un po' na' seccatura, vabbe, c'è poco da fare.
 
 ## »
 Alcune mie proprietà particolari
@@ -102,12 +104,14 @@ I miei contatti
 
 Mi puoi trovare sul Fediverso, ai contatti da me preferiti che lascio qui sotto.
 
+Telegram
 Friendica : @octt@poliverso.org
 Mastodon : @octo@mastodon.uno
 Matrix : @octt:matrix.org
 C'erano anche le mie istanze ActivityPub qui, ma poi sono successi gli incidenti
 .
 
+=> https://t.me/ioctt  Telegram
 => https://poliverso.org/profile/octt  @octt@poliverso.org
 => https://mastodon.uno/@octo  @octo@mastodon.uno
 => https://matrix.to/#/@octt:matrix.org  @octt:matrix.org

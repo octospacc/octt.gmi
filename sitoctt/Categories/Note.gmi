@@ -46,7 +46,10 @@ Esterni 💎 OctoSpacc Hub
 
 # »
 📝️ Note
+Notes
+2023-10-17] 2️⃣ Gaming sincronizzato tra PlayStation 2 e smartphone
 Linux
 2022-08-09] Controllare statistiche interessanti e sulla salute di partizioni su Linux
 
+=> ../Posts/Notes/2023-10-17-Gaming-Sincronizzato-PS2-Smartphone.gmi  
 => ../Posts/Notes/Linux/2022-08-09-Controllare-Statistiche-Interessanti-Partizioni-Linux.gmi  Controllare statistiche interessanti e sulla salute di partizioni su Linux
