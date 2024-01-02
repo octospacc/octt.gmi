@@ -8,15 +8,16 @@ Alcune informazioni importanti sono disponibili su:
 ✉️ PicoBlog
 📖 Guestbook
 Esterni 💎 OctoSpacc Hub
+📓️ MicroBlog new
 📦 OcttKB
 💰 Donazioni
 🗂️ Raccolte 📓️ Blog
-📒 MicroBlog
 🦄 Fritto Misto
 🛠️ DIY
 ♻️ Ecologia
 🕹️ Gaming
 🌐️ Internet
+📒 MicroBlog
 📱️ Mobile
 📝️ Note
 💰 Rasperino
@@ -29,15 +30,16 @@ Esterni 💎 OctoSpacc Hub
 => ../../PicoBlog.gmi  
 => https://listed.to/@u8/guestbook  📖 Guestbook
 => https://hub.octt.eu.org  💎 OctoSpacc Hub
+=> https://octospacc.altervista.org  
 => https://kb.octt.eu.org  📦 OcttKB
 => ../../Donazioni.gmi  
 => ../../Categories/Blog.gmi  
-=> ../../Categories/MicroBlog.gmi  
 => ../../Categories/Fritto-Misto.gmi  
 => ../../Categories/DIY.gmi  
 => ../../Categories/Ecologia.gmi  
 => ../../Categories/Gaming.gmi  
 => ../../Categories/Internet.gmi  
+=> ../../Categories/MicroBlog.gmi  
 => ../../Categories/Mobile.gmi  
 => ../../Categories/Note.gmi  
 => ../../Categories/Rasperino.gmi  
@@ -84,15 +86,19 @@ Non mi metto a spiegare come funziona, in fondo all'articolo potete scaricarlo e
 ### »
 Intoppo 3: convertire dal telefono
 
+Nota 2023-10-18: ho trovato un fork moderno (in Python 3) di mymc, mymc+
+... non l'ho (ancora) provato, ma è possibile che questo possa funzionare anche su Android, eliminando il setup intricato che segue, quindi lo menziono.
+
 Purtroppo, mymc ha qualche problema a funzionare in Termux
 (l'ambiente Linux nativo molto comodo per questo tipo di integrazioni) sul mio Android: non so di cosa sia la colpa, ma in pratica il programma ha problemi a leggere i file VMC, tirando un errore del tipo di file.vmc: Bad file descriptor. Non ho trovato soluzioni online, nemmeno per ricerche generiche del problema, quindi ho dovuto arrangiarmi. Forse usare un sistema GNU+Linux containerizzato in proot, con le sue librerie e una build diversa di Python 2.7, basterebbe a risolvere il problema, ma chissà.
 Dal canto mio, mi stavo iniziando a scocciare, e allora ho optato per delegare la conversione al mio server Debian, facendo svolgere ad uno script in Termux il semplice compito di caricare la VMC sul server, eseguire lì sopra il vero script di conversione, e poi scaricare il file convertito nella giusta posizione in locale.
 
+=> https://sr.ht/%7Ethestr4ng3r/mymcplus/  mymc+
+=> https://termux.dev/en  Termux
+
 Prima che mi dimentichi: su Android 13 e superiori (ma già da alcune versioni passate) servono i permessi di root per far leggere e scrivere file da/su memorie esterne (come la chiavetta USB) e cartelle private delle applicazioni (come quella dove AetherSX2 conserva le memory card virtuali).
 A quanto ho potuto provare, se non si ha il root bisognerà per forza usare un gestore di file adeguato (e non credo ne esistano di scriptabili, quindi bisogna usare le manine), o forse ADB, per spostare i file in giro... ringraziate Google.
 In ogni caso, i miei script hanno scritti dentro i percorsi speciali usati per tutto l'ambaradan.
-
-=> https://termux.dev/en  Termux
 
 Usando Termux:Widget
 , ho aggiunto infine due collegamenti al mio launcher di sistema, per la conversione della VMC:
@@ -123,7 +129,8 @@ Magari, prendendone una abbastanza grande, e scrivendo un homebrew apposito, cre
 In vera fine, ecco le risorse aggiuntive per questo articolo:
 
 La mia domanda iniziale e la breve discussione del sistema su Sony Hacking Zone: https://t.me/SonyHacking/46784
-;I miei script di conversione (su GitLab): diretto
+;Guida all'uso delle VMC su OPL: https://youtube.com/watch?v=tBrKcJC_E4U
+I miei script di conversione (su GitLab): diretto
 , via server
 ;Build Android di AetherSX2 con cui gioco (ultima senza adware): https://www.apkmirror.com/apk/aethersx2/aethersx2/aethersx2-v1-4-3060-release/aethersx2-v1-4-3060-android-apk-download/
 .

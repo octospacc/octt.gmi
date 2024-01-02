@@ -8,15 +8,16 @@ Alcune informazioni importanti sono disponibili su:
 ✉️ PicoBlog
 📖 Guestbook
 Esterni 💎 OctoSpacc Hub
+📓️ MicroBlog new
 📦 OcttKB
 💰 Donazioni
 📓️ Blog
-📒 MicroBlog
 🦄 Fritto Misto
 🛠️ DIY
 ♻️ Ecologia
 🕹️ Gaming
 🌐️ Internet
+📒 MicroBlog
 📱️ Mobile
 📝️ Note
 💰 Rasperino
@@ -33,15 +34,16 @@ I motivi per cui ho voluto farlo inizialmente sono forse semplici e banali, ma l
 => ../../PicoBlog.gmi  
 => https://listed.to/@u8/guestbook  📖 Guestbook
 => https://hub.octt.eu.org  💎 OctoSpacc Hub
+=> https://octospacc.altervista.org  
 => https://kb.octt.eu.org  📦 OcttKB
 => ../../Donazioni.gmi  
 => ../../Categories/Blog.gmi  
-=> ../../Categories/MicroBlog.gmi  
 => ../../Categories/Fritto-Misto.gmi  
 => ../../Categories/DIY.gmi  
 => ../../Categories/Ecologia.gmi  
 => ../../Categories/Gaming.gmi  
 => ../../Categories/Internet.gmi  
+=> ../../Categories/MicroBlog.gmi  
 => ../../Categories/Mobile.gmi  
 => ../../Categories/Note.gmi  
 => ../../Categories/Rasperino.gmi  

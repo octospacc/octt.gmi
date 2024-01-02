@@ -8,15 +8,16 @@ Alcune informazioni importanti sono disponibili su:
 ✉️ PicoBlog
 📖 Guestbook
 Esterni 💎 OctoSpacc Hub
+📓️ MicroBlog new
 📦 OcttKB
 💰 Donazioni
 🗂️ Raccolte 📓️ Blog
-📒 MicroBlog
 🦄 Fritto Misto
 🛠️ DIY
 ♻️ Ecologia
 🕹️ Gaming
 🌐️ Internet
+📒 MicroBlog
 📱️ Mobile
 📝️ Note
 💰 Rasperino
@@ -29,15 +30,16 @@ Esterni 💎 OctoSpacc Hub
 => PicoBlog.gmi  
 => https://listed.to/@u8/guestbook  📖 Guestbook
 => https://hub.octt.eu.org  💎 OctoSpacc Hub
+=> https://octospacc.altervista.org  
 => https://kb.octt.eu.org  📦 OcttKB
 => Donazioni.gmi  
 => Categories/Blog.gmi  
-=> Categories/MicroBlog.gmi  
 => Categories/Fritto-Misto.gmi  
 => Categories/DIY.gmi  
 => Categories/Ecologia.gmi  
 => Categories/Gaming.gmi  
 => Categories/Internet.gmi  
+=> Categories/MicroBlog.gmi  
 => Categories/Mobile.gmi  
 => Categories/Note.gmi  
 => Categories/Rasperino.gmi  
@@ -104,14 +106,12 @@ I miei contatti
 
 Mi puoi trovare sul Fediverso, ai contatti da me preferiti che lascio qui sotto.
 
-Telegram
 Friendica : @octt@poliverso.org
 Mastodon : @octo@mastodon.uno
 Matrix : @octt:matrix.org
 C'erano anche le mie istanze ActivityPub qui, ma poi sono successi gli incidenti
 .
 
-=> https://t.me/ioctt  Telegram
 => https://poliverso.org/profile/octt  @octt@poliverso.org
 => https://mastodon.uno/@octo  @octo@mastodon.uno
 => https://matrix.to/#/@octt:matrix.org  @octt:matrix.org

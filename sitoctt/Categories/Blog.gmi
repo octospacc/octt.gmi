@@ -8,15 +8,16 @@ Alcune informazioni importanti sono disponibili su:
 ✉️ PicoBlog
 📖 Guestbook
 Esterni 💎 OctoSpacc Hub
+📓️ MicroBlog new
 📦 OcttKB
 💰 Donazioni
 🗂️ Raccolte 📓️ Blog
-📒 MicroBlog
 🦄 Fritto Misto
 🛠️ DIY
 ♻️ Ecologia
 🕹️ Gaming
 🌐️ Internet
+📒 MicroBlog
 📱️ Mobile
 📝️ Note
 💰 Rasperino
@@ -29,15 +30,16 @@ Esterni 💎 OctoSpacc Hub
 => ../PicoBlog.gmi  
 => https://listed.to/@u8/guestbook  📖 Guestbook
 => https://hub.octt.eu.org  💎 OctoSpacc Hub
+=> https://octospacc.altervista.org  
 => https://kb.octt.eu.org  📦 OcttKB
 => ../Donazioni.gmi  
 => ../Categories/Blog.gmi  
-=> ../Categories/MicroBlog.gmi  
 => ../Categories/Fritto-Misto.gmi  
 => ../Categories/DIY.gmi  
 => ../Categories/Ecologia.gmi  
 => ../Categories/Gaming.gmi  
 => ../Categories/Internet.gmi  
+=> ../Categories/MicroBlog.gmi  
 => ../Categories/Mobile.gmi  
 => ../Categories/Note.gmi  
 => ../Categories/Rasperino.gmi  
@@ -50,6 +52,7 @@ Esterni 💎 OctoSpacc Hub
 ✉️ PicoBlog
 Categories 📒 MicroBlog
 Posts
+2023-12-31] 🎇 Il resocontoctt di questo 2023, almeno in termini di posting! - blogoctt
 2023-09-15] 📎 Mollette per capelli, ridotte a colla e sassolini - blogoctt
 2023-08-11] 🏖️ Recensione: Pipì nel Mare (Mar Tirreno) - blogoctt
 2023-06-30] ☣️ Le brutture irrisolvibili della dock di Nintendo Switch (Parte I) - blogoctt
@@ -76,6 +79,7 @@ Archive
 => ../Devlogs.gmi  
 => ../PicoBlog.gmi  
 => ../Categories/MicroBlog.gmi  
+=> ../Posts/2023-12-31-Resocontoctt-2023.gmi  
 => ../Posts/2023-09-15-Mollette-per-Capelli-Colla-e-Sassolini.gmi  
 => ../Posts/2023-08-11-Recensione-Pipi-Nel-Mar-Tirreno.gmi  
 => ../Posts/2023-06-30-Brutture-Irrisolvibili-della-Dock-Nintendo-Switch.gmi  
