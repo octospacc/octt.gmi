@@ -4,35 +4,34 @@ Alcune informazioni importanti sono disponibili su:
 
 🏠 ~Home~
 😺 Chi sono
-💾 Devlogs
-✉️ PicoBlog
+💰 Donazioni
 📖 Guestbook
 Esterni 💎 OctoSpacc Hub
-📓️ MicroBlog new
+📓️ MicroBlog [new]
 📦 OcttKB
-💰 Donazioni
 🗂️ Raccolte 📓️ Blog
 🦄 Fritto Misto
 🛠️ DIY
 ♻️ Ecologia
 🕹️ Gaming
 🌐️ Internet
-📒 MicroBlog
+📒 Vecchi MicroBlog
 📱️ Mobile
 📝️ Note
 💰 Rasperino
 ⚙️ Sysadmin
 📡 Tecnologia
 
+Ho dimenticato di annunciarlo nell'articolo " 🎇 Il resocontoctt di questo 2023, almeno in termini di posting!
+", ma, così come per il PicoBlog e il Vecchio MicroBlog, i Devlogs sono ora deprecati, e non verranno più aggiornati. Quello che segue è l'archivio dei vecchi contenuti, che rimarrà leggibile. I nuovi post verranno quindi pubblicati sul Nuovo MicroBlog unificato, raggiungibile dal menu del sito.
+
 => index.gmi  
 => Chi-Sono.gmi  
-=> Devlogs.gmi  
-=> PicoBlog.gmi  
+=> Donazioni.gmi  
 => https://listed.to/@u8/guestbook  📖 Guestbook
 => https://hub.octt.eu.org  💎 OctoSpacc Hub
-=> https://octospacc.altervista.org  
+=> https://octospacc.altervista.org/microblog/  
 => https://kb.octt.eu.org  📦 OcttKB
-=> Donazioni.gmi  
 => Categories/Blog.gmi  
 => Categories/Fritto-Misto.gmi  
 => Categories/DIY.gmi  
@@ -45,9 +44,10 @@ Esterni 💎 OctoSpacc Hub
 => Categories/Rasperino.gmi  
 => Categories/Sysadmin.gmi  
 => Categories/Tecnologia.gmi  
+=> ./Posts/2023-12-31-Resocontoctt-2023.gmi#-Il-MicroBlog-nuovissimo-alla-fa  🎇 Il resocontoctt di questo 2023, almeno in termini di posting!
 
 # »
-💾 Devlogs
+💾 Archivi Devlogs
 
 Per mesi, in maniera occasionale, ho (ab)usato il PicoBlog come se fosse un devlog.
 Ad un certo punto (era quasi ora..) ho però pensato

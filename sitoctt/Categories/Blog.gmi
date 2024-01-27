@@ -4,20 +4,18 @@ Alcune informazioni importanti sono disponibili su:
 
 🏠 ~Home~
 😺 Chi sono
-💾 Devlogs
-✉️ PicoBlog
+💰 Donazioni
 📖 Guestbook
 Esterni 💎 OctoSpacc Hub
-📓️ MicroBlog new
+📓️ MicroBlog [new]
 📦 OcttKB
-💰 Donazioni
 🗂️ Raccolte 📓️ Blog
 🦄 Fritto Misto
 🛠️ DIY
 ♻️ Ecologia
 🕹️ Gaming
 🌐️ Internet
-📒 MicroBlog
+📒 Vecchi MicroBlog
 📱️ Mobile
 📝️ Note
 💰 Rasperino
@@ -26,13 +24,11 @@ Esterni 💎 OctoSpacc Hub
 
 => ../index.gmi  
 => ../Chi-Sono.gmi  
-=> ../Devlogs.gmi  
-=> ../PicoBlog.gmi  
+=> ../Donazioni.gmi  
 => https://listed.to/@u8/guestbook  📖 Guestbook
 => https://hub.octt.eu.org  💎 OctoSpacc Hub
-=> https://octospacc.altervista.org  
+=> https://octospacc.altervista.org/microblog/  
 => https://kb.octt.eu.org  📦 OcttKB
-=> ../Donazioni.gmi  
 => ../Categories/Blog.gmi  
 => ../Categories/Fritto-Misto.gmi  
 => ../Categories/DIY.gmi  
@@ -48,9 +44,9 @@ Esterni 💎 OctoSpacc Hub
 
 # »
 📓️ Il blogoctt
-💾 Devlogs
-✉️ PicoBlog
-Categories 📒 MicroBlog
+Categories 📒 Vecchi MicroBlog
+💾 Archivi Devlogs
+✉️ Archivi PicoBlog
 Posts
 2023-12-31] 🎇 Il resocontoctt di questo 2023, almeno in termini di posting! - blogoctt
 2023-09-15] 📎 Mollette per capelli, ridotte a colla e sassolini - blogoctt
@@ -76,9 +72,9 @@ Posts
 Archive
 2022-05-07] Gli inaspettati vantaggi della chiavetta Linux - blogoctt
 
+=> ../Categories/MicroBlog.gmi  
 => ../Devlogs.gmi  
 => ../PicoBlog.gmi  
-=> ../Categories/MicroBlog.gmi  
 => ../Posts/2023-12-31-Resocontoctt-2023.gmi  
 => ../Posts/2023-09-15-Mollette-per-Capelli-Colla-e-Sassolini.gmi  
 => ../Posts/2023-08-11-Recensione-Pipi-Nel-Mar-Tirreno.gmi  

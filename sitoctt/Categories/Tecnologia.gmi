@@ -4,20 +4,18 @@ Alcune informazioni importanti sono disponibili su:
 
 🏠 ~Home~
 😺 Chi sono
-💾 Devlogs
-✉️ PicoBlog
+💰 Donazioni
 📖 Guestbook
 Esterni 💎 OctoSpacc Hub
-📓️ MicroBlog new
+📓️ MicroBlog [new]
 📦 OcttKB
-💰 Donazioni
 🗂️ Raccolte 📓️ Blog
 🦄 Fritto Misto
 🛠️ DIY
 ♻️ Ecologia
 🕹️ Gaming
 🌐️ Internet
-📒 MicroBlog
+📒 Vecchi MicroBlog
 📱️ Mobile
 📝️ Note
 💰 Rasperino
@@ -26,13 +24,11 @@ Esterni 💎 OctoSpacc Hub
 
 => ../index.gmi  
 => ../Chi-Sono.gmi  
-=> ../Devlogs.gmi  
-=> ../PicoBlog.gmi  
+=> ../Donazioni.gmi  
 => https://listed.to/@u8/guestbook  📖 Guestbook
 => https://hub.octt.eu.org  💎 OctoSpacc Hub
-=> https://octospacc.altervista.org  
+=> https://octospacc.altervista.org/microblog/  
 => https://kb.octt.eu.org  📦 OcttKB
-=> ../Donazioni.gmi  
 => ../Categories/Blog.gmi  
 => ../Categories/Fritto-Misto.gmi  
 => ../Categories/DIY.gmi  
@@ -48,12 +44,12 @@ Esterni 💎 OctoSpacc Hub
 
 # »
 📡 Tecnologia
-💾 Devlogs
 Categories 🕹️ Gaming
 🌐️ Internet
 📱️ Mobile
 💰 Rasperino
 ⚙️ Sysadmin
+💾 Archivi Devlogs
 Sistemi Raccolta del Riso
 Posts
 2023-06-30] ☣️ Le brutture irrisolvibili della dock di Nintendo Switch (Parte I) - blogoctt
@@ -66,12 +62,12 @@ Posts
 Archive
 2022-05-07] Gli inaspettati vantaggi della chiavetta Linux - blogoctt
 
-=> ../Devlogs.gmi  
 => ../Categories/Gaming.gmi  
 => ../Categories/Internet.gmi  
 => ../Categories/Mobile.gmi  
 => ../Categories/Rasperino.gmi  
 => ../Categories/Sysadmin.gmi  
+=> ../Devlogs.gmi  
 => ../Raccolte/Sistemi/Raccolta-del-Riso.gmi  Raccolta del Riso
 => ../Posts/2023-06-30-Brutture-Irrisolvibili-della-Dock-Nintendo-Switch.gmi  
 => ../Posts/2022-12-13-Blogging-Rapido-con-Standard-Notes.gmi  

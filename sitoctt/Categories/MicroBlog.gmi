@@ -4,37 +4,34 @@ Alcune informazioni importanti sono disponibili su:
 
 🏠 ~Home~
 😺 Chi sono
-💾 Devlogs
-✉️ PicoBlog
+💰 Donazioni
 📖 Guestbook
 Esterni 💎 OctoSpacc Hub
-📓️ MicroBlog new
+📓️ MicroBlog [new]
 📦 OcttKB
-💰 Donazioni
 🗂️ Raccolte 📓️ Blog
 🦄 Fritto Misto
 🛠️ DIY
 ♻️ Ecologia
 🕹️ Gaming
 🌐️ Internet
-📒 MicroBlog
+📒 Vecchi MicroBlog
 📱️ Mobile
 📝️ Note
 💰 Rasperino
 ⚙️ Sysadmin
 📡 Tecnologia
 
-// // % Order = 60
+Come annunciato nell'articolo " 🎇 Il resocontoctt di questo 2023, almeno in termini di posting!
+", il Vecchio MicroBlog è ora deprecato, e non verrà più aggiornato. Quello che segue è l'archivio dei vecchi contenuti, che rimarrà leggibile. I nuovi post verranno quindi pubblicati sul Nuovo MicroBlog unificato, raggiungibile dal menu del sito.
 
 => ../index.gmi  
 => ../Chi-Sono.gmi  
-=> ../Devlogs.gmi  
-=> ../PicoBlog.gmi  
+=> ../Donazioni.gmi  
 => https://listed.to/@u8/guestbook  📖 Guestbook
 => https://hub.octt.eu.org  💎 OctoSpacc Hub
-=> https://octospacc.altervista.org  
+=> https://octospacc.altervista.org/microblog/  
 => https://kb.octt.eu.org  📦 OcttKB
-=> ../Donazioni.gmi  
 => ../Categories/Blog.gmi  
 => ../Categories/Fritto-Misto.gmi  
 => ../Categories/DIY.gmi  
@@ -47,12 +44,15 @@ Esterni 💎 OctoSpacc Hub
 => ../Categories/Rasperino.gmi  
 => ../Categories/Sysadmin.gmi  
 => ../Categories/Tecnologia.gmi  
+=> ../Posts/2023-12-31-Resocontoctt-2023.gmi#-Il-MicroBlog-nuovissimo-alla-fa  🎇 Il resocontoctt di questo 2023, almeno in termini di posting!
 
 # »
-📒 MicroBlog
+📒 Vecchi MicroBlog
 
 Nota: I contenuti negli archivi possono aver subito redazioni non segnalate.
 
+💾 Archivi Devlogs
+✉️ Archivi PicoBlog
 MicroBlog
 2022-10-16] Aggiornamenti DSpacc - Tastino maledetto
 2022-09-23] Nuove frontiere
@@ -60,6 +60,8 @@ MicroBlog
 2022-09-11] Che accade
 [?] Archivi MicroBlog di Settembre 2019
 
+=> ../Devlogs.gmi  
+=> ../PicoBlog.gmi  
 => ../Posts/MicroBlog/2022-10-16-Aggiornamenti-DSpacc-Tastino-Maledetto.gmi  Aggiornamenti DSpacc - Tastino maledetto
 => ../Posts/MicroBlog/2022-09-23-Nuove-Frontiere.gmi  Nuove frontiere
 => ../Posts/MicroBlog/2022-09-18-Quando-Metto-Mano-Io-Spacc.gmi  Quando metto mano io spacc

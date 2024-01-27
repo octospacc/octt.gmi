@@ -4,20 +4,18 @@ Alcune informazioni importanti sono disponibili su:
 
 🏠 ~Home~
 😺 Chi sono
-💾 Devlogs
-✉️ PicoBlog
+💰 Donazioni
 📖 Guestbook
 Esterni 💎 OctoSpacc Hub
-📓️ MicroBlog new
+📓️ MicroBlog [new]
 📦 OcttKB
-💰 Donazioni
 📓️ Blog
 🦄 Fritto Misto
 🛠️ DIY
 ♻️ Ecologia
 🕹️ Gaming
 🌐️ Internet
-📒 MicroBlog
+📒 Vecchi MicroBlog
 📱️ Mobile
 📝️ Note
 💰 Rasperino
@@ -30,13 +28,11 @@ I motivi per cui ho voluto farlo inizialmente sono forse semplici e banali, ma l
 
 => ../../index.gmi  
 => ../../Chi-Sono.gmi  
-=> ../../Devlogs.gmi  
-=> ../../PicoBlog.gmi  
+=> ../../Donazioni.gmi  
 => https://listed.to/@u8/guestbook  📖 Guestbook
 => https://hub.octt.eu.org  💎 OctoSpacc Hub
-=> https://octospacc.altervista.org  
+=> https://octospacc.altervista.org/microblog/  
 => https://kb.octt.eu.org  📦 OcttKB
-=> ../../Donazioni.gmi  
 => ../../Categories/Blog.gmi  
 => ../../Categories/Fritto-Misto.gmi  
 => ../../Categories/DIY.gmi  
