@@ -19,6 +19,7 @@ Esterni 💎 OctoSpacc Hub
 📱️ Mobile
 📝️ Note
 💰 Rasperino
+🎖️ Recensioni
 ⚙️ Sysadmin
 📡 Tecnologia
 
@@ -39,6 +40,7 @@ Esterni 💎 OctoSpacc Hub
 => ../Categories/Mobile.gmi  
 => ../Categories/Note.gmi  
 => ../Categories/Rasperino.gmi  
+=> ../Categories/Recensioni.gmi  
 => ../Categories/Sysadmin.gmi  
 => ../Categories/Tecnologia.gmi  
 
@@ -48,6 +50,7 @@ Categories 📒 Vecchi MicroBlog
 💾 Archivi Devlogs
 ✉️ Archivi PicoBlog
 Posts
+2024-04-07] 🚀 LIBERTY WINGS: un Breve RPG sulla Libertà (Recensione) - blogoctt
 2023-12-31] 🎇 Il resocontoctt di questo 2023, almeno in termini di posting! - blogoctt
 2023-09-15] 📎 Mollette per capelli, ridotte a colla e sassolini - blogoctt
 2023-08-11] 🏖️ Recensione: Pipì nel Mare (Mar Tirreno) - blogoctt
@@ -75,6 +78,7 @@ Archive
 => ../Categories/MicroBlog.gmi  
 => ../Devlogs.gmi  
 => ../PicoBlog.gmi  
+=> ../Posts/2024-04-07-LIBERTY-WINGS-Breve-RPG-Liberta-Recensione.gmi  
 => ../Posts/2023-12-31-Resocontoctt-2023.gmi  
 => ../Posts/2023-09-15-Mollette-per-Capelli-Colla-e-Sassolini.gmi  
 => ../Posts/2023-08-11-Recensione-Pipi-Nel-Mar-Tirreno.gmi  

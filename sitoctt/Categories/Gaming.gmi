@@ -19,6 +19,7 @@ Esterni 💎 OctoSpacc Hub
 📱️ Mobile
 📝️ Note
 💰 Rasperino
+🎖️ Recensioni
 ⚙️ Sysadmin
 📡 Tecnologia
 
@@ -39,6 +40,7 @@ Esterni 💎 OctoSpacc Hub
 => ../Categories/Mobile.gmi  
 => ../Categories/Note.gmi  
 => ../Categories/Rasperino.gmi  
+=> ../Categories/Recensioni.gmi  
 => ../Categories/Sysadmin.gmi  
 => ../Categories/Tecnologia.gmi  
 
@@ -50,6 +52,8 @@ Gaming ⛏️ Minecraft
 #️⃣️ Nonogram
 Raccolta Videogiochi
 🔢️ 2048
+Posts
+2024-04-07] 🚀 LIBERTY WINGS: un Breve RPG sulla Libertà (Recensione) - blogoctt
 Notes
 2023-10-17] 2️⃣ Gaming sincronizzato tra PlayStation 2 e smartphone
 Posts
@@ -63,6 +67,7 @@ Posts
 => ../Raccolte/Gaming/Nonogram.gmi  #️⃣️ Nonogram
 => ../Raccolte/Gaming/Raccolta-Videogiochi.gmi  Raccolta Videogiochi
 => ../Raccolte/Gaming/2048.gmi  🔢️ 2048
+=> ../Posts/2024-04-07-LIBERTY-WINGS-Breve-RPG-Liberta-Recensione.gmi  
 => ../Posts/Notes/2023-10-17-Gaming-Sincronizzato-PS2-Smartphone.gmi  
 => ../Posts/2023-06-30-Brutture-Irrisolvibili-della-Dock-Nintendo-Switch.gmi  
 => ../Posts/2022-10-31-Storia-Antica-del-DSpacc.gmi  

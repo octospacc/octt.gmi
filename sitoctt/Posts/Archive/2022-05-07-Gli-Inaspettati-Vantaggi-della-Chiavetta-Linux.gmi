@@ -19,6 +19,7 @@ Esterni 💎 OctoSpacc Hub
 📱️ Mobile
 📝️ Note
 💰 Rasperino
+🎖️ Recensioni
 ⚙️ Sysadmin
 📡 Tecnologia
 
@@ -43,6 +44,7 @@ I motivi per cui ho voluto farlo inizialmente sono forse semplici e banali, ma l
 => ../../Categories/Mobile.gmi  
 => ../../Categories/Note.gmi  
 => ../../Categories/Rasperino.gmi  
+=> ../../Categories/Recensioni.gmi  
 => ../../Categories/Sysadmin.gmi  
 => ../../Categories/Tecnologia.gmi  
 
