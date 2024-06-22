@@ -48,6 +48,7 @@ Esterni 💎 OctoSpacc Hub
 🌐️ Internet
 Internet Raccolta Siti Internet
 Posts
+2024-06-22] 📓️ Sul passaggio dai diari ai blog ai social, una riflessione - blogoctt
 2023-04-16] 🏴‍☠️ Che impatto avrà la nuova legge anti-pirateria italiana? - blogoctt
 2022-12-26] 🐕‍🦺 Epicyon, piattaforma del Fediverso durata 2 giorni - blogoctt
 2022-08-26] 📈 sitoctt - Da 3 mesi fa ad oggi, l'inizio e i motivi - blogoctt
@@ -55,6 +56,7 @@ Posts
 2022-06-03] 🌐️ Come e perché il sitoctt su Tor? - blogoctt
 
 => ../Raccolte/Internet/Raccolta-Siti-Internet.gmi  Raccolta Siti Internet
+=> ../Posts/2024-06-22-Diari-Blog-Social-Riflessione.gmi  
 => ../Posts/2023-04-16-Che-Impatto-Nuova-Legge-Anti-Pirateria-Italiana.gmi  
 => ../Posts/2022-12-26-Epicyon-Piattaforma-del-Fediverso-Durata-2-Giorni.gmi  
 => ../Posts/2022-08-26-sitoctt-da-3-mesi-ad-oggi.gmi  
